@@ -1,8 +1,38 @@
+-- create database
 
+DROP DATABASE gazetteer;
+CREATE DATABASE gazetteer;
+
+-- create tables with relations
 BEGIN;
 
+CREATE TABLE gazetteer.place
+(
+    "placeID" integer NOT NULL,
+    "title" character varying(255) NOT NULL,
+    "editorialComment" text,
+    PRIMARY KEY ("placeID")
+);
 
-CREATE TABLE GhentGazetteer.certainty
+COMMENT ON TABLE gazetteer.place
+    IS 'Table holds all unique places and their IDs. The ID is used as a foreign key in other tables to link observations about the same place to each other.';
+
+CREATE TABLE gazetteer.source
+(
+    "sourceID" integer NOT NULL,
+    "sourceType" character varying(255) NOT NULL,
+    "citation" text NOT NULL,
+    "description" text,
+    "manifestURI" character varying(2048),
+    "canvasURI" character varying(2048),
+    "editorialComment" text,
+    PRIMARY KEY ("sourceID")
+);
+
+COMMENT ON TABLE gazetteer.source
+    IS 'Table holds the (IIIF?)-source for an observation';
+
+CREATE TABLE gazetteer.certainty
 (
     "certaintyID" integer NOT NULL,
     "certaintyLabel" character varying(20) NOT NULL,
@@ -10,15 +40,15 @@ CREATE TABLE GhentGazetteer.certainty
     PRIMARY KEY ("certaintyID")
 );
 
-COMMENT ON TABLE public.certainty
+COMMENT ON TABLE gazetteer.certainty
     IS 'Table stores "certainty" values. Values for the optional certainty of an observation can be "certain", "less-certain" and "uncertain".
-    Follows LP-model. Is there a need for a more complex model?';
+    This follows LP-model. Is there need for a more complex model?';
 
-CREATE TABLE public.description
+CREATE TABLE gazetteer.description
 (
     "descriptionID" integer NOT NULL,
     "placeID" integer NOT NULL,
-    description text NOT NULL,
+    "description" text NOT NULL,
     "descriptionLanguage" character varying(2) NOT NULL,
     "timespanID" integer,
     "periodID" integer,
@@ -26,12 +56,27 @@ CREATE TABLE public.description
     "certaintyID" integer,
     editorialcomment text,
     PRIMARY KEY ("descriptionID")
+    CONSTRAINT fk_description_placeID
+        FOREIGN KEY(placeID)
+            REFERENCES gazetteer.place(placeID),
+    CONSTRAINT fk_description_timespanID
+        FOREIGN KEY(timespanID)
+            REFERENCES gazetteer.timespan(timespanID),
+    CONSTRAINT fk_description_periodID
+        FOREIGN KEY(periodID)
+            REFERENCES gazetteer.period(periodID),
+    CONSTRAINT fk_description_sourceID
+        FOREIGN KEY(sourceID)
+            REFERENCES gazetteer.source(sourceID),
+    CONSTRAINT fk_description_certainty
+        FOREIGN KEY(certaintyID)
+            REFERENCES gazetteer.certainty(certaintyID),   
 );
 
-COMMENT ON TABLE public.description
+COMMENT ON TABLE gazetteer.description
     IS 'This table stores the historical descriptions found in sources of a place.';
 
-CREATE TABLE public.location
+CREATE TABLE gazetteer.location
 (
     "geometryID" integer NOT NULL,
     "placeID" integer NOT NULL,
@@ -44,10 +89,10 @@ CREATE TABLE public.location
     PRIMARY KEY ("geometryID")
 );
 
-COMMENT ON TABLE public.location
+COMMENT ON TABLE gazetteer.location
     IS 'This table holds the observations that refer to the physical location of a place. These observations are GIS-based. Semantic localisation can be done through table relation.';
 
-CREATE TABLE public.name
+CREATE TABLE gazetteer.name
 (
     "nameID" integer NOT NULL,
     "placeID" integer NOT NULL,
@@ -61,10 +106,10 @@ CREATE TABLE public.name
     PRIMARY KEY ("nameID")
 );
 
-COMMENT ON TABLE public.name
+COMMENT ON TABLE gazetteer.name
     IS 'This table holds all observations regarding toponyms of a place.';
 
-CREATE TABLE public.period
+CREATE TABLE gazetteer.period
 (
     "periodID" integer NOT NULL,
     "periodoPermalink" character varying(2048) NOT NULL,
@@ -78,23 +123,12 @@ CREATE TABLE public.period
     PRIMARY KEY ("periodID")
 );
 
-COMMENT ON TABLE public.period
+COMMENT ON TABLE gazetteer.period
     IS 'This table holds Periodo periods.
 
 -- Is this table necessary? Doesn''t it suffice to put the Periodo Permalink in the table of every observation? Useful to use an additional table for optimalisation?';
 
-CREATE TABLE public.place
-(
-    "placeID" integer NOT NULL,
-    title character varying(255) NOT NULL,
-    "editorialComment" text,
-    PRIMARY KEY ("placeID")
-);
-
-COMMENT ON TABLE public.place
-    IS 'This table identifies a place by its ID. The ID is used as a foreign key in other tables to link observations about the same place to each other.';
-
-CREATE TABLE public."placeType"
+CREATE TABLE gazetteer."placeType"
 (
     "PlaceTypeID" integer NOT NULL,
     "PlaceTypeLabel" character varying(255) NOT NULL,
@@ -102,12 +136,12 @@ CREATE TABLE public."placeType"
     PRIMARY KEY ("PlaceTypeID")
 );
 
-COMMENT ON TABLE public."placeType"
+COMMENT ON TABLE gazetteer."placeType"
     IS 'This table holds the (geographic) feature types of places.
 
 -- Is this table necessary?';
 
-CREATE TABLE public.relation
+CREATE TABLE gazetteer.relation
 (
     "relationID" integer NOT NULL,
     "relationType" character varying(255) NOT NULL,
@@ -122,25 +156,10 @@ CREATE TABLE public.relation
     PRIMARY KEY ("relationID")
 );
 
-COMMENT ON TABLE public.relation
+COMMENT ON TABLE gazetteer.relation
     IS 'Table holds the relationship between two different places.';
 
-CREATE TABLE public.source
-(
-    "sourceID" integer NOT NULL,
-    "sourceType" character varying(255) NOT NULL,
-    citation text NOT NULL,
-    "manifestURI" character varying(2048),
-    "canvasURI" character varying(2048),
-    description text,
-    "editorialComment" text,
-    PRIMARY KEY ("sourceID")
-);
-
-COMMENT ON TABLE public.source
-    IS 'Table holds the source for an observation.';
-
-CREATE TABLE public.spatial_ref_sys
+CREATE TABLE gazetteer.spatial_ref_sys
 (
     srid integer NOT NULL,
     auth_name character varying(256),
@@ -150,7 +169,7 @@ CREATE TABLE public.spatial_ref_sys
     PRIMARY KEY (srid)
 );
 
-CREATE TABLE public.timespan
+CREATE TABLE gazetteer.timespan
 (
     "timespanID" integer NOT NULL,
     "timespanStartMinimum" date NOT NULL,
@@ -161,10 +180,10 @@ CREATE TABLE public.timespan
     PRIMARY KEY ("timespanID")
 );
 
-COMMENT ON TABLE public.timespan
+COMMENT ON TABLE gazetteer.timespan
     IS 'Table holds a timespan for an observation.';
 
-CREATE TABLE public.type
+CREATE TABLE gazetteer.type
 (
     "typeID" integer NOT NULL,
     "placeID" integer NOT NULL,
@@ -179,168 +198,168 @@ CREATE TABLE public.type
     PRIMARY KEY ("typeID")
 );
 
-COMMENT ON TABLE public.type
+COMMENT ON TABLE gazetteer.type
     IS 'Table that holds place types observations, where "placeTypeID" refers to a concept in a published vocabulary available in table placeType.';
 
-ALTER TABLE public.description
+ALTER TABLE gazetteer.description
     ADD FOREIGN KEY ("certaintyID")
-    REFERENCES public.certainty ("certaintyID")
+    REFERENCES gazetteer.certainty ("certaintyID")
     NOT VALID;
 
 
-ALTER TABLE public.description
+ALTER TABLE gazetteer.description
     ADD FOREIGN KEY ("periodID")
-    REFERENCES public.period ("periodID")
+    REFERENCES gazetteer.period ("periodID")
     NOT VALID;
 
 
-ALTER TABLE public.description
+ALTER TABLE gazetteer.description
     ADD FOREIGN KEY ("placeID")
-    REFERENCES public.place ("placeID")
+    REFERENCES gazetteer.place ("placeID")
     NOT VALID;
 
 
-ALTER TABLE public.description
+ALTER TABLE gazetteer.description
     ADD FOREIGN KEY ("sourceID")
-    REFERENCES public.source ("sourceID")
+    REFERENCES gazetteer.source ("sourceID")
     NOT VALID;
 
 
-ALTER TABLE public.description
+ALTER TABLE gazetteer.description
     ADD FOREIGN KEY ("timespanID")
-    REFERENCES public.timespan ("timespanID")
+    REFERENCES gazetteer.timespan ("timespanID")
     NOT VALID;
 
 
-ALTER TABLE public.location
+ALTER TABLE gazetteer.location
     ADD FOREIGN KEY ("certaintyID")
-    REFERENCES public.certainty ("certaintyID")
+    REFERENCES gazetteer.certainty ("certaintyID")
     NOT VALID;
 
 
-ALTER TABLE public.location
+ALTER TABLE gazetteer.location
     ADD FOREIGN KEY ("periodID")
-    REFERENCES public.period ("periodID")
+    REFERENCES gazetteer.period ("periodID")
     NOT VALID;
 
 
-ALTER TABLE public.location
+ALTER TABLE gazetteer.location
     ADD FOREIGN KEY ("placeID")
-    REFERENCES public.place ("placeID")
+    REFERENCES gazetteer.place ("placeID")
     NOT VALID;
 
 
-ALTER TABLE public.location
+ALTER TABLE gazetteer.location
     ADD FOREIGN KEY ("sourceID")
-    REFERENCES public.source ("sourceID")
+    REFERENCES gazetteer.source ("sourceID")
     NOT VALID;
 
 
-ALTER TABLE public.location
+ALTER TABLE gazetteer.location
     ADD FOREIGN KEY ("timespanID")
-    REFERENCES public.timespan ("timespanID")
+    REFERENCES gazetteer.timespan ("timespanID")
     NOT VALID;
 
 
-ALTER TABLE public.name
+ALTER TABLE gazetteer.name
     ADD FOREIGN KEY ("certaintyID")
-    REFERENCES public.certainty ("certaintyID")
+    REFERENCES gazetteer.certainty ("certaintyID")
     NOT VALID;
 
 
-ALTER TABLE public.name
+ALTER TABLE gazetteer.name
     ADD FOREIGN KEY ("periodID")
-    REFERENCES public.period ("periodID")
+    REFERENCES gazetteer.period ("periodID")
     NOT VALID;
 
 
-ALTER TABLE public.name
+ALTER TABLE gazetteer.name
     ADD FOREIGN KEY ("placeID")
-    REFERENCES public.place ("placeID")
+    REFERENCES gazetteer.place ("placeID")
     NOT VALID;
 
 
-ALTER TABLE public.name
+ALTER TABLE gazetteer.name
     ADD FOREIGN KEY ("sourceID")
-    REFERENCES public.source ("sourceID")
+    REFERENCES gazetteer.source ("sourceID")
     NOT VALID;
 
 
-ALTER TABLE public.name
+ALTER TABLE gazetteer.name
     ADD FOREIGN KEY ("timespanID")
-    REFERENCES public.timespan ("timespanID")
+    REFERENCES gazetteer.timespan ("timespanID")
     NOT VALID;
 
 
-ALTER TABLE public.relation
+ALTER TABLE gazetteer.relation
     ADD FOREIGN KEY ("certaintyID")
-    REFERENCES public.certainty ("certaintyID")
+    REFERENCES gazetteer.certainty ("certaintyID")
     NOT VALID;
 
 
-ALTER TABLE public.relation
+ALTER TABLE gazetteer.relation
     ADD FOREIGN KEY ("periodID")
-    REFERENCES public.period ("periodID")
+    REFERENCES gazetteer.period ("periodID")
     NOT VALID;
 
 
-ALTER TABLE public.relation
+ALTER TABLE gazetteer.relation
     ADD FOREIGN KEY ("relationFromPlaceID")
-    REFERENCES public.place ("placeID")
+    REFERENCES gazetteer.place ("placeID")
     NOT VALID;
 
 
-ALTER TABLE public.relation
+ALTER TABLE gazetteer.relation
     ADD FOREIGN KEY ("relationToPlaceID")
-    REFERENCES public.place ("placeID")
+    REFERENCES gazetteer.place ("placeID")
     NOT VALID;
 
 
-ALTER TABLE public.relation
+ALTER TABLE gazetteer.relation
     ADD FOREIGN KEY ("sourceID")
-    REFERENCES public.source ("sourceID")
+    REFERENCES gazetteer.source ("sourceID")
     NOT VALID;
 
 
-ALTER TABLE public.relation
+ALTER TABLE gazetteer.relation
     ADD FOREIGN KEY ("timespanID")
-    REFERENCES public.timespan ("timespanID")
+    REFERENCES gazetteer.timespan ("timespanID")
     NOT VALID;
 
 
-ALTER TABLE public.type
+ALTER TABLE gazetteer.type
     ADD FOREIGN KEY ("certaintyID")
-    REFERENCES public.certainty ("certaintyID")
+    REFERENCES gazetteer.certainty ("certaintyID")
     NOT VALID;
 
 
-ALTER TABLE public.type
+ALTER TABLE gazetteer.type
     ADD FOREIGN KEY ("periodID")
-    REFERENCES public.period ("periodID")
+    REFERENCES gazetteer.period ("periodID")
     NOT VALID;
 
 
-ALTER TABLE public.type
+ALTER TABLE gazetteer.type
     ADD FOREIGN KEY ("placeID")
-    REFERENCES public.place ("placeID")
+    REFERENCES gazetteer.place ("placeID")
     NOT VALID;
 
 
-ALTER TABLE public.type
+ALTER TABLE gazetteer.type
     ADD FOREIGN KEY ("placeTypeID")
-    REFERENCES public."placeType" ("PlaceTypeID")
+    REFERENCES gazetteer."placeType" ("PlaceTypeID")
     NOT VALID;
 
 
-ALTER TABLE public.type
+ALTER TABLE gazetteer.type
     ADD FOREIGN KEY ("sourceID")
-    REFERENCES public.source ("sourceID")
+    REFERENCES gazetteer.source ("sourceID")
     NOT VALID;
 
 
-ALTER TABLE public.type
+ALTER TABLE gazetteer.type
     ADD FOREIGN KEY (timespanid)
-    REFERENCES public.timespan ("timespanID")
+    REFERENCES gazetteer.timespan ("timespanID")
     NOT VALID;
 
 END;
