@@ -1,0 +1,866 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Typewritten/print_early_1900(htr_id=25293)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-08-03T15:09:16.038+02:00</Created>
+        <LastChange>2021-08-04T14:34:07.981+02:00</LastChange>
+        <TranskribusMetadata docId="743387" pageId="28216919" pageNr="9" tsid="62320062" status="IN_PROGRESS" userId="95085" imgUrl="https://files.transkribus.eu/Get?id=ZYUQAUNEBCYAQFTDZMFMHWNI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BIOXNPVIIMGZMUJUESNXZDNG" imageId="21982177"/>
+    </Metadata>
+    <Page imageFilename="p009.jpg" imageWidth="2480" imageHeight="3506">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1628080489577" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1628078896392_843"/>
+                <RegionRefIndexed index="1" regionRef="region_1628078901136_849"/>
+                <RegionRefIndexed index="2" regionRef="region_1628078905512_852"/>
+                <RegionRefIndexed index="3" regionRef="region_1628078898048_846"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="region_1628078896392_843" custom="readingOrder {index:0;}">
+            <Coords points="473,74 2340,74 2340,202 473,202"/>
+            <TextLine id="region_1628078896392_843l1" custom="readingOrder {index:0;}">
+                <Coords points="466,132 1495,183 2305,149 2326,99 466,86"/>
+                <Baseline points="477,125 568,125 660,126 752,128 844,128 936,129 1028,129 1120,129 1212,131 1304,131 1396,131 1487,132 1579,132 1671,132 1763,134 1855,134 1947,135 2039,135 2131,137 2223,138 2315,138"/>
+                <TextEquiv>
+                    <Unicode>In de linkerkolom worden de nieuwe straatbenamingen voorafgegaan door</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1628078896392_843l2" custom="readingOrder {index:1;}">
+                <Coords points="468,190 546,195 597,230 625,227 666,188 894,203 894,141 866,136 825,138 804,159 781,140 756,154 733,140 583,158 468,149"/>
+                <Baseline points="479,179 504,180 529,182 554,182 579,183 604,183 630,183 655,183 680,183 705,183 730,182 756,182 781,182 806,182 831,182 856,183 882,183"/>
+                <TextEquiv>
+                    <Unicode>een asterisk (x)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>In de linkerkolom worden de nieuwe straatbenamingen voorafgegaan door
+een asterisk (x)</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1628078901136_849" custom="readingOrder {index:1;}">
+            <Coords points="993,412 1510,412 1510,613 993,613"/>
+            <TextLine id="region_1628078901136_849l1" custom="readingOrder {index:0;}">
+                <Coords points="1059,554 1157,567 1176,553 1265,557 1284,543 1298,557 1419,563 1443,552 1444,476 1327,463 1285,479 1253,464 1117,458 1059,501"/>
+                <Baseline points="1071,546 1096,542 1122,540 1148,539 1173,538 1199,537 1225,537 1251,537 1276,539 1302,539 1328,542 1353,542 1379,545 1405,546 1431,548"/>
+                <TextEquiv>
+                    <Unicode>AFSNEE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>AFSNEE</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1628078905512_852" custom="readingOrder {index:2;}">
+            <Coords points="874,2736 1484,2736 1484,2960 874,2960"/>
+            <TextLine id="region_1628078905512_852l1" custom="readingOrder {index:0;}">
+                <Coords points="915,2886 963,2901 1391,2898 1411,2892 1412,2807 1217,2795 1189,2813 1107,2792 1049,2810 960,2792 916,2820"/>
+                <Baseline points="927,2879 953,2879 979,2879 1005,2880 1032,2880 1058,2880 1084,2880 1110,2880 1137,2880 1163,2880 1189,2880 1216,2880 1242,2880 1268,2882 1294,2882 1321,2883 1347,2883 1373,2885 1400,2886"/>
+                <TextEquiv>
+                    <Unicode>DRONGEN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>DRONGEN</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1628078898048_846" custom="readingOrder {index:3;}">
+            <Coords points="2308,247 2388,247 2388,334 2308,334"/>
+            <TextLine id="region_1628078898048_846l1" custom="readingOrder {index:0;}">
+                <Coords points="2309,308 2392,308 2394,255 2312,251"/>
+                <Baseline points="2321,302 2351,302 2381,305"/>
+                <TextEquiv>
+                    <Unicode>1.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TableRegion id="Table_1628078975897_855" custom="readingOrder {index:4;}">
+            <Coords points="39,651 2456,651 2456,2685 39,2685"/>
+            <TableCell row="0" col="0" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="true" orientation="0.0" id="TableCell_1628079335744_1069">
+                <Coords points="39,651 39,776 736,776 736,651"/>
+                <TextLine id="TableCell_1628079335744_1069l1" custom="readingOrder {index:0;}">
+                    <Coords points="133,740 538,740 539,683 332,692 134,682"/>
+                    <Baseline points="146,725 171,726 196,727 222,728 247,729 273,729 298,729 323,729 349,729 374,729 400,729 425,729 450,730 476,731 501,731 527,732"/>
+                    <TextEquiv>
+                        <Unicode>HUIDIGE BENAMING</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="0" col="1" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="true" orientation="0.0" id="TableCell_1628079335744_1067">
+                <Coords points="736,651 736,776 1230,776 1230,651"/>
+                <TextLine id="TableCell_1628079335744_1067l1" custom="readingOrder {index:0;}">
+                    <Coords points="763,736 1151,750 1170,732 1232,733 1233,701 764,695"/>
+                    <Baseline points="774,731 800,732 826,732 852,733 879,734 905,734 931,734 958,735 984,735 1010,735 1036,735 1063,735 1089,735 1115,737 1142,737 1168,737 1194,737 1221,737"/>
+                    <TextEquiv>
+                        <Unicode>NIEUWE BENAMING</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="0" col="2" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" id="TableCell_1628079337977_1147">
+                <Coords points="1230,651 1230,776 1234,776 1234,651"/>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="0" col="3" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="true" orientation="0.0" id="TableCell_1628079341632_1231">
+                <Coords points="1234,651 1234,776 1942,776 1942,651"/>
+                <TextLine id="TableCell_1628079341632_1231l1" custom="readingOrder {index:0;}">
+                    <Coords points="1326,756 1689,754 1731,744 1730,707 1714,705 1326,705"/>
+                    <Baseline points="1337,738 1362,740 1387,740 1413,741 1438,741 1464,741 1489,741 1515,741 1540,740 1566,740 1591,740 1617,740 1642,739 1668,738 1693,738 1719,738"/>
+                    <TextEquiv>
+                        <Unicode>HUIDIGE BENAMING</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="0" col="4" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="true" orientation="0.0" id="TableCell_1628079341632_1229">
+                <Coords points="1942,651 1942,776 2456,776 2456,651"/>
+                <TextLine id="TableCell_1628079341632_1229l1" custom="readingOrder {index:0;}">
+                    <Coords points="2003,755 2176,746 2185,756 2373,757 2413,744 2413,709 2004,702"/>
+                    <Baseline points="2016,737 2041,738 2067,739 2092,740 2118,741 2144,741 2169,742 2195,743 2220,743 2246,743 2272,743 2297,744 2323,744 2348,744 2374,744 2400,744"/>
+                    <TextEquiv>
+                        <Unicode>NIEUWE BENAMING</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="1" col="0" rowSpan="1" colSpan="1" rightBorderVisible="false" topBorderVisible="true" orientation="0.0" id="TableCell_1628079335756_1075">
+                <Coords points="39,776 39,925 736,925 736,776"/>
+                <TextLine id="TableCell_1628079335756_1075l1" custom="readingOrder {index:0;}">
+                    <Coords points="141,885 475,893 476,836 443,835 425,851 142,842"/>
+                    <Baseline points="152,873 178,873 204,875 230,875 256,876 282,876 308,878 334,878 360,878 386,879 412,878 438,878 464,876"/>
+                    <TextEquiv>
+                        <Unicode>Autostrade Noord</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="1" col="1" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="true" topBorderVisible="true" bottomBorderVisible="false" orientation="0.0" id="TableCell_1628079335756_1073">
+                <Coords points="736,776 736,925 1230,925 1230,776"/>
+                <TextLine id="TableCell_1628079335756_1073l1" custom="readingOrder {index:0;}">
+                    <Coords points="762,892 849,900 890,893 906,903 948,892 1056,895 1079,884 1079,854 1057,849 762,851"/>
+                    <Baseline points="773,879 799,881 826,881 853,881 879,881 906,881 933,881 960,881 986,882 1013,882 1040,884 1067,885"/>
+                    <TextEquiv>
+                        <Unicode>Autoweg-Noord</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="1" col="2" rowSpan="1" colSpan="1" leftBorderVisible="true" id="TableCell_1628079337991_1153">
+                <Coords points="1230,776 1230,925 1234,925 1234,776"/>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="1" col="3" rowSpan="1" colSpan="1" topBorderVisible="true" orientation="0.0" id="TableCell_1628079341647_1237">
+                <Coords points="1234,776 1234,925 1942,925 1942,776"/>
+                <TextLine id="TableCell_1628079341647_1237l1" custom="readingOrder {index:0;}">
+                    <Coords points="1313,896 1644,903 1658,900 1659,857 1314,848"/>
+                    <Baseline points="1326,882 1352,884 1379,885 1406,885 1433,885 1459,885 1486,885 1513,885 1540,885 1566,885 1593,887 1620,887 1647,890"/>
+                    <TextEquiv>
+                        <Unicode>Kleine Kouterweg</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="1" col="4" rowSpan="1" colSpan="1" topBorderVisible="true" orientation="0.0" id="TableCell_1628079341647_1235">
+                <Coords points="1942,776 1942,925 2456,925 2456,776"/>
+                <TextLine id="TableCell_1628079341647_1235l1" custom="readingOrder {index:0;}">
+                    <Coords points="1997,915 2252,916 2285,889 2298,889 2299,859 2147,859 2135,871 1998,862"/>
+                    <Baseline points="2009,897 2034,897 2059,897 2084,898 2109,899 2134,900 2160,900 2185,900 2210,900 2235,900 2260,900 2286,900"/>
+                    <TextEquiv>
+                        <Unicode>Brillandstraat</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="2" col="0" rowSpan="1" colSpan="1" rightBorderVisible="false" orientation="0.0" id="TableCell_1628079335765_1081">
+                <Coords points="39,925 39,1028 736,1028 736,925"/>
+                <TextLine id="TableCell_1628079335765_1081l1" custom="readingOrder {index:0;}">
+                    <Coords points="144,998 481,1005 482,954 294,953 285,962 144,955"/>
+                    <Baseline points="156,986 182,986 208,987 234,987 261,987 287,987 313,989 339,989 366,989 392,990 418,990 444,992 471,992"/>
+                    <TextEquiv>
+                        <Unicode>Autostrade Rechts</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="2" col="1" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="true" topBorderVisible="false" bottomBorderVisible="false" orientation="0.0" id="TableCell_1628079335765_1079">
+                <Coords points="736,925 736,1028 1230,1028 1230,925"/>
+                <TextLine id="TableCell_1628079335765_1079l1" custom="readingOrder {index:0;}">
+                    <Coords points="757,1004 816,1012 927,1013 938,1004 947,1011 1046,1009 1047,970 991,960 982,967 964,960 757,965"/>
+                    <Baseline points="768,993 794,993 821,993 848,993 874,993 901,995 928,995 954,995 981,995 1008,995 1035,993"/>
+                    <TextEquiv>
+                        <Unicode>Autoweg-Zuid</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="2" col="2" rowSpan="1" colSpan="1" leftBorderVisible="true" id="TableCell_1628079338002_1159">
+                <Coords points="1230,925 1230,1028 1234,1028 1234,925"/>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="2" col="3" rowSpan="1" colSpan="1" orientation="0.0" id="TableCell_1628079341660_1243">
+                <Coords points="1234,925 1234,1028 1942,1028 1942,925"/>
+                <TextLine id="TableCell_1628079341660_1243l1" custom="readingOrder {index:0;}">
+                    <Coords points="1313,1005 1509,1011 1552,1009 1583,996 1583,973 1558,968 1399,960 1381,972 1358,955 1314,957"/>
+                    <Baseline points="1325,990 1352,992 1379,993 1407,993 1434,994 1462,995 1489,995 1517,995 1544,995 1572,995"/>
+                    <TextEquiv>
+                        <Unicode>Kouterstraat</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="2" col="4" rowSpan="1" colSpan="1" orientation="0.0" id="TableCell_1628079341660_1241">
+                <Coords points="1942,925 1942,1028 2456,1028 2456,925"/>
+                <TextLine id="TableCell_1628079341660_1241l1" custom="readingOrder {index:0;}">
+                    <Coords points="2003,1016 2237,1025 2260,1014 2261,978 2190,976 2181,985 2160,985 2110,972 2073,978 2027,972 2004,981"/>
+                    <Baseline points="2015,1005 2041,1006 2067,1007 2093,1007 2119,1008 2145,1008 2171,1008 2197,1010 2223,1010 2249,1011"/>
+                    <TextEquiv>
+                        <Unicode>Afsneekouter</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="3" col="0" rowSpan="1" colSpan="1" rightBorderVisible="false" orientation="0.0" id="TableCell_1628079335773_1087">
+                <Coords points="39,1028 39,1148 736,1148 736,1028"/>
+                <TextLine id="TableCell_1628079335773_1087l1" custom="readingOrder {index:0;}">
+                    <Coords points="125,1101 160,1118 631,1118 632,1067 126,1064"/>
+                    <Baseline points="138,1097 163,1098 188,1098 214,1098 239,1100 264,1100 290,1100 315,1101 340,1101 366,1101 391,1102 417,1103 442,1103 467,1103 493,1104 518,1104 543,1104 569,1104 594,1104 620,1104"/>
+                    <TextEquiv>
+                        <Unicode>Baron Cyriel Buyssestraat</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="3" col="1" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="true" topBorderVisible="false" bottomBorderVisible="false" orientation="0.0" id="TableCell_1628079335773_1085">
+                <Coords points="736,1028 736,1148 1230,1148 1230,1028"/>
+                <TextLine id="TableCell_1628079335773_1085l1" custom="readingOrder {index:0;}">
+                    <Coords points="768,1119 988,1122 989,1081 943,1085 909,1073 768,1073"/>
+                    <Baseline points="779,1104 807,1107 835,1107 864,1107 892,1106 921,1106 949,1108 978,1112"/>
+                    <TextEquiv>
+                        <Unicode>Afsneedorp</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="3" col="2" rowSpan="1" colSpan="1" leftBorderVisible="true" id="TableCell_1628079338013_1165">
+                <Coords points="1230,1028 1230,1148 1234,1148 1234,1028"/>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="3" col="3" rowSpan="1" colSpan="1" orientation="0.0" id="TableCell_1628079341672_1249">
+                <Coords points="1234,1028 1234,1148 1942,1148 1942,1028"/>
+                <TextLine id="TableCell_1628079341672_1249l1" custom="readingOrder {index:0;}">
+                    <Coords points="1308,1119 1534,1121 1566,1110 1567,1069 1519,1070 1498,1084 1484,1083 1468,1067 1424,1071 1413,1082 1404,1075 1309,1073"/>
+                    <Baseline points="1320,1103 1346,1103 1372,1104 1398,1104 1424,1106 1450,1106 1476,1107 1502,1107 1528,1107 1554,1106"/>
+                    <TextEquiv>
+                        <Unicode>Molenstraat</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="3" col="4" rowSpan="1" colSpan="1" orientation="0.0" id="TableCell_1628079341672_1247">
+                <Coords points="1942,1028 1942,1148 2456,1148 2456,1028"/>
+                <TextLine id="TableCell_1628079341672_1247l1" custom="readingOrder {index:0;}">
+                    <Coords points="1997,1132 2332,1139 2348,1134 2349,1086 2271,1097 2255,1089 2153,1095 2142,1083 1997,1084"/>
+                    <Baseline points="2009,1118 2034,1118 2059,1118 2084,1118 2109,1118 2134,1119 2159,1119 2185,1119 2210,1119 2235,1121 2260,1121 2285,1121 2310,1121 2336,1122"/>
+                    <TextEquiv>
+                        <Unicode>Afsneemolenstraat</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="4" col="0" rowSpan="1" colSpan="1" rightBorderVisible="false" orientation="0.0" id="TableCell_1628079335781_1093">
+                <Coords points="39,1148 39,1256 736,1256 736,1148"/>
+                <TextLine id="TableCell_1628079335781_1093l1" custom="readingOrder {index:0;}">
+                    <Coords points="132,1220 334,1223 350,1219 351,1184 333,1179 229,1183 223,1176 197,1176 183,1184 177,1177 133,1176"/>
+                    <Baseline points="143,1206 170,1209 198,1210 226,1211 254,1212 282,1212 310,1212 338,1212"/>
+                    <TextEquiv>
+                        <Unicode>Beukstraat</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="4" col="1" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="true" topBorderVisible="false" bottomBorderVisible="false" orientation="0.0" id="TableCell_1628079335781_1091">
+                <Coords points="736,1148 736,1256 1230,1256 1230,1148"/>
+                <TextLine id="TableCell_1628079335781_1091l1" custom="readingOrder {index:0;}">
+                    <Coords points="768,1232 1053,1235 1079,1226 1080,1185 1057,1184 1045,1195 944,1183 932,1195 917,1185 769,1184"/>
+                    <Baseline points="780,1214 806,1215 832,1215 858,1217 884,1217 910,1217 937,1218 963,1218 989,1219 1015,1220 1041,1221 1068,1223"/>
+                    <TextEquiv>
+                        <Unicode>Zevenbladstraat</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="4" col="2" rowSpan="1" colSpan="1" leftBorderVisible="true" id="TableCell_1628079338024_1171">
+                <Coords points="1230,1148 1230,1256 1234,1256 1234,1148"/>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="4" col="3" rowSpan="1" colSpan="1" orientation="0.0" id="TableCell_1628079341684_1255">
+                <Coords points="1234,1148 1234,1256 1942,1256 1942,1148"/>
+                <TextLine id="TableCell_1628079341684_1255l1" custom="readingOrder {index:0;}">
+                    <Coords points="1306,1226 1614,1234 1637,1225 1638,1183 1373,1192 1327,1180 1307,1189"/>
+                    <Baseline points="1319,1212 1344,1214 1370,1215 1395,1216 1421,1217 1446,1217 1472,1217 1498,1217 1523,1217 1549,1217 1574,1217 1600,1217 1626,1217"/>
+                    <TextEquiv>
+                        <Unicode>Moortelputstraat</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="4" col="4" rowSpan="1" colSpan="1" orientation="0.0" id="TableCell_1628079341684_1253">
+                <Coords points="1942,1148 1942,1256 2456,1256 2456,1148"/>
+                <TextLine id="TableCell_1628079341684_1253l1" custom="readingOrder {index:0;}">
+                    <Coords points="1991,1238 2067,1237 2078,1249 2131,1253 2166,1244 2283,1247 2306,1240 2307,1206 2204,1194 2063,1196 2054,1205 2015,1195 1992,1203"/>
+                    <Baseline points="2003,1227 2029,1228 2056,1229 2082,1229 2109,1230 2135,1230 2162,1232 2188,1232 2215,1233 2241,1233 2268,1233 2295,1233"/>
+                    <TextEquiv>
+                        <Unicode>Leieriggestraat</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="5" col="0" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" orientation="0.0" id="TableCell_1628079335790_1099">
+                <Coords points="39,1256 39,1595 736,1595 736,1256"/>
+                <TextLine id="TableCell_1628079335790_1099l1" custom="readingOrder {index:0;}">
+                    <Coords points="151,1324 344,1341 664,1339 665,1284 152,1278"/>
+                    <Baseline points="164,1319 189,1320 215,1322 241,1322 266,1323 292,1323 318,1324 344,1325 369,1325 395,1325 421,1325 447,1325 472,1325 498,1325 524,1325 550,1326 575,1326 601,1328 627,1329 653,1331"/>
+                    <TextEquiv>
+                        <Unicode>het deel ten noorden van de</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="TableCell_1628079335790_1099l2" custom="readingOrder {index:1;}">
+                    <Coords points="172,1371 740,1380 741,1311 704,1336 640,1340 173,1327"/>
+                    <Baseline points="183,1358 210,1359 237,1359 264,1359 292,1361 319,1361 346,1361 373,1362 401,1362 428,1362 455,1362 482,1364 510,1364 537,1364 564,1365 591,1365 619,1365 646,1366 673,1367 700,1367 728,1368"/>
+                    <TextEquiv>
+                        <Unicode>E5, nl. van nr. 1 tot en met 15</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="TableCell_1628079335790_1099l3" custom="readingOrder {index:2;}">
+                    <Coords points="169,1409 199,1413 210,1406 224,1412 266,1407 272,1412 284,1412 293,1404 305,1404 307,1370 272,1373 268,1368 240,1366 231,1371 171,1370"/>
+                    <Baseline points="180,1394 208,1395 237,1397 265,1398 294,1400"/>
+                    <TextEquiv>
+                        <Unicode>van de</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="TableCell_1628079335790_1099l4" custom="readingOrder {index:3;}">
+                    <Coords points="135,1475 337,1487 371,1481 372,1451 342,1441 310,1445 301,1435 278,1442 209,1433 195,1440 136,1431"/>
+                    <Baseline points="147,1466 173,1466 200,1467 226,1467 253,1469 279,1469 306,1470 332,1470 359,1470"/>
+                    <TextEquiv>
+                        <Unicode>Bredestraat</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="TableCell_1628079335790_1099l5" custom="readingOrder {index:4;}">
+                    <Coords points="156,1550 206,1558 227,1552 233,1557 245,1553 266,1557 287,1553 289,1514 158,1513"/>
+                    <Baseline points="167,1536 194,1541 221,1542 248,1542 275,1545"/>
+                    <TextEquiv>
+                        <Unicode>wordt</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="5" col="1" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="true" topBorderVisible="false" bottomBorderVisible="false" orientation="0.0" id="TableCell_1628079335790_1097">
+                <Coords points="736,1256 736,1595 1230,1595 1230,1256"/>
+                <TextLine id="TableCell_1628079335790_1097l1" custom="readingOrder {index:0;}">
+                    <Coords points="756,1556 1050,1566 1076,1557 1077,1514 757,1510"/>
+                    <Baseline points="767,1545 794,1547 821,1548 848,1548 875,1550 902,1550 929,1550 956,1551 983,1551 1010,1551 1037,1551 1064,1551"/>
+                    <TextEquiv>
+                        <Unicode>Broekkantstraat</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="5" col="2" rowSpan="1" colSpan="1" leftBorderVisible="true" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1628079338033_1177">
+                <Coords points="1230,1256 1230,1595 1234,1595 1234,1256"/>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="5" col="3" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" orientation="0.0" id="TableCell_1628079341695_1261">
+                <Coords points="1234,1256 1234,1595 1942,1595 1942,1256"/>
+                <TextLine id="TableCell_1628079341695_1261l1" custom="readingOrder {index:0;}">
+                    <Coords points="1313,1323 1357,1340 1509,1346 1614,1347 1654,1334 1654,1294 1438,1292 1426,1304 1314,1296"/>
+                    <Baseline points="1326,1325 1352,1326 1378,1327 1404,1328 1431,1328 1457,1328 1483,1328 1509,1328 1536,1328 1562,1329 1588,1329 1614,1329 1641,1329"/>
+                    <TextEquiv>
+                        <Unicode>- het deel van de</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="TableCell_1628079341695_1261l2" custom="readingOrder {index:1;}">
+                    <Coords points="1320,1412 1470,1428 1488,1428 1502,1414 1635,1414 1651,1409 1652,1379 1321,1371"/>
+                    <Baseline points="1332,1401 1357,1400 1383,1400 1409,1401 1435,1401 1460,1403 1486,1403 1512,1404 1538,1404 1563,1404 1589,1404 1615,1403 1641,1401"/>
+                    <TextEquiv>
+                        <Unicode>Moortelputstraat</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="TableCell_1628079341695_1261l3" custom="readingOrder {index:2;}">
+                    <Coords points="1355,1485 1912,1490 1912,1451 1887,1449 1613,1434 1356,1448"/>
+                    <Baseline points="1367,1475 1393,1475 1420,1475 1447,1475 1473,1475 1500,1476 1527,1476 1553,1476 1580,1477 1607,1478 1634,1478 1660,1478 1687,1478 1714,1479 1740,1479 1767,1479 1794,1479 1820,1479 1847,1479 1874,1479 1901,1479"/>
+                    <TextEquiv>
+                        <Unicode>dat in het verlengde ligt van de</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="TableCell_1628079341695_1261l4" custom="readingOrder {index:3;}">
+                    <Coords points="1352,1524 1887,1539 1910,1537 1911,1493 1699,1486 1658,1469 1644,1482 1352,1483"/>
+                    <Baseline points="1364,1512 1390,1514 1417,1514 1444,1514 1470,1515 1497,1515 1524,1515 1550,1515 1577,1515 1604,1515 1631,1515 1657,1515 1684,1516 1711,1517 1737,1517 1764,1518 1791,1518 1817,1520 1844,1521 1871,1521 1898,1524"/>
+                    <TextEquiv>
+                        <Unicode>Kleine Moortelputstraat wordt</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="5" col="4" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" orientation="0.0" id="TableCell_1628079341695_1259">
+                <Coords points="1942,1256 1942,1595 2456,1595 2456,1256"/>
+                <TextLine id="TableCell_1628079341695_1259l1" custom="readingOrder {index:0;}">
+                    <Coords points="1987,1538 2248,1550 2407,1540 2421,1538 2423,1481 1988,1479"/>
+                    <Baseline points="1998,1523 2023,1523 2049,1524 2075,1524 2101,1525 2127,1526 2152,1526 2178,1527 2204,1527 2230,1529 2256,1529 2281,1530 2307,1530 2333,1531 2359,1532 2385,1532 2411,1533"/>
+                    <TextEquiv>
+                        <Unicode>Kleinemoortelputstraat</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="6" col="0" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" orientation="0.0" id="TableCell_1628079399752_1327">
+                <Coords points="39,1595 39,1731 39,1752 736,1752 736,1595"/>
+                <TextLine id="TableCell_1628079399752_1327l1" custom="readingOrder {index:0;}">
+                    <Coords points="139,1663 629,1677 723,1667 724,1617 140,1615"/>
+                    <Baseline points="152,1652 181,1652 210,1653 240,1653 269,1655 299,1655 328,1655 357,1656 387,1656 416,1656 446,1658 475,1658 505,1658 534,1659 563,1659 593,1661 622,1661 652,1662 681,1662 711,1664"/>
+                    <TextEquiv>
+                        <Unicode>- het deel van de E5 tot de grens</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="TableCell_1628079399752_1327l2" custom="readingOrder {index:1;}">
+                    <Coords points="151,1701 717,1715 737,1708 738,1664 641,1670 616,1649 598,1667 152,1662"/>
+                    <Baseline points="162,1691 190,1692 218,1692 246,1692 274,1694 303,1694 331,1694 359,1694 387,1694 415,1694 444,1695 472,1695 500,1695 528,1695 556,1695 585,1697 613,1697 641,1697 669,1698 697,1699 726,1700"/>
+                    <TextEquiv>
+                        <Unicode>met Sint-Martens-Latem van de</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 2 3 4</CornerPts>
+            </TableCell>
+            <TableCell row="6" col="1" rowSpan="3" colSpan="1" leftBorderVisible="false" rightBorderVisible="true" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1628079713001_1389">
+                <Coords points="736,1595 736,1752 736,1908 1230,1908 1230,1752 1230,1595"/>
+                <TextLine id="TableCell_1628079399767_1331l1" custom="readingOrder {index:0;}">
+                    <Coords points="756,1861 872,1868 880,1860 1038,1861 1057,1853 1058,1807 758,1803"/>
+                    <Baseline points="767,1842 792,1844 817,1846 843,1847 868,1848 893,1848 919,1849 944,1850 969,1850 995,1850 1020,1850 1046,1851"/>
+                    <TextEquiv>
+                        <Unicode>Wittepaalstraat</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 2 3 5</CornerPts>
+            </TableCell>
+            <TableCell row="6" col="2" rowSpan="1" colSpan="1" leftBorderVisible="true" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1628079399780_1339">
+                <Coords points="1230,1595 1230,1752 1234,1752 1234,1595"/>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="6" col="3" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" orientation="0.0" id="TableCell_1628079399796_1345">
+                <Coords points="1234,1595 1234,1752 1942,1752 1942,1595"/>
+                <TextLine id="TableCell_1628079399796_1345l1" custom="readingOrder {index:0;}">
+                    <Coords points="1306,1713 1517,1714 1550,1699 1553,1626 1309,1619"/>
+                    <Baseline points="1319,1695 1346,1695 1374,1696 1401,1697 1429,1698 1456,1699 1484,1700 1511,1701 1539,1703"/>
+                    <TextEquiv>
+                        <Unicode>Overmeers</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="6" col="4" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" orientation="0.0" id="TableCell_1628079399809_1351">
+                <Coords points="1942,1595 1942,1752 2456,1752 2456,1731 2456,1595"/>
+                <TextLine id="TableCell_1628079399809_1351l1" custom="readingOrder {index:0;}">
+                    <Coords points="1982,1715 2044,1716 2065,1731 2095,1731 2111,1716 2214,1716 2215,1677 1983,1671"/>
+                    <Baseline points="1994,1701 2020,1705 2046,1707 2072,1707 2098,1707 2124,1706 2150,1706 2176,1708 2202,1712"/>
+                    <TextEquiv>
+                        <Unicode>Hoogmeers</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 4</CornerPts>
+            </TableCell>
+            <TableCell row="7" col="0" rowSpan="2" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" orientation="0.0" id="TableCell_1628079399752_1325">
+                <Coords points="39,1752 39,1908 736,1908 736,1752"/>
+                <TextLine id="TableCell_1628079399752_1325l1" custom="readingOrder {index:0;}">
+                    <Coords points="128,1779 344,1783 358,1780 359,1739 129,1736"/>
+                    <Baseline points="141,1763 166,1764 192,1766 218,1766 244,1767 270,1767 296,1767 322,1767 348,1766"/>
+                    <TextEquiv>
+                        <Unicode>Bredestraat</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="TableCell_1628079399752_1325l2" custom="readingOrder {index:1;}">
+                    <Coords points="156,1856 254,1859 287,1851 288,1826 277,1825 255,1810 241,1807 234,1814 158,1810"/>
+                    <Baseline points="167,1839 194,1838 221,1839 248,1841 276,1844"/>
+                    <TextEquiv>
+                        <Unicode>wordt</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="7" col="2" rowSpan="2" colSpan="1" leftBorderVisible="true" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1628079399780_1337">
+                <Coords points="1230,1752 1230,1908 1234,1908 1234,1752"/>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="7" col="3" rowSpan="2" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" orientation="0.0" id="TableCell_1628079399796_1343">
+                <Coords points="1234,1752 1234,1908 1942,1908 1942,1752"/>
+                <TextLine id="TableCell_1628079399796_1343l1" custom="readingOrder {index:0;}">
+                    <Coords points="1307,1823 1415,1830 1576,1825 1577,1770 1308,1771"/>
+                    <Baseline points="1320,1808 1347,1809 1374,1810 1402,1811 1429,1811 1456,1812 1484,1812 1511,1812 1538,1812 1566,1811"/>
+                    <TextEquiv>
+                        <Unicode>Palepelstraat</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="7" col="4" rowSpan="2" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" orientation="0.0" id="TableCell_1628079399809_1349">
+                <Coords points="1942,1752 1942,1908 2456,1908 2456,1752"/>
+                <TextLine id="TableCell_1628079399809_1349l1" custom="readingOrder {index:0;}">
+                    <Coords points="1982,1826 2019,1828 2037,1843 2062,1829 2159,1842 2196,1827 2205,1836 2299,1840 2300,1785 2178,1783 2153,1792 1983,1784"/>
+                    <Baseline points="1994,1815 2020,1817 2047,1819 2074,1820 2100,1821 2127,1821 2154,1821 2181,1821 2207,1821 2234,1821 2261,1821 2288,1823"/>
+                    <TextEquiv>
+                        <Unicode>Rijebrugge (Z0)</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="TableCell_1628079399809_1349l2" custom="readingOrder {index:1;}">
+                    <Coords points="1982,1887 2216,1885 2338,1901 2361,1890 2362,1841 2304,1833 2274,1849 2125,1849 2098,1834 2063,1847 1982,1844"/>
+                    <Baseline points="1994,1872 2019,1874 2044,1875 2070,1876 2095,1877 2120,1877 2146,1877 2171,1877 2196,1877 2222,1877 2247,1877 2272,1878 2298,1880 2323,1880 2349,1883"/>
+                    <TextEquiv>
+                        <Unicode>Leieriggestraat (W)</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="9" col="0" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" orientation="0.0" id="TableCell_1628079335806_1111">
+                <Coords points="39,1908 39,2016 736,2016 736,1908"/>
+                <TextLine id="TableCell_1628079335806_1111l1" custom="readingOrder {index:0;}">
+                    <Coords points="124,1969 317,1971 351,1965 353,1917 316,1916 293,1929 125,1921"/>
+                    <Baseline points="135,1949 160,1952 186,1953 212,1955 238,1955 263,1955 289,1955 315,1955 341,1956"/>
+                    <TextEquiv>
+                        <Unicode>Distelstraat</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="9" col="1" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="true" topBorderVisible="false" bottomBorderVisible="false" orientation="0.0" id="TableCell_1628079335806_1109">
+                <Coords points="736,1908 736,2016 1230,2016 1230,1908"/>
+                <TextLine id="TableCell_1628079335806_1109l1" custom="readingOrder {index:0;}">
+                    <Coords points="748,1974 930,1981 939,1972 1043,1972 1064,1963 1064,1926 749,1930"/>
+                    <Baseline points="759,1958 785,1958 812,1958 839,1959 865,1959 892,1961 919,1961 946,1961 972,1962 999,1962 1026,1962 1053,1961"/>
+                    <TextEquiv>
+                        <Unicode>Kapelanijmeers</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="9" col="2" rowSpan="1" colSpan="1" leftBorderVisible="true" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1628079338051_1189">
+                <Coords points="1230,1908 1230,2016 1234,2016 1234,1908"/>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="9" col="3" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" orientation="0.0" id="TableCell_1628079341718_1273">
+                <Coords points="1234,1908 1234,2016 1942,2016 1942,1908"/>
+                <TextLine id="TableCell_1628079341718_1273l1" custom="readingOrder {index:0;}">
+                    <Coords points="1308,1988 1393,1988 1471,1998 1481,1989 1531,1986 1533,1930 1413,1932 1401,1943 1309,1940"/>
+                    <Baseline points="1320,1976 1345,1977 1370,1979 1395,1979 1420,1980 1445,1980 1470,1980 1495,1982 1520,1983"/>
+                    <TextEquiv>
+                        <Unicode>Pontatraat</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="9" col="4" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" orientation="0.0" id="TableCell_1628079341718_1271">
+                <Coords points="1942,1908 1942,2016 2456,2016 2456,1908"/>
+                <TextLine id="TableCell_1628079341718_1271l1" custom="readingOrder {index:0;}">
+                    <Coords points="1984,1997 2184,2007 2198,1995 2210,1996 2210,1961 2006,1954 1985,1963"/>
+                    <Baseline points="1997,1986 2022,1988 2047,1989 2072,1989 2097,1989 2122,1989 2147,1989 2172,1989 2198,1992"/>
+                    <TextEquiv>
+                        <Unicode>Afsneedorp</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="10" col="0" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" orientation="0.0" id="TableCell_1628079335813_1117">
+                <Coords points="39,2016 39,2124 736,2124 736,2016"/>
+                <TextLine id="line_1628079814627_1443" custom="readingOrder {index:0;}">
+                    <Coords points="102,2034 446,2036 447,1993 102,1991"/>
+                    <Baseline points="113,2033 435,2033 433,2100 113,2087 113,2034"/>
+                    <TextEquiv>
+                        <Unicode></Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="10" col="1" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="true" topBorderVisible="false" bottomBorderVisible="false" orientation="0.0" id="TableCell_1628079335813_1115">
+                <Coords points="736,2016 736,2124 1230,2124 1230,2016"/>
+                <TextLine id="TableCell_1628079335813_1115l1" custom="readingOrder {index:0;}">
+                    <Coords points="747,2084 1032,2087 1064,2073 1064,2046 1025,2040 982,2049 747,2040"/>
+                    <Baseline points="759,2069 785,2069 812,2069 839,2070 865,2071 892,2072 919,2072 946,2073 972,2073 999,2073 1026,2073 1053,2072"/>
+                    <TextEquiv>
+                        <Unicode>Drieleienstraat</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="10" col="2" rowSpan="1" colSpan="1" leftBorderVisible="true" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1628079338060_1195">
+                <Coords points="1230,2016 1230,2124 1234,2124 1234,2016"/>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="10" col="3" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" orientation="0.0" id="TableCell_1628079341729_1279">
+                <Coords points="1234,2016 1234,2124 1942,2124 1942,2016"/>
+                <TextLine id="TableCell_1628079341729_1279l1" custom="readingOrder {index:0;}">
+                    <Coords points="1314,2106 1503,2109 1510,2102 1607,2101 1607,2071 1586,2066 1315,2057"/>
+                    <Baseline points="1326,2090 1353,2091 1380,2091 1407,2091 1434,2092 1461,2093 1488,2093 1515,2094 1542,2094 1569,2094 1596,2093"/>
+                    <TextEquiv>
+                        <Unicode>Sint-Denijslaan</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="10" col="4" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" orientation="0.0" id="TableCell_1628079341729_1277">
+                <Coords points="1942,2016 1942,2124 2456,2124 2456,2016"/>
+                <TextLine id="TableCell_1628079341729_1277l1" custom="readingOrder {index:0;}">
+                    <Coords points="1981,2113 2271,2117 2296,2106 2297,2069 2212,2077 1982,2063"/>
+                    <Baseline points="1992,2097 2018,2099 2045,2099 2072,2099 2098,2100 2125,2100 2152,2102 2179,2102 2205,2102 2232,2103 2259,2103 2286,2103"/>
+                    <TextEquiv>
+                        <Unicode>Broekkantstraat</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="11" col="0" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" orientation="0.0" id="TableCell_1628079335820_1123">
+                <Coords points="39,2124 39,2237 736,2237 736,2124"/>
+                <TextLine id="TableCell_1628079335820_1123l1" custom="readingOrder {index:0;}">
+                    <Coords points="107,2192 301,2195 319,2189 321,2152 178,2154 169,2144 130,2142 109,2149"/>
+                    <Baseline points="119,2172 146,2174 173,2176 200,2177 227,2178 254,2180 281,2180 308,2178"/>
+                    <TextEquiv>
+                        <Unicode>Elsstraat</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="11" col="1" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="true" topBorderVisible="false" bottomBorderVisible="false" orientation="0.0" id="TableCell_1628079335820_1121">
+                <Coords points="736,2124 736,2237 1230,2237 1230,2124"/>
+                <TextLine id="TableCell_1628079335820_1121l1" custom="readingOrder {index:0;}">
+                    <Coords points="740,2184 769,2199 1015,2197 1043,2186 1044,2161 1001,2152 987,2161 927,2155 918,2162 881,2151 741,2149"/>
+                    <Baseline points="752,2178 777,2180 802,2181 828,2183 853,2184 878,2184 904,2186 929,2186 954,2186 980,2186 1005,2187 1031,2187"/>
+                    <TextEquiv>
+                        <Unicode>Wederikstraat</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="11" col="2" rowSpan="1" colSpan="1" leftBorderVisible="true" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1628079338069_1201">
+                <Coords points="1230,2124 1230,2237 1234,2237 1234,2124"/>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="11" col="3" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" orientation="0.0" id="TableCell_1628079341738_1285">
+                <Coords points="1234,2124 1234,2237 1942,2237 1942,2124"/>
+                <TextLine id="TableCell_1628079341738_1285l1" custom="readingOrder {index:0;}">
+                    <Coords points="1291,2213 1678,2210 1678,2167 1637,2180 1474,2169 1292,2178"/>
+                    <Baseline points="1302,2201 1328,2201 1354,2201 1380,2201 1406,2201 1432,2202 1458,2202 1484,2204 1510,2204 1536,2204 1562,2205 1588,2205 1614,2204 1640,2204 1667,2202"/>
+                    <TextEquiv>
+                        <Unicode>Smale Kouterstraat</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="11" col="4" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" orientation="0.0" id="TableCell_1628079341738_1283">
+                <Coords points="1942,2124 1942,2237 2456,2237 2456,2124"/>
+                <TextLine id="TableCell_1628079341738_1283l1" custom="readingOrder {index:0;}">
+                    <Coords points="1982,2225 2306,2222 2306,2182 2230,2182 2221,2172 2108,2183 2028,2180 2012,2170 1982,2177"/>
+                    <Baseline points="1994,2208 2019,2208 2044,2210 2069,2210 2094,2210 2119,2210 2144,2211 2169,2211 2194,2211 2219,2211 2244,2211 2269,2211 2294,2211"/>
+                    <TextEquiv>
+                        <Unicode>Smalkouterstraat</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="12" col="0" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" orientation="0.0" id="TableCell_1628079335827_1129">
+                <Coords points="39,2237 39,2353 736,2353 736,2237"/>
+                <TextLine id="TableCell_1628079335827_1129l1" custom="readingOrder {index:0;}">
+                    <Coords points="116,2304 316,2307 335,2301 336,2268 228,2265 194,2256 164,2260 143,2250 118,2249"/>
+                    <Baseline points="128,2286 156,2288 184,2289 212,2289 240,2291 268,2292 296,2292 324,2294"/>
+                    <TextEquiv>
+                        <Unicode>Kerkstraat</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="12" col="1" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="true" topBorderVisible="false" bottomBorderVisible="false" orientation="0.0" id="TableCell_1628079335827_1127">
+                <Coords points="736,2237 736,2353 1230,2353 1230,2237"/>
+                <TextLine id="TableCell_1628079335827_1127l1" custom="readingOrder {index:0;}">
+                    <Coords points="750,2309 833,2307 847,2308 858,2320 959,2322 980,2313 982,2272 888,2264 820,2275 809,2267 752,2263"/>
+                    <Baseline points="762,2294 787,2294 813,2295 839,2295 865,2296 891,2297 917,2298 943,2300 969,2303"/>
+                    <TextEquiv>
+                        <Unicode>Afsneedorp</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="12" col="2" rowSpan="1" colSpan="1" leftBorderVisible="true" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1628079338078_1207">
+                <Coords points="1230,2237 1230,2353 1234,2353 1234,2237"/>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="12" col="3" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" orientation="0.0" id="TableCell_1628079341750_1291">
+                <Coords points="1234,2237 1234,2353 1942,2353 1942,2237"/>
+                <TextLine id="TableCell_1628079341750_1291l1" custom="readingOrder {index:0;}">
+                    <Coords points="1295,2317 1309,2317 1320,2329 1364,2330 1373,2339 1391,2339 1408,2324 1513,2337 1514,2280 1408,2280 1399,2289 1296,2282"/>
+                    <Baseline points="1307,2310 1335,2313 1363,2314 1391,2315 1419,2316 1447,2316 1475,2315 1503,2315"/>
+                    <TextEquiv>
+                        <Unicode>Snepstraat</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="12" col="4" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" orientation="0.0" id="TableCell_1628079341750_1289">
+                <Coords points="1942,2237 1942,2353 2456,2353 2456,2237"/>
+                <TextLine id="TableCell_1628079341750_1289l1" custom="readingOrder {index:0;}">
+                    <Coords points="1986,2338 2253,2337 2273,2329 2274,2296 2150,2296 2113,2288 2092,2299 1987,2283"/>
+                    <Baseline points="1998,2318 2024,2319 2050,2321 2077,2321 2103,2321 2130,2321 2156,2322 2182,2322 2209,2323 2235,2324 2262,2327"/>
+                    <TextEquiv>
+                        <Unicode>Ganzerikstraat</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="13" col="0" rowSpan="2" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" orientation="0.0" id="TableCell_1628079335834_1135">
+                <Coords points="39,2353 39,2460 39,2541 736,2541 736,2353"/>
+                <TextLine id="TableCell_1628079335834_1135l1" custom="readingOrder {index:0;}">
+                    <Coords points="109,2412 442,2421 482,2406 483,2362 110,2357"/>
+                    <Baseline points="120,2399 145,2400 170,2401 195,2402 220,2402 245,2403 270,2403 295,2403 320,2404 345,2405 370,2405 395,2405 420,2406 445,2406 471,2408"/>
+                    <TextEquiv>
+                        <Unicode>Kleine Molenstraat</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="TableCell_1628079335834_1135l2" custom="readingOrder {index:1;}">
+                    <Coords points="108,2450 616,2462 706,2449 706,2410 109,2408"/>
+                    <Baseline points="119,2439 147,2439 176,2439 205,2440 234,2441 263,2441 291,2441 320,2441 349,2441 378,2442 407,2442 435,2442 464,2442 493,2444 522,2444 551,2444 579,2444 608,2444 637,2445 666,2445 695,2445"/>
+                    <TextEquiv>
+                        <Unicode>(samen met 20 - einde Palepel-</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <TextLine id="TableCell_1628079335834_1135l3" custom="readingOrder {index:2;}">
+                    <Coords points="107,2491 684,2500 685,2454 232,2457 108,2441"/>
+                    <Baseline points="119,2472 146,2474 174,2476 201,2477 229,2478 257,2478 284,2480 312,2480 340,2480 367,2480 395,2480 423,2480 450,2480 478,2481 506,2481 533,2481 561,2481 589,2482 616,2483 644,2483 672,2486"/>
+                    <TextEquiv>
+                        <Unicode>straat tot Kasteel Borluut - SD)</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 2 3 4</CornerPts>
+            </TableCell>
+            <TableCell row="13" col="1" rowSpan="2" colSpan="1" leftBorderVisible="false" rightBorderVisible="true" topBorderVisible="false" bottomBorderVisible="false" orientation="0.0" id="TableCell_1628079335834_1133">
+                <Coords points="736,2353 736,2541 1230,2541 1230,2460 1230,2353"/>
+                <TextLine id="TableCell_1628079335834_1133l1" custom="readingOrder {index:0;}">
+                    <Coords points="743,2426 801,2430 815,2421 870,2423 881,2435 927,2436 946,2419 957,2419 954,2384 745,2375"/>
+                    <Baseline points="755,2406 782,2408 809,2408 837,2411 864,2412 892,2412 919,2412 947,2412"/>
+                    <TextEquiv>
+                        <Unicode>Rijebrugge</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 4</CornerPts>
+            </TableCell>
+            <TableCell row="13" col="2" rowSpan="1" colSpan="1" leftBorderVisible="true" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1628079338089_1213">
+                <Coords points="1230,2353 1230,2460 1234,2460 1234,2353"/>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="13" col="3" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" orientation="0.0" id="TableCell_1628079341760_1297">
+                <Coords points="1234,2353 1234,2460 1942,2460 1942,2353"/>
+                <TextLine id="TableCell_1628079341760_1297l1" custom="readingOrder {index:0;}">
+                    <Coords points="1300,2443 1468,2451 1484,2436 1496,2436 1497,2411 1476,2410 1458,2400 1302,2390"/>
+                    <Baseline points="1313,2424 1341,2426 1370,2427 1398,2427 1427,2427 1455,2429 1484,2433"/>
+                    <TextEquiv>
+                        <Unicode>Trekweg</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="13" col="4" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" orientation="0.0" id="TableCell_1628079341760_1295">
+                <Coords points="1942,2353 1942,2460 2456,2460 2456,2353"/>
+                <TextLine id="TableCell_1628079341760_1295l1" custom="readingOrder {index:0;}">
+                    <Coords points="1967,2439 1983,2439 1994,2451 2022,2454 2150,2452 2151,2394 2128,2394 2110,2407 2094,2409 2027,2410 2018,2401 1967,2400"/>
+                    <Baseline points="1979,2430 2005,2433 2032,2435 2058,2436 2085,2436 2111,2435 2138,2433"/>
+                    <TextEquiv>
+                        <Unicode>Jaagpad</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="14" col="2" rowSpan="1" colSpan="1" leftBorderVisible="true" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1628079338100_1219">
+                <Coords points="1230,2460 1230,2541 1234,2541 1234,2460"/>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="14" col="3" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" orientation="0.0" id="TableCell_1628079341770_1303">
+                <Coords points="1234,2460 1234,2541 1942,2541 1942,2460"/>
+                <TextLine id="TableCell_1628079341770_1303l1" custom="readingOrder {index:0;}">
+                    <Coords points="1308,2532 1846,2534 1846,2488 1308,2484"/>
+                    <Baseline points="1319,2514 1344,2515 1370,2517 1396,2518 1422,2519 1448,2520 1473,2521 1499,2522 1525,2522 1551,2522 1577,2522 1602,2523 1628,2523 1654,2523 1680,2523 1706,2523 1731,2522 1757,2522 1783,2522 1809,2522 1835,2523"/>
+                    <TextEquiv>
+                        <Unicode>Veureweg van nr. 1 t. e. m. 6b</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="14" col="4" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" orientation="0.0" id="TableCell_1628079341770_1301">
+                <Coords points="1942,2460 1942,2541 2456,2541 2456,2460"/>
+                <TextLine id="TableCell_1628079341770_1301l1" custom="readingOrder {index:0;}">
+                    <Coords points="1980,2532 2028,2541 2224,2537 2225,2486 2191,2488 2177,2499 2158,2491 1981,2489"/>
+                    <Baseline points="1992,2522 2019,2523 2047,2525 2074,2526 2102,2528 2130,2529 2157,2529 2185,2528 2213,2526"/>
+                    <TextEquiv>
+                        <Unicode>Veurestraat</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="15" col="0" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" orientation="0.0" id="TableCell_1628079335841_1141">
+                <Coords points="39,2541 39,2685 736,2685 736,2541"/>
+                <TextLine id="TableCell_1628079335841_1141l1" custom="readingOrder {index:0;}">
+                    <Coords points="120,2595 554,2590 555,2546 120,2544"/>
+                    <Baseline points="132,2576 157,2577 183,2578 208,2579 234,2579 260,2579 285,2580 311,2580 337,2580 362,2580 388,2581 413,2582 439,2582 465,2582 490,2582 516,2582 542,2583"/>
+                    <TextEquiv>
+                        <Unicode>Kleine Moortelputstraat</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="15" col="1" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="true" topBorderVisible="false" bottomBorderVisible="false" orientation="0.0" id="TableCell_1628079335841_1139">
+                <Coords points="736,2541 736,2685 1230,2685 1230,2541"/>
+                <TextLine id="TableCell_1628079335841_1139l1" custom="readingOrder {index:0;}">
+                    <Coords points="744,2607 1070,2612 1100,2626 1116,2610 1185,2599 1186,2551 744,2556"/>
+                    <Baseline points="755,2592 781,2594 807,2594 833,2594 859,2595 885,2595 911,2595 937,2595 964,2595 990,2595 1016,2595 1042,2595 1068,2596 1094,2597 1120,2597 1146,2597 1173,2598"/>
+                    <TextEquiv>
+                        <Unicode>Kleinemoortelputstraat</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="15" col="2" rowSpan="1" colSpan="1" leftBorderVisible="true" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" id="TableCell_1628079338109_1225">
+                <Coords points="1230,2541 1230,2685 1234,2685 1234,2541"/>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="15" col="3" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" orientation="0.0" id="TableCell_1628079341779_1309">
+                <Coords points="1234,2541 1234,2685 1942,2685 1942,2541"/>
+                <TextLine id="TableCell_1628079341779_1309l1" custom="readingOrder {index:0;}">
+                    <Coords points="1459,2587 1806,2596 1841,2587 1841,2555 1821,2545 1765,2560 1676,2556 1660,2544 1552,2549 1541,2538 1460,2531"/>
+                    <Baseline points="1472,2571 1497,2574 1523,2576 1548,2577 1574,2579 1599,2579 1625,2579 1651,2580 1676,2580 1702,2580 1727,2580 1753,2580 1778,2580 1804,2580 1830,2582"/>
+                    <TextEquiv>
+                        <Unicode>van nr. 7 t.e.m. 12</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+            <TableCell row="15" col="4" rowSpan="1" colSpan="1" leftBorderVisible="false" rightBorderVisible="false" topBorderVisible="false" bottomBorderVisible="false" orientation="0.0" id="TableCell_1628079341779_1307">
+                <Coords points="1942,2541 1942,2685 2456,2685 2456,2541"/>
+                <TextLine id="TableCell_1628079341779_1307l1" custom="readingOrder {index:0;}">
+                    <Coords points="1971,2596 2164,2598 2178,2585 2190,2585 2191,2553 2154,2552 2144,2561 2014,2553 1972,2559"/>
+                    <Baseline points="1982,2580 2010,2582 2038,2583 2066,2583 2094,2583 2122,2583 2150,2585 2178,2588"/>
+                    <TextEquiv>
+                        <Unicode>Leieoever</Unicode>
+                    </TextEquiv>
+                </TextLine>
+                <CornerPts>0 1 2 3</CornerPts>
+            </TableCell>
+        </TableRegion>
+    </Page>
+</PcGts>
