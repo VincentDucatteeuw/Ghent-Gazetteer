@@ -1,0 +1,253 @@
+{
+ "@id": "https://iisg.amsterdam/straten_gent_2021.csv",
+ "@context": [
+  "https://raw.githubusercontent.com/CLARIAH/COW/master/csvw.json",
+  {
+   "@language": "en",
+   "@base": "https://gentgemapt.be/data/"
+  },
+  {
+   "bibo": "http://purl.org/ontology/bibo/",
+   "canfam": "https://iisg.amsterdam/canfam/dataset/canada1901/",
+   "canfam-auke": "https://iisg.amsterdam/canfam/auke/",
+   "canfam-dimension": "http://data.socialhistory.org/vocab/canfam/dimension/",
+   "clio": "https://iisg.amsterdam/clio/",
+   "clioctr": "https://iisg.amsterdam/clio/country/",
+   "clioind": "https://iisg.amsterdam/clio/indicator/",
+   "clioprop": "https://iisg.amsterdam/clio/property/",
+   "crm": "http://www.cidoc-crm.org/cidoc-crm",
+   "csvw": "http://www.w3.org/ns/csvw#",
+   "dbo": "http://dbpedia.org/ontology/",
+   "dbp": "http://dbpedia.org/property/",
+   "dbpedia": "http://dbpedia.org/resource/",
+   "dbr": "http://dbpedia.org/resource/",
+   "dc": "http://purl.org/dc/terms/",
+   "dc11": "http://purl.org/dc/elements/1.1/",
+   "dcterms": "http://purl.org/dc/terms/",
+   "geo": "http://www.opengis.net/ont/geosparql#",
+   "foaf": "http://xmlns.com/foaf/0.1/",
+   "hiscam": "https://iisg.amsterdam/hiscam/",
+   "hisclass": "https://iisg.amsterdam/hisclass/",
+   "hisclass5": "https://iisg.amsterdam/hisclass5/",
+   "hisco": "https://iisg.amsterdam/hisco/",
+   "hisco-product": "https://iisg.amsterdam/hisco/product/",
+   "hisco-relation": "https://iisg.amsterdam/hisco/relation/",
+   "hisco-status": "https://iisg.amsterdam/hisco/status/",
+   "hsn": "https://iisg.amsterdam/hsn2013a/",
+   "ldp": "http://www.w3.org/ns/ldp#",
+   "microheights": "https://iisg.amsterdam/microheights/",
+   "napp": "https://iisg.amsterdam/napp/",
+   "napp-can91": "https://iisg.amsterdam/napp/dataset/canada1891/",
+   "napp-dimension": "http://data.socialhistory.org/vocab/napp/dimension/",
+   "napp-eng81": "https://iisg.amsterdam/napp/dataset/englandwales1881/",
+   "napp-sct81": "https://iisg.amsterdam/napp/dataset/scotland1881/",
+   "np": "http://www.nanopub.org/nschema#",
+   "occhisco": "https://iisg.amsterdam/napp/OCCHISCO/",
+   "owl": "http://www.w3.org/2002/07/owl#",
+   "prov": "http://www.w3.org/ns/prov#",
+   "qb": "http://purl.org/linked-data/cube#",
+   "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+   "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+   "schema": "http://schema.org/",
+   "sdmx-code": "http://purl.org/linked-data/sdmx/2009/code#",
+   "sdmx-concept": "http://purl.org/linked-data/sdmx/2009/concept#",
+   "sdmx-dimension": "http://purl.org/linked-data/sdmx/2009/dimension#",
+   "sdmx-measure": "http://purl.org/linked-data/sdmx/2009/measure#",
+   "sdr": "https://iisg.amsterdam/",
+   "sdv": "https://iisg.amsterdam/vocab/",
+   "skos": "http://www.w3.org/2004/02/skos/core#",
+   "time": "http://www.w3.org/2006/time#",
+   "xml": "http://www.w3.org/XML/1998/namespace/",
+   "xsd": "http://www.w3.org/2001/XMLSchema#"
+  }
+ ],
+ "url": "straten_gent_2021.csv",
+ "dialect": {
+  "delimiter": ";",
+  "encoding": "utf-8",
+  "quoteChar": "\""
+ },
+ "dc:title": "straten_gent_2021.csv",
+ "dcat:keyword": [],
+ "dc:publisher": {
+  "schema:name": "CLARIAH Structured Data Hub - Datalegend",
+  "schema:url": {
+   "@id": "http://datalegend.net"
+  }
+ },
+ "dc:license": {
+  "@id": "http://opendefinition.org/licenses/cc-by/"
+ },
+ "dc:modified": {
+  "@value": "2021-11-29",
+  "@type": "xsd:date"
+ },
+ "tableSchema": {
+  "columns": [
+   {
+    "@id": "https://iisg.amsterdam/straten_gent_2021.csv/column/order_id",
+    "name": "order_id",
+    "titles": [
+     "order_id"
+    ],
+    "dc:description": "order_id",
+    "datatype": "string"
+   },
+   {
+    "@id": "https://iisg.amsterdam/straten_gent_2021.csv/column/spacetime_volume_id",
+    "name": "spacetime_volume_id",
+    "titles": [
+     "spacetime_volume_id"
+    ],
+    "dc:description": "spacetime_volume_id",
+    "datatype": "string"
+   },
+   {
+    "@id": "https://iisg.amsterdam/straten_gent_2021.csv/column/place_name",
+    "name": "place_name",
+    "titles": [
+     "place_name"
+    ],
+    "dc:description": "place_name",
+    "datatype": "string"
+   },
+   {
+    "@id": "https://iisg.amsterdam/straten_gent_2021.csv/column/language",
+    "name": "language",
+    "titles": [
+     "language"
+    ],
+    "dc:description": "language",
+    "datatype": "string"
+   },
+   {
+    "@id": "https://iisg.amsterdam/straten_gent_2021.csv/column/place_type",
+    "name": "place_type",
+    "titles": [
+     "place_type"
+    ],
+    "dc:description": "place_type",
+    "datatype": "string"
+   },
+   {
+    "@id": "https://iisg.amsterdam/straten_gent_2021.csv/column/earliest_begin",
+    "name": "earliest_begin",
+    "titles": [
+     "earliest_begin"
+    ],
+    "dc:description": "earliest_begin",
+    "datatype": "string"
+   },
+   {
+    "@id": "https://iisg.amsterdam/straten_gent_2021.csv/column/latest_begin",
+    "name": "latest_begin",
+    "titles": [
+     "latest_begin"
+    ],
+    "dc:description": "latest_begin",
+    "datatype": "string"
+   },
+   {
+    "@id": "https://iisg.amsterdam/straten_gent_2021.csv/column/earliest_end",
+    "name": "earliest_end",
+    "titles": [
+     "earliest_end"
+    ],
+    "dc:description": "earliest_end",
+    "datatype": "string"
+   },
+   {
+    "@id": "https://iisg.amsterdam/straten_gent_2021.csv/column/latest_end",
+    "name": "latest_end",
+    "titles": [
+     "latest_end"
+    ],
+    "dc:description": "latest_end",
+    "datatype": "string"
+   },
+   {
+    "@id": "https://iisg.amsterdam/straten_gent_2021.csv/column/geometry_(WKT)",
+    "name": "geometry (WKT)",
+    "titles": [
+     "geometry (WKT)"
+    ],
+    "dc:description": "geometry (WKT)",
+    "datatype": "string"
+   },
+   {
+    "@id": "https://iisg.amsterdam/straten_gent_2021.csv/column/rrcode_l",
+    "name": "rrcode_l",
+    "titles": [
+     "rrcode_l"
+    ],
+    "dc:description": "rrcode_l",
+    "datatype": "string"
+   },
+   {
+    "@id": "https://iisg.amsterdam/straten_gent_2021.csv/column/rrcode_r",
+    "name": "rrcode_r",
+    "titles": [
+     "rrcode_r"
+    ],
+    "dc:description": "rrcode_r",
+    "datatype": "string"
+   },
+   {
+    "@id": "https://iisg.amsterdam/straten_gent_2021.csv/column/CRAB_code",
+    "name": "CRAB_code",
+    "titles": [
+     "CRAB_code"
+    ],
+    "dc:description": "CRAB_code",
+    "datatype": "string"
+   },
+   {
+    "@id": "https://iisg.amsterdam/straten_gent_2021.csv/column/CRAB",
+    "name": "CRAB",
+    "titles": [
+     "CRAB"
+    ],
+    "dc:description": "CRAB",
+    "datatype": "string"
+   },
+   {
+    "@id": "https://iisg.amsterdam/straten_gent_2021.csv/column/pcode_l",
+    "name": "pcode_l",
+    "titles": [
+     "pcode_l"
+    ],
+    "dc:description": "pcode_l",
+    "datatype": "string"
+   },
+   {
+    "@id": "https://iisg.amsterdam/straten_gent_2021.csv/column/pcode_r",
+    "name": "pcode_r",
+    "titles": [
+     "pcode_r"
+    ],
+    "dc:description": "pcode_r",
+    "datatype": "string"
+   },
+   {
+    "@id": "https://iisg.amsterdam/straten_gent_2021.csv/column/geo_point_2d",
+    "name": "geo_point_2d",
+    "titles": [
+     "geo_point_2d"
+    ],
+    "dc:description": "geo_point_2d",
+    "datatype": "string"
+   },
+   {
+    "@id": "https://iisg.amsterdam/straten_gent_2021.csv/column/source",
+    "name": "source",
+    "titles": [
+     "source"
+    ],
+    "dc:description": "source",
+    "datatype": "string"
+   }
+  ],
+  "primaryKey": "order_id",
+  "aboutUrl": "{_row}"
+ }
+}
