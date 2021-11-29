@@ -88,18 +88,18 @@
     "@id": "https://iisg.amsterdam/straten_gent_2021.csv/column/order_id",
     "name": "order_id",
     "titles": [
-     "Identifier for every row in order"
+     "order identifier"
     ],
-    "dc:description": "order of every row relative to the source document available on Github",
+    "dc:description": "order identifier for each row relative to the Github source document",
     "datatype": "xsd:int"
    },
    {
     "@id": "https://iisg.amsterdam/straten_gent_2021.csv/column/spacetime_volume_id",
     "name": "spacetime_volume_id",
     "titles": [
-     "Identifier for a spacetime volume"
+     "spacetime volume identifier"
     ],
-    "dc:description": "Identifier of a spacetime volume that has been matched to a place observation",
+    "dc:description": "Identifier of a spacetime volume a place observation has been matched to",
     "datatype": "xsd:int"
    },
    {
@@ -108,7 +108,7 @@
     "titles": [
      "place name"
     ],
-    "dc:description": "Name of a place mentioned in a place observation",
+    "dc:description": "name of a place as mentioned in a place observation source",
     "datatype": "xsd:string"
    },
    {
@@ -117,7 +117,7 @@
     "titles": [
      "language"
     ],
-    "dc:description": "language of a place name",
+    "dc:description": "language of place name observation",
     "datatype": "xsd:string"
    },
    {
@@ -198,7 +198,7 @@
     "titles": [
      "CRAB code"
     ],
-    "dc:description": "Unique code from Centraal Referentieadressenbestand (CRAB) for every street",
+    "dc:description": "Unique code from Centraal Referentieadressenbestand (CRAB) for each street",
     "datatype": "xsd:int"
    },
    {
@@ -243,7 +243,7 @@
     "titles": [
      "source"
     ],
-    "dc:description": "Zotero URL linking to the source used for the place observations",
+    "dc:description": "Zotero URL linking to the source used for the place observation",
     "datatype": "xsd:anyURI"
    }
   ],
