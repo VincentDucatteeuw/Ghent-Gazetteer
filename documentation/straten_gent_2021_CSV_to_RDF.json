@@ -91,7 +91,7 @@
      "order_id"
     ],
     "dc:description": "order_id",
-    "datatype": "string"
+    "datatype": "xsd:int"
    },
    {
     "@id": "https://iisg.amsterdam/straten_gent_2021.csv/column/spacetime_volume_id",
@@ -100,7 +100,7 @@
      "spacetime_volume_id"
     ],
     "dc:description": "spacetime_volume_id",
-    "datatype": "string"
+    "datatype": "xsd:int"
    },
    {
     "@id": "https://iisg.amsterdam/straten_gent_2021.csv/column/place_name",
@@ -109,7 +109,7 @@
      "place_name"
     ],
     "dc:description": "place_name",
-    "datatype": "string"
+    "datatype": "xsd:string"
    },
    {
     "@id": "https://iisg.amsterdam/straten_gent_2021.csv/column/language",
@@ -118,7 +118,7 @@
      "language"
     ],
     "dc:description": "language",
-    "datatype": "string"
+    "datatype": "xsd:string"
    },
    {
     "@id": "https://iisg.amsterdam/straten_gent_2021.csv/column/place_type",
@@ -127,7 +127,7 @@
      "place_type"
     ],
     "dc:description": "place_type",
-    "datatype": "string"
+    "datatype": "xsd:anyURI"
    },
    {
     "@id": "https://iisg.amsterdam/straten_gent_2021.csv/column/earliest_begin",
@@ -136,7 +136,7 @@
      "earliest_begin"
     ],
     "dc:description": "earliest_begin",
-    "datatype": "string"
+    "datatype": "xsd:dateTime"
    },
    {
     "@id": "https://iisg.amsterdam/straten_gent_2021.csv/column/latest_begin",
@@ -145,7 +145,7 @@
      "latest_begin"
     ],
     "dc:description": "latest_begin",
-    "datatype": "string"
+    "datatype": "xsd:dateTime"
    },
    {
     "@id": "https://iisg.amsterdam/straten_gent_2021.csv/column/earliest_end",
@@ -154,7 +154,7 @@
      "earliest_end"
     ],
     "dc:description": "earliest_end",
-    "datatype": "string"
+    "datatype": "xsd:dateTime"
    },
    {
     "@id": "https://iisg.amsterdam/straten_gent_2021.csv/column/latest_end",
@@ -163,7 +163,7 @@
      "latest_end"
     ],
     "dc:description": "latest_end",
-    "datatype": "string"
+    "datatype": "xsd:dateTime"
    },
    {
     "@id": "https://iisg.amsterdam/straten_gent_2021.csv/column/geometry_(WKT)",
@@ -172,7 +172,7 @@
      "geometry (WKT)"
     ],
     "dc:description": "geometry (WKT)",
-    "datatype": "string"
+    "datatype": "geo:asWKT"
    },
    {
     "@id": "https://iisg.amsterdam/straten_gent_2021.csv/column/rrcode_l",
@@ -181,7 +181,7 @@
      "rrcode_l"
     ],
     "dc:description": "rrcode_l",
-    "datatype": "string"
+    "datatype": "xsd:int"
    },
    {
     "@id": "https://iisg.amsterdam/straten_gent_2021.csv/column/rrcode_r",
@@ -190,7 +190,7 @@
      "rrcode_r"
     ],
     "dc:description": "rrcode_r",
-    "datatype": "string"
+    "datatype": "xsd:int"
    },
    {
     "@id": "https://iisg.amsterdam/straten_gent_2021.csv/column/CRAB_code",
@@ -199,7 +199,7 @@
      "CRAB_code"
     ],
     "dc:description": "CRAB_code",
-    "datatype": "string"
+    "datatype": "xsd:int"
    },
    {
     "@id": "https://iisg.amsterdam/straten_gent_2021.csv/column/CRAB",
@@ -208,7 +208,7 @@
      "CRAB"
     ],
     "dc:description": "CRAB",
-    "datatype": "string"
+    "datatype": "xsd:anyURI"
    },
    {
     "@id": "https://iisg.amsterdam/straten_gent_2021.csv/column/pcode_l",
@@ -217,7 +217,7 @@
      "pcode_l"
     ],
     "dc:description": "pcode_l",
-    "datatype": "string"
+    "datatype": "xsd:int"
    },
    {
     "@id": "https://iisg.amsterdam/straten_gent_2021.csv/column/pcode_r",
@@ -226,7 +226,7 @@
      "pcode_r"
     ],
     "dc:description": "pcode_r",
-    "datatype": "string"
+    "datatype": "xsd:int"
    },
    {
     "@id": "https://iisg.amsterdam/straten_gent_2021.csv/column/geo_point_2d",
@@ -235,7 +235,7 @@
      "geo_point_2d"
     ],
     "dc:description": "geo_point_2d",
-    "datatype": "string"
+    "datatype": "geo:hasCentroid"
    },
    {
     "@id": "https://iisg.amsterdam/straten_gent_2021.csv/column/source",
@@ -244,7 +244,7 @@
      "source"
     ],
     "dc:description": "source",
-    "datatype": "string"
+    "datatype": "xsd:anyURI"
    }
   ],
   "primaryKey": "order_id",
