@@ -88,27 +88,27 @@
     "@id": "https://iisg.amsterdam/straten_gent_2021.csv/column/order_id",
     "name": "order_id",
     "titles": [
-     "order_id"
+     "Identifier for every row in order"
     ],
-    "dc:description": "order_id",
+    "dc:description": "order of every row relative to the source document available on Github",
     "datatype": "xsd:int"
    },
    {
     "@id": "https://iisg.amsterdam/straten_gent_2021.csv/column/spacetime_volume_id",
     "name": "spacetime_volume_id",
     "titles": [
-     "spacetime_volume_id"
+     "Identifier for a spacetime volume"
     ],
-    "dc:description": "spacetime_volume_id",
+    "dc:description": "Identifier of a spacetime volume that has been matched to a place observation",
     "datatype": "xsd:int"
    },
    {
     "@id": "https://iisg.amsterdam/straten_gent_2021.csv/column/place_name",
     "name": "place_name",
     "titles": [
-     "place_name"
+     "place name"
     ],
-    "dc:description": "place_name",
+    "dc:description": "Name of a place mentioned in a place observation",
     "datatype": "xsd:string"
    },
    {
@@ -117,61 +117,61 @@
     "titles": [
      "language"
     ],
-    "dc:description": "language",
+    "dc:description": "language of a place name",
     "datatype": "xsd:string"
    },
    {
     "@id": "https://iisg.amsterdam/straten_gent_2021.csv/column/place_type",
     "name": "place_type",
     "titles": [
-     "place_type"
+     "place type URI"
     ],
-    "dc:description": "place_type",
+    "dc:description": "place type URI from Inventaris Onroerend Erfgoed for a place observation ",
     "datatype": "xsd:anyURI"
    },
    {
     "@id": "https://iisg.amsterdam/straten_gent_2021.csv/column/earliest_begin",
     "name": "earliest_begin",
     "titles": [
-     "earliest_begin"
+     "earliest begin date"
     ],
-    "dc:description": "earliest_begin",
+    "dc:description": "earliest begin date for the duration of a place observation",
     "datatype": "xsd:dateTime"
    },
    {
     "@id": "https://iisg.amsterdam/straten_gent_2021.csv/column/latest_begin",
     "name": "latest_begin",
     "titles": [
-     "latest_begin"
+     "latest begin date"
     ],
-    "dc:description": "latest_begin",
+    "dc:description": "latest begin date for the duration of a place observation",
     "datatype": "xsd:dateTime"
    },
    {
     "@id": "https://iisg.amsterdam/straten_gent_2021.csv/column/earliest_end",
     "name": "earliest_end",
     "titles": [
-     "earliest_end"
+     "earliest end date"
     ],
-    "dc:description": "earliest_end",
+    "dc:description": "earliest end date for the duration of a place observation",
     "datatype": "xsd:dateTime"
    },
    {
     "@id": "https://iisg.amsterdam/straten_gent_2021.csv/column/latest_end",
     "name": "latest_end",
     "titles": [
-     "latest_end"
+     "latest end date"
     ],
-    "dc:description": "latest_end",
+    "dc:description": "latest end date for the duration of a place observation",
     "datatype": "xsd:dateTime"
    },
    {
     "@id": "https://iisg.amsterdam/straten_gent_2021.csv/column/geometry_(WKT)",
     "name": "geometry (WKT)",
     "titles": [
-     "geometry (WKT)"
+     "place geometry in WKT"
     ],
-    "dc:description": "geometry (WKT)",
+    "dc:description": "geometry of the place observation in Well Known Text format",
     "datatype": "geo:asWKT"
    },
    {
@@ -180,7 +180,7 @@
     "titles": [
      "rrcode_l"
     ],
-    "dc:description": "rrcode_l",
+    "dc:description": "uncertain of meaning see issue #2",
     "datatype": "xsd:int"
    },
    {
@@ -189,52 +189,52 @@
     "titles": [
      "rrcode_r"
     ],
-    "dc:description": "rrcode_r",
+    "dc:description": "uncertain of meaning see issue #2",
     "datatype": "xsd:int"
    },
    {
     "@id": "https://iisg.amsterdam/straten_gent_2021.csv/column/CRAB_code",
     "name": "CRAB_code",
     "titles": [
-     "CRAB_code"
+     "CRAB code"
     ],
-    "dc:description": "CRAB_code",
+    "dc:description": "Unique code from Centraal Referentieadressenbestand (CRAB) for every street",
     "datatype": "xsd:int"
    },
    {
     "@id": "https://iisg.amsterdam/straten_gent_2021.csv/column/CRAB",
     "name": "CRAB",
     "titles": [
-     "CRAB"
+     "URL Centraal Referentieadressenbestand"
     ],
-    "dc:description": "CRAB",
+    "dc:description": "URL to Centraal Referentieadressenbestand (CRAB) ",
     "datatype": "xsd:anyURI"
    },
    {
     "@id": "https://iisg.amsterdam/straten_gent_2021.csv/column/pcode_l",
     "name": "pcode_l",
     "titles": [
-     "pcode_l"
+     "leftmost postal code"
     ],
-    "dc:description": "pcode_l",
+    "dc:description": "postal code for the leftmost coördinate of the place geometry",
     "datatype": "xsd:int"
    },
    {
     "@id": "https://iisg.amsterdam/straten_gent_2021.csv/column/pcode_r",
     "name": "pcode_r",
     "titles": [
-     "pcode_r"
+     "rightmost postal code"
     ],
-    "dc:description": "pcode_r",
+    "dc:description": "postal code for the rightmost coördinate of the place geometry",
     "datatype": "xsd:int"
    },
    {
     "@id": "https://iisg.amsterdam/straten_gent_2021.csv/column/geo_point_2d",
     "name": "geo_point_2d",
     "titles": [
-     "geo_point_2d"
+     "centroid"
     ],
-    "dc:description": "geo_point_2d",
+    "dc:description": "centroid coordinate of the place geometry",
     "datatype": "geo:hasCentroid"
    },
    {
@@ -243,7 +243,7 @@
     "titles": [
      "source"
     ],
-    "dc:description": "source",
+    "dc:description": "Zotero URL linking to the source used for the place observations",
     "datatype": "xsd:anyURI"
    }
   ],
