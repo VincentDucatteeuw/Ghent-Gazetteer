@@ -1,26 +1,3 @@
-----------------------------
-Metadata section of document
-----------------------------
-Title: 1895_UB_GT
-Author: null
-Description: null
-Genre: null
-Writer: null
-Language: null
-Number of Pages in whole Document: 616
-Editorial Declaration: 
------------------------
-End of metadata section
------------------------
-
-
-NAMEN DER STRATEN
-OPENBARE PLAATSEN EN BRUGGEN
-Gelegen in de stad en in de voorgeborchten met
-opgave waar de straten beginnen en waar zij eindi¬
-gen, alsook den policiewijk en het kanton van
-het Vredegerecht waaraan zij behooren (1).
-A.
 Abdijstraat (rue de l'abbaye) van slachthuisboulevard
 tot kasteelboulevard.
 7—1
@@ -62,13 +39,6 @@ oever, tot akkergemboulevard.
 Ambeeldstraat (rue de l'enclume) van weversstraat tot
  vossenstraat.
 6—2
-1) Het eerste cijfer is dit van de policiewijk; de H voor
-dit cijfer geplaatst, wijst het hulpbureel aan; HM het hulp-
-bureel Muide; het cijfer t’einde den regel is dat van het kanton
-van ’t vredegerecht.
-A
-
-
 Ankerstr. (r. de l’ancre) v. priestersstr. tot stokersstr.
 H 3—1
 Annonciadenstraat (rue des annonciades) van violettenlei
@@ -109,7 +79,6 @@ veldeplaats.
 Augustijnenkaai (quai des augustins) van lievestraat tot
 molenaarsstraat.
 3—1
-B.
 Baaisteeg (rue de la frise) van zandberg tot vlasmarkt
 1—1
 Bagattenstraat (rue des baguettes) van nederkouter tot
@@ -141,8 +110,6 @@ Baudeloolei ziet ottogracht.
 Baudeloostraat (rue d'othon, du jardin des plantes ou
 baudeloo) van baudeloolei tot oudevest.
 1—1
-
-
 Baviaanstraat (rue des babouins) van zaaimansstraat
 tot fabriekplaats.
 3—1
@@ -221,8 +188,6 @@ Blauwmeiskensstraat, ziet werregarenstraat.
 Bleekersdijk (digue des blanchisseurs) v. nieuwland tot
 ham.
 H 3—1
-
-
 Bleekerijstraat (rue de la blanchisserie) van bleekersdijk
 tot ham.
 H 3—1
@@ -302,8 +267,6 @@ boulevard Lousbergs tot hoek der schoolkaai.
 Boulevard Leopold (boulev. Leopold) van den boulevard
 der citadel tot kortrijkschen steenweg.
 H 5—2
-
-
 Boulevard Lousbergs (boulev. Lousbergs) voorheen vis¬
 scherij, linker oever, van den slachthuisboulevard tot
 de nederschelde, bij de keizerpoort.
@@ -380,8 +343,6 @@ meerschen.
 Bijlokenhof (square de la biloque) van bijlokevest tot
 godshuizenboulevard.
 2—2
-
-
 Bijlokestraat (rue de la biloque) van bijlokevest tot
 coupure.
 2—2
@@ -394,7 +355,6 @@ tot bisdomplaats.
 Bij s. Jacobs (cloître s. Jacques, place ou près s. Jacques)
 v. kammerstr. tot steendam, rond s. Jacobskerk.
 1—1
-C.
 Cameliastraat (rue du camelia) v. dendermondschen
 steenweg tot nieuwe begijnhofstraat.
 7—1
@@ -446,15 +406,12 @@ denlei tot contributiestraat.
 Coupuregang (passage de la coupure) van rasphuis¬
 straat tot coupure, rechter oever.
 2—2
-D.
 Dampoortstraat (rue de la porte d'Anvers) van roode¬
 torenkaai tot antwerpschen steenweg
 7—1
 Dekstraat (rue des couvreurs) van s. amandstraat tot
 lange kazernstraat.
 5—2
-
-
 Demildreef (avenue Demil) Ledeberg, van hundelgem¬
 schen steenweg tot de schelde.
 0—1
@@ -524,12 +481,9 @@ Dwarsstraat (rue traversière) Gentbrugge, van de Van
 Ooststraat tot bassijnstraat.
 0—1
 Dwarsstraatje, ziet doorgangsteeg.
-E.
 Eedverbondkaai (quai du compromis) van citadellaan
 langs de lei.
 H 5—2
-
-
 Eedverbondstraat (rue du compromis) van citadellaan
 tot meerschstraat.
 H. 5—2
@@ -576,7 +530,6 @@ Evastraat (rue d’Eve) s. Amandsberg, van antwerpsche¬
 steenweg tot koersplein.
 Ezelstraat (rue de l’âne) s. Amandsberg, van oude
 barreel tot Oostacker.
-F.
 Fabriekplaats (place des fabriques) van s. margriete¬
 straat tot palingstraat.
 3—1
@@ -602,14 +555,11 @@ H 5—2
 Frans Ackermanstraat (rue Frans Ackerman) van veer¬
 straat tot apostelstraat.
 4—1
-
-
 Frère-Orbanboulevard, ziet boulevard Frère-Orban.
 Frœbelstraat (rue Frœbel) van begijnhofplaats tot
 verspeyenstraat.
 2—2
 Fruitmarkt, ziet graslei.
-G.
 Galerij (nationale) ziet Nationale Galerij.
 Galerij Vanderdonckt, ziet Vanderdonckt's doorgang.
 Galgenbergstraat (rue du calvaire) van holstraat tot
@@ -675,9 +625,6 @@ Goudstr. (rue d'or) van speldenstr. tot minnenmeersch.
 Gouvernementstraat (r. du gouvernement) van bij s. Baafs
 tot kortedagsteeg.
 1—2
-A*
-
-
 Graaf van Vlaanderenplaats, ziet statieplaats.
 Graslei (quai aux herbes) v. grasbrug tot predikheerenlei
 1—2
@@ -708,7 +655,6 @@ zenstraat tot klein meerhem.
 3—1
 Guinardstraat (r. Guinard) v. bagattenstr. tot Plateaustr.
 5—2
-H.
 Haanstraat (rue du coq) van meulesteedschen steenweg
 tusschen nrs 258 en 260 tot achtermuide.
 HM 3—1
@@ -752,8 +698,6 @@ Hemelrijkstraat (rue du paradis) ziet donkersteeg.
 Hendrik Consciencestraat (rue Henri Conscience) van
 plateaustraat tot rogierstraat.
 5—2
-
-
 Henegouwenstraat (rue du Hainaut) van vlaanderen¬
 straat tot kalanderstraat en voldersstraat.
 4—2
@@ -832,8 +776,6 @@ straat tot ijzerwegboulevard.
 Hospitaalstraat (rue de l'hôpital) van akkergemstraat
 tot nieuwe wandeling.
 2—2
-
-
 Hospitaalstraatje, ziet kleine hospitaalstraat.
 Houtbriel (rue du chantier) van oude schapenmarkt tot
 kalvermarkt.
@@ -866,8 +808,7 @@ berg, van s. lievenspoort tot Meirelbeke.
 Huurdochtersstraat (rue des servantes) van koornlei tot
 s. michielsplaats.
 2—2
-J.
-lesuitensstraat, ziet voldersstraat.
+Jesuitensstraat, ziet voldersstraat.
 Jodenstraat (rue des juifs) van gouvernementstraat tot
 conservatoriumstraat
 1—2
@@ -877,7 +818,6 @@ korte kazernstraat.
 Jozef II straat (rue Joseph II) van De Smetstraat tot
 poulevard van den gasmeter.
 H 6—2
-K.
 kaatsplaats (place du jeu de paume) van drongenhof
 tot korte kalversteeg.
 3—1
@@ -900,8 +840,6 @@ kanonstraat, ziet waterstraatje.
 kapellaanstraat (rue du chapelain) van de prooststraat
 tot de baljuwstraat.
 7—1
-
-
 Kapellestraat (rue de la chapelle) van pekelharing tot
 s. agneetestraat.
 2—2
@@ -977,9 +915,6 @@ schen steenweg tot vooruitgangplaats.
 Kerkstraat (rue de l’église) Gentbrugge, van posthoorn¬
 straat, Ledeberg, naar de gemeente Gentbrugge.
 0—1
-B
-
-
 ketelplein (plaine des chaudronniers ou des bastions)
 van begin nederkouter rechts, tot de lei.
 5—2
@@ -1058,8 +993,6 @@ tot lievekaai.
 Klein meerhem (place du petit marais) van groot meer¬
 hem tot nijverheidsplaats.
 H 3—1
-
-
 Klein s. Pietersplein (petite plaine s. Pierre) van
 heuvelstraat tot voetweg
 5—2
@@ -1141,8 +1074,6 @@ de la rue de Bruxelles) van keizerstr. tot s. lievenstr.
 Korte kruisstraat (rue courte de la croix) van kruisstraat
 tot mageleinstraat.
 1—2
-
-
 Korte meerschstraat (rue courte de la prairie) van eed¬
 verbondkaai tot meerschstraat.
 H 5—2
@@ -1217,11 +1148,9 @@ straat tot krommewalbrug.
 3—1
 Kromsteeg (rue tortue) v. cataloniëstr. tot bennesteeg.
 1—2
-roonstraat (rue de la couronne) van weversstraat tot
+Kroonstraat (rue de la couronne) van weversstraat tot
 vlasstraat.
 6—2
-
-
 Kruisboogstraat (rue de l’arbalète) van akkergemstraat
 tot koornbloemsstraat
 2—2
@@ -1238,14 +1167,13 @@ mondschensteenweg tot toekomststraat.
 Kwakkelstraat (rue de la caille) van kerkstraat tot
 pannestraat.
 6—2
-L.
 Lachaertstraat (rue Lachaert) Ledeberg, van kerkstraat
 tot binnenweg.
 0—1
 Lammensstraat (rue de l’agneau) van s. pietersnieuw¬
 straat tot Lieven Bauwensplaats.
 5—2
-andbouwersstraat (r. des cultivateurs) v. meulesteed¬
+Landbouwersstraat (r. des cultivateurs) v. meulesteed¬
 schenstw. tusschen nrs 270 en 272 tot achtermuide.
 HM 3—1
 Land van Waasstraat buiten de dampoort (rue du pays de
@@ -1275,7 +1203,7 @@ tot korte steenstraat.
 3—1
 Langestraat (rue longue) Ledeberg, van hundelgem¬
 schen steenweg tot brusselschen steenweg
-—1
+0—1
 Lange violettenstraat (rue longue des violettes) van Van
 Arteveldeplaats tot vijfwindgatbrug
 4—1
@@ -1288,17 +1216,14 @@ steenstraat tot zaaimanstraat.
 Laurens Delvauxstraat (rue Laurens Delvaux) van boule¬
 vard der citadel tot van hulthemstraat.
 5—2
-aurentplaats (place Laurent) van brabantdam tot aan
-et standbeeld van Lieven Bauwens.
+Laurentplaats (place Laurent) van brabantdam tot aan
+het standbeeld van Lieven Bauwens.
 4—1 en 2
 Laurentstraat (rue Laurent), ziet spaarstraat (rue de
 l’épargne).
 Ledeganckstraat (rue Ledeganck) van zwijnaardschen
 steenweg tot boulevard der normaalschool
 H 5—2
-B*
-
-
 Leemsstraat, ziet kleemstraat.
 Leemsstraat (rue d'argile) Gentbrugge, van brusselschen¬
 steenweg tot voordries.
@@ -1306,7 +1231,7 @@ steenweg tot voordries.
 Leeuwerikstraat (rue de l'alouette) van maltebrugstraat
 tot vinkstraat, s. Pieters-Aigem.
 H 5—2
-eeuwstraat (rue du lion) van Benardstraat tot s. Lie¬
+Leeuwstraat (rue du lion) van Benardstraat tot s. Lie¬
 vensboulevard.
 5—1
 Leikaai, buiten de brugschepoort (quai de la lys) van
@@ -1349,9 +1274,9 @@ straat tot rietgrachtstraat.
 Liverpoolstraat (rue de Liverpool) van meulesteedschen
 steenweg tot voorhavendreef.
 HM 3—2
-ondenstraat (rue de Londres) van voorhavendreef en
+Londenstraat (rue de Londres) van voorhavendreef en
 gelijkloopend met deze tot voorhavenplaats.
-M 3—1
+HM 3—1
 Loodsenstraat (rue des Pilotes) van meulesteedschen¬
 steenweg tegenover de windmolenstraat tot terneuzen¬
 laan.
@@ -1363,18 +1288,15 @@ Lousbergsboulevard ziet boulevard Lousbergs.
 Luxemburgstraat (rue du luxembourg) van kleine ram¬
 straat tot ramstraat.
 2—2
-ijsterstraat (rue de la grive) van groendreef tot kieken
+Lijsterstraat (rue de la grive) van groendreef tot kieken
 straat
 6—2
-M.
 Maagdestraat (rue de la pucelle) van violettenlei tot
 papegaaistraat.
 2—2
 Mageleinstraat (rue magelein ou aux marjolaines) van
 aan het belfort tot kalanderstraat.
 1—2
-
-
 Magerstraat (rue maigre) Gentbrugge, van brusselschen
 steenweg tot kasteelstraat.
 0—1
@@ -1384,7 +1306,7 @@ HM 3—1
 Maltebrugstraat (rue du pont de malte) van en tot
 kortrijkschen steenweg, s. pieters-aigem.
 H 5—2
-Taria-Theresiaplaats (place Marie-Thérèse) tusschen de
+Maria-Theresiaplaats (place Marie-Thérèse) tusschen de
 wondelgem¬, de Maria-Therresia¬, de vlot en de tore¬
 kensstraat.
 H 6—2
@@ -1450,9 +1372,6 @@ tot kleine penitentenstraat.
 Minnemeersch (place du pré d'amour) van goudstraat
 tot minnemeerschbrug
 1—1
-C
-
-
 Mirystraat (rue Miry) van slijpstraat tot nieuwland
 3—1
 Modenaaisteeg (rue des couturrières) van veldstraat tot
@@ -1474,7 +1393,7 @@ nieuw begijnhof, van schoolstraat tot kouterstraat
 Molenweg (chemin du moulin) van coupure, linker oever
 tot bijlokevest.
 2—2
-Looriaanstraat (rue du maure) Ledeberg, van langestr.
+Mooriaanstraat (rue du maure) Ledeberg, van langestr.
 tot hundelgemschen steenweg.
 0—1
 Mortierstr. (rue du mortier) v. veerstr. tot Van Eyckst.
@@ -1492,7 +1411,6 @@ langs de opperschelde, tot Benardstraat.
 Husschenstraat (r. des moineaux) van kortrijkschen steen¬
 veeg tot zwijnaardschen steenweg, s. Pieters-Aalst.
 H 5—2
-N.
 Nachtegaalstraat (rue du rossignol) van brugschen steen¬
 veeg tot groendreef.
 6—2
@@ -1527,9 +1445,7 @@ pasbrug.
 Nieuwe casinostraat (rue neuve du casino) van twaalf¬
 kamersstraat tot casinoplaats.
 2—2
-
-
-Vieuwe hospitaalstraat (rue du nouvel hôpital) van de
+Nieuwe hospitaalstraat (rue du nouvel hôpital) van de
 coupure tot het nieuw hospitaal.
 2—2
 Nieuwe kerkstraat (nouvelle rue de l’église) van nijver¬
@@ -1539,7 +1455,7 @@ Nieuwenboschstraat (rue du nouveau bois) van Van
 Arteveldeplaats tot tweebruggenstraat.
 4—1
 Nieuwe sasschepoortstraat, ziet voormuide.
-Vieuwe straat (rue neuve) Ledeberg, van driesstraat
+Nieuwe straat (rue neuve) Ledeberg, van driesstraat
 tot brusselschesteenweg.
 0—1
 Nieuwe theresianenstraat (rue neuve des thérésiennes)
@@ -1581,7 +1497,6 @@ H 6—HM 3—1
 Nijverheidsplaats (place de l'industrie) tusschen s. sal¬
 vatorstraat en de tolhuisbrug.
 H 3—1
-U.
 Oefeningsplein (champ des manoeuvres) tusschen den
 boulevard van het kasteel en den dendermondscheweg,
 is tegenwoordig ingenomen door staats-spoorweg
@@ -1601,8 +1516,6 @@ straat
 Olmstraat (rue de l'orme) van plezantevest tot gas¬
 netterlaan.
 3—1
-
-
 Onderbergen (rue de la vallée) van s. Michielsplaats tot
 korte violettenstraat.
 2—2
@@ -1649,7 +1562,7 @@ hovenierstraat tot brusselschen steenweg.
 Oude kerkweg (vieux chemin de l’église) op akkergem
 straat, zonder eind.
 2—2
-Jude molenaarsstraat (vieille rue des meuniers) van en
+Oude molenaarsstraat (vieille rue des meuniers) van en
 tot terplaten.
 5—1
 Oudenaardschesteenweg (chaussée d'Audenarde) buiten
@@ -1670,7 +1583,6 @@ roudstraat
 Oude vlasmarkt (vieux marché au lin) van vrijdagmarkt
 tot bij s. Jacobs.
 1—1
-P.
 Paallepelstraat, ziet pollepelstraat.
 Paardesstraat (rue du cheval) van schaapstraat tot puin¬
 straat.
@@ -1678,8 +1590,6 @@ straat.
 Pacificatiestraat (rue de la pacification) Ledeberg, van
 de vooruitgangplaats tot driesstraat.
 0—1
-
-
 Paddenhoek (rue de la crapaudière) van kalanderberg
 tot voldersstraat.
 1—2
@@ -1757,8 +1667,6 @@ Plattensteeger, maakt deel van s. salvatorstraat.
 Plaisanceboulevard, ziet boulevard van plaisance.
 Plezantevest (rempart de plaisance), ziet boulevard van
 plaisance.
-
-
 Ploegstraat (rue de la charrue) van den meulesteedschen
 steenweg tusschen 160 en 162 tot ijzeren weg.
 HM 3—1
@@ -1789,7 +1697,7 @@ Posthoornstraat (rue du cornet de poste) Gentbrugge van
 posthoornstraat Ledeberg tot kerkstraat Gentbrugge.
 Pouillemarkt (marché aux poulets) ziet kiekenmarkt
 Predikheerenlei (quai des dominicains) van graslei tot
-noornstraat.
+hoornstraat.
 1—2
 Predikheerenstraat (rue des dominicains) van predik¬
 heerenbrug tot onderbergen.
@@ -1809,8 +1717,7 @@ zilverstraat.
 2—2
 Prinsenstraat (rue du prince) van het prinsenhof tot de
 rabotstraat (voortijds de 1e prinsenhofzaksteeg).
-2—2
-rooststraat (rue du prévôt) van s. machariusstraat
+2—2Prooststraat (rue du prévôt) van s. machariusstraat
 tot kazemattenstraat.
 7—1
 Proveniersstraat (rue des prébendiers) van begijnhof¬
@@ -1819,7 +1726,6 @@ plaats tot begijnenstraat.
 Puinstraat (rue des ruines) van boulevard Lousbergs
 tot ossenstraat.
 7—1
-K.
 Rabotdreef (avenue du rabot) van De Smetstraat tot
 len gasmeterboulevard aan de brug van den spoorweg
 op de verbindingsvaart.
@@ -1833,8 +1739,6 @@ hofboulevard.
 Raffinadestraat (rue de la raffinerie) van waaistraat tot
 de lei, achterlei.
 1—1
-
-
 Ram (rue du bélier) van hoogstraat tot burgstraat.
 2—2
 Rapenstraat (rue des navets) van lange violettenstraat
@@ -1914,12 +1818,9 @@ HM 3—1
 Rijkeklarenstraat (rue des riches-claires) van s. Lieven¬
 straat tot boulevard Frère-Orban.
 4—1
-
-
 Rijkeklarenstraat (rue des riches-claires) Gentbrugge.
 van bassijnstraat tot van ooststraat.
 0—1
-S.
 Saliestraat (rue de la sauge) van stoppelstraat tot twaalf¬
 kamersstraat
 2—2
@@ -1988,8 +1889,6 @@ de l’abri-bétail) van koornmarkt tot graslei.
 Schuuddevischstraatje (rue de l’abri-poisson), zonder
 einde, op de groenselmarkt, tusschen nrs 11 en 12.
 1—2
-
-
 Schuur- of schuurkensstraat (rue de la grange) van stop¬
 pelbergstraat tot modenaaisteeg.
 1—2
@@ -2069,8 +1968,6 @@ S. Lievensboulevard, ziet boulevard van s. Lieven
 S. Lievensteeg (passage de la rue s. Liévin) van s. Lie¬
 venstraat tot boulevard Frère-Orban.
 4—1
-
-
 S. Lievenstraat (rue s. Liévin) van langeviolettenstraat
 tot s. lievenspoort.
 4—1
@@ -2150,8 +2047,6 @@ aan den trekweg langs de Schelde
 Snoekstraat (rue du brochet) Gentbrugge, van de dorp¬
 plaats naar de hospiciestraat.
 0—1
-
-
 Spaansch hospitaalsteeg (impasse de l'hôpital espagnol,
 op de kalvermarkt, straat zonder einde.
 1—1
@@ -2235,15 +2130,12 @@ Stropkaai (quai du strop) v. terplatenbrug tot stropbrug.
 Stropstraat (rue du strop) van en tot ottergemschen
 steenweg, s. pieters-aalst.
 H 5—2
-
-
 Struifstraat (rue de l'ommelette) van engelandgat tot
 bestormstraat.
 2—2
 Stuksken (rue de la pièce) van zakkebandstraat tot
 koepoortkaai.
 4—1
-T.
 Tarwestraat (rue du froment) van molenaarstraat tot
 Lievegang.
 3—1
@@ -2265,7 +2157,7 @@ tot coupure, rechter oever.
 Tichelrij (quai des tuileries) van sluizekenskaai tot roo¬
 delijvenskaai, chartreuzenbrug.
 3—1
-linkestraat (rue de la tanche) van snoekstraat tot kar¬
+Tinkestraat (rue de la tanche) van snoekstraat tot kar¬
 pelstraat.
 7—1
 Tinnenpotstraat (rue du pot d'étain) van groot gewat tot
@@ -2310,9 +2202,6 @@ ottogracht.
 Tijgerstraat (rue du tigre) van Benardstraat tot olifant¬
 straat.
 5—1
-
-
-U.
 Uilkensstraat (r. des hiboux) van zwijnaardschen steen¬
 weg tot den ijzerenweg, s. pieters-aalst.
 H 5—2
@@ -2320,7 +2209,6 @@ Universiteitstraat, ziet voldersstraat.
 Ursulinenstraat (rue des ursulines) van zandberg tot
 spiegelstraat
 1—1
-v.
 Vaartstraat (rue du canal) van ham tot dok.
 H 3—1
 Valkstraat (rue du faucon) veldstraat tot de rivier,
@@ -2383,8 +2271,6 @@ rabotstraat tot begijnhofboulevard.
 Veerdamstraat of drongenhof (rue du Bac) van oudburg
 tot langesteensstraat.
 3—1
-
-
 Veergrepstraat (passage du ruisseau) van kortrijksche¬
 straat tot de lei.
 5—2
@@ -2464,8 +2350,6 @@ tot geuzenberg.
 Voldersstraat (rue des foulons, des jésuites ou de l'uni¬
 versité) van kalanderstraat tot veldstraat.
 1—2
-
-
 Volmolenstraat (rue du moulin à foulon) tusschen de
 roode torenstraat en de nieuwbrugkaai.
 1—1
@@ -2510,7 +2394,6 @@ Vrijheidstraat, ziet oranjeberg.
 Vijfwindgatstraat (rue des cinq vannes ou cinq vents)
 van lange violettenstraat tot boulev. Frère-Orban
 4—1
-W.
 Waaistraat (rue aux vents) v. vrijdagmarkt tot garenpl.
 1—1
 Waarschootstraat (rue Waarschoot) van lijperstraat tot
@@ -2540,8 +2423,6 @@ van kogelstraat tot weldadigheidstr., s. Amandsberg.
 Weldadigheidstraat (rue de la bienfaisance) Ledeberg,
 van hundelgemschen steenweg tot mooriaanstraat.
 0—1
-
-
 Weldadigheidstr. (rue de la bienfaisance) s. Amandsberg,
 van de weldadigheidstraat, Gent, tot meerschstraat.
 Wellinckstraat (rue Wellinck) van houtlei tot holstraat.
@@ -2577,10 +2458,9 @@ Wolvensteeg (r. aux loups) v. vrijdagm. tot baudeloolei.
 Wondelgemsstraat (rue de Wondelgem) van rabotlaan
 tot gasmeterlaan.
 H 6—2
-Vijngaardstraat (rue de la vigne) van pekelharing tot
+Wijngaardstraat (rue de la vigne) van pekelharing tot
 ijperstraat.
 2—2
-Y.
 IJkstraat (rue des jaugeurs) v. s. jansdreef tot het water.
 1—1
 IJpersteeg (passage d'Ypres) van lijperstraat tot coupure.
@@ -2593,7 +2473,6 @@ kerkstraat.
 H 6—2
 IJzerstraat (rue du fer) van weversstraat tot rooigemstr.
 6—2
-Z.
 Zaadsteeg (r. des grainiers) v. hoogpoort tot onderstraat.
 1—1
 Zaaimansstraat (rue des semeurs) van s. margrietestraat
@@ -2614,8 +2493,6 @@ nederschelde.
 Zandberg (place du sablon) van einde hoogpoort tot
 koningstraat.
 1—1
-
-
 Zandstraat (rue du sable) van einde kleistraat tot zwijn¬
 aardschen steenweg.
 H 5—2
@@ -2670,9 +2547,6 @@ tiers) van onderbergen tot struifsteeg
 Zwijnaardschen steenweg (chaussée de Zwijnaarde) van
 normaalschoolstr. tot zwijnaarde, s. Pieters-Aalst.
 H. 5—2
-
-
-BRUGGEN.
 Aardewegbrug (pont du chemin de terre), op de noordkaai
 buiten de brugschepoort.
 Academiebrug (pont de l’académie), tusschen de academie
@@ -2719,8 +2593,6 @@ Lievebrug (pont de la liève), tusschen de lievestraat en de
 lievekaai.
 Lousbergsbrug (pont Lousbergs) tusschen de visscherij en
 kasteellaan
-
-
 Marcellisbrug of ijzerenbrug (pont Marcellis ou en fer) tus¬
 schen de lammerstraat en de Lieven Bauwensplaats.
 Meerschbrug (pont du pré), op den geuzenberg.
@@ -2774,8 +2646,6 @@ Sasschepoortbrug (pont de la porte du sas), tusschen de
 voormuide en den meulesteedschen steenweg
 s. Gillisbrug (pont s. Gilles), tusschen de s. gillisstraat en de
 chartreuzenstraat.
-
-
 S. Jansbrug (pont s. Jean), tusschen de oude schaapmarkt en
 de s. jansdreef.
 S. Jorisbrug (pont s. Georges), tusschen het steendam en de
@@ -2823,5 +2693,3 @@ Zottepoortbrug (pont aux folles), tusschen de korte violetten¬
 straat en de annonciadenstraat.
 Zuivelbrug (pont du laitage), tusschen de zuivelsteeg en de
 zuivelbrugstraat.
-
-
