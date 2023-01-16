@@ -1,7 +1,10 @@
 # Ghent Gazetteer
-Digital technologies such as Linked Open Data and IIIF create new possibilities for the preservation and exploration of cultural heritage. Cultural institutions are currently exploring how these technologies can make their collections more accessible, both for humans and computers. Simply speaking, LOD can be achieved by connecting collection items to each other and additional information on the web. Institutions do this by creating and adding identifiers (URIs) to their data. URIs are online resources that are used to uniquely refer to something specific, like a person or a place. While URIs exist for places in the world, there aren’t many URIs for places within a city. So called digital gazetteers exist but their place URIs are often not granular enough to describe the location of an artefact. Institutions require urban gazetteers, so let’s make one.
 
-# Available data
+The _Ghent Gazetteer_ is an ongoing project to create a digital gazetteer for historical Ghent. The goal of the project is to create a linked open database for Ghent, similar to the [Adamlink]([url](https://adamlink.nl/)https://adamlink.nl/) project of Amsterdam city. 
+
+Linked Open Data (LOD) facilitates the preservation, enrichment and reuse of cultural heritage data. Simply speaking, LOD can be achieved by linking heritage collection (meta)data to each other and similar publicly available information on the web (e.g. Wikidata). This requires that institutions publish publicly available information, ideally using identifiers (URIs) in the process. URIs are used to uniquely refer to something specific, like a person or a place. While numerous URIs exist for places in the world (e.g. Ghent: [Q1296]([url](https://www.wikidata.org/wiki/Q1296)) / [geo:2797656]([url](https://www.geonames.org/2797656/gent.html)) there aren’t many URIs for intra-city places. Knowledge bases like Geonames and Wikidata provide place information, but this data is often not granular enough for cultural heritage items (e.g. the photo of former factory). Ghent Gazetteer is a so-called urban gazetteer that attempts to provide more granular place information.
+
+# Currently available data
 
 Place information is extracted from the city directory 'Wegwijzer der stad Gent" for the years:
 - 1875
