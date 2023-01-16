@@ -1,0 +1,935 @@
+"order_id","place_name_NL","place_name_FR","description","police_quarter","canton_of_small_claims_court"
+0,"Abdijstraat","rue de l’abbaye","van boulevard van het slachthuis tot boulevard van ’t kasteel.",7,1
+1,"Abeelstraat","rue du tremble","van brabantdam tot zakkebandstraat.",4,1
+2,"Abrahamstraat","rue d’Abraham","van groot gewat tot meersteeg.",2,2
+3,"Abricotstraat","rue de l’abricot","van brugschesteenweg tot groendreef.",6,2
+4,"Academiestraat","rue de l'académie","van augustijnenkaai tot s. margrietestraat.",3,1
+5,"Achtergaalstraat","rue du rossignol","van brugschesteenweg tot groendreef.",6,2
+6,"Achterlei","quai de l’arrière-lys","van slijpstraat tot huidevetterskaai.",3,1
+7,"Achtermuide","arrière muide","van n° 170 op den meulesteedschen steenweg en uitkomende op den zelfden steenweg tusschen nos 322 en 324.","S 3",2
+8,"Ajuinlei",,"ziet kraanlei en ook oude ajuinlei.",,
+9,"Ajuinstraat","rue aux oignons","nu gesloten, van oude ajuinlei tot onderbergen.",2,2
+10,"Akkerstraat",,"ziet rasphuisstraat.",,
+11,"Akkergemplaats","place d’akkergem","achter akkergemkerk, ziet boulevards der godshuizen en van akkergem.",,
+12,"Akkergemstraat","rue d’akkergem","van coupure, linker oever, tot akkergemboulevard.",2,2
+13,"Akkergemvest","rempart d’akkergem","ziet boulevard van akkergem.",2,2
+14,"Ambeeldstraat","rue de l'enclume","van weversstraat tot vossenstraat.",6,2
+15,"Ankerstraat","r. de l’ancre","v. priestersstr. tot stokersstr.",3,1
+16,"Annonciadestraat","rue des annonciades","van violettenlei tot twaalfkamersstraat en papegaaistraat.",2,2
+17,"Antheunisstraat","rue Antheunis","van rapenstraat tot vijfwindgatstraat.",4,1
+18,"Antwerpschestraat",,"ziet dampoortstraat.",,
+19,"Antwerpschesteenweg","chaussée d'Anvers","van de dampoortbrug naar s. Amandsberg.",7,1
+20,"Apostelhuizen",,"ziet apostelstraat.",,
+21,"Apostelstraat","rue des apôtres","van kelderstraat tot zakkebandstraat.",4,1
+22,"Apotheekstraat","rue de la pharmacie","van bijlokestraat tot nieuwe hospitaalstraat.",2,2
+23,"Appelbrugstraat","rue du pont aux pommes","van koornlei tot breidelsteeg.",2,2
+24,"Appelstraat","rue de la pomme","van roigemstraat tot nettenstraat.",6,2
+25,"Arnoldusstraat","rue d'Arnold","van blandinusstraat tot s. pietersplein.",5,2
+26,"Arteveldeplaats","place d'Artevelde","van statiestraat tot koepoortkaai en nieuwenboschstraat.",4,1
+27,"Augustijnenkaai","quai des augustins","van lievestraat tot molenaarstraat.",3,1
+28,"Auwegem doorgang","passage d’Auwegem ou de la préfecture","van gouvernementstr. tot nederscheldestraat.",1,2
+29,"Baaisteeg","rue de la frise","van zandberg tot vlasmarkt.",1,1
+30,"Bagattestraat","rue des baguettes","van nederkouter tot s. pietersnieuwstraat.",5,2
+31,"Baliestraat","rue de la barrière","van kortrijkschesteenweg tot meerschstraat, s. pieters-aigem.",5,2
+32,"Ballestraat","rue des balles","van kraanlei tot haringsteeg.",3,1
+33,"Bailliustraat","rue du bailli","van kapellaanstraat tot kazematstraat.",7,1
+34,"Barrestraat","rue aux barres","van spiegelstraat tot de nederschelde.",1,1
+35,"Barrierestraat, b. de kortrijkschepoort","rue de la barrière, faub. de courtrai","ziet baliestraat.",,
+36,"Batterijstraat, b. de brugschepoort","rue de la batterie","van brugschesteenweg tot zuidkaai.",6,2
+37,"Baudeloolei","fossé d'othon ou de baudeloo","van kleine botermarkt tot krommewal.",1,1
+38,"Baudeloostraat","rue d'othon, du jardin des plantes ou baudeloo","van baudeloolei tot oudevest.",4,1
+39,"Baviaanstraat","rue des babouins","van zaaimansstraat tot fabriekplaats.",3,1
+40,"Beersteeg","rue aux ours","v. goudstr. tot rivier, achterlei.",1,1
+41,"Beestenmarkt (nieuwe)","nouveau marché au bétail","tusschen boulevard van ’t kasteel en ’t slachthuis.",7,1
+42,"Beestenmarkt (oude)","ancien marché au bétail","van de oude ossenmarkt tot zilverstraat.",1,1
+43,"Begijnendreef","avenue des béguines","s. Amandsberg, van schoolstraat tot nieuw begijnhof.",0,1
+44,"Begijnendries","plaine s. Elisabeth","v. burgstr. t. rabotstr.",2,2
+45,"Begijnengracht","fossé s. Elisabeth","van burgstraat tot brugschepoortstraat.",2,2
+46,"Begijnenplaats","place des béguines","rond s. Elisabethkerk.",2,2
+47,"Begijnenstraat","rue des béguines","van begijnenplaats tot boulevard van ’t begijnhof.",2,2
+48,"Begijnenvest",,"ziet boulevard van het begijnhof.",,
+49,"Belgradestraat","rue de belgrade","van brabantdam tot keizerkarelstraat.",4,1
+50,"Bellevuestraat","rue de bellevue","van coupure, linker oever, tot akkergemstraat.",2,2
+51,"Bellevuestraat","rue de bellevue","Ledeberg, van hundelgemschesteenweg, rechts, tot de Schelde.",0,1
+52,"Benardstraat","rue Benard","van muinkbrug tot dierentuindreef.",5,1
+53,"Bennesteeg","r. des vanniers","v. mageleinstr. tot veldstr.",1,2
+54,"Berouwstraat","rue du repentir","van chartreuzenstraat tot tusschen vogelenzangkaai en geuzenberg.",3,1
+55,"Berriesteeg","rue de la civière","ziet bronsteeg.",,
+56,"Bessemstraat","r. des balais","v. onderbergen t. struifsteeg.",2,2
+57,"Bestormstraat","rue d'assaut","van onderbergen tot violettenlei.",2,2
+58,"Beukstraat","rue du hêtre","van verbindingstraat tot populierstraat.",3,1
+59,"Biezenkapelstraatje","ruelle dite biezenkapel","van regnessestraat tot nederpolder.",1,2
+60,"Binnenweg","chemin de traverse","Ledeberg, van hundelgemschesteenweg tot verder op den zelfden weg.",0,1
+61,"Bisschopstraat","rue de l'évêque","Ledeberg, van hundelgemschesteenweg tot scheldekant.",0,1
+62,"Blandinusstraat","rue blandin","van s. pietersvrouwstraat tot s. amandstraat.",5,2
+63,"Blauwmeiskensstraat",,"ziet werregarenstraat.",,
+64,"Bleekersreke","digue des blanchisseurs ou avenue du bassin","van huidevetterskaai tot dok.","3 en 7",1
+65,"Bleekerijstraat","rue de la blanchisserie","van kleine reke tot bleekersreeke.",3,1
+66,"Blindeken","r. de l’aveugle","v. comijnstr. tot brouwersstr.",2,2
+67,"Blindestraat","rue de l’aveugle","Ledeberg, van kerkstraat tot binnenweg.",0,1
+68,"Bloemstraat","rue aux fleurs","van nederkouter tot paallepelstraat.",5,2
+69,"Bloemstraat","rue aux fleurs","Ledeberg.",0,1
+70,"Boegsteeg","r. de la proue","v. veldstr. tot preekheerenlei.",1,2
+71,"Bogaardstraat","rue du verger","van hertogstraat tot roodekoningstraat.",3,1
+72,"Bommelstraat","rue du bondon","van ottergemschesteenweg tot zwijnaardschesteenweg, s. pieters-aalst.",5,2
+73,"Bonteleeuwstraat","r. du lion","v. korte meire tot veldstr.",1,2
+74,"Boomstraat","rue de l’arbre","van peterceliestraat tot brugschesteenweg.",6,2
+75,"Bronsteeg","rue de la source, rue de la civière","van kalanderberg tot gouvernementstraat.",1,2
+76,"Botermarkt","marché au beurre","van hoogpoort tot mageleinstraat.",1,2
+77,"Botermansstraat","rue des beurriers","van burgstraat tot meersteeg,",2,2
+78,"Bouleverd van akkergem","boulev. d’akkergem","v. boulev. der godshuizen en bijlokevest tot nieuwe wandeling",2,2
+79,"Boulevard van het begijnhof","boulev. du béguinage","van boulevard van plaisance tot brugschepoortstraat",2,2
+80,"Boulevard van Brussel of brusselsche boulevard","boulevard de Bruxelles","van einde brusselschestraat tot einde s. lievenstraat.",4,1
+81,"Boulevard der godshuizen","boulevard des hospices","ziet godshuisboulevard.",,
+82,"Boulevard der citadel","boulevard de la citadelle","van aan de brug over de Lei aan godshuisboulevard tot aan de nieuwe brug over de Schelde aan terplaten.",5,2
+83,"Boulevard van den dierentuin",,"ziet dierentuindreef.",,
+84,"Boulevard van den kleinen dok","boulevard du petit dok","v. antwerpschesteenw. tot buitenmuide. ","S 3 en 7",1
+85,"Boulevard Frère-Orban","boulevard Frère-Orban","van statieplaats tot s. lievens-boulevard.",4,1
+86,"Boulevard van het godshuis",,"ziet godshuisboulevard.",,
+87,"Boulevard van den gazometer","boulev. du gazomètre","van palingshuizen tot spaargeldstraat (linker oever van den verbindingsvaart.",6,1
+88,"Boulevard van het kasteel","boulevard du château","van boulevard Lousbergs tot hoek der schoolkaai.",7,1
+89,"Boulevard Leopold","boulev. Leopold","van den boulevard der citadel tot kortrijkschesteenweg.",5,2
+90,"Boulevard Lousbergs","boulev. Lousbergs","voorheen visscherij, linker oever, van den slachthuisboulevard tot de nederschelde, bij de keizerpoort.",7,1
+91,"Boulevard van plaisance","boulevard de plaisance","van boulevard van het begijnhof tot nijverheidsplaats.",3,1
+92,"Boulevard van s. Lieven","boulevard s. Liévin","van brusselsche boulevard tot aan de brug over de Schelde aan terplaten.",4,1
+93,"Boulevard van het slachthuis","boulevard de l’abattoir","van de Pauwbrug tot boulevard Lousbergs.",7,1
+94,"Boulevard van den ijzeren weg","boulevard du chemin de fer","Ledeberg, van de bellevuestr. tot den ijzeren weg.",0,1
+95,"Brabantdam","rue digue de brabant","van brabantstraat tot arteveldeplaats.",4,1
+96,"Brabantstraat","rue de brabant","van vogelmarkt tot brabantdam.",4,2
+97,"Braderijstraat","rue des rotisseurs","van groot gewat tot lievekaai.",2,2
+98,"Braeckmanstraat","rue Braeckman","s. amandsberg, in de achterstraat.",0,1
+99,"Brandstraat","rue de l'incendie","van houtlei tot holstraat.",2,2
+100,"Breidelsteeg","r. des selliers","v. de appelbrug tot burgstr.",2,2
+101,"Briele",,"ziet fabriekplaats.",,
+102,"Brouwersstraat","rue des brasseurs","van ramstraat tot blindeken.",2,2
+103,"Brugschepoortstraat","rue de la porte de Bruges","van hoogstr. en begijnengracht tot noordkaai, brugschep.",2,2
+104,"Brugschesteenweg, buiten de brugschepoort","chaussée de Bruges","van phoenixstraat tot Mariakerke.",6,2
+105,"Brunaustraat","rue Brunau","van de papegaaistraat tot den kouter, s. Amandsberg.",0,1
+106,"Brusselsche boulevard",,"ziet boulevard van Brussel.",,
+107,"Brusselschesteenweg","chaussée de Bruxelles","Ledeberg, van de keizerpoort tot Gentbrugge-Melle.",0,1
+108,"Brusselschesteeg",,"ziet krevelsteeg.",,
+109,"Brusselschestraat of keizerstraat","rue de Bruxelles ou de l'empereur","van vijfwindgatbrug tot keizerpoort.",4,1
+110,"Brusselschepoortvest",,"ziet boulevard van Brussel.",,
+111,"Buiten de heuvelpoort","faubourg de la porte de la colline","ziet s. pieters-aalst.",,
+112,"Buiten de kortrijkschepoort","faubourg de la porte de Courtrai","ziet s. pieters-aigem.",,
+113,"Burgstraat","rue de Bruges","van hoogezonnestraat tot begijnengracht.",2,2
+114,"Bijlokekaai","quai de la byloque","van bijlokestraat tot bijlokemeerschen.",2,2
+115,"Bijlokenhof","square de la byloque","van bijlokevest tot boulevard der godshuizen.",2,2
+116,"Bijlokestraat","r. de la byloque","v. coupure t. bylokekaai.",2,2
+117,"Bijlokevest","rempart de la byloque","van godshuisstraat tot kleine bellevuestraat en akkergemboulevard.",2,2
+118,"Bij het fort",,"ziet boulevard der citadel.",,
+119,"Bij s. Baafs","cloître s. Bavon","van s. janstraat tot s. baafsplein en s. baafsstraat.",1,2
+120,"Bij s. Jacobs","cloître s. Jacques, place ou près s. Jacques","v. kammersstr. tot steendam, rond s. jacobskerk.",1,1
+121,"Caleitjen",,"ziet kalkstraat, heuvelplein, enz.",,
+122,"Cameliastraat","rue du camelia","v. dendermondscheweg tot nieuwe begijnhofstraat.",7,1
+123,"Capucienenham","hameau des capucins","van lange bogaardstraat tot apostelstraat.",4,1
+124,"Capucienenstraat","rue des capucins","van brabantdam tot keizerkarelstraat.",4,1
+125,"Casinoplaats","place du casino","v. holstr. tot casinostr.",2,2
+126,"Casinostraat","rue du casino","van theresianenstraat tot casinoplaats.",2,2
+127,"Casinosteeg","ruelle du casino","ziet nieuwe casinostraat.",,
+128,"Catalognestraat","rue de la catalogne","van s. janstraat tot koornmarkt.",1,2
+129,"Cathelijnestraat","r. ste Catherine","ziet ste catharinastr.",,
+130,"Cauderlierkaai","quai Cauderlier","ziet kuiperskaai.",,
+131,"Cazematstraat","rue des casemattes","ziet kazematstraat.",,
+132,"Chartreuzenstraat","rue des chartreux","van kortschipgracht tot groot meerhem.",3,1
+133,"Colpaertsteeg","impasse Colpaert","op de coupure, linker oever, straat zonder eind.",2,2
+134,"Comediestraat","rue du théâtre ou de la comédie","van kouter tot recollettenplein.",1,2
+135,"Comijnstraat","rue du cumin","van den ram tot peperstr.",2,2
+136,"Conduitsteeg","rue du conduit","v. korte meire tot veldstr.",1,2
+137,"Contributiestraat","rue de la contribution","van brugschepoortstraat tot einde coupure, rechter oever.",2,2
+138,"Corianderstraat","rue de la coriandre","van walpoortbrugstraat tot grooten huidevettershoek.",5,2
+139,"Coupure, linker oever","coupure, rive gauche","van verlorenbroodstraat tot phoenixstraat, brugschepoort.",2,2
+140,"Coupure, rechter oever","coupure, rive droite","van lindelei tot contributiestraat.",2,2
+141,"Coupuregang","passage de la coupure","van rasphuisstraat tot coupure, rechter oever.",2,2
+142,"Cozijntjesstraat","rue des cousins","van krommenesch tot mortierstraat.",4,1
+143,"D. Dampoortstraat","rue de la porte d'Anvers","van roodetorenkaai tot antwerpschesteenweg.",7,1
+144,"Dekstraat","rue des couvreurs","van s. amandstraat tot kazernstraat.",5,2
+145,"Demildreef","avenue Demil","Ledeberg, van hundelgemschesteenweg tot de schelde.",0,1
+146,"Dendermondscheweg","chaussée de Termonde","van antwerpschesteenweg, dampoort, tot Oostacker en verders Destelbergen.",7,1
+147,"De Smetstraat","rue De Smet","in den nieuwen rabotwijk, van de brug, aan den boulevard van ’t begijnhof tot kerkstraat.",6,2
+148,"De Somerstraat","rue De Somer","s. Amandsberg, van antwerpschesteenweg tot mertensstraat.",0,1
+149,"De Vreese beluik","cité De Vreese","van blandinusstraat tot rogierstraat.",5,2
+150,"Dierentuindreef","boulev. ou avenue du jardin zoologique","van Lieven Bauwensplaats tot s. lievensvest.",5,1
+151,"Dikkeboomstraat",,"ziet kleine hospitaalstraat.",,
+152,"Dobbelhuizen",,"ziet chartreuzenstraat.",,
+153,"Dok","dock, bassin du commerce ou quai du grand bassin","van voormuide tot dampoortstraat. ","S 3 en 7",1
+154,"Dokstraat","rue du dock","van wollestraat tot den dok.",7,1
+155,"Dok, linker oever","dock, rive gauche","ziet kl. dokkaai.",,
+156,"Dok, rechter oever","dock, rive droite","ziet dok.",,
+157,"Donkersteeg","rue obscure","ziet hemelrijkstraat.",,
+158,"Donkerstraatje","rue obscure","van vrijdagmarkt tot steurstraat.",1,1
+159,"Doode lieve",,"ziet augustijnenkaai.",,
+160,"Doorgangsteeg","r. traversière","v. bennesteeg t. volderstr.",1,2
+161,"Doorgangstraat","rue traversière","Ledeberg, van langestraat tot kerkstraat.",0,1
+162,"Doornstraat","r. de l’épine","v. krommeneesch t. mortierstr.",4,2
+163,"Drapstraat","rue aux draps","van koornlei tot poel.",2,2
+164,"Dries","le dries","Ledeberg, van brusselschesteenweg tot langestraat.",0,1
+165,"Driesstraat","rue du dries","Ledeberg, van hundelgemschesteenweg tot den dries.",0,1
+166,"Drongenhof","rue du bac","ziet veerdamstraat.",,
+167,"Drongenschestraat of steenweg","rue ou chaussée de Tronchiennes","van roigemstraat tot Drongen.",6,2
+168,"Druifsteeg","rue des raisins","van vrijdagmarkt tot baudeloolei.",1,1
+169,"Duivenstraatje","rue des pigeons","van engelstraat tot donkerstraat.",1,1
+170,"Duivelsteeg","r. du diable","v. spiegelstr. tot herpelsteeg.",1,1
+171,"Dwarsstraatje",,"ziet doorgangsteeg.",,
+172,"Dwarsstraat","rue traversière","van muinkkaai tot dierentuindreef.",5,1
+173,"Dwarsstraat",,"Ledeberg, ziet doorgangstraat,",,
+174,"Eggermontstraat","rue Eggermont","Ledeberg, van hundelgemschesteenweg tot vooruitgangplaats.",0,1
+175,"Egmontstraat","rue d'Egmont","van kortrijkscheweg tot boulevard Leopold.",5,2
+176,"Einde weire",,"is einde boulev. v. akkergem, linker kant.",,
+177,"Eksterstraat","rue de la pie","van brugschesteenweg tot abricotstraat.",6,2
+178,"Eliseesche-velden","champs-élysées","van noordkaai tot palingshuizen.",6,2
+179,"Eliseescheveldenstraat","rue des champs-élysées","van noordkaai tot eliseesche velden.",6,2
+180,"Elsstraat","rue de l'aulne","in den nieuwen rabotwijk, van de vlotstraat tot boulevard van den gazometer (ontworpen straat).",6,2
+181,"Engelstraat","rue de l’ange","van vrijdagmarkt tot garenplaats.",1,1
+182,"Engelstraat","rue de l’ange","s. Amandsberg, van schoolstraat tot dendermondscheweg.",0,1
+183,"Engelandgat","rue d'Angleterre","van s. michielsplein tot struifsteeg.",2,2
+184,"Engelschenonnenstraat","rue des nonnes anglaises","van s. pietersnieuwstraat tot de opperschelde, muinkkaai.",5,2
+185,"Esschestraat","rue du frêne","van verbindingstraat tot popelierstraat.",3,1
+186,"Fabriekplaats","place des fabriques","van s. Margrietestraat tot palingstraat.",3,1
+187,"Fiennesdreef","avenue de Fiennes","van koornlei tot huurdochtersstraat.",2,2
+188,"Fievéstraat","rue Fievé","van Nieuwland tot dok.",3,1
+189,"Filledieuzenham",,"ziet roodelijvekensstraat.",,
+190,"Florbertstraat ","rue florbert","van s. pietersplein tot s. amandstraat.",5,2
+191,"Fruitmarkt",,"ziet graslei.",,
+192,"Frœbelstraat","rue Frœbel","van begijnenplaats tot verspeyenstraat.",2,2
+193,"Galerij Vanderdonckt",,"ziet Vanderdonckt's doorgang.",,
+194,"Galgenbergstraat","rue du calvaire","van holstraat tot twaalfkamersstraat.",2,3
+195,"Galgenstraat","rue de la potence","van kortrijksehesteenweg tot zwijnaardschesteenweg, s. pieters aalst.",5,2
+196,"Ganzendriesstraat","rue du pré des oies","van kortrijkschesteenweg tot meerschstraat, s. pieters-aigem.",5,2
+197,"Garenmarkt","marché au fil","van waaistr. tot speldenstr.",1,1
+198,"Gasthuisstraat","rue de l’hôpital","Ledeberg, van doorgangstraat tot mooriaanstraat.",0,1
+199,"Geitenstraat","rue de la chèvre","van drongenscheweg tot rooigemstraat.",6,2
+200,"Geldmunt","rue de la monnaie","van veerleplaats tot langesteensstraat.",3,1
+201,"Gelukstraat","r. du bonheur","v. baudeloolei tot oudevest.",1,1
+202,"Gerardstraat","rue Gérard","s. amandsberg, van antwerpschesteenweg tot meerschkantstraat.",0,1
+203,"Gerechtshofplaats",,"ziet recollettenplein.",,
+204,"Geuzenberg of hoek","montagne des infidèles","van vogelenzangkaai tot einde groot meerhem.",3,1
+205,"Gewat",,"ziet groot gewat en klein gewat.",,
+206,"Gildestraat","rue de la confrérie","van s. jacobsnieuwstraat tot kalvermarkt.",1,1
+207,"Godshuishammeken","rue de la Maison-Dieu","van slijpstraat tot huidevetterken en vancanegemstraat.",3,1
+208,"Godshuisstraat","rue des hospices","van de coupure links tot bijlokevest en godshuisboulevard.",2,2
+209,"Godshuisboulevard","boulevard des hospices","van de brug over de lei aan boulevard der citadel tot aan de kleine bellevuestraat.",2,2
+210,"Goudenleeuwplaats","place du lion d'or","van korte riddderstraat en kiekenmarkt tot klein turkijen.",1,2
+211,"Gouden sterrestraat","rue de l’étoile d'or","van zuidkaai tot brugschesteenweg.",6,2
+212,"Goudstr.","rue d'or","van speldenstr. tot minnenmeersch.",1,1
+213,"Gouvernementstraat","rue du gouvernement, de la préfecture ou du haut-escaut","van bij s. Baafs tot kortedagsteeg.",1,2
+214,"Graaf van vlaanderenstraat",,"ziet statieplaats.",,
+215,"Graslei","quai aux herbes","v. grasbrug tot preekheerenlei.",1,2
+216,"Gravenkasteel","château des comtes","op den hoek van de veerleplaats en van de geldmunt, maakt deel der veerleplaats.",3,1
+217,"Groendreef","allée-verte","van zuidkaai tot Mariakerke.",6,2
+218,"Groendreefsteeg","imp. de l’allée-verte","op de groendreef.",6,2
+219,"Groenstraat","rue verte","van huidevetterskaai tot Vancanegemstraat.",3,1
+220,"Groenenbriele",,"ziet fabriekplaats.",,
+221,"Groenselmarkt","marché aux légumes ou aux herbes","van hoogpoort tot kortemunt, pensmarkt en vleeschhuisbr.",1,2
+222,"Groot gewat","avenue de la cour","van burgstraat tot prinsenhof.",2,2
+223,"Groote huidevettershoek","grand toquet","van walpoortbrugstraat tot corianderstraat.",5,2
+224,"Groot kanonplaats","place du grand cannon","van langemunt tot vrijdagmarkt.",1,1
+225,"Groot meerhem","quai du grand marais","van chartreuzenstraat tot klein meerhem.",3,1
+226,"Gruisberg","rue des décombres","van de reep tot lange bogaardstraat.",4,1
+227,"Guinardstraat","rue Guinard","v. bagattestr. tot kalkstr.",5,2
+228,"Haanstraat","rue du coq","van meulesteedschesteenweg tusschen nrs 258 en 260 tot achtermuide.","S 3",1
+229,"Ham","r. du jambon","v. roodetorenkaai t. bleekersreek.",7,1
+230,"Hamerstraat","r. du marteau","v. groendreef t. kiekensstr.",6,2
+231,"Haringsteeg","rue du hareng","van geldmunt tot hertogstr.",3,1
+232,"Harmoniestraat","rue de l'harmonie","Ledeberg, van driesstraat tot pacificatiestraat.",0,1
+233,"Haspelstr.","r. du dévidoir","v. roigemstr. tot ambeeldstr.",6,2
+234,"Hazewindstraat","r. du lévrier","v. koornmarkt tot graslei.",1,2
+235,"Hebbrechtstraat",,"ziet schreiboomstraat.",,
+236,"Heilliggeeststraat","rue du s. esprit","van catalognestraat tot bennesteeg.",1,2
+237,"Heilligkerststraat",,"ziet s. salvatorstraat.",,
+238,"Heilig sacramentstraat","rue du s. sacrement","van korte meire tot veldstraat.",1,2
+239,"Heirnisse","Heirnis","van den boulevard van het kasteel tot de schelde, aan de nieuwe sluis.",7,1
+240,"Hel","de","maakt deel van het nieuwland.",,
+241,"Hemelrijkstraat","rue du paradis","van goudenleeuwplaats tot koornmarkt.",1,2
+242,"Herderstraat","rue du berger","v. werkhuisstr. tot vlasstr.",6,2
+243,"Herodeszak","cul de sac d’Hérode","in de zaaimansstraat, rechter kant.",3,1
+244,"Herpelsteeg","rue du canard","van ursulinenstraat tot s. jacobsnieuwstraat.",1,2
+245,"Hertstraat","rue du cerf","van muinkkaai tot dwarsstraat.",5,1
+246,"Hertogstraat","rue ducale","v. kraanlei tot plottersgracht.",3,1
+247,"Heuvelplein","place de la colline","van s. Huibrechtstraat tot kalkstraat.",5,2
+248,"Heuvelstraat","rue de la colline","van s. Amandstraat tot heuvelport.",5,2
+249,"Heuvelvest","rempart de la colline","van heuvelpoort tot de schelde.",5,2
+250,"Hippoliet Lammensstraat","rue Hipp. Lammens","van begijnenstraat tot verspeyenstraat.",2,2
+251,"Hoefijzerstraat","rue du fer-2-cheval","van langemunt, links, tot de rivier, kraanlei.",1,1
+252,"Hoefijzerstraat","rue du fer-à-cheval","Ledeberg, van kleinen binnenweg tot doorgangstraat.",0,1
+253,"Hofsteeg",,"ziet 2de prinsenhofzaksteeg.",,
+254,"Hofsstraat","rue du jardin","v. muinkkaai t. dierentuindr.",5,1
+255,"Hofsstraat","rue du jardin","Ledeberg, van boulevardstr. tot bellevuestraat.",0,1
+256,"Holstraat","r. de la caverne","v. hoogstr. t. galgenbergstr.",2,2
+257,"Hoofdkerkstraat","rue de la cathédrale","van s. baafsstr. tot s. baafsplein.",1,2
+258,"Hoogescheldestraat","rue du haut-escaut","ziet gouvernementstraat.",,
+259,"Hoogezonnestraat","rue haute du soleil","van veerleplaats tot burgstraat, onthoofdbrug.",3,1
+260,"Hoogpoortstraat","rue hautport","van groenselmarkt tot nederpolder.",1,2
+261,"Hoogpoortstraatje",,"ziet werregarenstraat.",,
+262,"Hoogstraat","rue haute","v. poel tot brugschepoortstraat",2,2
+263,"Hoogstraat","rue haute","s. amandsberg, van brunaustraat tot dendermondscheweg.",0,1
+264,"Hoornstraat","rue de la corne","van veldstraat tot predikheerenbrug,",1,2
+265,"Hooie","place des prés","van tweebruggenstraat tot Arteveldeplein.",4,1
+266,"Hooiaard","place aux foins","van koornmarkt tot pensmarkt en graslei.",1,2
+267,"Hospiciestraat","rue de l’hospice","Ledeberg, ziet gasthuisstraat.",0,1
+268,"Hospitaalstraat","rue de l'hôpital","van akkergemsstraat tot nieuwe wandeling.",2,2
+269,"Hospitaalstraatje",,"ziet kleine hospitaalstraat.",,
+270,"Houtbriel","rue du chantier","van oude schaapmarkt tot kalvermarkt.",1,1
+271,"Houtlei","quai aux bois","van torenbrug, hoogstraat, tot violettenlei.",2,2
+272,"Hoveniersberg","montagne des jardiniers","van s. pietersnieuwstraat tot opperschelde, muinkkaai.",5,2
+273,"Hoveniersstraat","rue des jardiniers","van hospitaalstraat tot boulevard van akkergem.",2,2
+274,"Hoveniersstraat","rue des jardiniers","Ledeberg, van brusselschesteenweg tot langestraat.",0,1
+275,"Huidevetterken","rue des tanneurs","van slijpstraat tot nieuwland en godshuishammeken",3,1
+276,"Huidevetterskaai","quai des tanneurs","van achterlei tot nieuwland.",3,1
+277,"Huidevettershoek",,"ziet groote en kl. huidevettershoek.",,
+278,"Hundelgemschesteenweg","chaussée d’Hundelgem","Ledeberg, van s. lievenspoort tot Meirelbeke.",0,1
+279,"Huurdochtersstraat","rue des servantes","van koornlei tot s. michielsplaats.",2,2
+280,"Jerusalemstraat",,"ziet s. barbarastraat.",,
+281,"Jesuitenstraat",,"ziet voldersstraat.",,
+282,"Jodenstraat","rue des juifs","van gouvernementstraat tot nederscheldstraat.",1,2
+283,"Joseph den tweedenstraat","rue Joseph II","in den nieuwen rabotwijk, van De Smetstraat tot boulevard van den gazometer, aan de brug van den spoorweg.",6,2
+284,"Kaatsplaats","place du jeu de paume","van drongenhof tot korte kalversteeg.",3,1
+285,"Kalanderberg","place de la calandre","van kalanderstraat tot kouterdreef en lange meire.",1,2
+286,"Kalanderstraat","rue de la calandre","van mageleinstraat tot kalanderberg.",1,2
+287,"Kaleitje",,"ziet kalkstraat, heuvelplein, enz ",,
+,"Kalkstraat","rue de la chaux","van nederkouter tot s. huibrechtstraat.",5,2
+288,"Kalvermarkt","marché aux veaux","van gildestraat tot roodetorenstraat.",1,1
+289,"Kammensstraat","rue des peignes","van vrijdagmarkt tot koningstraat.",1,1
+290,"Kanonikstraat","rue des chanoines","van kortrijkschestraat tot kazernstraat.",5,2
+,"Kanonstraat",,"ziet waterstraatje.",,
+,"Kapellaanstraat ","rue du chapelain ","van de prooststraat tot de balliustraat.",7,1
+291,"Kapellestraat","rue de la chapelle","van pekelharing tot s. agneetestraat",2,2
+292,"Karrestraat","r. des charrettes","v. ijperstr. tot stoppelstr.",2,2
+293,"Kasematstraat","rue des casemattes","van schoolstraat tot nieuwe beestenmarkt.",7,1
+294,"Kasteelkaai","quai du château","van roodetorenkaai tot dampoortstraat.",7,1
+295,"Kasteelplein",,"ziet spanjaardskasteel.",,
+296,"Kasteelstraat of kasteelbrugstraat","rue du château","van leopoldstraat tot kasteelkaai.",7,1
+297,"Kasteelvest",,"ziet boulevard van het kasteel.",,
+298,"Kattenberg",,"ten einde der kanonikstraat.",5,2
+299,"Kazernplaats","place des casernes","van kanonikstraat tot boulevard der citadel.",5,2
+300,"Kazernstraat","rue des casernes","van s. amandstraat tot kazernplaats en deekstraat.",5,2
+301,"Kazernstraat","Ledeberg","uitkomende in de langestraat.",0,1
+302,"Kazernvest","rempart des casernes","einde kortrijkschestraat tot deekstraat.",5,2
+303,"Keizerkarelstraat","rue Charles V","van nieuwbrug tot Arteveldeplaats.",4,1
+304,"Keizerstraat","rue de Bruxelles ou de l'empereur","ziet brusselschestraat.",,
+305,"Keizersdreef",,"ziet groot gewat.",,
+306,"Keizersvest","rempart de la porte de Bruxelles","ziet brusselsche boulevard.",,
+307,"Kelderstraat","rue de la cave","van krommenesch tot apostelstraat.",4,1
+308,"Kerkhofsstraat","rue du cimetière","in de kerkstraat, brugschepoort.",6,2
+309,"Kerkstraat, brugschepoort","rue de l’église","van noordkaai tot ijskelderstraat.",6,2
+310,"Kerkstraat","rue de l’église","Ledeberg, van hundelgemschesteenweg tot vooruitgangplaats.",0,1
+311,"Kerkstraat","rue de l’église","Gentbrugge, van posthoornstraat, Ledeberg, naar de gemeente Gentbrugge.",0,1
+312,"Kerrestraat",,"ziet karrestraat.",,
+313,"Ketelplein","plaine des chaudronniers ou des bastions","van begin nederkouter rechts, tot de lei.",5,2
+314,"Ketelstraatje",,"ziet stadhuissteeg.",,
+315,"Ketelvest","rempart des chaudronniers ou des bastions","van nederkouter tot walpoortbrugstraat.",5,2
+316,"Kiekenmarkt","marché aux poulets","van botermarkt tot goudenleeuwplaats.",1,2
+317,"Kiekenstraat","rue du poulet","van brugschesteenweg tot hamerstraat.",6,2
+318,"Kievitstraat","rue du vanneau","van musschenstraat tot s. pieters-aalststraat, s. pieters-aalst.",5,2
+319,"Kleemsstraat","rue de l'argile","in den nieuwen rabotwijk van de rabotdreef tot gazmeterlaan (ontworpen straat)",6,2
+320,"Kleine bellevuestraat","petite rue de bellevue","van coupure, linker oever, tot bijlokevest.",2,2
+321,"Kleine binnenweg","petit chemin de traverse","Ledeberg, van binnenweg tot langestraat.",0,2
+322,"Kleine botermarkt","petit marché au beurre","van bij s. jacobs tot baudeloolei.",1,1
+323,"Kleine dok","petit dock ou dock, rive gauche","ziet boulevard van den kleinen dok en kleine dokkaai.",,
+324,"Kleine dokkaai","quai du petit dock","van antwerpschesteenweg tot voormuide langs het water.",7,1
+325,"Kleine hoogpoortstraat","petite rue du hautpoort","van ketelplein tot leistraat.",5,2
+326,"Kleine hospitaalstraat","petite rue de l’hôpital","van akkergemstraat tot hospitaalstraat.",2,2
+327,"Kleine huidevettershoek","petit toquet","van corianderstraat tot lammerstraat.",5,2
+328,"Kleine kerkstraat","petite rue de l’église","Ledeberg, van kleine binnenweg tot hoefijzerstraat.",0,1
+329,"Kleine koornmarkt",,"ziet koornmarkt.",,
+330,"Kleine kuipersstraat","petite rue des tonneliers","van brabantdam tot kuiperskaai.",4,1
+331,"Kleine onderstraat","petite rue basse","van onderstraat lot kammersstraat.",1,1
+332,"Kleine penitentenstraat","petite rue des pénitents","van kleine botermarkt tot wolvensteeg.",1,1
+333,"Kleine ramstraat","petite rue du bélier","van ramstraat tot luxemburgstraat.",2,2
+334,"Kleine reke",,"v. huidevetterskaai tot bleekersreke en ham.",3,1
+335,"Kleine statiestraat of Poelman","petite rue de la station ou Poelman","van brabantdam tot kleine kuiperstraat.",4,1
+336,"Kleine s. Gillisstraat","impasse s. Gillis","in s. gillisstraat, zonder eind.",5,1
+337,"Kleine veerstraat","petite rue du ponton","van kortrijkschestraat tot de lei.",5,2
+338,"Kleine vleeschhuissteeg","ruelle de la petite boucherie","van kouter tot kortedagsteeg.",1,2
+339,"Kleine vischmarkt","petit marché au poisson","van vleeschhuisbrug tot veerleplaats.",3,1
+340,"Kleine ijperstraat",,"ziet ijpersteeg.",,
+341,"Klein gewat","petite avenue de la cour","van groot gewat tot lievekaai.",2,2
+342,"Klein meerhem","place du petit marais","van groot meerhem tot sasschekaai en voormuide.",3,1
+343,"Klein Turkijen","petite Turquie","van goudenleeuwplaats tot koornmarkt.",1,2
+344,"Kleistraat","rue de l'argile","van zwijnaardschesteenweg tot kortrijkschesteenweg, s. pieters-aalst.",5,2
+345,"Kluizestraat","rue de l’hermitage","van molenaarstraat tot lievegang.",3,1
+346,"Kluyskensstraat","rue Kluyskens","van de bijlokevest, langs het nieuw hospitaal, tot de bijlokestraat.",2,2
+347,"Koestraat","rue aux vaches","van kalanderberg tot kortedagsteeg.",1,2
+348,"Koepoort","porte aux vaches","was vroeger op einde der bijlokestraat.",,
+349,"Koepoortkaai","quai aux vaches ou quai porte aux vaches","van mortierstraat tot arteveldeplaats.",4,1
+350,"Koepoortstraat","rue du quai porte aux vaches","van apostelstraat tot koepoortkaai.",4,1
+351,"Kogelstraat","rue de la balle","van antwerpschesteenweg tot weldadigheidstraat.",7,1
+352,"Koningstraat","rue royale","van zandberg tot vlasmarkt.",1,1
+353,"Koningstraat","rue royale","s. amandsberg, tusschen het nieuw begijnhof en den dendermondscheweg.",0,1
+354,"Koningstraat",,"Ledeberg, ziet kleinen binnenweg.",,
+355,"Koolsteeg","rue aux choux","v. burgstr. tot begijnendries.",2,2
+356,"Koophandelplaats",,"ziet recollettenplein.",,
+357,"Koornbloemstraat","rue du bluet, rue de la fleur de blé","van akkergemstraat tot kruisboogstraat.",2,2
+358,"Koornlei","quai au blé","v. grasbrug tot huurdochtersstr.",2,2
+359,"Koornmarkt","marché aux grains","van kortemunt tot veldstraat.",1,2
+360,"Koperstraat","rue du cuivre","v. ijperstraat tot stoppelstr.",2,2
+361,"Korte beenhouwersstraat","rue courte des bouchers","van gruisberg tot winkelsteeg.",4,1
+362,"Korte begijnenstraat","rue courte des béguines","van begijnenstraat tot proveniersstraat.",2,2
+363,"Korte bogaardstraat","rue courte du verger","van lange bogaardstraat tot belgradestraat.",4,1
+364,"Korte boomgaardstraat",,"ziet korte bogaardstraat.",,
+365,"Kortedagsteeg","rue courte du jour","van koestraat tot walpoortbrug.",1,2
+366,"Korte kalversteeg","rue courte aux veaux","van roode koningstraat tot kaatsplaats.",3,1
+367,"Korte kammersstraat","rue courte des peignes","van kammersstraat tot bij s. Jacobs.",1,1
+368,"Korte koestraat","rue courte aux vaches","van spiegelstraat tot de oude ossenmarkt.",1,1
+369,"Korte krevelsteeg","rue courte des démangeaisons, ou passage de la rue de Bruxelles","van keizerstraat tot s. lievenstraat.",4,1
+370,"Korte kruisstraat","rue courte de la croix","van kruisstraat tot mageleinstraat.",1,2
+371,"Korte meire","rue courte du marais","van volderstraat tot kouter.",1,2
+372,"Korte munt","rue courte de la monnaie","van groenselmarkt tot koornmarkt.",1,2
+373,"Korte onderstraat",,"ziet kleine onderstraat.",,
+374,"Korte penitentenstraat",,"ziet kleine penitentenstraat.",,
+375,"Korte ridderstraat","rue courte des chevaliers","van goudenleeuwplaats tot s. janstraat.",1,2
+376,"Korte smisstraat","rue courte de la forge","van kortrijkschesteenweg tot smisstraat, s. pieters-aigem.",5,2
+377,"Korte steensstraat","rue courte des pierres","van lange steensstraat tot slijpstraat.",3,1
+378,"Korte stropstraat","rue courte du strop","van ottergemsteenweg tot de schelde, s. pieters-aalst.",5,2
+379,"Korte violettestraat","rue courte des violettes","van recollettenlei tot annonciadenstraat (zottepoortbrug).",2,2
+380,"Korte wijngaardstraat","rue courte de la vigne","van lange bogaardstraat tot belgradestraat.",4,1
+381,"Korte ijperstraat",,"ziet ijpersteeg.",4,1
+382,"Korte zilverstraat ","rue courte d'argent","van lievekaai tot prinsenhof.",2,2
+383,"Kort onderbergen","rue courte de la vallée","van recollettenbrug tot onderbergen.",2,2
+384,"Kortrijkschestraat","rue de Courtrai","van nederkouter tot kortrijkschepoort.",5,2
+385,"Kortrijkschepoortstraat",,"ziet kortrijkschestraat.",,
+386,"Kortrijkschesteenweg","chaussée de Courtrai","van kortrijkschepoort naar s. Denijs.",5,2
+387,"Kortschipgracht","rue courte des bâteaux","van zaaimansstraat tot palingstraat.",3,1
+388,"Kouter","place d'armes","van vogelmarkt tot comediestraat en zonnestraat.",1,2
+389,"Kouterdreef","avenue de la place d'armes","van kalanderberg tot kouter.",1,2
+390,"Koutersteeg","ruelle de la place d'armes","van koestraat tot kouter.",1,2
+391,"Kozijntjensstraat",,"ziet cozijntjesstraat.",,
+392,"Kraanlei","quai de la grue","ook ajuinlei genaamd, van veerleplaats tot oudburg.",3,1
+393,"Kraanstraat","rue de la grue","van bleekersreeke tot dok.",7,1
+394,"Krekelberg","mont des cigales","s. amandsberg, tusschen het nieuw begijnhof en den dendermondscheweg.",0,1
+395,"Kriekerijstraat","rue de la cérisaie","van molenaarsstaaat tot s. margrietestraat.",3,1
+396,"Krommenelleboog",,"ziet saliestraat.",,
+397,"Krommenesch","rue du tortillard","van keizerkarelstraat.",4,1
+398,"Krommewal","rue du fossé courbe","is nu krommewalplaats.",,
+399,"Krommewalplaats","place du fossé courbe","van goudstraat tot krommewalbrug.",3,1
+400,"Kromsteeg","rue tortue","v. catalognestr. tot bennesteeg.",1,2
+401,"Kroonstraat","rue de la couronne","van weversstraat tot vlasstraat.",6,2
+402,"Kruisstraat","r. de la croix","v. bij s. baafs tot kalanderb.",1,2
+403,"Kruisboogstraat","rue de l’arbalète","van akkergemsstraat tot koornbloemstraat.",2,2
+404,"Kuipersstraat","rue des tonneliers","van plottersgracht tot lange steenstraat.",3,1
+405,"Kuiperskaai","quai des tonneliers","van Lieven Bauwensplaats tot oude scheldesteeg.",4,1
+406,"Kwaadham",,"ziet spiegelstraat.",,
+407,"Lammerstraat","rue de l’agneau","van s. pietersnieuwstraat tot Lieven Bauwensplaats.",5,2
+408,"Landbouwersstraat","rue des cultivateurs","van meulesteeds. steenw. tusschen nrs 270 en 272 tot achtermuide.",3,1
+409,"Land van Waasstraat buiten de dampoort","rue du pays de Waas","van dendermondschesteenweg tot antwerpschesteenweg.",7,1
+410,"Lange beenhouwersstraat","rue longue des bouchers","van reep tot sleutelstraat.",4,1
+411,"Lange bogaardstraat","rue longue du verger","van brabantdam tot capucienenham.",4,1
+412,"Lange kalversteeg","rue longue aux veaux","van oudburg tot korte kalversteeg.",3,1
+413,"Lange krevelsteeg","rue longue des demangeaisons ou passage de la r. s. Liévin","v. keizerstr. tot s. lievenstr.",4,1
+414,"Langemeire","rue longue du marais","van kalanderberg tot kortemeire.",1,2
+415,"Langemunt","rue longue de la monnaie","van groenselmarkt tot groot kanonplaats.",1,1
+416,"Lange penitentenstraat",,"ziet penitentenstraat.",,
+417,"Lange steensstraat","rue longue des pierres","van lievestraat tot korte steenstraat.",3,1
+418,"Langestraat","rue longue","Ledeberg, van hundelgemschesteenweg tot brusselschesteenweg.",0,1
+419,"Lange wijngaardstraat","rue longue de la vigne","van reep tot lange bogaardstraat.",4,1
+420,"Lang schipgracht","rue longue des bâteaux","van lange steenstraat tot zaaimansstraat.",3,1
+421,"Laurentstraat","rue Laurent","ziet spaarstraat (rue de l’épargne).",,
+422,"Laurrierstraat","rue du laurier","van s. pietersnieuwstraat tot s. huibrechtstraat.",5,2
+423,"Leemstraat",,"ziet kleemstraat.",,
+424,"Leeuwerikstraat","rue de l'alouette","van maltebrugstraat tot vinkstraat, s. pieters-aigem.",5,2
+425,"Leeuw te putte",,"ziet goudenleeuwplaats.",,
+426,"Leikaai, buiten de brugschepoort","quai de la lys","van phoenixstraat tot Drongen.",6,2
+427,"Leisteeg","ruelle de la lys","van nederkouter tot de lei (lindelei).",5,2
+428,"Leistraat, buiten de brugschepoort","rue de la lys","van roigemstraat tot leikaai.",6,2
+429,"Leistraatje","ruelle de la lys","van sluizeken tot achterlei.",3,1
+430,"Leopoldstraat","rue Léopold","van roodetorenkaai tot kasteelbrugstraat.",7,1
+431,"Liberteitstraat",,"ziet oranjeberg.",,
+432,"Lievegang","passage de la lieve","van s. antoniuskaai tot kluizestraat.",3,1
+433,"Lievekaai","quai de la lieve","v. kl. gewat tot k. zilverstr.",2,2
+434,"Lievestraat","rue de la lieve","v. lievebrug t. langesteensst.",3,1
+435,"Lieven Bauwensplaats","place Liévin Bauwens","van lammerstr. tot muinkkaai, dierentuindr. en statiestr. ","4 en 5",1
+436,"Lindelei","quai aux tilleuls","van recollettenlei tot coupure, rechter oever.",2,2
+437,"Lindenstraat","rue des tilleuls","van palingshuizen, langs hospice Guislain, tot kerkstraat.",6,2
+438,"Loostraat","rue de Loo","van kortrijkschesteenweg tot meerschstraat, s. pieters-aigem.",5,2
+439,"Luxemburgstraat","rue du luxembourg","van kleine ramstraat tot ramstraat.",2,2
+440,"Maagdestraat","rue de la pucelle","van violettelei tot papegaaistraat.",2,2
+441,"Maaihoveken",,"ziet kuiperskaai.",,
+442,"Mageleinstraat","rue magelein ou aux marjolaines","van aan het belfort tot kalanderstraat.",1,2
+443,"Maltebrugstraat","rue du pont de Malte","van en tot kortrijkschesteenweg, s. pieters-aigem.",5,2
+444,"Maltsteeg","rue du Malt","van ottergemschesteenweg tot de schelde, s. pieters-aalst.",5,2
+445,"Mannekensaarde",,"ziet groot kanonplaats.",,
+446,"Maria-Therresiaplaats","place Marie-Thérèse","midden den nieuwen rabotwijk, tusschen de wondelgem¬, de Maria-Theresia¬, de vlot en de torentjensstraat.",6,2
+447,"Maria-Theresiastraat","rue Marie-Thérèse","ontworpen straat in den nieuwen rabotwijk, van de kerkstraat tot Maria-Therresiaplaats.",6,2
+448,"Marjoleinstraat",,"ziet mageleinstraat.",,
+449,"Marnixstraat","rue Marnix","eerste straat links, van de kortrijkschesteenweg tot boulevard Leopold.",5,2
+450,"Maststraat","rue du mat","van meulesteedschesteenweg tot spadestraat.",3,1
+451,"Mathieu-Gesweinstraat","rue Math. Geswein","van vanakenstraat tot boulevard van het begijnhof",2,2
+452,"Meerschkantstraat","rue des prairies","s. Amandsberg van antwerpschesteenweg tot achter s. Amandsberg.",0,1
+453,"Meerschstraat","rue des prairies","van den kortrijksche steenweg tot s. Denijs.",5,2
+454,"Meersteeg","rue du lac","van abrahamstr. tot burgstraat.",2,2
+455,"Meirelbeekstraat","rue de Meirelbeke","van gildestraat tot beestenmarkt.",1,1
+456,"Mertensstraat","rue Mertens","s. Amandsberg, van De Somerstraat tot papegaaistraat.",0,1
+457,"Metsersstraat","rue des maçons","van regattendreef tot zondernaamstraat.",7,1
+458,"Meulestede","hameau de Meulestede","van buitenmuide en terneuschelaan t. Wondelgem-Evergem-Oostakker.","S 3",1
+459,"Meulesteedschesteenweg","chaussée de Meulestede","van voormuide tot Meulestede.","S 3",2
+460,"Minnemanssteeg","rue des amants","van oude vlasmarkt tot kleine penitentenstraat.",1,1
+461,"Minnemeersch","place du pré d'amour","van goudstraat tot minnemeerschbrug.",1,1
+462,"Modenaaisteeg","rue des couturières","van veldstraat tot predikheerenlei.",1,2
+463,"Molekensstraat","rue du moulinet","v. veldstraat tot de lei.",1,2
+464,"Molenaarsstraat","rue des meuniers","van augustijnenkaai tot vogelenzangkaai.",3,1
+465,"Molenstraat","rue du moulin","Ledeberg, van de vanlokerenstraat tot de langestraat.",0,1
+466,"Molenstraat","rue du moulin","s. Amandsberg, achter het nieuw begijnhof.",0,1
+467,"Molenweg","rue du moulin","van coupure, linker oever, tot bijlokevest.",2,3
+468,"Mooriaanstraat","rue du maure","Ledeberg, van lange straat tot hundelgemschesteenweg.",0,1
+469,"Mortierstraat","rue du mortier","v. veerstr. t. koepoortkaai.",4,1
+470,"Moutsteeg","rue du malte","van de onderwijsstraat naar de schelde.",5,2
+471,"Muinkbrugstraat","rue du pont des moines","van s. amand straat tot muinkkaai.",5,2
+472,"Muinkkaai","quai des moines","van Lieven Bauwensplaats, langs de opperschelde, tot Benardstraat.",5,1
+473,"Musschenstraat","r. des moineaux","van kortrijkschesteenweg tot zwijnaardschesteenweg, s. pieters-aalst.",5,2
+474,"Nassaustraat","rue de Nassau","van kortrijkschesteenweg tot boulevard Léopold.",5,2
+475,"Nederkouter","rue basse des champs","van ketelbrug tot kortrijkschestraat.",5,2
+476,"Nederpolder","rue du bas-poldre","van hoogpoort tot roskamstraat.",1,2
+477,"Nederscheldkaai",,"ziet reep.",,
+478,"Nederscheldstraat","rue du bas-escaut","van bij s. baafs tot brabandstraat.",1,2
+479,"Nettestraat","rue du filet","van drongenschesteenweg tot brugschesteenweg.",6,2
+480,"Nieuwbegijnhofstraat","rue du nouveau béguinage","van dendermondschesteenweg tot oostackerstraat.",7,1
+481,"Nieuwe kerkstraat","nouvelle rue de l’église","van nijverheidslaan tot Wondelgem (boerenkerkstraat).",6,2
+482,"Nieuwenboschstraat","rue du nouveau bois","van Arteveldeplaats tot tweebruggenstraat.",4,1
+483,"Nieuwe casinostraat","rue neuve du casino","van twaalkamersstraat tot casinoplaats.",5,2
+484,"Nieuwe sasschepoortstraat",,"ziet voormuide.",,
+485,"Nieuwe straat","rue neuve","Ledeberg, van driesstraat tot brusselschesteenweg.",0,1
+486,"Nieuwe theresianenstraat","rue neuve des thérésiennes","van rasphuisstraat tot theresianenstraat.",2,2
+487,"Nieuwe wandeling","nouvelle promenade","van coupure linker oever, tot akkergemboulevard.",2,2
+488,"Nieuwe weg",,"ziet kanonikstraat.",,
+489,"Nieuwe hospitaalstraat","rue du nouvel hôpital","van de coupure tot het nieuw hospitaal.",2,2
+490,"Nieuwland","rue terre-neuve","van huidevetterskaai tot priestersstraat.",3,1
+491,"Nieuwpoortje",,"ziet s. jansdreef en ijkstraat.",,
+492,"Noordkaai, b. de brugschepoort","quai du nord, faub. de Bruges","van noordstraat tot eliseesche-velden.",6,2
+493,"Noordstraat","rue du nord","van brugschepoortstraat tot noordkaai (buiten de brugschepoort).",6,2
+494,"Noordstraat","rue du nord","Ledeberg, van vooruitgangplaats tot langestraat (noord de kerk).",0,1
+495,"Nijverheidskaai","quai de l'industrie","van tolhuisbrug tot Wondelgem.",3,1
+496,"Nijverheidslaan","allée ou avenue de l'industrie","van palingshuizen tot aan de nijverheidskaai, linkerkant van de verbindingsvaart. ","6 — S 3",2
+497,"Nijverheidsplaats","place de l'industrie","tusschen s. salvatorstraat en de tolhuisbrug (maakte vroeger deel van het klein meerhem).",3,1
+498,"Oeffeningsplein","champ des manoeuvres","was gelegen tusschen den boulevard van het kasteel en den dendermondscheweg, is tegenwoordig ingenomen doorstaats-spoorweg (station champ des manoeuvres) statie van het oeffeningsplein.",7,1
+499,"Okerstraat","r. de l'ocre","v. veldstr. tot predikheerenlei.",1,2
+500,"Oliestraat","rue de l'huile","van steendam tot s. jansdreef.",1,1
+501,"Onderbergen","rue de la vallée","van s. Michielsplaats tot korte violettestraat.",2,2
+502,"Onderstraat","rue basse","van langemunt tot koningstraat.",1,1
+503,"Onderwijsstraat","rue de l'instruction","van ottergemschesteenweg tot zwijnaardschesteenweg, s. pieters-aalst.",5,2
+504,"Onze-lieve vrouwestraat","rue Notre-Dame","van bogaardstraat tot plottersgracht.",3,1
+505,"Oostakkerstraat, linkerkant van het papegaaistraatje","rue d'Oostacker","van antwerpschepoortstraat tot dendermondscheweg, op het gebied van Gent.",7,1
+506,"Oostenrijkersstraat","rue des autrichiens","van s. machariusstraat tot spanjaardsstraat.",7,1
+507,"Ossenstraat","rue des boeufs","van slachthuisstraat tot puinstraat.",7,1
+508,"Oranjeberg","rue d'Orange ou de la liberté","van kalanderberg tot gouvernementstraat.",1,2
+509,"Opperscheldestraat",,"ziet gouvernementstraat.",,
+510,"Ottergemschesteenweg","chaussée d'Ottergem","van de voermalige heuvelp. tot zwijnaarde, s. pieters-aalst.",5,2
+511,"Ottogracht",,"ziet baudeloolei.",,
+512,"Ottostraat",,"ziet baudeloostraat.",,
+513,"Oudburg","rue du vieuxbourg","van kraanlei tot sluizeken",3,1
+514,"Oude ajuinlei","vieux quai aux oignons","van predikheerenstraat tot recollettenlei.",2,2
+515,"Oude driesstraat","rue vieille du pré","van den dries tot brusselsche weg.",0,1
+516,"Oude kerkweg","vieux chemin de l’église","op akkergemstraat, zonder eind.",2,2
+517,"Oude molenaarsstraat","rue vieille des meuniers","van en tot terplaten.",5,2
+518,"Oudenaardschesteenweg","chaussée d'Audenarde","buiten de heuvelpoort.",5,2
+519,"Oude ossenmarkt","vieux marché aux boeufs","van oude beestenmarkt tot weezenstraat.",1,1
+520,"Oude sasschepoortstraat","rue de l’ancienne porte du sas","van klein meerhem tot dok en voormuide.",3,1
+521,"Oude schaapmarkt","vieux marché aux moutons","van vlasmarkt tot s. jansdreef.",1,1
+522,"Oude scheldesteeg","passage du vieil escaut","van brabantdam tot kleine kuipersstraat.",4,1
+523,"Oude vest","rue du vieux rempart","van baudeloostraat tot goudstraat.",1,1
+524,"Oude vlasmarkt","vieux marché au lin","van vrijdagmarkt tot bij s. Jacobs.",1,1
+525,"Paallepelstraat","rue de la cuiller","van savaanstraat tot bagattestraat.",5,2
+526,"Pacificatiestraat","rue de la pacification","Ledeberg, van de vooruitgangplaats tot driesstraat.",0,1
+527,"Paddenhoek","rue de la crapaudière","van kalanderberg tot voldersstraat.",1,2
+528,"Palinghuizen, buiten de brugschepoort","maisons aux anguilles, faubourg de Bruges","van eliseesche-velden tot Mariakerke.",3,2
+529,"Palingstraat","rue aux anguilles","van abriekplaats tot kort schipgracht.",3,1
+530,"Pannestraat","rue de la tuile","van de palinghuizen tot den boulevard van den gazometer.",,
+531,"Papegaaistraat","rue du perroquet","van annonciadestr. tot galgenbergstraat.",2,2
+532,"Papegaaistraatje",,"ziet kleine onderstraat.",,
+533,"Papegaaistraatje","rue du perroquet","s. Amandsberg, van antwerpschesteenweg tot dendermondscheweg, overkant van de oostackerstraat.",0,1
+534,"Papenstraat",,"ziet priestersstraat.",,
+535,"Paradijszak","impasse du paradis","in de donkersteeg, zonder eind.",1,1
+536,"Parkstraat","rue du parc","van het nieuw begijnhof tot oostackerstraat.",7,1
+537,"Parijsberg","montagne de Paris","van lammerstraat tot de schelde.",5,1
+538,"Patershol",,"ziet korte kalversteeg.",,
+539,"Patijntjestraat","rue du patin","van de meerschstraat tot snepbrug, s. pieters-aigem.",5,2
+540,"Pekelharing","rue du hareng-pec","v. lindelei tot ijperstr.",2,2
+541,"Pelikaanstraat","r. du pelican","v. belgradestr. tot abeelstr.",4,1
+542,"Penitentenstraat","rue des pénitents","van kleine botermarkt tot wolvensteeg.",1,1
+543,"Pensmarkt","marché aux tripes","van groenselmarkt tot hooiaard.",1,2
+544,"Penssteeg","impasse aux tripes","op de hoogstraat, zonder eind.",2,2
+545,"Pensstraat","rue aux tripes","van koornlei tot drapstraat.",2,2
+546,"Peperstraat","rue du poivre","van hoogstraat tot burgstr.",2,2
+547,"Perkamentstr.","r. du parchemin","van burgstr. tot de lei.",2,2
+548,"Peterceliestraat","rue du persil","van boomstraat tot brugschesteenweg.",6,2
+549,"Pharaïldeplaats",,"ziet veerleplaats.",,
+550,"Phoenixstraat, buiten de brugschepoort","r. du phoenix, faub. de Bruges","van coupure tot brugschesteenweg.",6,2
+551,"Plaisantevest","rempart de plaisance","ziet boulevard van plaisance.",,
+552,"Plattensteeger",,"maakt deel van s. salvatorstraat.",,
+553,"Ploegstraat","rue de la charrue","van den meulesteedschesteenweg tusschen 160 en 162 tot ijzeren weg.","S 3",1
+554,"Plottersgracht","fossé des corroyeurs","van hertogstraat tot roodekoningstraat.",3,1
+555,"Pluimstraat","rue de la plume","van tinnepotstraat tot korte zilverstraat.",2,2
+556,"Poel","place du marais","van drapstraat tot hoogstraat.",2,2
+557,"Poelmanstraat","rue Poelman","ziet kleine statiestraat.",,
+558,"Pontstraat","rue du bac","Gentbrugge, van kerkstraat tot de schelde.",0,1
+559,"Populierstraat","rue du peuplier","van boulevard van plaisance tot boulevard van den gazometer.",3,1
+560,"Posthoornstraatje",,"ziet kromsteeg.",,
+561,"Posthoornstraat","rue du cornet de poste","Ledeberg, van brusselschesteenweg tot kerkstraat en tot den dries, Gentbrugge.",0,1
+562,"Pouillemarkt","marché aux poulets","ziet kiekenmarkt.",,
+563,"Predikheerenlei","quai des dominicains","van graslei tot hoornstraat.",1,2
+564,"Predikheerenstraat","rue des dominicains","van predikheerenbrug tot onderbergen.",2,2
+565,"Priestersstr.","r. des prêtres","van s. salvatorstr. tot dok.",3,1
+566,"Prinsenhof","cour du prince","v. groot gewat tot rabotweg.",2,1
+567,"Prinsenstraat","rue du prince","van het prinsenhof tot de rabotstraat (voortijds de 1e prinsenhofzaksteeg).",2,2
+568,"Prinsensteeg of 1e prinsenhofzaksteeg (impasse du prince.",,"ziet prinsenstraat.",2,"2 2e prinsenhofzakstraat of hofsteeg (impasse de la cour) in ’t prinsenhof, straat zonder eind."
+569,"Prooststraat","rue du prévôt","van s. machariusstraat tot kazematstraat.",7,1
+570,"Proveniersstraat","rue des prébendiers","van begijnenplaats tot begijnenstraat.",2,1
+571,"Puinstraat","rue des ruines","van boulevard Lousbergs tot ossenstraat.",7,1
+572,"Quaedham",,"ziet spiegelstraat.",,
+573,"Rabotdreef","avenue du rabot","in den nieuwen rabotwijk, v. De Smetstraat t. den gazometersboulev. aan de brug van den spoorweg op de verbindingsvaart.",6,2
+574,"Rabotstraat","rue du rabot","van begijnendries tot boulevard van het begijnhof.",2,2
+575,"Rabotweg","passage de rabot","van prinsenhof tot boulevard van het begijnhof.",2,2
+576,"Raffinadestraat","rue de la raffinerie","van waaistraat tot de lei, achterlei.",1,1
+577,"Ramstraat","rue du bélier","van hoogstraat tot burgstraat",2,2
+578,"Rapenstraat","rue des navets","van lange violettestraat tot Antheunisstraat.",4,1
+579,"Rasphuisstraat","rue de la maison de force","van hoogstraat tot coupure, rechter oever.",2,2
+580,"Ravenstraat","rue du corbeau","van veldstraat tot de rivier, oude ajuinlei.",1,2
+581,"Recollettenlei","quai des récollets","van oude ajuinlei tot lindelei.",2,2
+582,"Recollettenplein","place du palais de justice, ou place du commerce, ancienne plaine des récollets","van veldstraat en recollettenbrug tot ketelbrug.",1,2
+583,"Reep","quai du bas-escaut","van brabantdam tot keizerkarelstraat.",4,1
+584,"Regattendreef","avenue des régates","van bleekersreke tot dok.",7,1
+585,"Registerstraat",,"ziet rogierstraat.",,
+586,"Regnessestraat","rue des régnesses","van s. janstraat tot biezenkapelstraat.",1,2
+587,"Reigerstraat","rue du héron","van ganzendriesstraat tot voskensstraat, s. pieters-aalst.",5,2
+588,"Renodeynstraat",,"ziet hoveniersstraat.",,
+589,"Ridderstraat","rue des chevaliers","van baaisteeg tot spiegelstraat.",1,1
+590,"Rietgracht",,"maakt nu deel van boulev. van het kasteel.",,
+591,"Rietstraat","rue du roseau","in den nieuwen rabotwijk, van de kerkstraat tot de vlotstraat.",6,2
+592,"Rietstraatje",,"ziet koolsteeg.",,
+593,"Rioolstraatje","ruelle de l'égoût","van twaalfkamersstraat tot coupure, rechter oever.",2,2
+594,"Rodscheweg","chemin de Rode","Ledeberg, van hundelgemschesteenweg tot op den weg van Gontrode.",0,1
+595,"Rogierstraat","rue du roger","van s. pietersnieuwstraat tot s. huibrechtstraat.",6,2
+596,"Roigemstraat","rue de Rooigem","van phoenixstraat tot geitenstraat en peterceliestraat.",6,2
+597,"Rommelwater",,"ziet visscherijvest of boulevard van het slachthuis.",,
+598,"Roode koningstraat","rue du roitelet","van oudburg tot korte kalversteeg.",3,1
+599,"Roodeleeuwstr. uitkomende op den hundelgems. steenw.",,,0,1
+600,"Roodelijvekensstraat","rue des filles-dieu ou des corsetsrouges","van slijpstraat tot chartreuzenstraat.",3,1
+601,"Roodetorenkaai","quai de la tour rouge","van steendam tot kasteelkaai.",7,1
+602,"Roodetorenstraat","rue de la tour rouge","van kalvermarkt tot pasbrug.",1,1
+603,"Roosstraat",,"ziet paradijszak.",,
+604,"Roosendal",,"ziet kleine s. Gillisstraat.",,
+605,"Roosendalken","vallée aux roses","van bagattestraat tot bloemstraat.",5,2
+606,"Roskamstraat","r. de l'étrille","v. nederpolder tot barrestr.",1,1
+607,"Rijkeclarenstraat","rue des riches-claires","van s. lievenstraat tot boulevard Frère-Orban.",4,1
+608,"Saliestraat","r. de la sauge","v. stoppelstr. t. 12kamersstr.",2,2
+609,"Sasscheblindestraat","impasse du sas","in de sasschestr.","S 3",1
+610,"Sasschekaai","quai du sas","van de sassluis tot de sasschepoortbrug (voormuide).","S 3",1
+611,"Sasschepoortstraat",,"ziet voormuide.",,
+612,"Sasschestr.","rue du sas","v. voormuide tot sasschekaai.","S 3",1
+613,"Savaanstraat","rue savaen","van nederkouter tot walpoortbrugstraat.",5,2
+614,"Schaliestraat","rue de l'ardoise","van de palinghuizen tot de pannestraat.",6,2
+615,"Scheldekant","rive de l'escaut","Ledeberg, van hundelgemschesteenweg tot brusselschesteenweg, Gentbrugge.",0,1
+616,"Scheldesteeg","passage de l'escaut","van brabantdam tot kuiperskaai.",4,1
+617,"Schepenhuisstraat","rue des échevins ou des grainiers","ziet zaadsteeg.",,
+618,"Scheiergat","porte d'eau ou d’akkergem","van akkergemboulevard tot de lei.",2,2
+619,"Schietspoelstraat","rue de la navette","ziet nettestraat (rue du filet).",6,2
+620,"Schildstraat","rue du bouclier","van groendreef tot brugschesteenweg.",6,2
+621,"Schoenlappersstraat","rue des savetiers","van langemunt links, tot de rivier, kraanlei.",1,1
+622,"Schokkebroedersvest","rempart des Alexiens","van poel tot watergraafstraat.",2,2
+623,"Schoolkaai","quai de l’école","van De Pauwbrug tot boulevard van het kasteel.",7,1
+624,"Schoolstraat","rue de l’école","van slachthuisboulevard tot kazematstraat.",7,1
+625,"Schoolstraat","rue de l’école","Ledeberg, van posthoornstraat tot Gentbrugge.",0,1
+626,"Schoolstraatje ","ruelle de l'école "," v. schoolkaai t. schoolstr.",7,1
+627,"Schouwburgstraat",,"ziet comediestraat.",,
+628,"Schouwvagersstraat","rue des ramoneurs","van houtlei tot holstraat.",2,2
+629,"Schreiboomstraat","rue de schreiboom ou d’Hebbrecht","van kortrijkschestraat tot de lei.",5,2
+630,"Schuddeveestraat, op de koornmarkt, nu gesloten","rue de l’abri-bétail","van koornmarkt tot graslei.",1,2
+631,"Schuddevischstraatje","rue de l’abri-poisson","zonder eind, op de groenselmarkt, tusschen nrs 11 en 12.",1,2
+632,"Schuur- of schuurkensstraat","rue de la grange","van stoppelbergstraat tot medenaaisteeg.",1,2
+633,"Seminariestraat","rue du séminaire","van regnessestraat tot bij s. baafs.",1,2
+634,"Serpentstraat",,"ziet wandelsteeg.",,
+635,"S. Agneetestraat","r. s. Agnès","v. lindelei t. wijngaardstr.",2,2
+636,"S. Amandplaats","place s. Amand","tusschen s. pietersplein en s. amandstraat.",5,2
+637,"S. Amandstraat","rue s. Amand","van s. pietersvrouwstraat tot heuvelstraat.",5,2
+638,"S. Annastraat","rue s. Anne","van langeviolettestraat tot het begin van den boulevard Frère-Orban.",4,1
+639,"S. Antoniuskaai","quai s. Antoine","van academiebrug tot lievegang.",3,1
+640,"S. Baafsklooster",,"ziet bij s. baafs.",,
+641,"S. Baafsplein","plaine s. Bavon","van bij s. baafs tot reep.",1,2
+642,"S. Baafsstraat","r. s. Bavon","v. nederpolder t. bij s. baafs.",1,2
+643,"S. Barbarastraat","r. s. Barbe","v. ketelvest tot savaanstr.",5,2
+644,"S. Catherinastr.","r. s. Catherine","v. gelukstr. t. goudstr.",3,1
+645,"S. Crispijnstraat","rue S. Crépin","van wilderoosstraat tot vrouwmattenstraat.",2,2
+646,"S. Elisabethplein",,"ziet begijnendries.",,
+647,"S. Elisabethsteeg","impasse s. Elisabeth","in de bloemstraat, zonder eind.",6,2
+648,"S. Gillisstraat","rue s. Gilles","v. slijpstr. tot s. gillisbrug.",3,1
+649,"S. Hubert- of Huibrechtstraat","rue s. Hubert","van s. pietersvrouwstraat tot laurierstraat.",5,2
+650,"S. Jacobsklooster",,"ziet bij s. jacobs.",,
+651,"S. Jacobsnieuwstraat","rue neuve s. Jacques","van vlasmarkt tot beesten- of ossenmarkt.",1,1
+652,"S. Jansdreef","avenue s. Jean","van oude schaapmarkt tot steendam.",1,1
+653,"S. Janstraat","rue s. Jean","v. catalognestr. t. bij s. baafs.",1,2
+654,"S. Jansvest","rempart S. Jean","van kortedagsteeg tot brabantstraat.",1,2
+655,"S. Jorisstraat",,"ziet steendam.",,
+656,"S. Josephstraat","rue S. Joseph","van prooststraat tot s. Machariusstraat.",7,1
+657,"S. Lievensboulevard",,"ziet boulevard van S. Lieven.",,
+658,"S. Lievensteeg","passage de la rue S. Liévin","van s. lievenstraat tot boulevard Frére-Orban.",4,1
+659,"S. Lievenstraat","rue s. Liévin","van langeviolettestraat tot s. lievenspoort.",4,1
+660,"S. Lievensvest","rempart s. Liévin","van muinkkaai tot dierentuindreef.",5,1
+661,"S. Machariusplein","plaine s. Macaire","van s, machariusstraat tot spanjaardstraat.",7,1
+662,"S. Machariusstraat","rue s. Macaire","van De Pauwbrug tot s. machariusplein.",7,1
+663,"S. Margrietestraat","rue s. Marguerite","van geldmunt tot fabriekplaats.",3,1
+664,"S. Martensblindeken","impasse s. Martin","op akkergemstraat, zonder eind.",2,2
+665,"S. Martenskerkstraat",,"ziet s. martensblindeken.",,
+666,"S. Martenstraat","rue s. Martin","van bestormstraat tot korte violettestraat.",2,2
+667,"S. Michielsplaats","place s. Michel","van koornlei en onderbergen tot s. michielstraat.",2,2
+668,"S. Michielstraat","r. s. Michel","v. s. michielspl. tot poel.",2,2
+669,"S. Pharaïldeplaats",,"ziet veerleplaats.",,
+670,"S. Pieterstraat","rue s. Pierre","van s. pietersplein, achter de kerk, tot opperschelde, muinkkaai.",5,2
+671,"S. Pieters-Aalst","s. Pierre Alost","van buiten de heuvelpoort en linkerkant des kortrijkschesteenweg tot Ledeberg, Zwijnaarde, s. Denijs en s. Pieters-Aigem.",5,2
+672,"S. Pieters-Aalststraat","rue s. Pierre-Alost","van den zwijnaardschesteenweg tot den kortrijkschesteenweg, s. pieters-aalst.",5,2
+673,"S. Pieters-Aigem","s. Pierre-Aigem","van b. de kortrijkschepoort tot s. Pieters-Aalst, s. Denijs, Afsné en Drongen.",5,2
+674,"S. Pietersnieuwstraat","rue neuve s. Pierre","van walpoortbrugstraat tot s. pietersplein.",5,2
+675,"S. Pietersplein","plaine s. Pierre","van s. pietersnieuwstraat tot heuvelstraat.",5,2
+676,"S. Pietersvrouwstraat","rue des femmes s. Pierre","van nederkouter tot s. amandstraat.",5,2
+677,"S. Salvatorstr.","r. s. Sauveur","v. slijpstr. tot voormuide.",2,1
+678,"Slachthuisstraat","rue de l’abattoir","van het begin van den boulevard Lousbergs tot boulev. van ’t kasteel.",7,1
+679,"Slekkenboek","impasse des limaçons","in de roodetorenstraat, zonder eind.",1,1
+680,"Sleutelstraat","rue de la clef","v. brabantdam tot gruisberg.",4,1
+681,"Sluizeken","place de l’écluse","van oudburg tot slijpstraat.",3,1
+682,"Sluizekenskaai","quai de l’écluse","v. tichelrij t. sluizeken.",3,1
+683,"Sluizekensstraat","rue de l’écluse","van het sluizeken tot krommenwal,",3,1
+684,"Slijpstraat","rue des remouleurs","ou du remoulage) van sluizeken en korte steenstraat tot s. salvatorstraat.",3,1
+685,"Smisstraat","rue de la forge","van kortrijkschesteenweg tot ganzendriesstraat, s. pieters-aigem.",5,2
+686,"Spaansch hospitaalsteeg","impasse de l'hôpital espagnol","op de kalvermarktstraat, zonder eind.",1,1
+687,"Spaarstraat, ook Laurentstraat","rue de l’épargne, rue Laurent","van boulevard van plaisance tot gazometerslaan.",3,1
+688,"Spadestraat","r. de la bêche","v. de Zeilstr. t. de ploegstr.","S 3",2
+689,"Spanjaardskasteel","chateau des Espagnols, vieille citadelle","van de kasteelbrug tot aan de dampoort, tusschen de visscherij en den rietgracht, nu verdeeld in verscheidene straten.",7,1
+690,"Spanjaardskasteelkaai",,"ziet kasteelkaai.",,
+691,"Spanjaardskasteelbrugstraat",,"ziet kasteelbrugstraat.",,
+692,"Spanjaardsstraat","rue des Espagnols","van prooststraat tot slachthuisstraat.",7,1
+693,"Speldenstraat","rue des épingles","van garenplaats tot speldenbrug, goudstraat.",1,1
+694,"Spiegelstraat","rue du miroir","van nederpolder tot s. jacobsnieuwstraat.",1,1
+695,"Spinnersstraat","r. des fleurs","v. roigemstr. t. weversstr.",6,2
+696,"Spijkerboorstraat","rue de la tarière","van slijpstraat tot de lei, groot meerhem, nu gesloten.",3,1
+697,"Stadhuissteeg","ruelle de l’hôtel-de-ville","van goudenleeuwplaats tot hoogpoort.",1,2
+698,"Stalhof","rue des écuries","van heuvelstraat tot opperschelde, terplaten.",5,2
+699,"Statieplaats","place de ta station, place ou rue du comte de Flandre","van statiestraat tot boulev. Frère-Orban.",4,1
+700,"Statiesteeg",,"ziet kleine statiestraat.",,
+701,"Statiestraat","rue de la station","van arteveldeplein tot Lieven Bauwensplaats.",4,1
+702,"Steendam","rue s. Georges","van bij s. jacobs tot roodetorenkaai, s. jorisbrug.",1,1
+703,"Steenhouwers- of steenkappersstraat","rue des tailleurs de pierre","Ledeberg, van nieuwestraat tot langestr.",0,1
+704,"Sterrestraat","rue de l'étoile","van koornmarkt tot predikheerenlei aan s. michielsbrug.",1,2
+705,"Sterrestraatje","petite rue de l’étoile","van kortrijkschestraat tot de lei.",5,2
+706,"Steurstraat","rue de l'esturgeon","v. garenpl. tot druifsteeg.",1,1
+707,"Stierstraat","rue du taureau","van boulevard van het kasteel tot kazemattestraat.",7,1
+708,"Stofstraat","rue du la poussière","van recollettenlei tot onderbergen.",2,2
+709,"Stokersstraat","r. des distillateurs","v. nieuwland tot dok.",3,1
+710,"Stoppelbergstraat","rue mont-au-chaume","van einde koornmarkt tot predikheerenlei.",1,2
+711,"Stoppelstraat","rue du chaume","van annonciadenstraat tot waarschootstraat.",2,2
+712,"Stovesteeg","imp. du pole","op de beestenmarkt, z. eind.",1,1
+713,"Straat zonder eind","rue sans fin","rechterkant langemunt, zonder eind.",1,1
+714,"Stropstraat","rue du Strop","van en tot ottergemschesteenweg, s. pieters-aalst.",5,2
+715,"Struifstraat","rue de l'ommelette","van engelandgat tot bestormstraat.",2,2
+716,"Stuksken","rue de la pièce","van zakkebandstraat tot koepoortkaai.",4,1
+717,"Tavernierstraat",,"ziet zeugesteeg.",,
+718,"Tempelhof","rue des templiers","van s. margrietestraat tot lang schipgracht.",3,1
+719,"Terneuzenlaan","avenue de Terneuzen","van de sasschepoortbrug, buiten muide, tot meulestedebrug.","S 3",1
+720,"Terplaten","quai Terplaten","van Benardstraat langs opperschelde tot Ledeberg.",5,2
+721,"Thaliestraat","rue Thalie","van zwijnaardschesteenweg tot ottergemschesteenweg, s. pieters-aalst.",5,2
+722,"Theresianenstraat","rue des Thérésiennes","van holstraat tot coupure, rechter oever.",2,2
+723,"Tichelrij","quai des tuileries","van sluizekenskaai tot roodelijvekenskaai, chartreuzenbrug.",3,1
+724,"Tinnepotstraat","rue du pot d'étain","van groot gewat tot korte zilverstraat.",2,2
+725,"Tjooremaatjesmeersch",,"ziet leopoldstraat, enz.",,
+726,"Toevluchtstraat","rue du refuge","van regnessenstraat tot nederpolder.",1,2
+727,"Tolhuiskaai",,"ziet nijverheidskaai.",,
+728,"Tolkaai","quai du péage","van tolhuisbrug tot de sluis van terneuzenlaan.","S 3",1
+729,"Tooveresstraat","rue des sorcières","Ledeberg, ziet kleine binnenweg.",0,1
+730,"Torrekensstraat","rue des tourelles","ontworpen straat in den nieuwen rabotwijk, van de rabotdreve tot MariaTheresiaplaats.",6,2
+731,"Turfsstraat","rue de la tourbe","ontworpen straat in den nieuwen rabotwijk, van de rabotdreve tot vlotstraat.",6,2
+732,"Turnerstraat",,"buiten de keizerpoort, ziet pontstraat.",,
+733,"Tusschen ’t pas",,"ziet roodetorenstraat.",,
+734,"Twaalfkamersstraat","rue des douze chambres","van annonciadenstraat tot coupure, rechter oever.",2,2
+735,"Tweebruggenstraat","rue des deux ponts","van statieplaats tot visscherij.",4,1
+736,"Twijndersstraat","rue des retordeurs","van steurstraat tot baudeloolei.",1,1
+737,"Uilkensstraat","rue des hiboux","van zwijnaardschesteenweg tot den ijzerenweg, s. pieters-aalst.",5,2
+738,"Ukkelram",,"ziet belgradestraat.",,
+739,"Universiteitstraat",,"ziet voldersstraat.",,
+740,"Ursulinenstraat","rue des ursulines","van zandberg tot spiegelstraat.",1,1
+741,"Vaartstraat","rue du canal","van bleekersreke tot dok.","S 3",1
+742,"Valkstraat","rue du faucon","van veldstraat tot de rivier, oude ajuinlei.",1,2
+743,"Van Akensstraat","rue Van Aken","van begijnenplaats tot Verspeyenstraat.",2,2
+744,"Van Caneghemsstraat","rue Van Caneghem","van groenstraat tot huidevetterken.",3,1
+745,"Vanderdonckt doorgang","passage Vanderdonckt","van brabantdam tot statiestraat.",4,1
+746,"Vanderdoncktgalerij",,"ziet Vanderdonckt doorgang.",,
+747,"Van Geertstraat","rue Van Geert","Ledeberg, van brusselschesteenweg tot posthoornstraat.",0,1
+748,"Van Lokerenstraat","rue Van Lokeren","Ledeberg, van brusselschesteenweg tot steenkappersstraat.",0,1
+749,"Van Wittenberghestraat","rue Van Wittenberghe","van rabotstraat tot boulevard van het begijnhof.",2,2
+750,"Veerdamstraat of drongenhof","rue du Bac","van oudburg tot langesteensstraat.",3,1
+751,"Veerstraat","rue du ponton","van keizerkarelstraat tot nederschelde, visscherij.",4,1
+752,"Veergrepstraat","passage du ruisseau","van kortrijkschestraat tot de lei.",5,2
+753,"Veerleplaats","place ste Pharaïlde","van kraanlei tot hoogozonnestraat.",3,1
+754,"Veldstraat","rue des champs","van koornmarkt tot recollettenplein.",1,2
+755,"Vera-Paz",,"ziet sasscheblindenstraat.",,
+756,"Verbindingstraat","rue du raccordement","van plaisanteboulevard naar gazmeterslaan, achter de rabotstraat.",3,1
+757,"Verguldenhoofdstraat",,"ziet druifsteeg.",,
+758,"Verkensstraat","rue des cochons","van pluimstraat tot korte zilverstraat.",2,2
+759,"Verlorenbroodstraat","rue du pain-perdu","van nederkouter tot coupure, linker oever.",5,2
+760,"Verplanckestraat",,"ziet Waarschootstraat.",,
+761,"Verspeyenstraat","rue Verspeyen","van rabotstraat tot boulevard van het begijnhof.",2,2
+762,"Vildersstraat",,"siet- kouterdreef.",,
+763,"Vinkstraat","rue du pinson","van den kortrijkschesteenweg tot de ganzendriesstraat.",6,2
+764,"Violettenlei","quai des violettes","uan houtlet tot annonciadenstraat.",2,2
+765,"Violettenstraat","rue des violettes","van brabantdam tot vijfwindgatbrug.",4,1
+766,"Visscherij","quai de la pêcherie","van tusschen de pas¬ en roodetorenbrug tot de Willembrug.",7,1
+767,"Visscherij, linker oever","pêcherie, rive gauche","ziet boulevard Lousbergs.",,
+768,"Visscherij",,"rechter oever, ziet visscherij.",,
+769,"Visscherijvest of rommelwater","rempart de la pêcherie","ziet boulevard van het slachthuis.",,
+770,"Vlasmarkt","marché au lin","van bij s. Jacobs tot s. jacobsnieuwstraat.",1,1
+771,"Vlasstraat","rue au lin","van leistraat tot kroonstraat.",6,2
+772,"Vlotstraat","rue du radeau","ontworpen straat in den nieuwen rabotwijk, v. Maria-Theresiaplaats tot kleistraat.",6,2
+773,"Voetweg","rue du sentier","v. muinkbrugstr. tot heuvelstr.",5,2
+774,"Vogelmarkt","marché aux oiseaux","v. brabandstr. t. kouter. ",1,"h"
+,"Vogelenzangkaai","quai du ramage","van molenaarsstraat tot geuzenberg.",3,1
+775,"Voldersstraat","rue des foulons, des jésuites ou de l'université","van kalanderstraat tot veldstraat.",1,2
+776,"Volmolenplaats","place du moulin à foulon","van roodetorenstraat tot nederschelde, aan de pasbrug.",1,1
+777,"Voormuide","rue voormuide ou de la porte du sas","van s. salvatorstraat tot buitenmuide.","S 3",1
+778,"Vooruitgangplaats","place du progrès","Ledeberg, tusschen de kerkstraat en de langestraat.",0,1
+779,"Vossenstraat","rue du renard","van brugschesteenweg tot roigemstraat.",6,2
+780,"Voskensstraat","rue des renardeaux","van ganzendriesstr. tot maltebrugstraat, s. pieters-aigem.",5,2
+781,"Vredestr.","r. de la paix","v. wollestr. t. zondernaamstr.",7,1
+782,"Vreesebeluik","cité Devreese, cité ouvrière","ziet Devreesebeluik,",,
+783,"Vrouwenstraat",,"ziet s. pietersvrouwstraat.",,
+784,"Vrouwenstraat",,"ziet lange wijngaardstraat.",,
+785,"Vrouwmattestraat","rue des garde-couches","van onderbergen tot engelandgat.",2,2
+786,"Vrijdagmarkt","marché du vendredi","van groot kannonplaats tot oude vlasmarkt.",1,1
+787,"Vrijheidstraat",,"ziet oranjeberg.",,
+788,"Vijfwindgatstraat","rue des cinq vannes ou cinq vents","van lange violettestraat tot boulev. Frère-Orban.",4,1
+789,"Waaistraat","rue aux vents","v. vrijdagmarkt tot garenpl.",1,1
+790,"Waarschootstraat","rue Waarschoot","van perstraat tot stoppelstraat.",2,2
+791,"Wagemans- of Wagenaarstr.",,"ziet zwartezustersstraat.",,
+792,"Walpoortbrugstraat","rue du pont-madou","van kortedagsteeg tot s. pietersnieuwstraat.",5,2
+793,"Wandelsteeg","rue de la promenade ou du serpent","van onderstraat tot kammersstraat.",1,1
+794,"Wapenplaats","place d'armes","ziet kouter Waterstraatje (ruelle de l'eau) op s. pietersnieuwstraat, eerste straat zonder eind, links.",5,2
+795,"Waterpoort",,"ziet scheiergat.",,
+796,"Watergraafsstraat","rue watergraaf","van s. michielstraat tot engelandgat.",2,2
+797,"Weezenstraat","rue des orphelins","van barrestraat tot oude ossenmarkt.",1,1
+798,"Weidestraat","rue du pâturage","van antwerpschesteenweg tot weldadigheidstraat.",7,1
+799,"Weldadigheidstraat, dampoort","rue de la bienfaisance","van kogelstraat tot weldadigheidstr., s. Amandsberg.",7,1
+800,"Weldadigheidstraat","rue de la bienfaisance","Ledeberg, van hundelgemschesteenweg tot moriaanstraat",0,1
+801,"Weldadigheidstr.","rue de la bienfaisance","s. Amandsberg, van de weldadigheidstr., Gent, tot meerschkantstraat.",0,1
+802,"Wellinckstraat","rue Wellinck","vau houtlei tot holstraat.",2,2
+803,"Werkhuisstraat","rue de l'atelier","van drongenscheweg tot leikaai.",6,2
+804,"Werregarenstr.","rue du fil-tors","v. hoogpoort t. onderstr.",1,1
+805,"Weststraat","rue de l'ouest","Ledeberg, van vooruitgangplaats tot langestraat.",0,1
+806,"Weversstraat","rue des tisserands","van brugschesteenweg tot roigemstraat.",6,2
+807,"Wilderoosstraat","rue de l’églantine","van onderbergen tot engelandgat.",2,2
+808,"Wilgestraat","rue du saule","ontworpen straat in den nieuwen rabotwijk, van de kerkstraat tot kleistraat.",6,2
+809,"Willem-Tellstraat","rue Guillaume-Tell","van bagattestraat tot kalkstraat.",5,2
+810,"Windmolenstraat","rue du Moulin-à-vent","van meulesteedschesteenweg tot spadestraat.","S 3",2
+811,"Winkelsteeg","rue des boutiques","van kleine beenhouwersstraat tot sleutelstraat.",4,1
+812,"Wollestraat","rue aux laines","van dampoortstr. tot dok.",7,1
+813,"Wolvensteeg","r. aux loups","v. vrijdagm. tot baudeloolei.",1,1
+814,"Wolvenstraat","rue des loups","ziet kleine bellevuestraat.",,
+815,"Wondelgemstraat","rue de Wondelgem","in den nieuwen rabotwijk, van de brug op boulevard van ’t begijnhof tot wilgestraat.",6,2
+816,"Wijngaardstr.","r. de la vigne","v. pekelharing t. ijperstr.",2,2
+817,"IJkstraat","r. des jaugeurs","v. s. jansdreef tot het water.",1,1
+818,"IJpersteeg","passage d'Ypres","van perstraat tot coupure, rechter oever.",2,2
+819,"IJperstraat","rue d'Ypres","van violettelei tot coupure.",2,2
+820,"IJskelderstraat","r. de la glacière","ontworpen straat in den nieuwen rabotwijk, van Desmetstraat tot kerkstraat.",6,2
+821,"IJzerstraat","rue du fer","van weversstraat tot roigemstr.",6,2
+822,"Z. Zaadsteeg","r. des grainiers","v. hoogpoort tot onderstraat.",1,1
+823,"Zaaimansstraat","rue des semeurs","van s. margrietestraat tot kort schipgracht.",3,1
+824,"Zagermansstraat","rue des scieurs","van kortedagsteeg tot s. jansvest.",1,2
+825,"Zakkebandstr.","r. aux liens","v. koepoortkaai tot stuksken.",4,1
+826,"Zandberg","place du sablon","van einde hoogpoort tot koningstraat.",1,1
+827,"Zeilstraat","rue de la voille","van meulesteedschesteenweg tusschen nrs 74 en 76 tot spadestraat.","S 3",2
+828,"Zeugesteeg","r. aux truies","v. plottersgracht tot geldmunt.",3,1
+829,"Zeurzaksteeg","rue des tricheurs","ziet appelbrugstraat.",,
+830,"Zilverstraat","rue d'argent","van beestenmarkt tot kalverm.",1,1
+831,"Zomerstraat",,"ziet De Somerstraat.",,
+832,"Zonder eindestraat",,"ziet straat zonder eind.",,
+833,"Zondernaamstraat","rue des sans-nom","van metsersstraat tot kasteelbrugstraat.",7,1
+834,"Zonnestraat","rue du soleil","v. kouter tot recollettenplein.",1,2
+835,"Zoutstraat","rue du sel","van nederkouter t. de lei, lindelei.",5,2
+836,"Zuidkaai, b. de brugschepoort","quai du sud, faubourg de Bruges","van phoenixstraat tot groendreef.",6,2
+837,"Zuivelsteeg","rue du laitage","van zuivelbrugstraat tot vrijdagmarkt.",1,1
+838,"Zuivelbrugstraat","rue du pont du laitage","van zuivelsteeg tot oudburg.",3,1
+839,"Zwaanstraat","rue du cygne","v. oudburg tot k. kalversteeg.",3,1
+840,"Zwaardsteeg","impasse du glaive","van brabantdam tot de schelde, zonder eind.",4,1
+841,"Zwaluwensstraat","rue des hirondelles","van roigemstraat tot leikaai.",6,2
+842,"Zwartezustersstraat","rue des soeurs-noires ou des charretiers","van onderberger tot struifsteeg.",2,2
+843,"Zwijnaardschesteenweg","chaussée de Zwijnaarde","van de voorm, heuvelpoort tot zwijnaarde, s. pieters-aalst.",5,2
+844,"Academiebrug","pont de l’académie","tusschen de academiestraat en de lievekaai.",,
+845,"Aardewegbrug","pont du chemin de terre","op de noordkaai, buiten de brugschepoort.",,
+846,"Antwerpschepoortbrug","pont de la porte d'Anvers","tusschen de dampoortstraat en den antwerpschesteenweg.",,
+847,"Appelbrug","pont aux pommes","tusschen de appelbrugstraat en de breidelsteeg.",,
+848,"Bargiebrug","pont de la barque","tusschen de noordkaai en de phoenixstraat, brugschepoort.",,
+849,"Berouwbrug","pont du repentir","in de berouwstraat.",,
+850,"Bestormbrug","pont d'assaut","tusschen de bestormstraat en de violettelei.",,
+851,"Brugschepoortbrug","pont de la porte de Bruges","tusschen de brugschepoortstraat en de noordkaai.",,
+852,"Bijlokebrug","pont de la Biloque","van boulevard der bijloke tot citadelstraat, ziet ook leibrug Chartreuzenbrug (pont des chartreux), tusschen de roodelijvekensstraat en de chartreuzenstraat.",,
+853,"Citadelbrug",,"ziet leibrug.",,
+854,"Dampoortbrug",,"ziet antwerpschepoortbrug.",,
+855,"Depauwbrug","pont De Pauw","tusschen de kasteelkaai en s. machariusstraat.",,
+856,"De Smetbrug","pont De Smet","van boulev. van ’t begijnhof tot De Smetstraat, nieuwen rabotwijk.",,
+857,"Driegatenbrug","pont des trois vannes","tusschen de coupure en de phoenixstraat.",,
+858,"Entrepotbrug","pont de l'entrepôt","tusschen de lindelei en de coupure, linker oever.",,
+859,"Grasbrug","pont aux herbes","tusschen de gras- en koornlei.",,
+860,"Grendelgatbrug","pont du verrou","op de kleine bleekersreke.",,
+861,"Halsbrekerssbrug","pont du casse-cou","tusschen de s. salvatorstraat en het groot meerhem.",,
+862,"Hoofdbrug",,"ziet onthoofdbrug.",,
+863,"Huidevettersbrugsken","pont des tanneurs","tusschen het huidevetterken en de slijpstraat.",,
+864,"Kasteelbrug of Depauwbrug","pont du château ou Depauw","tusschen de kasteelkaai en s. machariusstraat.",,
+865,"Kernmelkbrug","pont du lait battu","tusschen bij s. Jacobs en het steendam.",,
+866,"Ketelpoortbrug","pont des chaudronniers ou des bastions","tusschen het recollettenplein en den nederkouter.",,
+867,"Kleine oudescheldebrug","pont du vieil escaut","tusschen de kleine kuipersstraat en de kuiperskaai.",,
+868,"Koepoortbrug","pont de la porte aux vaches","op de koepoortkaai.",,
+869,"Kombrug","pont du bassin","tusschen de kalvermarkt en de roodetorenstraat.",,
+870,"Kriekerijbrug","pont de la cérisaie","in het kriekerijstraatje.",,
+871,"Krommenwalbrug","pont du fossé courbe","van krommenwal tot sluizekensstraat.",,
+872,"Leibrug","pont de la Lys","van gasthuizenboulevard tot citadelstraat.",,
+873,"Lievebrug","pont de la lieve","tusschen de lievestraat en de lievekaai.",,
+874,"Marcellisbrug of ijzerenbrug","pont Marcellis ou en fer","tusschen de lammerstraat en de Lieven Bauwensplaats.",,
+875,"Meerschbrug","pont du pré","op den geuzenberg.",,
+876,"Meulestedebrug","pont de Meulestede","tusschen Meulestede en Wondelgem.",,
+877,"Minnemeerschbrug","pont du pré-d'amour","tusschen de minnemeerschplaats en de huidevetterskaai.",,
+878,"Muidebrugsken","pont du sas","tusschen de slijpstraat en de s. salvatorstraat.",,
+879,"Muink- of monnikbrug","pont des moines","tusschen de muinkkbrugstraat en de muinkkaai.",,
+880,"Nieuwbrug","pont neuf","tusschen de s. jacobsnieuwstraat en de keizerkarelstraat.",,
+881,"Nieuwe sluisbrug","pont de la nouv. écluse","op de sasschekaai.",,
+882,"Nieuwe vaartbrug","pont du canal de raccordement","aan de palingshuizen, over de verbindingsvaart.",,
+883,"Nieuwe wandelingbrug","pont de la nouvelle promenade","tusschen de contributiestraat en de nieuwe wandeling.",,
+884,"Oliebrugsken","pont de l'huile","in het oliestraatje.",,
+885,"Onthoofdbrug","pont de l'exécution","tusschen de hoogezonnestraat en de burgstraat.",,
+886,"Oordeelbrug","pont du jugement","tusschen de recollettenlei en de lindelei.",,
+887,"Ottergembrug","pont d'Ottergem","nieuwe brug op de Schelde aan den ijzeren weg, bij s. lievenspoort.",,
+888,"Oude brugschepoortbrug","pont de l’ancienne porte de Bruges","tusschen de driegatenbrug aan de phoenixstraat en leikaai.",,
+889,"Oude scheldebrug","pont du vieil escaut","van de muinkkaai naar s. lievensvest.",,
+890,"Oude scheldebrug of s. lievensvestbrug","pont du rempart s. Liévin","tusschen s. lievenstraat en Ledeberg.",,
+891,"Palingshuizenbrug","pont des maisons aux anguilles","van palingshuizen tot de groendreef.",,
+892,"Pasbrug","pont de la passe","tusschen de roodetorenstraat en de visscherij.",,
+893,"Plattesteegerbrug","pont de l'escalier","tusschen de s. salvatorstraal en het groot meerhem.",,
+894,"Poelmanbrug","pont Poelman","in de kleine statiestraat.",,
+895,"Predikheerenbrug","pont des dominicains","tusschen de hoornstraat en de predikheerenstraat.",,
+896,"Rabotbrug","pont du rabot","tusschen de begijnen- en de plaisante boulevards.",,
+897,"Rakenbrug","pont du râteau","tusschen het kortschipgracht en de chartreuzenstraat.",,
+898,"Rasphuisbrug","pont de la maison de force","tusschen den rechter en linker oever der coupure, aan de rasphuisstr.",,
+899,"Recollettenbrug","pont des récollets","tusschen het recollettenplein en kort onderbergen.",,
+900,"Roodetorenbrug","pont de la tour rouge","tusschen de visscherij en de roodetorenkaai.",,
+901,"Rozemarijnbrug","pont du romarin","tusschen den rechter en linker oever der coupure, aan de twaalfkamersstraat.",,
+902,"Sasschepoortbrug","pont de la porte du sas","tusschen de voormuide en de buitenmuide.",,
+903,"S. Gillisbrug","pont s. Gilles","tusschen de s. gillisstraat en de chartreuzenstraat.",,
+904,"S. Janbrug","pont S. Jean","tusschen de oude schaapmarkt en de s. jansdreef.",,
+905,"S. Jorisbrug","pont s. Georges","tusschen het steendam en de roodetorenkaai.",,
+906,"S. Michielsbrug","pont S. Michel","tusschen de sterrestraat en de koornlei, aan s. Michielskerk.",,
+907,"Sleutelkensbrug","pont des petites clefs","tusschen de lange steenstraat en de korte steensstraat.",,
+908,"Sluizekensbrug","pont des écluses","tusschen de oudburg en het sluizeken.",,
+909,"Stukbrug","pont de la pièce","tusschen de apostelstraat en het stuksken.",,
+910,"Terplatenbrug","pont de Terplaten","tusschen s. lievensvest en boulev. der citadel.",,
+911,"Tichelrijbrug","pont des tuileries","op de tichelrij.",,
+912,"Tolhuisbrug","pont du péage","tusschen den boulevard van plaisance en de nijverheidsplaats.",,
+913,"Torenbrug","pont de la tour ou de Thourout","tusschen den poel en de hopgstraat.",,
+914,"Verbindingsbrug nr 1, 2 en 3","pont de raccordement n° 1","de eerste ten einde der Vanderbruggensteeg",,
+,"Verbindingsbrug nr 2","pont de raccordement n° 2","de 2de van de visscherij tot boulevard van het kasteel",,
+,"Verbindingsbrug nr 3","pont de raccordement n° 3","en de 3de van den boulevard van het kasteel naar de kasteelbrugkaai.",,
+915,"Verlorenbroodbrug","pont du pain perdu","tusschen de verlorenbroodstraat en de coupure, linker oever.",,
+916,"Visscherijbrug","pont de la pêcherie","tusschen de visscherij en de roodetorenkaai.",,
+917,"Visscherijkombrug","pont du bassin de la pêcherie","tusschen de visscherij en boulevard Lousbergs, aan het keizers-sas.",,
+918,"Vleeschhuisbrug","pont de la boucherie","tusschen de groenselmarkt en de kleine vischmarkt.",,
+919,"Vijfwindgatbrug","pont des cinq vannes","tusschen de lange violettestraat en de brusselsche¬ en s. lievenstraat.",,
+920,"Walpoortbrug","pont madou","tusschen de kortedagsteeg en de walpoortbrugstraat.",,
+921,"Watermolenbrug","pont du moulin à eau","tusschen de brabantstraat en den brabantdam.",,
+922,"Willemsbrug","pont Guillaume","tusschen de visscherij en de keizerstraat.",,
+923,"Wondelgembrug","pont de Wondelgem","brug op den nieuwen vaart ten einde der wondelgemstraat.",,
+924,"Wijngaardbrug","pont de la vigne","tusschen het s. baafsplein en den reep.",,
+925,"Zaatbrug","pont, du chantier","tusschen het groot meerhem en het klein meerhem.",,
+926,"Zottepoortbrug","pont aux folles","tusschen de korte violettestraat en de annonciadestraat.",,
+927,"Zuivelbrug","pont du laitage","tusschen de zuivelsteeg en de zuivelbrugstraat.",,
