@@ -1,14 +1,3 @@
-LISTE DES RUES
-PLACES PUBLIQUES ET PONTS
-DE
-GAND, GENDBRUGGE, LEDEBERG,
-et MONT-ST-AMAND.
-Avec indication des tenants et aboutissants ainsi
-que de la Section de Police et du Canton de Justice
-de Paix auxquels ils appartiennent et renvois au
-plan (*).
-A
-Plan
 Abattoir, boul. de l' (slachthuislaan.) q. de l'école —
 boul. Lousbergs. (7—1)
 51-61
@@ -39,11 +28,6 @@ marron. (6—3)
 Académie, r. de l' (academiestr.) quai des augustins
 — r. Ste Marguerite. (3—3)
 38-39
-(*) Le premier chiffre est celui de la section de police, le second chiffre
-désigne le canton de justice de paix; les chiffres places à la fin de
-la ligne indiquent la situation des rues sur le plan.
-
-
 Aéroplane, aven. de l' (aeroplaanlaan) rue du Paon
 jusqu’au nouveau bassin. (8—1)
 4-12
@@ -122,8 +106,6 @@ Anvers, r. de la porte d'. Voir porte d'Anvers, r. de la.
 Apôtres, maisons des (apostelhuizen) r. Frans Acker¬
 man — r. aux liens. (4—1)
 61-71
-
-
 Arbalète, r. de l' (kruisboogstr.) r. d’Akkergem — r.
 du bluet. (11—2)
 49
@@ -203,8 +185,6 @@ mètre (10—3)
 Automne, r. de l' (herfststr) r. du strop — ch. d'Ot-
 tergem. (9—2)
 99
-
-
 Autrichiens, r. des (oostenrijkersstr.) r. du prévôt —
 nouv. marché au bétail (7—1)
 62
@@ -237,7 +217,6 @@ l'olive. (6—3)
 Azalée, r. de l' (azaleastr.) r. arrière — r. de l'école
 (Mont-St Amand).
 44 54
-B
 Babouin, r. du (baviaanstr.) r. des semeurs — place
 des fabriques. (3—3)
 39
@@ -282,8 +261,6 @@ royale. (1—1)
 Bassin, place du (bassijnplaats) — r. du bassin —
 quai de l’Escaut. (Gendbrugge).
 83
-
-
 Bassin, r. du (bassijnstr.) r. de l’église — place du
 bassin. (Gendbrugge).
 83
@@ -361,9 +338,6 @@ du lin. (6—3)
 Bétail, nouv. marché au (nieuwe veemarkt) boul.
 du château — abattoir. (7—1)
 62
-A*
-
-
 Bétail, vieux marché au (oude veemarkt) rue neuve
 St. Jacques — r. d'argent et q. du pont neuf. (1—1)
 51-61
@@ -440,8 +414,6 @@ Boma, r. de (Bomastr.) r. terre-neuve — r. du jambon.
 Bombay, r. de (Bombaystr.) r. de Londres — av. de
 l’avant-port. (8—1)
 10
-
-
 Bondon, r. du (bommelstr.) ch. d'Ottergem — boul.
 du Strop. (9—2)
 98-99
@@ -521,9 +493,6 @@ r. du cornet de poste — r. de l’école. (Ledeb.)
 Bruyère, r. de la (heidestr.) r. St Genois — r. de Gon¬
 trode.
 Gendbrugge.
-
-
-C
 Caille, r. de la (kwakkelst.) r. de l’église — r. de la tuile.
 (10—3)
 26
@@ -600,8 +569,6 @@ Ste Marguerite. (3—3)
 38
 Champ, r. du (kouterstr.) pl. de l’église — l’Escaut.
 Gendbrugge.
-
-
 Champs, r. c. des (k. veldstr.) r. Vande Velde — r.
 des champs.
 Gendbrugge.
@@ -682,9 +649,6 @@ château. (7—1)
 51
 Château, r. du (kasteelstr.) r. des sentiers — Melle.
 Gendbrugge.
-A**
-
-
 Chaudronniers, plaine des (ketelplein) commence¬
 ment de la r. basse des champs — la Lys. (5—2)
 69
@@ -765,8 +729,6 @@ delle — r. de la prairie. (9—2)
 Compromis, q. du (eedverbondkaai) b. de la citadelle
 — le long de la Lys. (9—2)
 86-87
-
-
 Comte de Flandre, place du (Graaf van Vlaanderen¬
 plaats) rue de la station — boulevard Frère-Orban.
 (4—1)
@@ -845,8 +807,6 @@ du prince. (2—3)
 Cour, impasse de la (prinsenhofzakstraat of steeg)
 cour du prince. (2—3)
 38-47
-
-
 Cour, petite avenue de la (klein gewat) aven. de la cout
 — q. de la Liève. (2—3)
 48
@@ -923,8 +883,6 @@ Demil, aven. (Demildreef) ch. d’Hundelgem — l’Escaut.
 Denaeyer, aven. (Denaeyerdreef) r. des remparts
 — ch. de Bruxelles (Gendbrugge).
 10
-
-
 Desmet, r. (Desmetstr.) pl. du rabot — boul. du
 gazomètre. (10—3)
 26-37
@@ -1001,8 +959,6 @@ remouleurs. (3—1)
 Ecluse, quai de l' (sluizekenskaai) r. c. des pierres —
 place de l’écluse. (3—1)
 39
-
-
 Ecole normale, r. de l' (normaalschoolstr.) boul. de la
 citadelle — ch. de Zwijnaerde. (9—2)
 99
@@ -1083,8 +1039,6 @@ bres — coupure, rive droite. (2—2)
 Eléphant, r. de l' (olifantstr.) boulev. Gustave Callier
 — pont de Terplaeten. (5—1)
 90 100
-
-
 Elisabeth, av. (Elisabethlaan) ch. de Courtrai — av.
 Abert. (9—2)
 96 97
@@ -1162,8 +1116,6 @@ rue du Jacquet. (9—2)
 Etrille, r. de l' (roskamstr.) r. du bas poldre — r. aux
 barres. (1—1)
 60
-
-
 Eve, r. d' (Evastr.) ch. d'Anvers — Westveld, Mont-
 St Amand.
 Evêché, quai de l' (bisdomkaai) place de l'évêché — r.
@@ -1178,7 +1130,6 @@ chem. de halage. (Ledeberg).
 Exposition, avenue de l' (Tentoonstellingslaan) rue
 Wenemaer et r. de l’éléphant — r. Benard (5—1).
 90-100
-F
 Fabrique, r. de la (fabriekstraat) r. des sentiers —
 l'Escaut, Gendbrugge.
 83
@@ -1239,8 +1190,6 @@ Comte de Flandre. (4—1)
 Flèche, rue de la (pijlstraat) — rue de l’arbalète —
 rue du spiegelhof. (11—2)
 56
-
-
 Fleur de blé, r. de la. Voir bluet, r. du
 Fleuristes, r des (bloemisteenstr.) ch. d'Anvers —
 arrière-rue. (Mont-St Amand).
@@ -1318,10 +1267,6 @@ Fruits, marché aux. Voir herbes, quai aux.
 Fuchsia, r. du (fuchsiastr.) r. du maïs — r. de la
 limite (10—3)
 16
-A**
-
-
-G
 Galveston, rue (Galvestonstraat) r. Ste-Thèrèse — rue
 du Dycktem. (8—1)
 11
@@ -1397,8 +1342,6 @@ Grive, r. de la (lijsterstr.) allée-verte — r. du rossignol
 Grue, quai de la (kraanlei) pl. Ste Pharaïlde — vieux
 bourg. (3—3)
 49
-
-
 Grue, r. de la (kraanstr.) r. du jambon — pl. du Dock.
 (8—1)
 41
@@ -1417,7 +1360,6 @@ boul. de l'industrie. (10—3)
 Gustave Callier, b. (Gustaaf Callierlaan) r. bénard —
 boul. St Liévin (4—1).
 90-100
-H
 Hainaut, r. du (Henegouwenstr.) place Laurent — r.
 de la calandre. (1—2)
 60
@@ -1476,8 +1418,6 @@ Hêtre, r. du (beu st.) r. du raccordement — r. du peuplier.
 Heyst, r. d' (Heyststr.) av. Elisabeth — r. de la forge
 (9—2)
 96
-
-
 Heyveld, r. (Heyveldstr.) arrière-rue — champ de
 courses. Mont-St Amand.
 44
@@ -1544,7 +1484,6 @@ Gendbrugge.
 Hundelgem, ch. d' (Hundelgemschesteenweg.) porte
 St Liévin — ch. d’Hundelgem (Gendbr.) Ledeb.
 101-113
-I
 Incendie, r. de l' (brandstr.) vieux q. au bois — r. de
 la caverne (2—2)
 57-58
@@ -1554,8 +1493,6 @@ la constitution — ch. de Courtrai (9—2)
 Industrie, quai de l' (nijverheidskaai) pont du tolhuis
 — Wondelgem. (8—3)
 10-20
-
-
 Industrie, boul. de l' (nijverheidslaan) maisons aux
 anguilles — q. de l’industrie (8—3)
 20 26
@@ -1574,7 +1511,6 @@ boulev. du chemin de fer. Gendbrugge.
 Instruction, r. de l' (onderwijsstr.) ch. d'Ottergem —
 r. de l’éducation. (9—2)
 108-109
-J
 Jacquet, r. du (Poelsnepstr.) aven. St-Denis — r. Pré
 aux Oies. (9—2)
 106
@@ -1629,8 +1565,6 @@ l'aune. (10—3)
 Joseph Plateau, r. (Jozef Plateaustr.) r. basse des
 champs — r. neuve St Pierre. (5—2)
 78-79
-
-
 Jour, r. courte du (korte dagsteeg) r. aux vaches —
 pont madou. (1—2)
 70
@@ -1640,13 +1574,11 @@ Laurent. (1—2)
 Juste Lipse, r. (Justus Lipsiusstr.) boul. du grand
 marais — av. du tolhuis. (3—3)
 30
-K
 Keyberg, r. (Keybergstr.) r. St Eloi — r. de la noce
 Gendbrugge.
 Kluyskens, r. (Kluyskensstr.) r. des hospices — quai
 de la biloque. (11—2)
 77
-L
 Lac, r. du (meersteeg) r. d’Abraham — r. de Bruges
 (2—3)
 48
@@ -1702,8 +1634,6 @@ l'ermitage. (3—3)
 Liève, quai de la (Lievekaai) pet. aven. de la cour —
 r. courte d’argent. (2—3)
 38 48
-
-
 Liévin Bauwens, pl. (Lieven Bauwenspl.) r. de l’agneau
 — quai des moines — boul. zoologique et r. de la
 station. (4—1)
@@ -1783,9 +1713,6 @@ Lys, r. de la (Leistr.) r. de Rooigem — quai de la Lys
 Lys, ruelle de la (Leistraatje) place de l’écluse —
 arrière-Lys. (3—1)
 39-40
-
-
-M
 Maçons, r. des (metsersstr.) r. des Sans Nom — dock.
 (8—1)
 41-42
@@ -1859,8 +1786,6 @@ de l’avant-port. (8—1)
 Marteau, r. du (hamerstr.) allée-verte — b. de rooigem.
 (6—3
 25
-
-
 Mat, r. du (maststr.) ch. de Meulestede — r. de la
 bêche. (8—1)
 11
@@ -1938,8 +1863,6 @@ Moines, avenue des (muinkdreef) quai des moines —
 boulev. zoologique. (5—1)
 80-89
 Moines, r. du pont des. Voir pont des Moines, r. du.
-
-
 Monnaie, r. de la (geldmunt) pl. Ste Pharaïlde — r. l.
 des pierres. (3—3)
 49
@@ -1992,7 +1915,6 @@ Swynaerde (9—2)
 Myosotis, r. du (Myosotisstr.) r. du maïs — av. de
 Ryhove. 10—3)
 7-17
-N
 Nassau, r. (Nassaustr.) chauss. de Courtrai (2e r. à g.)
 — boul. Léopold. (9—2)
 87
@@ -2013,8 +1935,6 @@ château. Gendbrugge.
 Nord, quai du (noordkaai) r. du nord — Champs-
 Elysées. (10—3)
 36-46
-
-
 Nord, r. du (noordstr.) r. de la porte de Bruges —
 quai du nord. (10—2 et 3)
 46
@@ -2039,7 +1959,6 @@ Bruges. (6—3)
 Noyer, r. courte du (korte notelaarstr.) r. du noyer —
 r. de l’abricot. (6—3)
 35
-O
 Obscure, r. Voir paradis, r. du.
 Ocre, r. de l' (okersstr.) r. des champs — quai des domi¬
 nicains. (1—2)
@@ -2089,9 +2008,6 @@ Ours, r. aux (berensteeg) r. d'or — la Lys. (1—1)
 Overzet, r. de l' (Overzetstr.) boulev. d’akkergem à la
 Lys. (11—2)
 55
-
-
-P
 Pacification, r. de la (Bevredigingstr.) av. militaire
 — ch. de Courtrai (9—2)
 106
@@ -2167,8 +2083,6 @@ Lousbergs. (7—1)
 Peignes, r. des (kammerst r.) marché du vendredi — r.
 royale. (1—1)
 50
-
-
 Peintres, rue des (schilderstr.) r. de l'art — r. de l'in¬
 dustrie. (Mont-S. Amand).
 63
@@ -2247,8 +2161,6 @@ de Rooigem. (6—3)
 45
 Pont aux pommes, r. du, voir Jean Breydel, rue
 Pont, r. du (Brugstr.) voir Gendbrugge, r. de
-
-
 Pont de Malte, r. du (Maltebruggestr.) r. du pré aux
 oies — ch. de Courtrai. (9—2)
 105-106
@@ -2293,7 +2205,7 @@ Porte du sas, nouvelle r. de la (nieuwe sasschepoortstr.)
 r. St Sauveur — ch. de meulestede (8—1)
 20
 Porte du sas, r. de la (sasschepoortstr.) nouv. r. de la
-porte du sas — ancienne r. de la porte du sas (8—1)
+Porte du sas — ancienne r. de la porte du sas (8—1)
 20-21
 Pot d'étain, r. du (tinnenpotstr.) avenue de la cour —
 r. courte d'argent. (2—2)
@@ -2328,8 +2240,6 @@ r. de Gand. (Mont-St Amand).
 Prairie, r. de la (weidestr.) r. du maure — r. des rem¬
 parts. Gendbrugge.
 103-112
-
-
 Pré d'amour, place du (minnemeerschplaats) r. d'or —
 pont du pré d'amour. (1—1)
 40
@@ -2394,15 +2304,12 @@ Pucelle, r. de la (maagdestr.) vieux quai des violettes
 Ouetelet, rue (Ouetteletstraat) pl. du tolhuis — r. Van
 Crombrugghe. (3—3)
 30
-R
 Rabot, r. du (rabotstr.) pl. Ste Elisabeth — boul. du
 béguinage (2—3)
 37-47
 Rabot, pass. du (rabotweg) cour du prince — boul. du
 béguinage. (2—3)
 37-38
-
-
 Rabot, aven. du (rabotl.) pl. du rabot — r. de la tourbe
 (10—3)
 37
@@ -2483,8 +2390,6 @@ Liévin. (4—1)
 Riches-claires, r. des (rijkeklarenstr.) r. du bassin — r.
 Van Oost. (Gendbrugge).
 82-83
-
-
 Rietgracht, r. du (rietgrachtstr.) boul. de l’heirnisse —
 r. de la concorde. (7—1)
 73
@@ -2541,7 +2446,6 @@ Ruisseau, r. courte du (korte beekstr.) r. des champs
 Ryhove, avenue (Ryhovelaan), boul. de l’industrie —
 r. de la betterave (10—3)
 16-26
-S
 Sable, r. du (zandstr.) boul. du Strop — chaussée de
 Zwynaerde. (9—2)
 98-108
@@ -2561,8 +2465,6 @@ la vigne. (2—2)
 St Amand, r. (St Amandstr.) r. des femmes St Pierre
 — r. de la colline. (5—2)
 78 88
-
-
 St Amand, place (St Amandplaats) r. St Amand —
 plaine St Pierre. (5—2)
 88
@@ -2642,8 +2544,6 @@ St Liévin. (4—1)
 St Liévin, boul. (St Lievenslaan) pont de Terplaeten —
 boul. Gustave Callier. (4—1)
 100
-
-
 St Liévin, pass. de la r. (St Lievensteeg) r. St Liévin —
 boulev. Frère Orban (4—1)
 90-91
@@ -2725,8 +2625,6 @@ Sas, r. du (sasstr.) r. du cornet de poste — r. de l’église
 Sauge, r. de la (saliestr.) r. du chaume — r. Liévin De
 Winne. (2—2)
 67-68
-
-
 Saule, r. du (wilgstr.) r. de Wondelgem — r. de
 l'aune. (10—3)
 27
@@ -2805,8 +2703,6 @@ dre, place du.
 Station, petite r. de la (kleine statiestr.) digue de
 Brabant — r. de Flandre. (4—1)
 71
-
-
 Station, r. de la (statiestr.) place Van Artevelde — pl.
 Liévin Bauwens. (4—1)
 70-71
@@ -2839,7 +2735,6 @@ bondon. (9—2)
 98-108
 Syngemkouter, Braeckmansmolenslag — r. de l'eau
 Mont-St-Amand
-T
 Tailleurs de pierre, r. des (steenhouwersstr.) r. neuve
 — r. longue. (Ledeberg).
 102
@@ -2881,8 +2776,6 @@ du canal. (8—1)
 Terplaeten, quai de (Terplatenkaai) r. Bénard — boul.
 St Liévin et quai Philippe le Bon. (4—1)
 89-100
-
-
 Terre-neuve, r. (nieuwland) quai des tanneurs —
 r. des prêtres. (3—1).
 31-40
@@ -2963,8 +2856,6 @@ Beveren. (10—3)
 Tremble, r. du (abeelstr.) digue de Brabant — r.
 aux liens. (4—1)
 61-71
-
-
 Tripes, mar. aux (pensmarkt) marché aux légumes
 — marché aux foins. (1—2)
 49
@@ -2994,12 +2885,10 @@ pêcheurs. (7—1)
 Turquie, petite (klein Turkije) place du lion d'or —
 marché aux grains. (1—2)
 59
-U
 Université, r. de l'. Voir Foulons, rue des.
 Ursulines, r. des (Urselinenstr.) place du sablon —
 r. du miroir. (1—1)
 60
-V
 Vaches, chem. des (koeweg) r. de la mouette —
 Oostacker (8—1)
 3
@@ -3039,8 +2928,6 @@ de Brabant — r. de la station (4—1)
 Vander Goes. r. (Vander Goesstr.) r. St Sauveur —
 place du tolhuis. (3—3)
 30
-
-
 Vande Velde, r. (Vande Veldestr.) pont des récollets —
 r. des annonciades (2—2)
 68
@@ -3115,8 +3002,6 @@ Vents, r. aux (waaistr.) marché du vendredi — marché
 au fil. (1—1)
 50
 Verger, r. courte du voir pélican, r. du
-
-
 Verger, r. longue du (lange boomgaardstr.) digue de
 Brabant — r. Charles-Quint. (4—1)
 61-70
@@ -3162,7 +3047,6 @@ Voile, r. de la (zeilstr.) ch. de Meulestede, entre nos 72
 et 74 — r. de la bêche. (8—1)
 10-11
 Voormuide. Voir porte du sas, r. de la nouvelle.
-W.
 Waarschoot, r. (Waarschootstr.) r. d'Ypres — r. du
 chaume. (2—2)
 68
@@ -3188,16 +3072,12 @@ pl. de la constitution (9—2)
 Wondelgem, r. de (Wondelgemstr.) pl. du rabot —
 b. du gazomètre. (10—3)
 26-37
-
-
-Y
 Ypres, r. d' (IJperstr.) fin r. c. des violettes — cou¬
 pure, rive droite. (2—2)
 68
 Ypres, pass. d' (IJpersteeg) r. d'Ypres, — coupure,
 rive droite. (2—2)
 68
-Z
 Zèbre, r. du (Zebrastr.) av. de l'exposition — boul.
 Gustave Callier (5—1).
 89-90
@@ -3205,7 +3085,6 @@ Zoologique, boul. Voir Jardin Zoologique, boul. du.
 Zwynaerde, ch. de (Zwijnaardschen steenweg) r. de
 l’école normale — Zwynaerde. (9—2)
 99-108
-PONTS. — BRUGGEN.
 Abattoir, p. de l' (slachthuisbrug) pl. Van Eyck — boul. de
 l’abattoir.
 61
@@ -3246,8 +3125,6 @@ r. de Bruxelles et r. St Liévin.
 Depauw, p. Voir château, pont du.
 Desmet, p. (Desmetbrug) boul. du béguinage — r. Desmet.
 37
-
-
 Dominicains, p. des (predikheerenbrug) r. de la corne —
 r. des dominicains.
 59
@@ -3319,8 +3196,6 @@ Nouvelle écluse, p. de la (nieuwe sluisbrug) quai du sas.
 Nouvelle promenade, p. de la (nieuwe wandelingbrug) r.
 de la contribution — nouvelle promenade.
 46
-
-
 Ottergem, p. d' (Ottergembrug) pont du chemin de fer
 sur l’Escaut près de la porte St Liévin.
 110
