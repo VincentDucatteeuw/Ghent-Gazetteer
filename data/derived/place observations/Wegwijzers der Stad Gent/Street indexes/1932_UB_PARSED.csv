@@ -33,7 +33,7 @@
 32,"Antheunis, r.","Antheunisstr.","r. des navets — r. des cinq vannes.",4,1,80
 33,"Anvers, chaus. d'","Antwerpschesteenw.","pont de la porte d'Anvers — ch. d'Anvers (Mont-St Amand).",7,1," 43-52"
 34,"Anvers, chaus. d'","Antwerpschestw.","chaus. d'Anvers (Gand) — Destelbergen. (Mont-St Amand). ",,,"44-52"
-35,"Anvers",,"r. de la porte d'. Voir porte d'Anvers, r. de la.",,,
+35,"Anvers, r. de la porte d’",,"Voir porte d'Anvers, r. de la.",,,
 36,"Apôtres, maisons des","apostelhuizen","r. Frans Ackerman — r. aux liens.",4,1," 61-71"
 37,"Arbalète, r. de l'","kruisboogstr.","r. d’Akkergem — r. du bluet. ",11,2,49
 38,"Arbre, r. de l'","boomstr.","r. de chèvre — ch. de Bruges.",6,3,45
@@ -54,7 +54,7 @@
 52,"Arsenal, r. de l'","arsenaalstr.","r. longue — r. Vanden Hecke (Ledeberg).",,,102
 53,"Arsenal, r. de l'","arsenaalstr.","r. de la bruyerre — r. St Genois Gendbrugge.",,,
 55,"Art, r. de l'","kunststr.","chauss. de Termonde — r. de l'industrie (Mont-St Amand). ",,,"63-73"
-56,"Artevelde",,"place d'. Voir Van Artevelde, pl.",,,
+56,"Artevelde, place d’",,"Voir Van Artevelde, pl.",,,
 57,"Arthur Latour, r.","Arthur Latourstr.","r. du Cornet de poste — r. Van Geert, Ledeberg ",,,92
 58,"Arts, av. des","kunstlaan","plaine St Pierre — boul. de la citadelle. ",5,2,88
 59,"Assaut, r. d'","bestormstr.","r. de la vallée — vieux q. des violettes. ",2,2,58
@@ -439,8 +439,8 @@
 ,"Gérard, r. ","Gerardstr. ","chaussée d'Anvers — r. de la prairie. (Mont-St Amand). ",,,43
 ,"Gérard-le-Diable, r. de ","Geeraard-de-Duivelstr. ","r. du Limbourg — cloître St Bavon. ",1,2,60
 ,"Gérard-le-Diable, square de ","Geeraard-de-Duivelhof ","entre r. Gérard-le-Diable, r. du Limbourg et cloître St Bavon.",1,2,60
-438,"Gewat",,"grand. Voir Cour, avenue de la.",,,
-439,"Gewat",,"petit. Voir Cour, petite avenue de la.",,,
+438,"Gewat (grand)",,"Voir Cour, avenue de la.",,,
+439,"Gewat (petit)",,"Voir Cour, petite avenue de la.",,,
 440,"Giroflier, rue du","violierstraat","— rue du tournesol — rue de la poire. ",6,3,35
 441,"Glacière, r. de la","ijskelderstr.","r. Desmet — boul. du gazomètre.",10,3," 26-36"
 442,"Glaive, imp. du","zwaardsteeg","digue de Brabant — l’Escaut. ",4,1,70
@@ -515,7 +515,8 @@
 507,"Jan Frans Willems, r.","Jan Frans Willemstr.","b. de la citadelle — r. des écuries ",5,2," 89-99"
 508,"Jardin Zoologique, boul. du","dierentuinlaan","pl. Liévin Bauwens — r. Bénard ",4,1," 70-90"
 509,"Jardin, rue du","hofstr.","quai des moines — r. bénard ",4,1," 70-90"
-510,"Jardin, rue du","hofstr.","r. de Gontrode — r. de l'arsenal. Gendbrugge Jardin d'hiver, r. du (wintertuinstr.) — r. Charles- Louis Diericx — r. de l'hôpital ",11,2," 55-56"
+510,"Jardin, rue du","hofstr.","r. de Gontrode — r. de l'arsenal. Gendbrugge ",,,
+,"Jardin d'hiver, r. du ","wintertuinstr. ","— r. Charles- Louis Diericx — r. de l'hôpital ",11,2," 55-56"
 511,"Jardiniers, mont. des","hoveniersberg","r. n. St Pierre — l'Escaut. ",5,2,79
 512,"Jardiniers, rue des","hoveniersstr.","r. de l'hôpital — boul. d'Akkergem. ",11,2,55
 513,"Jardiniers, rue des","hoveniersstr.","ch. de Bruxelles — r. longue. (Ledeberg). ",,,"102 103"
@@ -602,7 +603,7 @@
 592,"Marteau, r. du","hamerstr.","allée-verte — b. de rooigem. ",6,3,25
 593,"Mat, r. du","maststr.","ch. de Meulestede — r. de la bêche. ",8,1,11
 594,"Matelots, r. des","matrozenstr.","aven. de Terneuzen — r. des courtiers. ",8,1,20
-595,"Maternité, q. de la","voir Biloke, q. de la",,,,
+595,"Maternité, q. de la",,"voir Biloke, q. de la",,,
 596,"Mathieu-Geswein, r.","Mathias-Gesweinstr.","r. Van Aken — boul. du béguinage. ",2,3,47
 597,"Maure, r. du","mooriaanstr.","r. longue — r. de la station. (Ledeberg). ",,,"102-113"
 598,"Maure, r. du","mooriaanstr.","r. longue — r. de Gontrode. Gendbrugge.",,,"102-113"
@@ -1083,10 +1084,10 @@
 1070,"Marais p. du","meerhembrug","pl. du tolhuis — b. de plaisance.",,,
 1071,"Marcellis, p.","Marcellisbrug","r. de l’agneau — place Liévin Bauwens. ",,,70
 1072,"Marteau, p. du","hamerbrug","Voir maisons aux anguilles, pont des.",,,
-1073,"Maternité, p. de la","voir Lys, p. de la",,,,
+1073,"Maternité, p. de la",,"voir Lys, p. de la",,,
 1074,"Meulestede, p. de","Meulestedebrug","pl. de Meulestede — Wondelgem.",,,2
 1075,"Moines, p. des","muinkbrug","r. du pont des moines — r. Bénard. ",,,89
-1076,"Muide",,"p. du. Voir porte du Sas, p. de la).",,,
+1076,"Muide, p. du",,"Voir porte du Sas, p. de la.",,,
 1077,"Neuf, p.","nieuwbrug","r. neuve St Jacques — r. Charles- Ouint. ",,,61
 1078,"Nouveau-bois, p. du","nieuwenboschbrug","dans la r. des deux ponts. ",,,72
 1079,"Nouvelle écluse, p. de la","nieuwe sluisbrug","quai du sas. ",,,20
