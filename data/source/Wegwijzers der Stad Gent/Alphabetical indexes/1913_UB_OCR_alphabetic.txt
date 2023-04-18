@@ -107,8 +107,8 @@ Aerts T., graanmolen, hundelgemschesteenweg 437, ledeberg
 Aerts H., bijzondere, van lokerenstraat 73, ledeberg
 Aerts A., bediende, heirnislaan 16
 Aerts R., vleeschhouwer, heuvelstraat 69
-Agence Maritime, naaml. maatsch. van verzend.. stokersstr. 90
-Agneessens; kaaskoopman, flrastraat 19, ledeberg
+Agence Maritime, naaml. maatsch. van verzend., stokersstr. 90
+Agneessens., kaaskoopman, florastraat 19, ledeberg
 Agon J., kassier, nieuwestraat 25, ledeberg
 Agon kind., groenselhoveniers, leeuwerikstraat 21
 Agon wed. J., groenselhovenierster, reigerstraat 15
@@ -247,7 +247,7 @@ Andries juff. F., herberg., kleine vleeschhuissteeg 14
 988
 Andries T., horlogiemaker, ryhovelaan 7
 Andries B., kruidenier, musschenstr. 154
-Andries wed. H. kruidenier, kerkstraat 153, gentbrugge
+Andries wed. H., kruidenier, kerkstraat 153, gentbrugge
 Angelsberg A., gepens. majoor, pacificatiestraat 19, ledeberg
 Angenot wed. V., bijzondere, oostendestraat 3
 Angenot P., scheikundige, oostendestraat 3
@@ -780,7 +780,7 @@ Beirlan E., kapitein 1e linie, terplatenkaai 37
 Beirnaert A., bediende, zalmstraat 47
 Bekaert E., bediende, korte meire 18
 Bekaert A., meubelmaker, twaalfkamersstr. 125
-Bekaert A. kruidenier, mooriaanstr. 44, gentbrugge
+Bekaert A., kruidenier, mooriaanstr. 44, gentbrugge
 Bekaert A., conserven, karpelstraat 55
 Bekaert wed., kleermaakster, ryhovelaan 133
 Bekaert H., herb., belgradestraat 9
@@ -1006,7 +1006,7 @@ Bielen E., katoenkoopman, jozefplateaustraat 101 en nijver-
 heidstraat 63, s. amandsberg
 Bienvenu D., rijtuig- en paardensmid, nijverheidslaan 134
 Bienvenu A., bediende, ondernemersstraat 46, s. amandsberg
-Bierman wed.. kruidenierster, maltebruggestraat 19
+Bierman wed., kruidenierster, maltebruggestraat 19
 Biesbrouck K., bediende, akkergemstraat 31
 Biesbrouck K. zoon, bediende, akkergemstraat 33
 Bigot J., paardenvleesch. denderm. steenweg 18, s. amandsb.
@@ -1030,7 +1030,7 @@ Billiet G., bediende, akkergemaan 177
 Billiet G., broodbakker, achterstraat 66, s. amandsberg
 Billiet wed. K., kunstbloemen, kortemunt 10
 Billiet wed. E., kruiden, begijnendreef 15, s. amandsberg
-Billiet juff. Z.. onderwijzeres, begijnendreef 15, s. amandsb.
+Billiet juff. Z., onderwijzeres, begijnendreef 15, s. amandsb.
 Billiet juffers, bijzonderen, groot gewat 5
 
 
@@ -1073,7 +1073,7 @@ Blaes E., varkensslachter, landbouwersstraat 21
 Blanc en Co (firma), cinema, veldstraat 34
 Blanc E., cinema-bestuurder, oude scheldestraat 16
 Blanchaert E. reiziger, maagdenstraat 5
-Blanchaert juff. kruidenierster, dampoortstraat 69
+Blanchaert juff., kruidenierster, dampoortstraat 69
 Blanchisserie d’Akkergem, naaml. maatsch., lijnwaadbleekerij,
 akkergemlaan 19
 Blanchisserie des Flandres, naam. maatsch., katoenbleekerij,
@@ -1147,7 +1147,7 @@ Blondeel J., wasscher, kastanjestraat 11
 Blondeel P., herb. en kolenkoopman, koornmarkt 18
 Blondeel N., herbergier, rooigemstr. 218
 Blondeel wed, kruidenierster, s. salvatorstraat 51
-Blondia E. kruidenier, gasmeterlaan 130
+Blondia E., kruidenier, gasmeterlaan 130
 Blum S., graveerd., vlaanderenstr. 41 en van monckhovenstr. 4
 Blyau T., voerman, pensstraat 4
 Blyau J. voerman, graslei 51
@@ -1210,7 +1210,7 @@ Boelens B., tabak en sigaren, antwerpsche steenweg 43
 Boelens F., herberg., meulestedestraat 5
 Boels A., bureeloverste, ijkersstraat 10
 Boembeke H., kolenkoopman, schildstraat 44
-Boembeke huisvr. H. kruidenierster, schildstraat 44
+Boembeke huisvr. H., kruidenierster, schildstraat 44
 Boembeke wed. A., bijzondere, godshuizenlaan 208
 Boes A., likeuren, nederkouter 71
 Boes A., emballeerartikels, visscherij 42
@@ -2329,7 +2329,7 @@ Mad. J. GAPOUILLIEZ
 RUE GUlNARD, 9
 Cappaert J., verfwaren, nieuw begijnhofstraat 65
 Cappelle G. slot- en stovenmaker, klein gewat 7
-Cappelle J.. kruidenier, hundelg. steenw. 239, ledeberg
+Cappelle J., kruidenier, hundelg. steenw. 239, ledeberg
 Cappuyns A., bijzondere, citadellaan 177
 Cappuyns F., juwelier, lange munt 28
 Cappuyns wed. A., goudsmid, lange munt 56
@@ -2819,7 +2819,7 @@ Cleppe E., onderwijzer, desmetstraat 60
 Clerbaut R., boekhouder, ossenstraat 56
 Clerco J., kruidenier, palingshuizen 112
 Clerens H., péperkoekbakker, slijpstraat 26
-Cleve P. kruidenier, oostakkerstraat 98
+Cleve P., kruidenier, oostakkerstraat 98
 Clevers E., studieprefect, ottogracht 4
 Clewer J., gerant maison universelle, veldstraat 64
 Cleyman P., kleermagazin, drongensche steenweg 65
@@ -3500,7 +3500,7 @@ Crevaels G., onderwijzer, makelaarsstraat 38
 Crevaels hyr. G., hoofdonderwijzeres, makelaarstraat 38
 Crevals T., scheikundige, maria theresiaplaats 33
 Creve C., stouwer, loodsenstraat 25
-Crické zust. kruideniersters, groot gewat 10
+Crické zust., kruideniersters, groot gewat 10
 Criel wed. J., kruidenieester, s. salvatorstraat 147
 Criel E., toonkundige, s. salvatorstraat 147
 Criel A., manskleederen, slijpstraat 90, noordstraat 29, dam¬
@@ -3919,7 +3919,7 @@ Debeule L., vleeschhouwer, toekomststraat 28, s. amandsberg
 Debevere L., luiten, der douanen, eendrachtstraat 63
 Debevere L, zoon, advocaat, eendrachtstraat 63
 de Bie E., raadsh. bij het beroepshof, akkergemlaan 51
-de Bie G.. ingenieur-arbeidstoezichter, akkergemlaan 51
+de Bie G., ingenieur-arbeidstoezichter, akkergemlaan 51
 de Bie J, substituut van den procureur des konings, laurens
 delvauxstraat 13
 de Bie L., advocaat, albertlaan 104
@@ -5901,7 +5901,7 @@ Demeur T., kruidenier, s. lievenstraat 311
 Demeuleneere A., bediende, beeldhouwerstraat 58, s. am.
 Demeunynck F., rijwielmaker, brugsche steenweg 334
 Demeunynck A., rijwielmaker, contributiestraat 7
-Demey C.. apotheker, slijpstraat 80
+Demey C., apotheker, slijpstraat 80
 Demey juff. B., kleermaakster, prinsenhof 15
 Demey A., meubelmaker, drong. steenweg 129
 Demey G., sectieoverste, dierentuinlaan 65
@@ -6077,7 +6077,7 @@ De Molie V., bijzondere, mirystraat 2
 Demolie juff., bijzondere, roode torenstraat 24
 Demolie zust., kruiden., s. machariusstraat 2
 Demolie G., bediende, zalmstraat 12
-Demolie L. kruidenier, lange violettenstraat 72
+Demolie L., kruidenier, lange violettenstraat 72
 De Moor wed. F., eigenares, coupure 2 1
 De Moor A., advocaat, pensstraat 3
 De Moor L., geneesheer, guislainstraat 57
@@ -6489,7 +6489,7 @@ Depooter C., luitenant, smisstraat 34
 De Porre Ern. (naaml. maatsch.) katoenspinnerij en weverij.
 s. genoisstraat 43, gentbrugge
 De Porre E., nijveraar, frère-orbanlaan 16
-De Porre E. zoon. nijveraar, vijfwindgatstraat 13
+De Porre E. zoon., nijveraar, vijfwindgatstraat 13
 De Porre A. zoon, nijveraar, muinkkaai 17
 De Porre M., bediende, ijperstraat 35
 De Porre wed., ellegoederen, denderm. steenw. 116, s. am.
@@ -6513,7 +6513,7 @@ Depourcq G., kopergieter, bellevuestraat 38
 Depourcq wed. G., kruiden, van lokerenstraat 51, ledeberg
 Depourque E., be iende, kerkstraat 152, gentbrugge
 Depourque V., handelsvertegenwoordiger, nederkouter 9
-Depourquoy L. kruidenier, nederkouter 83
+Depourquoy L., kruidenier, nederkouter 83
 Depourquoy A., kruidenier, burgstraat 4
 Depourquoy A., zeepzieder, scheldestraat 72, s. amandsberg
 Depourquoy J., kruidenier, s. lievenstraat 108
@@ -6536,7 +6536,7 @@ Deprest hvr. J., kruidenierster, kortrijkschestraat 201
 
 
 —1106—
-Deprest juff. A. kruidenierster, albertlaan 28
+Deprest juff. A., kruidenierster, albertlaan 28
 Dépret juff. E., bijzondere, scheldelaan 34
 Dépret U., sleepdienst, scheldelaan 11
 Dépret L., bijzondere, scheldelaan 23
@@ -6601,7 +6601,7 @@ Deraeve J., bijzondere, kortrijkschestraat 34
 Deraeve A., brouwer, kortrijkschestraat 34
 Deraeve K., boekhouder, bellevuestraat 57
 Deraeve C., bijzondere, nederkouter 45
-Deraeve V.. reiziger, s. ma tensstraat 22
+Deraeve V., reiziger, s. ma tensstraat 22
 Deraeve V., timmerman, bommelstraat 91
 Deraeve wed. I., kruiden, van caneghemstraat 12
 Deraeve broed., bloemisten, antw. stw. 313-462, s. amandsb.
@@ -6708,7 +6708,7 @@ Deronne R., rijtuigmaker, s. pietersaalststraat 197
 Deroo wed. A., bijzondere, lange meire 4
 Deroo O., kolenhandel, smisstraat 65
 Deroo L., bijzondere, winkelstraat 103
-Deroo wed.. herbergierster, korte zilverstraat 1
+Deroo wed., herbergierster, korte zilverstraat 1
 Deroo A, schrijfgerief, hundelgemschesteenweg 121, ledeb.
 Deroo L., stoelvlechter, binnenweg 152, ledeberg
 Deroo O., suikerbakker, palingshuizen 72
@@ -6862,7 +6862,7 @@ Derycke F., mode toffen, matras- en ellegoed., kerkstr. 221,
 gentbrugge
 Derycke J., petroolhandel., jozef IIstraat 102
 Derycke P., stoelmaker, heystst aat 36
-Derycke L. aannemer, makelaarsstraat 3
+Derycke L., aannemer, makelaarsstraat 3
 Derycke L, verfwaren, nijverheidslaan 128
 Derycke J., meestergast nijver eidsstr. 44, s. amandsberg
 Derycke K., herbergier, kleine dok 104
@@ -7129,7 +7129,7 @@ de Smet de Naeyer Fern, eigenaar, korte dagsteeg 13
 De Smet G., eere-kamervoorz, van het beroepshof, begijnhod. 69
 Desmet juff. Th., bijzondere, citadellaan 18
 Desmet wed. L., eigenares, kortrijksche steenweg 180
-Desmet G. nijveraar, kortrijksche steenweg 180
+Desmet G., nijveraar, kortrijksche steenweg 180
 Desmet J., nijveraar, s. pietersnieuwstr. 98
 Desmet G. en Cie, lijnwaadfabrik., oude scheldestraat 11
 Desmet wed. E., eigenares, kasteellaan 62
@@ -7138,7 +7138,7 @@ Desmet R, advocaat, pekelharing 35
 De Smet wed. J., bijzondere, statiestraat 16
 De Smet R., nijveraar, statiestraat 10
 De Smet Jul., nijveraar, statiestraat 16
-De Smet Jos. nijveraar, statiestraat 16
+De Smet Jos., nijveraar, statiestraat 16
 De Smet L., nijveraar, statiestraat 16
 De Smet F., nijveraar, statiestraat 16
 Desmet L., nijveraar, guinardstraat 6
@@ -7353,7 +7353,7 @@ Desprez P. bijzondere, predikheerenlei 4
 Desprez juff. C., bijzondere, Leopoldaan 37
 Desreux wed., bijzondere, nassaustraat 25
 Desreux O., nijveraar, lousbergslaan 67
-Dessel wed.. bijzondere, kortrijksche steenweg 148
+Dessel wed., bijzondere, kortrijksche steenweg 148
 Dessel G., mekaniekmak., antw. steenweg 3, s. amandsb.
 Dessent H., nijveraar, kleine dok 204
 Destaercke (gestichten), naaml. maatsch., weverij, meirel¬
@@ -7735,9 +7735,9 @@ Devos C., bediende, oude houtlei 26
 Devos J., bediende, koornbloemstraat 26
 Devos K., verfwaren, brusselschestraat 102
 Devos G., vlaskoopman, hovenierstraat 25, ledeberg
-Devos L. aannemer, colpaertsteeg 36
+Devos L., aannemer, colpaertsteeg 36
 Devos Alb., kunstschilder, slachthuislaan 4
-Devos L.., apotheker, molenaarsstraat 17
+Devos L.,, apotheker, molenaarsstraat 17
 Devos E., herbergier s. pietersplein 46
 Devos A., gasplaalser, bleekersdijk 22
 Devos R., ellegoederen, kerkstraat 81, gentbrugge
@@ -7975,7 +7975,7 @@ De Wandelaer H., kleermaker, s. pietersnieuwstraat 114
 De Wandelaer F., schilder, lange violettenstraat 16
 Dewannemaeker wed. E., bijzondere, hofbouwlaan 10
 Dewannemaeker R, geneesheer, hofbouwlaan 10
-de Wargny ridder O. eigen.., citadellaan 12
+de Wargny ridder O. eigen.,, citadellaan 12
 de Wavrin kind., bijzond., graaf van vlaanderenplaats 3
 Deweer K., wasscher,,nieuwland 51
 Deweerdt wed. A., bijzondere, brugsche steenweg 44
@@ -8594,7 +8594,7 @@ L1111
 1145
 Donny E., brouw. en minerale wateren, s. pietersnieuwstr. 111
 Donny. E., nijveraar, van hulthemstraat 26
-Donny P. nijveraar, s. pietersnieuwstraat 118
+Donny P., nijveraar, s. pietersnieuwstraat 118
 Donny kind., bijzonderen, parklaan 22
 Dont G., slachter, nieuwe veemarkt 4
 Donville L., onderofficier, karel de stoutestraat 51
@@ -8610,7 +8610,7 @@ Doorme wed., bi zondere, schaapstraat 24
 Doorme G., dansmeester, schaapstraat 24
 Dopchie F., gepens majoor, stroplaan 19
 Dopchie E., kunstschilder, godshuizenlaan 74
-Doré J.. encadreur, berouwstraat 181
+Doré J., encadreur, berouwstraat 181
 Dorny R., herberg., s. pharaïldeplaats 2
 Dosogne E, lijnwaadkoopman, schoolstraat 76, s amandsberg
 Dossche juff. H., bijzondere, godshuizenlaan 259
@@ -8664,7 +8664,7 @@ Drubbel E., herbergier, hoogstraat 118
 Drubbel A., coiffeur, vlaanderenstraat 53
 Drubbel L., bediende, s. pietersnieuwstraat 80
 Drubbel wed. en z., linnenwasschers, s. pietersvrouwenstr. 102
-Drubbel K., en zoon. aannemers, zondernaamstraat 55
+Drubbel K., en zoon., aannemers, zondernaamstraat 55
 Druck E., hotelhouder, albertlaan 80
 Druwé J., nijveraar, savaanstraat 43
 Dryepondt juff. M., schrijfgerief, nederpolder 5
@@ -9046,7 +9046,7 @@ Bly zusters, kleermaaksters, math. gesweinstraat 8
 Ely wed K., bijzondere henegouwenstraat 35
 Elze wed. en zonen, drukkers, roode torenstraat 20
 Elze S. sigarenfabrikant, kortr. steenweg 160
-Emnbo H. kruidenier, kortrijkschesteenweg 5
+Emnbo H., kruidenier, kortrijkschesteenweg 5
 Embrie J., rijtuiggarnierder, drongensche steenweg 115
 49
 
@@ -9389,7 +9389,7 @@ Fraeys C, kolenhandelaar, onderstraat 53
 Fraipont G., regenscherm., hundelgemsche stw. 55, ledeberg
 Frambach M., herbergier, noordkaai 40
 Franc wed K, bijzond., nieuwe wandeling 37
-Franc juff F.. onderwijzeres, nieuwe wandeling 37
+Franc juff F., onderwijzeres, nieuwe wandeling 37
 Fianceschi J., plaasterbeelden, rapenstraat 5
 Franchimont F., mineralewaterenfabriek, puinstraat 24
 Franck wed., bijzondere, eedverbondkaai 22
@@ -9818,7 +9818,7 @@ Genico P., handelsreiziger, scheldelaan 41
 Geniets A, elektrieke toestellen, brabantstraat 14
 Geniets juff. V., moden, vaneyckstraat 11
 Gennotte wed. bijzondere, fortlaan 15
-Gentier H. aannemer, brusselsche steenweg 168, gentbrugge
+Gentier H., aannemer, brusselsche steenweg 168, gentbrugge
 Gentier L., timmerman, brugsche steenweg 306
 Gent-Terneuzen (Stoomvaartdienst), naaml. maatsch., dok 90
 Genus F., vatenkoopman, lousbergslaan 14
@@ -9907,7 +9907,7 @@ Ghys V., bediende, antwerpsche steenweg 56, s. amandsberg
 Ghys G. en A., hofbouwartikelen, antwerpsche steenweg 50,
 s. amandsberg
 Ghys G., nijveraar, antwerpsche steenweg 52, s. amandsberg
-Ghys Arth. nijveraar, antwerpsche steenw. 52, s. amandsberg
+Ghys Arth., nijveraar, antwerpsche steenw. 52, s. amandsberg
 Ghys D., horlogiemaker, brugschepoortstraat 16
 Ghys E, bloemist, hooge weg 5
 Ghys H., aardappelkoopman, ondernemersstraat 88, s. am.
@@ -9984,7 +9984,7 @@ Gisseleire E., huurhouder, zebrastr. 10
 Gistelinck wed. J., koordenwinkel, noordstraat 25
 Gistelinck L., kuiper, posthoornstraat 7, ledeberg
 Gistelinck Arth., timmerm., vanooststraat 9, gentbrugge
-Gistelinck Aug. aannemer, posthoornstraat 32, ledeberg
+Gistelinck Aug., aannemer, posthoornstraat 32, ledeberg
 Gistelinck J., schoenmaker, heuvelstraat 86
 Gistelinck R., mercerie, lange boomgaardstraat 94
 Gistelinck, herbergier, salvatorstr. 115
@@ -10568,7 +10568,7 @@ Hebbelynck E., avoué, coupure 107
 Hebbelynck T., rechter der rechtb. le aanleg, bagattenstr 45
 Hebbelynck wed. P., bijzondere, oude vest 14
 Hebbelynck Ad., nijveraar, oude vest 18
-Hebbelynck Aug. nijveraar, oude vest 14
+Hebbelynck Aug., nijveraar, oude vest 14
 Hebbelynck juff, bijzondere, schaapstraat 5
 Hebbelynck P., bijzondere, kortrijksche steenweg 142
 Hebbelynck K., controleur, hovenierstr. 18, ledeb.
@@ -11679,7 +11679,7 @@ Kesteleyn T., schipsbevrachter, plezantevest 261
 Kesteloot E., schilder, zuidkaai 12
 Aeste loot J., bijzondere, volmolenstraat 9
 Kesteman A., gepens. ontvanger, kerkstraat 11 ledeberg
-..
+.,
 EE—5—t1
 
 
@@ -11885,7 +11885,7 @@ Ladon A., glasschilder, akkergemlaan 46
 
 
 1208
-Ladon L.. pedel der hoogschool, zuivelsteeg 9
+Ladon L., pedel der hoogschool, zuivelsteeg 9
 Ladon hvr. L., modestoffen, zuivelsteeg 9
 Ladrière E., graveerder, sluizeken 31
 Ladrière M., loodgieter, sluizeken 1
@@ -12498,7 +12498,7 @@ Lesseliers wed. L., bijzondere, bagattenstraat 139
 Lesseliers E., geneesheer, bagattenstraat 139
 Lessenier wed., bijzondere, begijnhoflaan 81
 Lessuise wed. J., bijzondere, casinoplaats 14
-Letellier L. nijveraar, kortrijksche steenweg 360
+Letellier L., nijveraar, kortrijksche steenweg 360
 Letellier en Rosier, firma, stopselfabriek, kortr. steenweg 360
 Lethbridge F, vice-consul van Engeland, willemtellstraat 34
 Leuntjens J., herbergier, drongensche steenweg 318
@@ -12948,7 +12948,7 @@ Maerhem E., bijzondere, baudeloostraat 16
 Maerhem K., aardappelkoopman, veerstraat 74
 Maerhem L., metser, biestraat 31
 Maernaudt G., schoenmaker, kalanderberg 5
-Maernaudt hvr. kruidenierster, kalanderberg 5
+Maernaudt hvr., kruidenierster, kalanderberg 5
 Maernoudt G., bediende, ossenstraat 80
 Maerrem P., huurhouder, kluizestraat 23
 Kaertens Alb., bestuurder der Bank van Vlaanderen, kruisstr. 9
@@ -13018,7 +13018,7 @@ Maes A., opzichter der kerkhoven palingshuizen 86
 Maes E., kolenhandel, palingshuizen 86
 Maes J., bediende, nederkouter 34
 Maes G., reiziger, egmontstraat 7
-Maes juff. kruidenierster, zwarte zustersstraat 23
+Maes juff., kruidenierster, zwarte zustersstraat 23
 Maes L., kolenkoopman, brusselschesteenweg 277, gentb.
 Maes J., hoofdmachinist, seminariestr. 9
 Maes E., herberg., decraeyerstraat 19
@@ -13158,7 +13158,7 @@ Mndelli N., gérant, kouter 16
 Mandryckx F., meubelmaker, brusselschestraat 32
 Manens wed. E. kleermaakster, voldersstraat 24
 Manens G., kleermaker, savaanstr. 4
-M.nila, naaml. maats.. kemp- en w rkspinnerij, groendr. 254
+M.nila, naaml. maats., kemp- en w rkspinnerij, groendr. 254
 Manning juff. H., tabak en sigaren, dokplaats 27
 Manning F., gerant, dokplaats 14
 Manseau C., gepensioen, oude brusselscheeg 15, gentbr.
@@ -13167,7 +13167,7 @@ Manssens K., bestuurd, der apostolinnen, coupure 43
 Marant J., varkensslachter, donkersteeg 5
 Marcan wed. P., herberg, gasmeterlaan 223
 Marchal K., bediende, albertlaan 9
-Marchal E.. handelsvertegenw., lange wijngaardstraat 98
+Marchal E., handelsvertegenw., lange wijngaardstraat 98
 Marchal E., opzichter, lieven dewinnestr. 26
 Marchal J. mees ergast vredestr. 20, gentbr.
 Marchand R. scheikund voortbreng., goudstraat 21
@@ -13181,7 +13181,7 @@ Marchand F., bediende, zondernaamstraat 43
 Marchand J., herbergier rooigemlaan 253
 Marechal E. tabak en sigaren, dok 35
 Maréchal L., leeraar, llorastraat 20, ledeberg
-Marreel F.. reiziger, volmolenstr. 7
+Marreel F., reiziger, volmolenstr. 7
 Mareen L., huurhouder, posthoornstraat 2, ledeberg
 Mareen paardenvoederk. antw. steenw. 221 s. amandsb.
 Mareen F, bonneterie et me cerie, sluizeken 27
@@ -13424,7 +13424,7 @@ Matlon J., geneesheer, s jooriskaai 11
 Matton P., rustend onderwijzer, harmoniestraat 16, ledeberg
 Matton J., dagbladschrijver, dok 91
 Mtlon J., advocaat toekomststr. 110, s amandsberg
-Matton A. kruidenier, brusselschestraat 104
+Matton A., kruidenier, brusselschestraat 104
 Matz G., wassenbeeldenmaker, uilkens traat 113
 Maurtot C., kleermagazin, koornmarkt 11
 Maury C. kaptein-gendarmerie, nieuwpoortstr. 33
@@ -13569,7 +13569,7 @@ Mercuria, comptoir belge d'exportation, predikheerenlei 5
 
 
 1240
-Mercy K.. goudsmid, abrahamstraat 1
+Mercy K., goudsmid, abrahamstraat 1
 Mercy L., goudsmid, torrekensstraat 1
 Merendier, onderbesuurder, werkhuisstraat 51
 Merlé O., behanger, kasteellaan 3
@@ -13778,7 +13778,7 @@ hlgnot wed. C., porceleinmagazijn, dampoortstraat 11
 1244
 Mignof wed hijzondere, frère-orbanlaan 75
 Migom E, brouwer sanderusstraat 34
-Migom F. aannemer-bouwkundige, twaalfkamersstraat 117
+Migom F., aannemer-bouwkundige, twaalfkamersstraat 117
 Migom wed D, brouwer, meulestedestraat 15
 Migom G, bijzondere, meulesteedsche steenweg 139
 Migom wed. H., bijzondere, meulestedestraat 17
@@ -14392,7 +14392,7 @@ Neyt A., schoenmaker, wondelgemstraat 133
 Neyt A. ondernemer, lousbergslaan 541
 Neyt K., bonneterie, kortrijkschestraat 63
 Neyt L., bediende, hoogstraat 14
-Neyt hvr. L.. kleermaakster hoogstraat 14
+Neyt hvr. L., kleermaakster hoogstraat 14
 Neyt T, onderpastoor, gestichtstraat 52, gentbrugge
 Neyt V., conserven, nieuwe sasschepoortstraat 4
 Neyt F., landbouwer, achterdries 19, gentbrugge
@@ -14644,7 +14644,7 @@ Ottoy L, hoofdbediende, harmoniestraat 12, ledeberg
 Ottoy F., conserven, roode lijvekensstr. 146
 Ouwerkerk J (firma), scheepsverzender, priestersstr. 56
 Overdeput A., schilder, groendreef 155
-Overdeput L.., schilder, phoenixstraat 81
+Overdeput L.,, schilder, phoenixstraat 81
 Overdeput hvr., kruiden, phoenixstr. 81
 Overdulve E., bediende, nijverheidskaai 94
 Overdulve zust., mercerie, weldadigheidstraat 21
@@ -14851,7 +14851,7 @@ Pauwels L., verzekeringsagent, lange boomgaardstraat 23
 Pauwels K., schoenmaker vandenheckestr. 2, ledeberg
 Pauwels hv., kruidenierster, vandenheckestr. 2, ledeberg
 Pauwels H., varkensslachter, gondst aat 14
-Pauwels F. kruidenier, s. lievenslaan 56
+Pauwels F., kruidenier, s. lievenslaan 56
 Pauwele C., bediende, zalmstraat 59
 Pauwels F., bediende, rabotlaan 20
 Pauwels J. bediende, mertensstraat 73, s. amandsberg
@@ -14887,7 +14887,7 @@ Paynjon O., aannemer, prinsenhof 42
 Paynjon J., fabriekbestuurder, zondernaamstr. 41
 Paynjon M., onderwijzer, mirystraat 4
 Paynjon P., timmerman rooigemstraat 262
-Paynjon H. aannemer, godsbuishammeken 37
+Paynjon H., aannemer, godsbuishammeken 37
 Paynjon J., meubelmaker, kleine bellevuestraat 3
 Pectoor K, tabak en sigaren, kortrijksche straat 203
 Pede J., aardappelk., kraanlei 9
@@ -15008,11 +15008,11 @@ Pesant K., voerman, nijverheidslaan 22
 
 1268
 Pesant B., vleeschhouwer, abdijstr. 9 en kortr. steenweg 366
-Pesant E. kruidenier, stropstr. 133
+Pesant E., kruidenier, stropstr. 133
 Pesse A. snikerbakker, tolhuislaan 107
 Pessemier B., herberg., ktein turkije 9
 Peters A., meubelmaker, begijnengracht 45
-Peters hvr. A.. ellegoederen, begijnengracht 45
+Peters hvr. A., ellegoederen, begijnengracht 45
 Peters A., onderwijzer, toekomststraat 100, s. amandsberg
 Peters hvr., A., onderwijzeres, toekomststraat 100, s. am.
 Petian juff. G., bijzondere kunststraat 95, s. amandsberg
@@ -15423,7 +15423,7 @@ Priem zusters, kleerm., Sasstr., 23, Gentbrugge.
 Priem L., kruiden., Hoveniersstraat, 74, Ledeberg
 Priem F., goudsmid, Verspeyenstraat, 3.
 Priem R., herbergier, leikaai 2
-Priem P.. meubelmaker, Onderbergen, 16.
+Priem P., meubelmaker, Onderbergen, 16.
 Priem juffr. kleermaakst., Onderbergen, 16
 Priem hvr., modew., Vanooststraat, 20, Gentbrugge.
 Priem R., tabak en sigaren, Slijpstraat, 133
@@ -15681,7 +15681,7 @@ Renson gezust. kleermaaksters, s. pietersnieuwstraat 73
 Renson P., bediende, drongensche steenweg 161
 Renson B., wasscher, akkergemaan 43
 Rentin W., bediende, Slijpstraat, 148.
-Renton W.. vlaskoopman, Keizer-lKarelstraat, 45
+Renton W., vlaskoopman, Keizer-lKarelstraat, 45
 Restell G., bijzondere, Spiegelstraat, 15.
 Retorderie et broderie Gantoises (firma), Mertensstr., 5,
 St-Amandsberg.
@@ -16139,7 +16139,7 @@ Rottiers zust., onderwijzeressen, s. michielsplaats 12
 Rottiers R., metser en plafonneerder, kortr. straat 64
 Rottiers en Geets (firma), kruiden. Serpentstr., 1
 Rottiers C., onderofficier, Lange Kazernenstraat, 30
-Rottiers T. aannemer, pijlstraat 50
+Rottiers T., aannemer, pijlstraat 50
 Rottiers T. en Zwaenepoel J. (firma), aannemers, pijlstr. 4
 Rottiers J., schrijfgerief, hospitaalstraat 74
 Rottiers M., teekenaar, Bouwmeestersstr., 70, St-Am.
@@ -18075,7 +18075,7 @@ Tiberghien E., bijzondere, Gustaaf Callierlaan 7
 Tiberghien Ant. (firma), katoenverwerij en bleekerij, belle-
 vuestraat 27, ledeberg
 Tiberghien wed. A., bijzondere, bellevuestraat 27, ledeberg
-Tiberghien wed. A., kruideniersw., Antw. stw.. 35,
+Tiberghien wed. A., kruideniersw., Antw. stw., 35,
 Sint-Amandsberg
 Tiberghien J, schilder, s. pietersnieuwstraat 51
 Tieberghien E., nijveraar, galgenbergstraat 26
@@ -18503,7 +18503,7 @@ Vanauweghem wed. B., varkensslachter, Thaliestr., 2.
 Vanauweghem P., varkensslachter, ottergemsche stwg 471
 Van Avermaete F., muziekleeraar, nassaustraat 20
 Van Avermaete broed., mekaniekmakers, puinstraat 41
-Van Bael wed. E. kruidenierswaren, Slijpstraat, 77
+Van Bael wed. E., kruidenierswaren, Slijpstraat, 77
 Van Ballenberghe H., rijtuigmaker, lievekaai 10
 Vanbambeke E., bijzondere, hoogstraat 9
 Vanbambeke K., geneesheer, hoogstraat 5
@@ -18677,7 +18677,7 @@ Vancackenberghe zust., onderwijzeressen, peperstraat 13
 Vancackenberge juff. M., mercerie, Nieuwe Wande¬
 ling, 59
 Vancackenberge K., schilder, Nieuwe Wandeling, 59
-Van Caenegem K. kruidenier, vosstraat 107
+Van Caenegem K., kruidenier, vosstraat 107
 Van Caeneghem J., encadreerder en boekbinder, Kapu¬
 cijnenham, 10
 Vancaeneghem I., herbergier, Garenmarkt, 7
@@ -19732,7 +19732,7 @@ Vandercruyssen wed. A., bijz., hundelg. stw. 283, ledeberg
 Vandercruyssen H., wijn en lik., hundelg. steenw. 281, led
 Vandercruyssen T, muziekant, wijngaardstraat 12
 Vandercruyssen wed. O., bloemist, Kerkstr., 21, Gentbr.
-Vandercruyssen F. aannemer, plezantevest 239
+Vandercruyssen F., aannemer, plezantevest 239
 Vandercruyssen D. tabak en sig, hundelg. steenw. 282, led.
 Vandercruyssen K., handelaar, kleine huidevettershoek 23
 Vandercruyssen F., bijzondere, mertensstr. 56, s. amand.
@@ -20170,7 +20170,7 @@ Vandersluys A., tabak en sigaren, brabantstraat 24
 Vandersluys F. schoenmaker, Smisstraat, 81.
 Vandersluys G., bediende, Phoenixstraat, 93
 Vandersluys J., bediende, hoveniersstraat 28, ledeberg
-Vandersmissen A., bediende, Bouwmeestersstr.. 60
+Vandersmissen A., bediende, Bouwmeestersstr., 60
 St-Amandsberg
 Vandersmissen F., schoenmaker, langemunt 13
 Vandersnick A., kruidenier, Heilig Hertstr., 23, St-Am.
@@ -20420,7 +20420,7 @@ Vandevelde J., meestergast, toekomststraat 1
 Vandevelde L., tabak en sigaren, Oude Veemarkt, 1.
 Vandevelde M., onderpastoor, zwarte zustersstr. 2
 Vandevelde O., coiffeur, phoenixstraat 18
-Vandevelde J. en C. broed., cimenth., Hund, stw.. 423.
+Vandevelde J. en C. broed., cimenth., Hund, stw., 423.
 Ledeberg
 Vandevelde J., bouwk. en landm. hundelg. stw. 423, ledeb.
 Vandevelde C., cimenthandel., Hund. stw., 477, Ledeb.
@@ -21315,7 +21315,7 @@ Vanhoorebeke G., onderpastoor, Kerkstr., 1, St-Am.
 Vanhooren E., bijzondere, Bouwmeestersstr., 37, St-Am.
 Vanhoorick F., herbergier, godshuizenlaan 49
 Vanhoorick wed., bijzondere, Blandinusstr., 9
-Van Hoorickx G., electricien, Ongerijstr.. 28°, Gentbr.
+Van Hoorickx G., electricien, Ongerijstr., 28°, Gentbr.
 Vanhoorne H., fruitkoopman, Kunststr., 124, St-Am.
 Vanhoorne M., handelaar, Kunststr., 80, St-Amandsb.
 Vanhootegem wed., bijzondere, Coupure, 75
@@ -21984,7 +21984,7 @@ Vanpoucke-Bourgeois, modemagazijn, begijnengracht 66
 Vanpoucke C., ondernemer, brusselschesteenw. 136, gentb.
 Vanpoucke E., paardenvleesch, Nieuwe Sasschepoort¬
 straat, 31, en Meulesteedsche steenw., 505
-Vanpoucke juff. kruidenierster, stokersstr. 34
+Vanpoucke juff., kruidenierster, stokersstr. 34
 Vanpoucke J, bijzondere, s. amandstraat 50
 Vanpoucke juff. E., bijzondere, Vanhulthemstr., 27.
 Vanpoucke juff H, kruidenierster, stuksken 2
@@ -22200,7 +22200,7 @@ Vansteenkiste F., voerman, zuidkaai 18
 Vansteenkiste G., voerman. eliseesche velden 31
 Vansteenkiste E., ellegoederenkoopm., brabantdam 39
 Vansteenkiste G., damastfabrikant, s. margrietestraat 20
-Vansteenkiste J. kruidenier, gezondheidstraat 14
+Vansteenkiste J., kruidenier, gezondheidstraat 14
 Vansteenkiste wed. E., bijzondere, nieuwland 26
 Vansteenkiste E., bediende, bijlokenhof 19
 Vansteenlandt F., bediende, smisstraat 5
@@ -23305,7 +23305,7 @@ Verschoore P., horlogiemaker, Phoenixstraat, 91
 Verschooris E., kruidenier, hoveniersstraat 53, ledeberg
 Verschooris A., bediende, limburgstraat 28
 Verschoote L., herbergier, denderm. steenw. 60, s. am.
-Verschoote wed.., kleermaakster, visscherij 119
+Verschoote wed.,, kleermaakster, visscherij 119
 Verschorren E., bijzondere, kortrijkschestraat 231
 Verschorren wed. bijzondere, kortrijkschestraat 231
 Verschorren broed. en zust., bijzondere, terplatenkaai 39
@@ -23376,7 +23376,7 @@ Verspeeten K., schilder, langestraat 95, ledeberg
 Verspeeten P., blikslager, rietstraat 74
 Verspeurt G., treinoverste, zalmstraat 65
 Verspeurt K., kandid. deurw., zalmstraat 88
-Verspeyen W.. nijveraar, predikheerenstraat 4
+Verspeyen W.,, nijveraar, predikheerenstraat 4
 Verspieren wed., bijzondere, spiegelstraat 32
 Verstappen T., suikerbakker, Noordstraat, 21
 Versteeghen J., verzekeraar, weldadigheidstraat 74, s. am.
@@ -23384,7 +23384,7 @@ Verstegen E., lokaalhouder, Groendreef 236
 Versteghen T., rivierwachter, bleekersdijk 2
 Verstichel A., kruidenier, scheldelaan 8
 Verstichel J., bonneterie, Elyseesche Veldenstr. 29
-Verstichel C.. kolenkoopman en kruidenier, groendreef 89
+Verstichel C., kolenkoopman en kruidenier, groendreef 89
 Verstichelen L., behanger, jan breydelstraat 5
 Verstichelen J., tabak en sigaren, ongerijstraat 4, gentbr.
 Verstraelen wed., modiste, desmetstraat 104
@@ -24221,7 +24221,7 @@ Winsel C., kunstbloemen, kalanderstraat 4
 Winsel G., behanger, Ryhovelaan, 7
 Wiskemann B, zilverwerk, voldersstraat 25
 Wissaert juff. M., kleermaakster, korte meire 20
-Wissaert wed. O. kruidenierster, belgradestraat 16
+Wissaert wed. O., kruidenierster, belgradestraat 16
 Withaeghe G., schilder, casinostraat 10
 Wittebrood juff. I., bijzondere, Hofstraat, 47
 Wetter O., meestergast, Tichelrij, 8
