@@ -1,0 +1,1080 @@
+"order_id","place_name_NL","place_name_FR","description","police_quarter","canton_of_small_claims_court","map_number"
+0,"slachthuislaan.","Abattoir, boul. de l'","q. de l'école — boul. Lousbergs. (",7,1," 51-61"
+1,"slachthuisstr.","Abattoir, r. de l'","boul. Lousbergs — nouv. marché au bétail. (",7,1,62
+2,"abdijstr.","Abbaye, r. de l'","b. de l’abattoir — nouv. marché au bétail. (",7,1,62
+3,"abeelbroekstr.","Abeelbroek, r.","ch. d'Anvers — Destelbergen. Mont-St Amand.",,,
+5,"biestr.","Abeille, r. de l'","r. du pays de Waes — r. d’Oostacker. (",7,1,
+6,"Abrahamstr.","Abraham, r. d'","avenue de la cour — r. 53 du lac. (",2,3,48
+7,"Abrikoosstr.","Abricot, r. de l'","avenue de la libération — allée verte. (",6,3,35
+8,"schuddevischstraatje","Abri-poisson, ruelle de l'","marché aux légumes, entre les nos 14 et 15. (",1,2,49
+9,"acaciastr.","Acacia, r. de l'","ch. de Bruges — r. du marron. (",6,3,35
+10,"academiestr.","Académie, r. de l'","quai des augustins — r. Ste Marguerite. (",3,3," 38-39"
+10,"aeroplaanlaan"," Aéroplane, aven. de l' ","rue du Paon jusqu’au nouveau bassin. (",8,1,"4-12"
+11,"Afrikalaan","Afrique, boul. d'","sur l’assiette de l’ancien chemin de fer derrière le petit dock. (",8,1," 22-32"
+12,"Afsnéstr.","Afsné, r. d'","pl. Marie-Henriette — quai d'Afsné.",11,2,"94-96"
+13,"Afsnékaai","Afsné, quai d'","rue d'Afsné — 2e viaduc (le long de la Lys)",11,2," 94-104"
+14,"lammerstr.","Agneau, r. de l'","r. neuve St Pierre — pl. de France (",5,2,70
+15,"arendstraat","Aigle, rue de l'","quai des moines — rue du cerf. (",4,1," 79-89"
+16,"Akkergemlaan","Akkergem, boul. d'","boulevard des martyrs — pont d'Akkergem.",11,2," 55-66"
+17,"Akkergemstr.","Akkergem, r. d'","coupure, r. g. — b. d'Akkergem.",11,2," 56-56"
+18,"Albertlaan","Albert, boul.","ch. de Courtrai — boul. Britannique","9 et 11",2," 86-97"
+20,"Albertkaai","Albert, quai","pont Albert — rue d'Afsné",11,2," 85-86"
+21,"groendreef","Allée-verte","quai du sud — Mariakerke. (",6,3,25
+22,"leeuwerikstr.","Alouette, r. de l'","r. du pont de malte — r. des renardeaux. (",9,2,106
+23,"Amerikalaan","Amérique, boul. d'","le long du chemin de fer de l'Etat, aboutit de part et d'autre au boul. du petit dock. (",8,1," 22-32"
+24,"ankerstr.","Ancre, r. de l'","r. des prêtres — r. des distillateurs. (",8,1,31
+25,"ezelstr.","Ane, r. de l'","vieille barrière — Oostacker Mont-St Amand.",,,
+26,"engelstr.","Ange, r. de l'","m. du vendredi — place Edouard Anseele (",1,1,50
+27,"engelstr.","Ange, r. de l'","r. du moulin — ch. de Termonde. (Mont-St Amand). ",,,"54-64"
+28,"Engelandgat","Angleterre, r. d'","pl. St Michel — r. des sœurs noires. (",2,2,58
+29,"palingshuizen","Anguilles, maisons aux","boul. de l'industrie — Mariakerke. ",10,3," 15-25"
+30,"palingstr.","Anguilles, r. aux","pl. des fabriques — r. courte des bâteaux. (",3,3,39
+31,"annonciadenstr.","Annonciades, r. des","vieux q. des violettes — r. des douze chambres et rue du perroquet. (",2,2,68
+32,"Antheunisstr.","Antheunis, r.","r. des navets — r. des cinq vannes. (",4,1,80
+33,"Antwerpschesteenw.","Anvers, chaus. d'","place d'Anvers — ch. d'Anvers (Mont-St Amand) (",7,1,43
+34,"Antwerpschestw.","Anvers, chaus. d'","chaus. d'Anvers (Gand) — Destelbergen. (Mont-St Amand). ",,,"44-53"
+35,"Antwerpen plaats","Anvers, place d'","entre le pont de la porte d'Anvers, la chaussée d'Anvers et la place du Pays de Waes. (",7,1,52
+36,,"r. de la porte d'Anvers","Voir porte d'Anvers, r. de la.",,,
+37,"apostelhuizen","Apôtres, maisons des","r. Frans Ackerman — r. aux liens. (",4,1," 61-71"
+38,"kruisboogstr.","Arbalète, r. de l'","r. d’Akkergem — r. du bluet. ",11,2,49
+39,"boomstr.","Arbre, r. de l'","r. de chèvre — boul. de Rooigem. (",6,3,45
+40,"bouwmeestersstr.","Architectes, r. des","r. des entrepreneurs — r. de Gentbrugge, Mont-St-Amand ",,,74
+41,"schaliestr.","Ardoise, r de l'","champs-élysées — r. de la caille.",10,3,"26-36"
+42,"wilverstr.","Argent, r. d'","vieux mar. au bétail — mar. aux veaux. (",1,1," 51-61"
+43,"korte zilverstr.","Argent, r courte d'","q. de la Liève — cour du prince. (",2,3,38
+44,"leemstr.","Argile, r. d'","r. des meuniers, Ledeberg — avant-pré, Gentbrugge.",,,
+45,"kouter","Armes, place d'","marché aux oiseaux — r. du théâtre et r. du soleil. (",1,2,69
+46,"koutersteeg","Armes, ruelle de la pl. d'","r. aux vaches — pl. d'armes. (",1,2,70
+47,"kouterdreef","Armes, aven. de la place d'","place de la calandre — place d'armes. (",1,2," 59-69"
+48,"Arnoldstraat","Arnold, r.","r. blandin — pl. S. Pierre (",5,2,79
+49,"achterlei","Arrière-Lys, quai de l'","pl. de l'écluse — quai des tanneurs. (",3,1,40
+50,"achtermuide","Arrière-muide","ch. de meulestede — chemin de fer. (",8,1,11
+51,"achtervisscherij","Arrière Pêcherie","du commencement de la pêcherie, le long de l'eau. (",4,1," 61 91"
+52,"achterdries","Arrière-pré","avant-pré — r. du bois. Gentbr.",,,
+53,"achterstr.","Arrière-rue","entre les nos 116 et 282 de la ch. d'Anvers (Mont-St-Amand).",,,44
+54,"arsenaalstr.","Arsenal, r. de l'","r longue — r. Vanden Hecke (Ledeberg)",,,102
+55,"arsenaalstr.","Arsenal, r. de l'","r. de la bruyère — rue St Genois Gentbrugge",,,
+55,"kunststr.","Art, r. de l'","chauss. de Termonde — r. de l'industrie (Mont-St Amand). ",,,"63-73"
+56,,"place d'Artevelde","Voir Van Artevelde, pl.",,,
+57,"Arthur Latourstr.","Arthur Latour, r.","r. du Cornet de poste — r. Van Geert, Ledeberg",,,92
+58,"kunstlaan","Arts, av. des","plaine St Pierre — boul.",,,
+59,,"Charles de Kerckhove. (",,5,2,88
+60,"bestormstr.","Assaut, r. d'","r. de la vallée — vieux q. des violettes. (",2,2,58
+61,"werkhuisstr.","Atelier, r. de l'","ch de Tronchiennes — q. de la Lys. (",6,3,46
+62,"Oudenaardschesteenw.","Audenarde, chauss. d'","ch. de Courtrai — Zwynaerde. (",9,2," 105-106"
+63,"augustijnenkaai","Augustins, quai des","r. de la Liève — r. de l’académie. (",3,3,8
+64,"elsstr.","Aulne, r. de l'","av. du rabot — boul. du gazomètre ",10,3,27
+65,"herfststr.","Automne, r. de l'","r. du strop — ch. d'Ottergem. (",9,2,9
+66,"oostenrijkersstr.","Autrichiens, r. des","r. du prévôt — nouv. marché au bétail (",7,1,62
+67,"voorhavenlaan","Avant-port, avenue de l'","chaussée de Meulestede — r. de Meulestede. (",8,1,10
+68,"voorhavenplaats","Avant-port, place de l'","r. de NewYork — av. de l’avant-port. (",8,1,10
+69,"voordries","Avant-pré","r. d’argile — r. du bois.",,,
+70,"toekomststr.","Gentbrugge. Avenir, r. de l'","boul. Lousbergs — r. de l’avenir (Mont-St Amand). (",7,1," 72-73"
+71,"toekomststr.","Avenir, r. de l'","r. de l’avenir (Gand) — ch. de Termonde (Mont-St Amand). ",,,"64-73"
+72,"blindeken","Aveugle, r. de l'","r. du cumin — r. des brasseurs. (",2,2,48
+73,"riemstraat","Aviron, rue de l'","quai Albert — rue du Patijntje.",11,2,85
+74,"haverstr.","Avoine, r. de l'","r. des tilleuls — boul. de l'industrie.",10,3,26
+75,"azaleastr.","Azalée, r. de l'","avenue de la délivrance r. de l'olive. (",6,3,25
+76,"azaleastr.","Azalée, r. de l'","r. arrière — r. de l'école (Mont-St Amand). ",,,"44-54"
+77,"baviaanstr.","Badouin, r. du","r. des semeurs — place des fabriques. (",3,3,39
+78,"veerdamstr. of drongenhof","Bac, r. du","vieux bourg — r. longue des pierres. (",3,3,39
+79,"bagattenstr.","Baguettes, r. des","r. basse des champs — r. neuve St Pierre. (",5,2," 69-70"
+80,"baljuwstr.","Bailli, r. du","r. du chapelain — r. des casemattes. (",7,1,62
+81,"bezemsstr.","Balais, r. des","r. de la vallée — r. de l'omelette. (",2,2,58
+82,"kogelstr.","Balle, r. de la","ch. d'Anvers — r. de la bienfaisance. (",7,1," 43-53"
+83,"ballenstr.","Balles, r. des","q. de la grue — r. du hareng. (",3,3,49
+84,"Luchtbalstr.","Ballon, r. du","r. de la Mouette — boul.",,,
+85,,"Port-Arthur. (S.",,"M 3",1,". 3"
+86,"barenstr.","Barres, r. aux","r. du miroir — quai de l'évêché. (",1,1,60
+87,"baliestr.","Barrière, r. de la","ch. de Courtrai — r. de la prairie. (",9,2,87
+88,"ancienne","Barrière","(oude barrière) ch. d'Anvers — limite de Mont-St Amand et Destelbergen.",,,
+89,"reep","Bas-Escaut, quai du","place Lievin Bauwens — r. Charles-Quint. (",4,1," 60-61"
+90,"nederscheldestr.","Bas-Escaut, r. du","r. de Brabant — r. des juifs. (",1,2,70
+91,"nederpolder","Bas-poldre r. du","r. haut port — q. de l'évêché. (",1,"2 et 1",60
+92,"onderstr.","Basse, r.","r. longue de la monnaie — r. royale.",1,1," 49-50"
+93,"bassijnplaats","Bassin, place du","— r. du bassin — quai de l'Escaut. (Gendbrugge).",,,83
+94,"bassijnstr.","Bassin, r. du","r. de l'église — place du bassin. (Gendbrugge).",,,83
+95,"nieuw bassijn","Bassin, nouveau","r. du paon — quai de meulestede",,,"3-11"
+96,"Bastionstr.","Bastion, r. du","quai du château — r. d'Anvers. (",7,1,52
+97,"korte schipgracht","Bateaux, r. courte des","r. des semeurs — boul. des chartreux. (",3,3,39
+98,"lange schipgracht","Bateaux, r. longue des","r. longue des pierres — r. des semeurs. (",3,3,39
+99,"batterijstr.","Batterie, r. de la","av. de la libération — q. du sud. (",6,3,36
+100,"Baudeloostr.","Baudeloo, r. de","marché du vendredi — quai de Baudeloo (",1,1," 40-50"
+101,"baudelookaai","Baudeloo, quai","Pont St-Georges — Pont du Pré d'amour. (",1,1," 41-51"
+102,"Boudewijnstr.","Baudouin, r.","pl. Marie-Henriette — r. de la prairie.",11,2,96
+102,"spadestr.","Béche, r. de la","r. de la voile — r. de la charrue. (",8,1,11
+103,"Belgradestr.","Belgrade, r. de","digue de Brabant — r. Charles-Quint. (",4,1," 61-71 "
+103,"ram","Bélier, r. du ","r. haute — r. de Bruges. (",2,3,"48-58"
+104,"bellevuestr.","Bellevue, r. de","coupure, r. g. — r. d'Akkergem. ",11,2,66
+105,"bellevuestr.","Bellevue, r. de","ch. d’Hundelgem — l'Escaut. (Ledeberg). ",,,"100-101"
+106,"kl. bellevuestr.","Bellevue, petite r. de","coupure, r. g — boul. d'Akkergem.",11,2,66
+106," Benardstr.","Bénard, r.","pont des moines — boul. Gustave Callier. (",4,1," 89-90"
+108,"Benedenstr.","Beneden, r.","dans la rue du Seigle ",10,3," 26-27"
+109,"herderstr.","Berger, r. du","ch. de Tronchiennes — r. du lin. (",6,3,45
+110,"Bernaard Spaelaan","Bernard Spae, aven.","Coupure (rive gauche) — boul. des martyrs.",11,2," 66-67 "
+110,"nieuwe veemarkt","Bétail, nouv. marché au ","boul. du château — abattoir. (",,,
+111,"beetworteelstr.","Betterave, r. de la","r. de l'œillet — r. de la limite. ",10,3,8
+112,"botermarkt","Beurre, marché au","r. haut-port — place Emile Braun et pl. S. Bavon. (",1,2," 59-69"
+113,"kleine botermarkt","Beurre, petit marché au","cloître St Jacques — fossé d'Othon. (",1,1,50
+114,"botermansstr.","Beurriers, r. des","r. de Bruges — r. du lac. (",2,3,48
+115,"bibliotheekstr.","Bibliothêque, rue de la","r. S. Georges — quai Baudeloo. (",1,1,50
+116,"weldadigheidstr.","Bienfaisance, r. de la","r. de la balle — rue de la bienfaisance (Mont-St Amand). (",7,1,43
+117,"weldadigheidstr.","Bienfaisance, r. de la","r. de la bienfaisance (Gand) — r. de la prairie (Mont-St Amand)",,,43
+118,"weldadigheidstr.","Bienfaisance, r. de la","ch. d’Hundelgem — r. du maure (Ledeberg).",,,112
+119,"bijlokekaai","Biloque, quai de la","coupure (rive gauche) — boulev. des hospices. ",11,2," 78-87"
+120,"bijlokevest","Biloque, rempart de la","square de la hiloque — boul. des martyrs.",11,2," 67-76"
+121,"bijlokestr.","Bloque, r. de la","remp. de la biloque — coupure.",11,2,76
+122,"bijlokestr.","Biloque, r. de la","ch. de Termonde — Destelbergen.",,,
+123,,"Mont-St-Amand.",,,,
+124,"bijlokenhof","Biloque, square de la","r. des hospices — boul. des martyrs.",11,2,76
+125,"bleekerijstr.","Blanchisserie, r. de la","digue des blanchisseurs — r. du jambon. (",8,1," 40-41"
+126,"bleekersdijk","Blanchisseurs, digue des","r. terreneuve — r. du jambon. (",8,1," 40-51"
+127,"blandinusstr.","Blandin, r.","r. neuve St Pierre — r.",,,
+128,,"St Amand. (",,5,2," 78-79"
+129,"Blankenbergestr.","Blankenberghe, r. de","av. Albert — av. Elisabeth. (",9,2," 96-97"
+130,"koornlei","Blé, quai au","pont aux herbes — r. des servantes et av. Fiennes (",2,2," 49-59"
+131,,"Block, r.","voir Edmond Block.",,,
+132,"koornbloemstr.","Bluet, r. du","r. d'Akkergem — r. de la flèche. ",11,2,56
+133,"ossenstr.","Boeufs, r. des","r. de l’abattoir — boul. du château. (",7,1," 62-72"
+134,"oude houtlei","Bois, vieux quai au","r. haute — vieux q. des violettes. (",2,2,58
+135,"boschstr.","Bois, r. du","arrièré-pré — pont d’Heusden.",,,
+136,"Bomastr.","Gendbrugge. Boma, r. de","r. terre-neuve — r. du jambon (",8,1,
+137,"Bombaystr.","Bombay, r. de","r. de Londres — av. de l’avant-port. (",8,1,10
+138,"bommelstr.","Bondon, r. du","ch. d'Ottergem — boul du Strop. (",9,2," 98 99"
+139,"gelukstr.","Bonheur, r. du","fossé d'Othon — vieux rempart. (",1,1," 40-50"
+140,"goedelevenstr.","Bonne-vie, r. de la","ch. d'Anvers — r. de l'eau.",,,
+141,"Borluutstr.","Mont-St. Amand Borluut, r.","r. haut port — cloître St- Jacques. (",1,1," 50-60"
+142,"Boterdaelebeluik","Boterdale, cité","remp. de la biloque — boul. des hospices",11,2,76
+143,"kl. vleeschhuissteeg","Boucherie, ruelle de la petite","place d'armes — r. courte du jour. (",1,2,70
+144,"schildstr.","Bouclier, r. du","allée-verte — avenue de la libération. (",6,3," 35-36"
+145,,"Bourg, r. du. ","Voir Bruges, r. de ou vieux-bourg",,,
+145,"winkelstr.","Boutiques, r. des","r. de Flandre — r. l. du verger. (",4,1,60
+146,"brabantstr.","Brabant, r. de","mar. aux oiseaux — digue de brabant. (",1,2,70
+147,"brabantdam","Brabant, digue de","pl. Hippolite Lippens — place Van Artevelde. (",4,1," 70-71"
+148,"Braeckmanstr.","Braeckman, r.","arrière-rue — rue de l'azalée (Mont-St Amand).",,,44
+149,"Mont-St Amand","Braeckmansmolenslag, chaussée d'Anvers au n° 265",,,,
+150,"brouwersstr.","Brasseurs, r. des","r. du bélier — r. de l’aveugle. (",2,3,48
+151,"Brederodestr.","Bréderode, r.","ch. de Courtrai (4e r. à gauche) — boul. Léopold. (",9,2,97
+152,"Britannielaan","Britannique, boul.","boul. des Hospices — pont Albert.","9|11",2," 76-86"
+153,"snoekstr.","Brochet, r. du","r. de l’avenir — boul de l'Escaut. (",7,1," 73-82"
+154,"snoekstr.","Brochet, r. du","pl. de l’église — r. de la chapelle.",,,
+155,"burgstr.","Gendbrugge Bruges, r. de","r. haute du soleil — fossé St Elisabeth. (",2,3,48
+156,"Brugschensteenw.","Bruges, chauss. de","avenue de la libération — Mariakerke. (",6,3," 25 36"
+157,"Bruneaustr.","Bruges, r. de la porte de. Voir porte de Bruges, r. de la Bruneau, r.","r. d’Oostacker — r. haute. (Mont-St Amand).",,,53
+158,"Brusselschelaan","Bruxelles, boul. de","r. de Bruxelles — fin boul. Frère-Orban. (",4,1," 91-101"
+159,"Brusselschestr.","Bruxelles, r. de","r. l. des violettes — ch de Bruxelles (Ledeb.). (",4,1," 92 93"
+160,"Brusselschestw.","Bruxelles, ch. de","porte de Bruxelles — ch. de Bruxelles (Gentbr.). Ledeberg. ",,,"91-103"
+161,"Brusselschesteenw.","Bruxelles, chauss. de","ch. de Bruxelles (Ledeb.) — Melle. Gendbrugge.",,,13
+162,"oude brusselsche weg","Bruxelles, vieux chem. de","r. du cornet de poste — r. maigre. (Gendbr.) ",,,"92-93"
+163,"oude brusselsche weg","Bruxelles, vieux chemin de","r. du cornet de poste — r. de l'école. (Ledeb.)",,,"92-93"
+164,"heidestr.","Bruyère, r. de la","r. St Genois — r. de Gontrode.",,,
+165,"kwakkelst.","Gendbrugge. Caille, r. de la","r. de l'église — r. de la tuile.",10,3,26
+166,"kalanderberg","Calandre, place de la","r. de la calandre — aven. de la place d'armes. (",1,2,60
+167,"kalanderstr.","Calandre, r. de la","r. magelein — place de la calandre. (",1,2," 59-60"
+168,"galgenbergstr.","Calvaire, r. du","r. de la caverne — r. des 12 chambres. (",2,2," 57-67"
+169,"cameliastr.","Camelia, r. du","ch. de Termonde — r. du nouv. béguinage. (",7,1," 53-63"
+170,"vaartstr.","Canal, r. du","r. du jambon — dock. (",8,1," 41-42"
+171,"herpelsteeg","Canard, r. du","r. des ursulines — r. neuve St Jacques. (",1,1,70
+172,"grand","Canon","pl. du (groot kanonpl.) r. l. de la monnaie — marché du vendredi. (",1,1,49
+173,"kapucijnenstr.","Capucins, r. des","digue de brabant r. Charles-Quint. (",4,1,71
+174,"kapucijnenham","Capucins, hameau des","r. Charles- quint — r. des apôtres. (",4,1,61
+175,"kaarderijstr.","Carderie, r. de la","ch. de Tronchiennes — quai de la Lys. (",6,3,45
+176,"karpelstr.","Carpe, r. de la","r. de l’avenir — boul. de l'Escaut. (",7,1," 72-82"
+177,"kazemattenstr.","Casemattes, r. des","q. de l'école — nouv. marché au bétail. (",7,1," 52 62"
+178,"korte kazernenstraat","Casernes, r. courte des","r. St Amand — r. Jordaens. (",5,2," 78 88"
+180,"lange kazernenstr.","Casernes, r. longue des","r. Metdepenningen — boul. Charles de Kerchove. (",5,2,88
+181,"kazernstr.","Casernes, r. des","r. longue — r. Vandenhecke. (Ledeberg). ",,,102
+182,"nieuwe casinostr.","Casino, r. neuve du","r. des douze chambres — place du casino. (",2,2,57
+183,"casinoplaats","Casino, place du","r. de la caverne — r. du casino. (",2,2,57
+184,"casinostr.","Casino, r. du","r. des thérésiennes — place du casino. (",2,2,57
+185,"catalognestr.","Catalogne, r. de la","place Emile Braun — mar. aux grains. (",1,2,59
+186,"hoofdkerkstr.","Cathédrale, r. de la","r. St Bavon — place de l'évêché. (",1,2,60
+187,"holstr.","Caverne, r. de la","r. haute — r. du calvaire. (",2,2,57
+187,"cederstr.","Cèdre, r. du ","r. du sapin — r. du marron. (",6,3,35
+188,"hertstr.","Cerf, r. du","quai des moines — r. bénard (",5,1," 79-89 "
+189,"kriekerijstr.","Cérisaie, r. de la ","r. des meuniers — r. Ste Marguerite. (",3,3,38
+190,"kouterstr.","Champ, r. du","pl. de l’église — l'Escaut.",,,
+191,"k. veldstr.","Gendbrugge. Champs, r. c. des","r. Vande Velde — r. des champs. Gendbrugge.",,,103
+193,"veldstr.","Champs, r. des","marché aux grains — place du commerce. (",1,2," 59-69"
+194,"nederkouter","Champs, r. basse des","pont des chaudronniers — r. de Courtrai. (",5,2," 69-70"
+195,"kouterstr.","Champs, r. des","r. du moulin — ch. de Termonde. (Mont-St Amand).",,,63
+196,"veldstr.","Champs, r. des","r. du maure — r. des remparts. Gendbrugge. ",,,"102-103"
+197,"eliseeschevelden","Champs-Elysées","q. du nord — boulev. du gazomètre.",10,3," 26-36"
+198,"eliseescheveldenstr.","Champs-Elysées, r. des","r. de l'église — Champs-Elysées.",10,3,36
+199,"kanunnikstr.","Chanoines, r. des","r. de Courtrai — r.",,,
+200,,"Metdepenningen. (",,5,2," 78-88"
+201,"houtbriel","Chantier, r. du","vieux mar. aux moutons — mar. aux veaux. (",1,1," 50-51"
+202,"kapelaanstr.","Chapelain, r. du","r. du prévôt — r. des espagnols. (",7,1,62
+203,"kapellestr.","Chapelle, r. de la","r. du hareng-pec — r.",,,
+204,,"Ste Agnès.",,2,2,68
+205,"kapellestr.","Chapelle, r. de la","r. des sentiers — r. de l’église. Gendbrugge.",,,83
+206,"kapelstr.","Chapelle, r. de la","r. de Gontrode — r. du maure (Ledeberg).",,,113
+207,"Karel de Kerchoveboulevard","Charles de Kerchove, boulevard","chaussée de Courtrai — porte de la Colline.","5|5",2," 87-98"
+208,"keizerkarelstr.","Charles-Quint, r.","pont neuf — place Van Artevelde. (",4,1," 61-71"
+209,"Karel de Stoutestr.","Char es le Téméraire, r.","r. Marie de Bourgogne — q. de Terplaeten. (",4,1,100
+210,"Karel-Lodewijk Diericxstr.","Charles-Louis Diericx, r.","— rue d'Akkergem — rue de la flèche ",11,2,56
+211,"Karel-Theodoorstr.","Charles-Théodore, r.","r. de la forge — r. des prairies. (",9,2,96
+212,"karrenstr.","Charrettes, r. des","r. d'Ypres — r. du chaume. (",2,2,68
+213,"ploegstr.","Charrue, r. de la","ch. de Meulestede, entre les nos 162 et 164 chemin de fer. (",8,1,11
+214,"ploegstr.","Charrue, r. de la","r. des remparts — r. de Gontrode.",,,
+215,,"Gendbrugge. 113",,,,
+216,"chartreuzenlaan","Chartreux, b. des","pl. des chartreux — b. du grand marais. (",3,3," 30-40"
+217,"Chartreuzenplaats","Chartreux, pl. des","entre le boul. des Chartreux, quai des tuileries et rue des filles Dieu (",3,3,39
+218,"kasteellaan","Château, boul. du","boul. Lousbergs — quai de l'école. (",7,1," 52-72"
+219,"kasteelkaai","Château, quai du","q. de la tour rouge — dock. (",7,1," 51 52"
+220,"kasteelstr.","Château, r. du","r. d'Anvers — q. du château. (",7,1,51
+221,"kasteelstr.","Château, r. du","r. des sentiers — Melle.",,,
+222,"ketelplein","Gendbrugge. Chaudronniers, plaine des","commencement de la r. basse des champs — la Lys. (",5,2,69
+223,"ketelpleinstraat","Chaudronniers, r. de la plaine des","plaine des chaudronniers — rlle de la Lys. (",5,2,69
+224,"ketelvest","Chaudronniers, remp. des","r. basse des champs — r. du pont Madou. (",5,2," 69-70"
+225,"stoppelstr.","Chaume, r. du","r. des annonciades — r. de Waerschoot. (",2,2,68
+226,"ijzerenweglaan","Chemin de fer, boul. du","r. de belle vue — pont du Strop (Ledeberg). ",,,"100-101"
+227,"spoorweglaan","Chemin de fer, boul. du","rue d'argile — rue de l’église (Gendbrugge). ",,,"83 96"
+228,"eikhoutstr.","Chênaie, r. de la","place Van Duyse — boul. Charles de Kerckhove. (",5,2,88
+229,"paardestr.","Cheval, r. du","r. du mouton — r. des ruines. (",7,1,62
+230,"ridderstr.","Chevaliers, r. des","r. de la frise — r. du miroir. (",1,1," 50-60"
+231,"geitestr.","Chèvre, r. de la","ch. de Tronchiennes — r. de l'arbre. (",6,3,45
+232,"koolsteeg","Choux, r. aux","r. de Bruges — place Ste Elisabeth. (",2,3,48
+233,"chrysanthemumstr.","Chrysanthème, r. du","avenue Ryhove — r. du maïs. ",10,3,17
+234,"kerkhofstr.","Cimetière, r. du","dans la r. de l'église ",10,3,36
+235,"vijfwindgatstr.","Cinq vannes, r. des","r. l. des violettes boul. Frère-Orban. (",4,1," 80 81"
+236,"wasstr.","Cire, r. de la","r. de l’abeille — r. d'Oostacker. (",7,1,53
+237,"citadellaan","Citadelle, boul. de la","r. de la Colline pont de Terplaeten.","5|5",2,99
+238,"citroenstr.","Citron, r. du","r. de la glacière — r. De Smet. ",10,3,36
+239,"Clementinalaan","Clémentine, av.","ch. de Courtrai — pl. Marie-Henriette. (",9,2," 96 97"
+240,"klokstr.","Cloche, r. de la","boul. du gazomètre — r. de la glacière.",10,3,26
+241,"klokstr.","Cloche, r. de la","place de l'église — arrièrepré.",,,
+242,"verkensstr.","Gendbrugge. Cochons, r. des","r. de la plume — r. c. d'argent. (",2,3," 38-48"
+243,"heuvelstr.","Colline, r. de la","pl. St Pierre — boul. de la citadelle. (",5,2," 88-99"
+244,"Colpaertsteeg","Colpaert, impasse","coupure, r. g.",11,2,56
+245,"koophandelplaats","Commerce, place du","r. des champs et pont des récollets — pont des chaudronniers. (",1,2,68
+246,"eedverbondstr.","Compromis, r. du","aven. de l'Yser — r. de la prairie. (",9,2,87
+247,"eedverbondkaai","Compromis, q. du","aven. de l'Yser — le long de la Lys. (",9,2," 86 87"
+248,"Graaf van Vlaanderenplaats","Comte de Flandre, place du","Place Wilson — boulevard Frère-Orban. (",4,1," 71 80"
+249,"Graaf de Smet de Naeyerplaats","Comte de Smet de Naeyer, place","avenue de la Liberté — avenue des Eperons d'or. (",9,2,107
+250,"eendrachtstr.","Concorde, r. de la","boul. du château boulev. de l’Escaut. (",7,1," 72-82"
+251,"eendrachtstr.","Concorde, r. de la","r. de la paix — r. de l’institut. (Gendbrugge). ",,,83
+252,"conduitsteeg","Conduit, r. du","r. courte du marais — r. des champs. (",1,2,69
+253,"gildestr.","Confrérie, r. de la","r. neuve St Jacques — mar. aux veaux. (",1,1," 50-51"
+254,"Congostr.","Congo, r. du","digue des blanchisseurs — r. de Boma. (",8,1," 40-41"
+255,"Congresstr.","Congrès, r. du","aven, militaire — pl. de la constitution. (",9,2,107
+256,,"Conscience, r.","Voir Henri Conscience, r.",,,
+257,"Grondwetplaats","Constitution, pl. de la","av. de la liberté — av. des éperons d'or. (",9,2,107
+258,"grondwetdreef","Constitution, avenue de la","chaussée d'Anvers — rue de Gand (Mont-St Amand) ",,,34
+259,"contributiestr.","Contribution, r. de la","r. de la porte de Bruges — fin coupure (r. droite). (",2,2,46
+260,"haanstr.","Coq, r. du","ch. de Meulestede, entre les nos 258 et 260 — r. du paon. (",8,1,11
+261,"ravenstr.","Corbeau, r. du","r. des champs — la Lys. (",1,2,59
+262,"corianderstr.","Coriandre, r. de la","r. du pont Madou — grand toquet. (",5,2,70
+263,"hoornstr.","Corne, r. de la","r. des champs — pont des dominicains. (",1,2,59
+264,"kraaistr.","Corneille, r. de la","r. du sable — ch. de Zwynaerde. (",9,2,98
+265,"posthoornstr.","Cornet de poste, r. du","Pl. Emile Braun — r. des foulons. (",1,2,59
+266,"posthoornstr.","Cornet de poste, r. du","ch. de Bruxelles r. — du cornet de poste. (Gendbrugge) (Ledeberg). ",,,92
+267,"posthoornstr.","Cornet de poste, r. du","r. du cornet de poste (Ledeb.) — r. de l’église. (Gendbrugge). ",,,"82 92"
+268,"plottersgracht","Corroyeurs, fossé des","r. ducale — r. du roitelet. (",3,3,49
+269,,"Corsets rouges, r. des","Voir filles-dieu, r. des.",,,
+270,"katoenstr.","Coton, r. du","ch. de Bruges — allée verte (",6,3,15
+271,"coupure, rechter oever","Coupure, rive droite","quai aux tilleuls — r. de la contribution. (",2,2," 46-77"
+272,"coupure, linker oever","Coupure, rive gauche","p. du pain perdu — nouvelle promenade. ",11,2," 46-77"
+273,"coupuregang","Coupure, passage de la","r. de la maison de force — coupure, r. d. (",2,2,47
+274,"groot gewat","Cour, avenue de la","r. de Bruges — cour du prince. (",2,3,48
+275,"prinsenhofzakstraat of steeg","Cour, impasse de la","cour du prince. (",2,3," 38 47"
+276,"klein gewat","Cour, petite avenue de la","aven. de la cour — q. de la Liève. (",2,3,48
+277,"kroonstr.","Couronne, r. de la","r. de Rooigem — r. du lin. (",6,3,45
+278,"koersplein","Courses, plaine des","r. Heyveld — Oostacker.",,,
+279,"koersenstr.","Mont-St Amand Courses, r. des","ch. de Courtrai — r. de Maltebrugge (",9,2,
+280,"makelaarsstr.","Courtiers, r. des","ch. de Meulestede — av. de Terneuzen. (",8,1,20
+281,"kortrijkschestr.","Courtrai, r. de","r. basse des champs — boulev. Charles de Kerckhove. (",5,2," 78-87"
+282,"kortrijkschesteenw.","Courtrai, ch. de","boul. Charles de Kerckhove — St Denis-Westrem. (",9,2," 87 104"
+283,"modenaaisteeg","Couturières, r. des","r. des champs — quai des dominicains. (",1,2,59
+284,"paddenhoek","Crapaudière, r. de la","pl. de la calandre — r. des foulons. (",1,2,59
+285,"korte crevelstraat","Crevel, r. courte","r. de Bruxelles — r. St Liévin. (",4,1,91
+286,,"Crevel","r. longue lange crevelstr.) r. de Bruxelles — r. St Liévin. (",4,1,91
+287,"korte kruisstr.","Croix, r. courte de la","r. de la croix — r. de la calandre. (",1,2," 59 60"
+288,"kruisstr.","Croix, r. de la","place St Bavon — place de la Calandre. (",1,2,60
+289,"pollepelstr.","Cuiller, r. de la","r. savaen — r. des baguettes. (",5,2,69
+290,"koperstr.","Cuivre, r. du","r. d'Ypres — r. du chaume. (",2,2,68
+291,"landbouwersstr.","Cultivateurs, r. des","ch. de Meulestede, entre les nos 272 et 274— r. du faisan. (",8,1,11
+292,"comijnstr.","Cumin, r. du","r. du bélier — r. du poivre. (",2,3," 47 48"
+293,"zwaanstr.","Cygne, r. du","vieux bourg — r. c. aux veaux. (",3,3," 39 49"
+294,"Dahliastr.","Dahlia, r. du","av. de Ryhove — r. du mimosa. ",10,3," 7-16"
+295,"Daniel Kinetstraat","Daniel Kinet r.","rue Farman — avenue de l'aéroplane (",8,1," 4-12"
+296,"Davidstr.","David, r.","av. du tolhuis — r. Van Crombrugghe. (",3,3,30
+297,"De Craeyerstr.","De Craeyer, r.","r. l. des casernes — r. de la chênaie. (",5,2,88
+297,"verdedigingstr.","Défense, r. de la","pl. Van Duyse — r. de Courtrai. (",5,2,88
+298,"Demildreef","Demil, aven.","ch. d’Hundelgem — l'Escaut. (Ledeberg).",,,112
+299,"Denaeyerdreef","Denaeyer, aven.","r. des remparts — ch. de Bruxelles (Gendbrugge). ",,,10
+300,"Desmetstr.","Desmet, r.","pl. du rabot — boul. du gazomètre. ",10,3," 26-37"
+301,"Desomerstr.","Desomer, r.","ch. d'Anvers — r. Mertens. (Mont-St Amand).",,,13
+302,"Destelbergenstr.","Destelbergen, r. de","r. de Gendbrugge — ch. de Termonde. Mont St-Amand.",,,74
+303,"tweebruggenstr.","Deux ponts, r. des","pl. du Comte de Flandre — pêcherie. (",4,1," 71-72"
+303,"haspelstr.","Dévidoir, r. du","r. de rooigem — r. de l'enclume. (",,,
+304,"Devreesebeluik","Devreese, cité","r. blandin — r. de F. la roseraie. (",5,2,
+305,"dufvelstr.","Diable, r. du","r. du miroir — r. du canard (",1,1,
+306,,"Digue de Brabant. Voir Brabant","digue de.",,,
+307,"stokersstr.","Distillateurs, r. des","r. terre-neuve — place du dock. (",8,1," 30-31"
+308,"dok","Dock","r. de la nouv. porte du sas — r. d'Anvers (",8,1," 20-52"
+309,"dokpl.","Dock, pl. du","r. aux laines — dock n° 82 (",8,1," 31-41"
+310,"dokstr.","Dock, r. du","r. aux laines — dock. (",7,1,52
+311,"petit","Dock","(kleinen dok), ch. d'Anvers — ch. de Meulestede. (",8,1," 21-52"
+312,"petit","Dock","quai du (kl. dokkaai) ch. d'Anvers — petit dock, le long de l'eau. (",8,1," 42-52"
+313,"predikheerenlei","Dominicains, quai des","quai aux herbes — r. de la corne. (",1,2,59
+314,"predikheerenstr.","Dominicains, r. des","pont des dominicains — r. de la vallée. (",2,2," 58-59"
+315,"twaalfkamersstr.","Douze chambres, r. des","r. des annonciades — coupure, rive droite. (",2,2," 67-68"
+316,"dracœnastr.","Dracœna, r. du","r. de l'œillet — rue de la limite. ",10,3," 8-9"
+317,"drapstr.","Draps, r. aux","q. au blé — pl. du marais. (",2,"2 et 3"," 48-58"
+318,"hertogstr.","Ducale, r.","quai de la grue — fossé des corroyeurs. (",3,3,48
+319,"Duinkerkestr.","Dunkerque, r. de","r. de Londres — r. de l’avant-port. (",8,1,10
+320,"Dycktemstr.","Dycktem, r. du","chaussée de Meulestede, — boul. Port-Arthur. (",8,1,11
+321,"waterstraatje","Eau, ruelle de l'","r. neuve St Pierre — l'Escaut. (",5,2,70
+322,"waterstr.","Eau, r. de l'","r. de Lourdes — Oostacker (côté droit).",,,
+323,,"Mont-St Amand. 4-34",,,,
+324,"sluisstr.","Ecluse, r. de l'","place de l’écluse — pont du fossé courbe. (",3,1,40
+325,"sluizeken","Ecluse, place de l'","vieux-bourg — r. des rémouleurs. (",3,1,39
+326,"sluizekenskaai","Ecluse, quai de l'","r. c. des pierres — place de l’écluse. (",3,1,39
+327,"normaalschoolstr.","Ecole normale, r. de l'","boul. de la citadelle — ch. de Zwijnaerde. (",9,2,99
+328,,"Ecole normale, boul. de l'","Voir horticulture, boul. de l'.",,,
+329,"schoolkaai","Ecole, quai de l'","boul. de l’abattoir — boul. du château. (",7,1," 51-52"
+330,"schoolstr.","Ecole, r. de l'","boulev. de l’abattoir — boulev. du château. (",7,1," 51-52"
+331,"schoolstr.","Ecole, r. de l'","r. Louis De Smet — vieux chemin de Bruxelles (Gendbrugge). Ledeb.",,,92
+332,"schoolstr.","Ecole, r. de l'","ch. d'Anvers — r. prince Albert, (Mont-St Amand). ",,,"43-54"
+333,"schoolstraatje","Ecole, ruelle de l'","quai de l'école — r. de l’école (",7,1,52
+334,"stalhofstraat","Ecuries, r. des","r. de la colline — quai St Pierre. (",5,2,89
+335,"Edmond Blockstr.","Edmond Block, r.","r. de l'église — pont de l'Escaut, Gendbrugge. ",,,83
+336,"Edmond Van Beverenplaats","Edmond Van Beveren, pl.","aven. de Ryhove — r. du houblon. ",10,3,17
+337,"Eduard Anseeleplein","Edouard Anseele, place","rue aux Vents — rue des Epingles. (",1,1,50
+338,"Ledeberg","Edouard Blaes, r. Eduard Blaesstr.), r. Eggermont — r. de l'enseignement",,,,101
+339,"Ed. Pynaertkaai","Edouard Pynaert, quai","r. de Bruxelles — ch. d’Hundelgem (rive droite). (",4,1,91
+340,"opvoedingstr.","Education, r. de l’","ch. de Swijnaerde — r. de l’instruction (",9,2,108
+341,"Eggermontstr.","Eggermont, r.","ch. d’Hundelgem — pl. du progrès (Ledeberg). ",,,"101-102"
+342,"Egide Bertinstr.","Egide Bertin, r.","r. Vande Velde — r. Van Hoorebeke (Ledeberg). ",,,103
+343,"wilderoosstr.","Eglantine, r. de l'","r. de la vallée — r. d'Angleterre. (",2,2,58
+344,"kerkstr.","Eglise, r. de l'","quai du nord — r. de la glacière. ",10,3,36
+345,"nieuwe kerkstr.","Eglise, r. de la nouvelle","boul. de l’industrie — avenue de Ryhove. ",10,3,26
+346,"oude kerkweg","Eglise, vieux chemin de l’","dans la r. d'Akkergem. ",11,2,56
+347,"kerkstr.","Eglise, r. de l'","place de l'église — chauss. de Termonde. (Mont-St Amand). ",,,64
+348,"kerkstr.","Eglise, r. de l'","r. du cornet de poste — r. des sentiers. (Gendbrugge).",,,"82-83"
+349,"kerkstr.","Eglise, r. de l'","chauss. d’Hundelgem — pl. du progrès. (Ledeberg).",,,102
+350,"kleine kerkstr.","Eglise, petite r. de l'","r. du sud — r. du fer à cheval (Ledeberg).",,,102
+351,"kerkplein","Hglise, place de l'","devant l’église du SacréCœur. (Mont-St Amand).",,,64
+352,"kerkplaats","Eglise, pl. de l'","devant l’église. Gendbrugge.",,,
+353,"Egmontstr.","Egmont, r. d'","ch. de Courtrai (3e r. à g.) — boul. Léopold. (",9,2,97
+354,"rioolstraatje","Egout, ruelle de l'","r. des douze chambres — coupure, rive droite. (",2,2,67
+355,"olifantstr.","Eléphant, r. de l'","boulev. Gustave Callier — pont de Terplaeten. (",5,1," 90-100"
+356,"Elisabethlaan","Elisabeth, av.","ch. de Courtrai — av.",,,
+357,,"Albert. (",,9,2," 96 97"
+358,"Emiel Braunplein","Emile Braun, place","entre Eglise St-Nicolas, rue du Cornet de Poste, rue Magelein et Beffroi (",1,2,59
+359,"keizerstraat","Empereur, r. de l'","Voir Bruxelles, r. de.",,,
+360,"ambeeldstr.","Enclume, r. de l'","r. des tisserands — r. des renards. (",6,3,45
+361,"onderwijsstr.","Enseignement, r. de l'","r. Eduard Blaes — r. du pré (Ledeberg).",,,101
+362,"Ondernemersstr.","Entrepreneurs, r. des","r. de Gendbrugge — r. de l’avenir Mont-St Amand. ",,,"73 74"
+363,"spaarstr.","Epargne, r. de l'","boul. de plaisance — boulev. du gazomètre. (",3,3,29
+364,"gulden sporenlaan","Eperons d'or, avenue des","pl. de la constitution — ch. de courtrai. (",9,2,107
+365,"sperwerstr.","Epervier, r. de l'","r. du merle — r. de la corneille. (",9,2,98
+366,"doornstraat","Epine, r. de l'","r. Frans Ackerman — r. du mortier. (",4,1,61
+367,"speldenstr.","Epingles, r. des","pl. Edouard Anseele — fossé d'Othon. (",1,1," 40-50"
+368,"Erasmusstr.","Erasme, r.","av. du tolhuis — mont des infidèles. (",3,3,30
+369,"kluizestr.","Ermitage, r. de l'","r. des meuniers — passage de la Liève. (",3,3,38
+370,"Scheldelaan","Escaut, boul. de l'","boulevard Lousbergs — boul. de l’heirnisse. (",7,1,82
+371,"scheldedijk","Escaut, digue de l'","rue de Gentbrugge — le long de l’Escaut, Mont-St Amand.",,,
+372,"scheldekaai","Escaut, q. de l'","ch. d’Hundelgem — q. de l'escaut (Gendbrugge). Ledeberg. ",,,"92 101"
+373,"Scheldekant","Escaut, quai de l'","chemin de halage (Ledeb.) — pl. du bassin (Gendbr.). Gendbrugge. ",,,82
+374,"Scheldestr.","Escaut, rue de l'","quai de l’Escaut — r. du cornet de poste (Gendbrugge). Gendbrugge. ",,,92
+375,"scheldestr.","Escaut, r. de l'","ch. de Termonde — r. des entrepreneurs, Mont-St Amand ",,,"64-74"
+376,"spanjaardsstr.","Espagnols, r. des","r. du prévôt — nouv. marche au bétail. (",7,1," 61-62"
+377,"steurstr.","Esturgeon, r. de l'","pl. Edouard Anseele — petit marché au beurre. (",1,1,50
+378,"zomerstraat","Eté, r. de l'","r. du bondon — boulevard du Strop ",,,108
+379,"sterrestr.","Etoile, r. de l'","marché aux grains — q. aux herbes (",1,2,59
+380,"sterrestr.","Etoile, r. de l'","arrière r. — ch. d'Anvers.",,,
+381,,"Mont-St Amand. 41",,,,
+382,"gouden sterrestr.","Etoile d'or, r. de l'","q. du sud — ch. de Bruges. (",6,3,46
+383,"werkstraat","Etoupe, rue de l'","entre la rue du velours et la rue des tissus (",6,3,
+384,"Spreeuwstr.","Etourneau, rue de l'","r. Pré aux Oies — rue du Jacquet. (",9,2,106
+385,"roskamstr.","Etrille, r. de l'","r. du bas poldre — r. aux barres (",1,1,60
+386,"Evastr.","Eve, r. d'","ch. d'Anvers — Westveld, MentSt Amand.",,,
+387,"bisdomkaai","Evêché, quai de l'","place de l'évêché — r. neuve St Jacques. (",1,1,60
+388,"bisdomplaats","Evêché, pl. de l'","cloître St Bavon, r. de la cathédrale — q. de l'évêché. (",1,2,60
+389,"bisschopstr.","Evêque, r. de l'","ch. d’Hundelgem — chem. de halage. (Ledeberg)",,,101
+390,"Tentoonstellingslaan","Exposition, avenue de l'","rue Wenemaer et r. de l'éléphant — r. Bernard (",5,1,". 90-100"
+391,"fabriekstraat","Fabrique, r. de la","r. des sentiers — l'Escaut, Gendbrugge. ",,,83
+392,"fabriekplaats","Fabriques, pl. des","r. St Marguerite — r. aux anguilles. (",3,3,39
+393,"fezantstr.","Faisan, r. du","r. du coq — r. de la fourche. (",8,1,11
+394,"meelstr.","Farine, r. de la","r. des meuniers — passage de la Liève. (",3,3,38
+395,"Farmanstr.","Farman, r.","entre le 2e et le 4e pont du canal périphériqne du nouveau bassin (",8,1," 4-12"
+396,"valkstr.","Faucon, r. du","rue des champs — la Lys. (",1,2,59
+397,"St Pietersvrouwenstr.","Femmes St Pierre, r. des","r. basse des champs — r. St Amand. (",5,2,78
+398,"hoefijzerstr","Fer à cheval, r. du","r. l. de la monnaie — la Lys. (",1,1,49
+399,"hoefijzerstr. r. traversière — r. de la sorcière (Ledeberg","Fer à cheval, r. du",,,,102
+400,"ijzerstr.","Fer, r. du","r. des tisserands — r. de Rooigem (",6,3,46
+401,"Ferrerlaan","Ferrer, avenue","r. de la santé — Place Van Beveren ",10,3," 17-25"
+402,"fiennesdreef","Fiennes, aven. de","q. au blé — r. des servantes. (",2,2,58
+403,"Fièviéstr.","Fièvé, r.","r. terre-neuve — place du dock (",8,1," 30 31"
+404,"nettestr.","Filet, r. du","boul. de Rooigem — avenue de la libération. (",6,3,45
+405,"spinnersstr.","Fileurs, r. des","r. de Rooigem — rue des tisserands. (",6,3,46
+406,"roodelijvekensstr.","Filles-Dieu, r. des","pl. de l’écluse — pl. des chartreux. (",3,1,39
+407,"werregarenstr.","Fil-tors, r. du","r. haut-port — r. basse (",1,1,49
+408,"Vlaanderenstr.","Flandre, r. de","pl. Liévin Bauwens — pl. Wilson. (",4,1," 60-71"
+409,"pijlstraat","Flèche, rue de la","— rue de l’arbalète — rue du spiegelhof. ",11,2,56
+410,,"Fleur de blé, r. de la","Voir bluet, r. du.",,,
+411,"bloemistenstr.","Fleuristes, r. des","ch. d'Anvers — arrière-rue. (Mont-St Amand). ",,,44
+412,"bloemstr.","Fleurs, r. aux","r. basse des champs — r. de la cuiller. (",5,2,69
+413,"bloemstr.","Fleurs, r. aux","boul. du chemin de fer — r. de belle vue. (Ledeberg). ",,,100
+414,"bloemstr.","Fleurs, r. aux","r. de Melle — r. de Meirelbeke. Gendbrugge.",,,
+415,"Fleurusstr.","Fleurus, r. de","r. des moineaux — rue St-Pierre-Alost. (",9,2,107
+416,"Flobertstr.","Flobert, r.","plaine St Pierre — r. St Amand (",5,2,78
+417,"Florastr","Flora, r.","r. de Melle — Meirelbeke.",,,
+418,"Florastr.","Gendbrugge. Flore, r. de","r. Louis De Smet — vieux chem. de Bruxelles. (Ledeberg). ",,,92
+419,"hooiaard","Foins, place aux","r. courte de la monnaie — marché aux tripes et q. aux herbes. (",1,2,49
+420,"Voetbalstr.","Football, r. du","boulevard Albert — rue du Patin. ",11,2,86
+421,"smisstr.","Forge, r. de la","ch. de Courtrai — avenue Albert. (",9,2," 86 87"
+422,"korte smisstr.","Forge, r. courte de la","r. de la prairie — r. de la forge. (",9,2,86
+423,"fortlaan","Fort, boul. du","b. du parc — ch. de Courtrai. (",9,2,97
+424,"fortstr.","Fort, r. du","parc — r. du sable (",9,2," 97-108"
+425,"krommewal","Fossé courbe","fossé d'othon — pont du fossé courbe. (",1,1,40
+426,"voldersstr.","Foulons, r. des","r. de la calandre — r. des champs. (",1,2,59
+427,"vorkstr.","Fourche, r. de la","ch. de Meulestede — boul. Port-Arthur. (",8,1,11
+428,"Frankrijkplein","France, place de","entre boul. du ardin Zoologique, quai des Moines, quai des Tonneliers et place Wilson. (",4,"3 et 11",70
+429,"Frans Spaestr.","François Spae, r.","r. de l'éléphant 4 boulev. S. Liévin (",4,1,100
+430,"Frans Ackermanstr.","Frans Ackerman, r.","r. du ponton — maisons des apôtres. (",4,1,61
+431,"Esschestr.","Frêne, r. du","r. du raccordement — rue du peuplier. (",3,3,28
+432,"Frère-Orbanlaan","Frère-Orban, boulev.","— place du comte de Flandre — boulev. de Bruxelles. (",4,1," 80-101"
+433,"baaisteeg","Frise, rue de la","r. des ursulines — marché au lin. (",1,1,53
+434,"Frœbelstr.","Frœbel, r.","place du béguinage — r. Verspeyen. (",2,3,47
+435,"Frœbelstr.","Froebel, r.","r. de l'église — ch. de traverse,",,,
+436,,"Ledeberg. 101 102",,,,
+437,"tarwestr.","Froment, r. du","r. des meuniers — passage de la Liève. (",3,3,38
+438,,"Fruits, marché aux","Voir herbes, quai aux.",,,
+439,"fuchsiastr.","Fuchsia, r. du","r. du maïs — r. de la limite ",10,3,16
+440,"Galvestonstraat","Galveston, rue","r. Ste-Thérèse — rue du Dycktem. (",8,1,11
+441,"Gentstr.","Gand, r. de","ch. d'Anvers (Mont-St-Amand) — r. de Lourdes. (Mont-St-Amand).",,,34
+442,"vrouwmattenstr.","Gardes-couches, r. des","r. de la vallée — r. d'Angleterre. (",2,2,58
+443,"statiedreef","Gare, av. de la","av. Albert — pl. MarieHenriette. (",9,2,96
+444,"gasmeterlaan","Gazomètre, boul. du","champs-élysées — boul. de plaisance.","3|10",3," 20-26"
+445,"gasmeterstr.","Gazomètre, r. du","r. de la glacière — boul. du gazomètre.",10,3,26
+446,"Gentbruggestr.","Gendbrugge, r. de","chaussée de Termonde — p. de l'escaut. ",,,"64-74 "
+,"Gerardstr.","Gérard, r.","chaussée d'Anvers — r. de la prairie. (Mont-St Amand).",,,43
+,,"Gérard-le-Diable, r. de (Geeraard-de-Duivelstr.) r. du Limbourg — cloître St Bavon. (",,1,2,60
+,,"Gérard-le-Diable, square de (Geeraard-de-Duivelhof) entre r. Gérard-le-Diable, r. du Limbourg et cloître St Bavon. (",,,,
+447,,"Gewat, grand","Voir Cour, avenue de la.",,,
+448,,"Gewat, petit","Voir Cour, petite avenue de la.",,,
+449,"violierstraat","Giroflier, rue du","— rue du tournesol — rue de la poire. (",6,3,35
+450,"ijskelderstr.","Glacière, r. de la","r. Desmet — boul. du gazomètre. ",10,3," 26-36"
+451,"zwaardsteeg","Glaive, imp. du","digue de Brabant — l'Escaut. (",4,1,70
+452,"Gontrodestr.","Gontrode, r. de","ch. d’Hundelgem — r. de Gontrode, Gendbr. (Ledeberg) ",,,"112-113"
+453,"Gontrodestr.","Gontrode r. de","r. de Gontrode (Ledeb).",,,
+454,,"Melle. Gendbrugge. 113",,,,
+455,"roerstraat","Gouvernail, r. du","ch. de meulestede — r. de la bêche (",8,1,11
+456,"Gouvernementstraat","Gouvernement, rue du","r. du Limbourg — r. de Brabant. (",1,2," 60-70"
+457,"schepenhuisstr. of zaadsteeg","Grainiers, r. des","r. hautport — r. basse. (",1,1,50
+458,"koornmarkt","Grains, mar. aux","r. c. de la monnaie — r. des champs. (",1,2,59
+459,"schuurkensstr.","Grange, r. de la","r. mont-au-chaume r. des couturières. (",1,2,59
+460,"schuurstr.","Grange, r. de la","vieille barrière — plaine des courses.",,,
+461,,"Mont-St Amand.",,,,
+462,"krekelberg","Grillon, r. du","r. de l'église — r. de l'ange. (Mont-St Amand) ",,,64
+463,"lijsterstr.","Grive, r. de la","allée-verte — r. du rossignol (",6,3,25
+464,"kraanlei","Grue, quai de la","pl. Ste Pharaïlde — vieux bourg. (",3,3,49
+465,"kraanstr.","Grue, r. de la","r. du jambon — pl. du Dock. (",8,1,41
+466,"wespstraat","Guèpe, rue de la","— rue de la cire — rue d'Oostacker (",7,1,53
+467,"Willem Tellstr.","Guillaume Tell, r.","r. des baguettes — r. des femmes St-Pierre. (",5,2," 69-78"
+468,"Guinardstr.","Guinard, r.","r. des baguettes — r. Joseph Plateau. (",5,2," 69-78"
+469,"Guislainstr.","Guislain, r.","maisons aux anguilles — boul. de l'industrie. ",10,3," 25-26"
+470,"Gustaaf Callierlaan","Gustave Callier, b.","r. bénard — boul. St Liévin (",4,1,". 90-100"
+471,"Henegouwenstr.","Hainaut, r. du","pl. Liévin Bauwens — r. de la calandre. (",1,2,60
+472,"Hamburgstr.","Hambourg r. du","ch. de Meulestede — avenue de l’avant-port. (",8,1,10
+473,"haringsteeg","Hareng, r. du","r. de la monnaie — r. ducale. (",3,3,49
+474,"pekelharing","Hareng-pec, r. du","quai aux tilleuls — r. d'Ypres. (",2,2,68
+475,"harmoniestr.","Harmonie, r. de l'","r. Eduard Blaes — r. de la pacification. (Ledeberg). ",,,"101 102"
+476,"hoogeweg","Haut chemin, r. du","r. de Gand (Mont- St Amand). — nouv. bassin (",8,1," 13 34"
+477,"hoogstraat","Haute, r.","place du marais — r. de la porte de Bruges. (",2,3," 47-58"
+478,"hoogstr.","Haute, r.","r. Bruneau — r. de l’église (Mont-St Amand). ",,,"63-64"
+479,"hoogpoortstr.","Haut-port, r.","marché aux légumes — r. du bas poldre. (",1,2," 49-60"
+480,"Zwarte","Heire","r. (Zwarte Heirestr.) ch. de Bruxelles — ch. d’Hundelgem.",,,
+481,"heirnislaan","Gendbrugge. Heirnisse, boul. de l'","boul. du château — boul. de l'Escaut. (",7,1," 62-73"
+482,"heirnisplein","Heirnisse, place de l'","r. de l'église — r. de l'avenir et ch. de Termonde. (Mont-St Amand). ",,,64
+483,"Henleykaai","Henley, quai de","boulev. des hospices — boul. Britannique. ",11,2," 86-87"
+484,"Hendrik Consciencestraat","Henri Conscience, r.","rue Joseph Plateau — r. de la roseraie. (",5,2,79
+485,"Hendrik Waelputstr.","Henri Waelput, r.","boulev. Frère-Orban r. St-Liévin. (",4,1," 90-91"
+487,"graslei","Herbes, quai aux","pont aux herbes — qua des dominicains. (",1,2," 49-59"
+488,"Herodeszak","Herbes, mar. au. Voir légumes, marché aux. Hérode, cul de sac d'","dans la r. de semeurs (côté droit). (",3,3,39
+488,"reigerstr.","Héron, r. du","r. du pré aux oies — r. des renardeaux (",9,2,109
+488,"beukst.","Hêtre, r. du","r. du raccordement — r. du peuplier.",3,3,28
+489,"Heyststr.","Heyst, r. d'","av. Elisabeth — r. de la forge (",9,2,96
+490,"Heyveldstr.","Heyveld, r.","arrière-rue — champ de courses. Mont-St Amand.",,,44
+491,"uilkensstr.","Hiboux, r. des","chauss. de Zwynaerde — r. des moineaux (",9,2,108
+492,"Hippoliet Lammensstr.","Hippolyte Lammens r.","r. des béguines — r. Verspeyen. (",2,3,47
+493,"Hippoliet Lippensplein","Hippolyté Lippens, place","entre rue de Flandre, digue de Brabant et quai des Tonneliers. (",4,1,70
+494,"zwaluwenstr.","Hirondelles, r. des","r. de Rooigem — r. de la Lys (",6,3,46
+495,"winterstr.","Hiver, r. de l'","r. de l'été — ch. d'Ottergem. (",9,2," 98-99"
+496,"kreeftstr.","Homard, r. du","boul. de l'Escaut — r. des pêcheurs. (",7,1,82
+496,"hospitaalstr","Hôpital r. de l’","r. d’Akkergem — nouv. promenade. ",11,2,55
+496,"kl. hospitaalstr.","Hôpital, petite r. de l’","r. d’Akkergem — r. du jardin d’hiver.",11,2,56
+496,"gasthuisstr","Hôpital, r. de l’","r. traversière — r. ud maure. Ledeberg",,,
+496,"Spaansch hospitaalsteeg","Hôpital Espagnol, imp. de l’","marché aux veaux",1,1,51
+497,"Hortensiastr.","Hortensia, r. de l'","av. de Ryhove — r. de la limite",10,3,16
+498,"hofbouwlaan","Horticulture, boul. de l'","r. de l'école normale — parc. (",9,2,98
+499,"hofbouwstr.","Horticulture, r. de l'","— r. de Gontrode r. de la station. (Ledeberg.",,,113
+500,,"Hospice, r. de l'","Voir Institut, r. de l'.",,,
+501,"gasthuisstr.","Hospice, r. de l'","r. de traverse — r. du maure. Ledeberg.",,,102
+502,"godshuizenlaan","Hospices, boul. des","pont de la lys — boul. des Martyrs. ",11,2," 66-87"
+503,"godshuizenstr.","Hospices, r. des","coupure, rive gauche — rempart de la biloque. ",11,2," 77 Hôtel de ville, ruelle de l' (stadhuissteeg) pl. du lion d'or — r. haut-port. ("
+504,"hoppestr.","Houblon, r. du","pl. Van Beveren — r. de la limite. ",10,3,7
+505,"hulststr.","Houx, r. du","avenue de la Libération — r. du marron. (",6,3,35
+506,"oliestr.","Huile, r. de l'","r. St Georges — aven. St Jean (",1,1,50
+507,"Hullstr","Hull, r. de","r. de Leith — boul. Port-Arthur. ","SM 3",1,3
+508,"Hundelgemsche steenw.","Hundelgem, ch. d'","ch. d’Hundelgem, Ledeberg — Meirelbeke. Gendbrugge.",,,
+509,"Hundelgemschesteenweg.","Hundelgem, ch. d'","porte St Liévin — ch, d’Hundelgem (Gendbr.) Ledeb. ",,,"101-113"
+510,"brandstr.","Incendie, r. de l'","vieux q. au bois — r. de la caverne (",2,2," 57-58"
+511,"Onafhankelijkheidstr.","Indépendance, r. de l'","pl. de la constitution — ch. de Courtrai (",9,2,107
+512,"nijverheidskaai","Industrie, quai de l'","pont du tolhuis Wondelgem. (",8,3," 10 20"
+513,"nijverheidslaan","Industrie, boul. de l'","maisons aux anguilles — q. de l’industrie (",8,3," 20 26"
+514,"nijverheidsplaats","Industrie, pl. de l'","r. St Sauveur — pont du tolhuis (",8,1,20
+515,"nijverheidstr.","Industrie, r. de l'","ch. de Termonde — r. de l’avenir. (Mont-St Amand).",,,63
+516,"geuzenberg","Infidèles, montagne des","q. du ramage — pl. du tolhuis (",3,3," 29-30"
+517,"gestichtstr.","Institut, rue de l'","rue de la chapelle — boulev. du chemin de fer. Gendbrugge. ",,,83
+518,"onderwijsstr.","Instruction, r. de l'","ch. d'Ottergem — r. de l'éducation. (",9,2," 108-109"
+519,"Poelsnepstr.","Jacquet, r. du","aven. St-Denis — r. Pré aux Oies. (",9,2,106
+520,"ham","Jambon, r. du","quai de la tour rouge — r. Fièvé (",8,1," 41-51"
+521,"Jan Frans Willemstr.","Jan Frans Willems, r.","b. de la citadelle — r. des écuries (",5,2," 89-99"
+522,"dierentuinlaan","Jardin Zoologique, boul. du","pl. Liévin Bauwens — r. Bénard (",4,1," 70-90"
+523,"hofstr.","Jardin, rue du","quai des moines — r. bénard (",4,1," 70-90"
+524,"hofstr.","Jardin, rue du","r. de Gontrode — r. de l'arsenal. Gendbrugge.",,,
+525,"wintertuinstr.","Jardin d'hiver, r. du","— n. Charles- Louis Diericx — r. de l'hôpital ",11,2," 55-56"
+526,"hoveniersberg","Jardiniers, mont. des","r. n. St Pierre — l'Escaut. (",5,2,79
+527,"hoveniersstr.","Jardiniers, rue des","r. de l'hôpital — boul. d'Akkergem. ",11,2,55
+528,"hoveniersstr.","Jardiniers, rue des","ch. de Bruxelles — r. longue. (Ledeberg). ",,,"112-103"
+529,"ijkersstr.","Jaugeurs, r. des","avenue St Jean — r.",,,
+530,,"Nieuwpoort. (",,1,1," 50-51"
+531,"Jan Breydelstr.","Jean Breydel, r.","quai au blé — r. de Bruges. (",2,3,48
+532,"Jemappestr.","Jemappes, r. de","r. St Pierre-Alost — pl. de la constitution. (",9,2," 77 Jésuites, rue des. Voir foulons, r. des."
+533,"kaatsplaats","Jeu de paume, place du","r. du bac — r courte aux veaux. (",3,3,39
+534,"jockeystr.","Jockey, r. du","chaussée de Courtrai — ch. d'Audenaerde. (",9,2,105
+535,"Jordaensstr.","Jordaens, r.","pl. Van Duyse — r. c. des casernes. (",5,2,8
+536,"Jozef II str.","Joseph II, r.","r. de Wondelgem — r. de l'aune. ",10,3," 27-37"
+537,"Jozef Plateaustr.","Joseph Plateau, r.","r. basse des champs — r. neuve St Pierre. (",5,2," 78-79"
+538,"korte dagsteeg","Jour, r. courte du","r. aux vaches — pont madou. (",1,2,7
+539,"jodenstr.","Juifs, r. des","r. du gouvernement — place Laurent. (",1,2,60
+540,"Julius De Vigneplein","Jules De Vigne, place","rue Van Eyck — pont Van Eyck. (",4,1,61
+541,"Justus Lipsiusstr.","Juste Lipse, r.","boul. du grand marais — av. du tolhuis. (",3,3,30
+542,"Keybergstr.","Keyberg, r.","r. St Eloi — r. de la noce Gentbrugge ",,,
+542,"Kluyskensstr.","Kluyskens, r. ","r. des hospices — quai de la biloque. ",11,2,77
+543,"meersteeg","Lac, r. du","r. d’Abraham — r. de Bruges. (",2,3,48
+544,"Lachaertstr.","Lachaert, r.","r. de l'église — ch. d’Hundelgem (Ledeberg). ",,,"101-102"
+545,"wollestr.","Laines, r. aux","r. d’Anvers — pl. du dock. (",8,1,415
+546,"zuivelsteeg","Laitage, r. du","pont du laitage — marché du vendredi. (",1,1,49
+547,"Melkerijstraat","Laiterie, rue de la","chaussée d'Ottergem — chemin vicinal n° 82 ",,,10
+548,"Lamastr.","Lama, r. du","r. du cerf — r. du Jardin",4,1,79
+549,"Langerbruggestr.","Langerbrugge, r. de","r. du moulin à vent — Canal de Terneuzen. (",8,1,3
+550,"Laurens Delvauxstr.","Laurent Delvaux, r.","boul. Charles de Kerckhove — pl. Van Duyse. (",5,2," 87-88"
+552,"Laurentplaats","Laurent, place","digue de brabant — r. de Flandre, pl. Liévin Bauwens. (",4,"1 et 2"," 60 70"
+553,"Ledeganckstr.","Ledeganck, r.","ch. de Zwynaerde — boul. de l'horticulture. (",9,2," 98 Légumes, marché aux (groeselmarkt) r. haut-port — r. c. de la monnaie — marché aux tripes et pont de la boucherie. ("
+554,"Leithstr.","Leith, r. de","ch. de Meulestede — boul. Port- Arthur.","SM 3",1," 3 Léopold, boul. (Leopoldlaan) boul. Charles de Kerckhové — ch. de Courtrai. ("
+555,"Bevrijdingsdreef","Libération, avenue de la","rue du Phoenix — boul. de Rooigem. (",6,3,35
+556,"Vrijheidslaan","Liberté, avenue de la","r. des Hiboux pl. de la Constitution. (",8,2," 107-108"
+557,"zakkebandstr.","Liens, r. aux","quai porte aux vaches — r. de la pièce. ",4,1,"61-71"
+558,"Lievestr.","Liève, r. de la","pont de la Liève — r. l. des pierres. (",3,3,49
+559,"Lievegang","Liève, pass. de la","quai St Antoine — r. de l'ermitage. (",3,3,38
+560,"Lievekaai","Liève, quai de la","pet. aven. de la cour — r. courte d'argent. ",2,3,"38-48"
+561,"Lieven Bauwensplein","Liévin Bauwens, place","entre quai du Bas-Escaut, place Laurent, rue de Flandre et rue du Hainaut (",4,"1 et 2",50
+562,"Lieven De Winnestr.","Liévin De Winne, r.","r. des douze chambres — coupure (",2,2,67
+563,"Limburgstr.","Limbourg, r. du","pl. Liévin Bauwens — place St Bavon. (",1,2,60
+564,"grensstr.","Limite, r. de la","r. du maïs — maisons aux anguilles. ",10,3," 5-9"
+565,"oude vlasmarktstr.","Lin, r. du vieux marché au","marché au vendredi — cloître St Jacques. (",1,1,50
+566,"vlasmarkt","Lin, marché au","cloître St Jacques — r. n.",,,
+567,,"St Jacques. (",,1,1,50
+568,"vlasstr.","Lin, r. au","r. de la Lys — r. de la couronne. (",6,3," 45-46"
+569,"leeuwstraat","Lion, r. du","r. Bénard — boul. St Liévin (",5,1," 90 100"
+570,"gouden leeuwpl.","Lion d'or, place du","pl. Emile Braun — marché aux poulets et pet. turquie (",1,2,59
+571,"roodeleeuwstr.","Lion rouge, r. du","entre les nos 45 et 61 de la ch d’Hundelgem. (Ledeberg). ",,,101
+572,"bonteleeuwstr.","Lion, r. du","r. courte du marais — r. des champs. (",1,2,59
+573,"Liverpoolstr.","Liverpool, r. de","ch de Meulestede — avenue de l’avant-port. (",8,1,10
+574,"boeksteeg","Livre, r. du","r. des champs — q. de dominicains. (",1,2,59
+575,"Londenstr.","Londres, r. de","aven. de l'avant-port — pl. de l'avant-port. (",8,1,10
+576,"langestr.","Longue, r.","ch. d’Hundelgem — ch. de Bruxelles. (Ledeberg) ",,,"92-120"
+577,"Loostr.","Loo, r. de","r. de Blankenberghe — r. de la forge (",9,2,96
+578,"klinkkouterstr.","Loquet, r. du","r. de l’avenir — r. des entrepreneurs. Mont-St Amand). ",,,"67-74"
+579,"Louis de Smetstraat","Louis De Smet, r.","r. du cornet de poste — ch. de Bruxelles, Ledeberg. ",,,92
+580,"wolfsteeg","Loups, r. aux","r. baudeloo — r. de l'esturgeon. (",1,1,50
+581,"Lourdesstraat","Lourdes, r. de","r. de l'eau (Mont St Amand) — Oostacker. (",8,1,24
+582,"Lousbergslaan","Lousbergs, boul.","boul. de l’abattoir — boul. de l’Escaut ",7,1,"62-81"
+583,"Luxemburgstr.","Luxembourg, r. du","pet. r. du bélier — r. du bélier. (",2,3,48
+584,"Leikaai","Lys, quai de la","r. du phoenix — boulev. de Rooigem. (",6,3," 41-46"
+585,"Leisteeg","Lys, ruelle de la","r. basse des champs — r. de la pl. des chaudronniers (",5,2,69
+586,"Leistr.","Lys, r. de la","r. de Rooigem — quai de la Lys (",6,3,46
+587,"Leistraatje","Lys, ruelle de la","place de l’écluse — arrière-Lys. (",3,1," 39-04"
+588,"metsersstr.","Maçons, r. des","r. des Sans-Nom — dock. (",8,1," 41-42"
+589,"mageleinstr.","Magelein r.","Place Emile Braun — r. de la calandre. (",1,2,59
+590,"magerstr.","Maigre, r.","ch. de Bruxelles — r. du château Gendbrugge. ",,,103
+591,"maïsstr.","Maïs, r. du","avenue de Ryhove — r. de la limite. ",10,3," 17-18"
+592,"rasphuisstr.","Maison de force, r. de la","r. haute — coupure (rive droite). (",2,2," 57-58"
+593,"godshuishammeke","Maison-Dieu, r. de la","r. des rémouleurs — r. terre-neuve. (",3,1," 30-40"
+594,"moutsteeg","Malt, r. du","ch. d'ottergem — l’Escaut (",9,2," 109-110"
+595,,"Malte, r. de","Voir pont de Malte, r. du.",,,
+596,"Manchesterstr.","Manchester, r. de","r. de li Mouette. — r. du Dyckthem. ","SM 3",1," 11-3"
+597,"Meirestr.","Marais, r. du","r. des champs — r. du bois.",,,
+598,"korte meire","Gendbrugge. Marais, r. courte du","r. des foulons — place d'armes. (",1,2," 59-69"
+599,"lange meire","Marais, r. longue du","place de la calandre — r. c. du marais. (",1,2," 59-69"
+600,"poel","Marais, place du","r. aux draps — r. haute. (",2,"2 et 3",58
+601,"grand","Marais","boul. du (groot meerhemlaan) boul. des chartreux — place du petit marais. (",3,3,30
+602,"petit","Marais","place du (kl. meerhem) boul. du grand marais — place de l'industrie. (",8,1," 20-30"
+603,"kl. vischmarkt","Marché au poisson, petit","pont de la boucherie — pl. S. Pharaïlde (",3,3,49
+604,"Maria van Burgondiëstr.","Marie de Bourgogne, r.","q. Philippe le Bon — boulev. St Liévin. (",4,1,100
+606,"Maria-Hendrikapl.","Marie-Henriette, pl.","av. Albert — r. de la forge. (",9,2,96
+607,"Maria-Hendrikastr.","Marie-Henriette, r.","r. prince Albert — r. de l’ange. Mont St Amand ",,,64
+608,"Maria-Joséstr.","Marie José, r.","entre le boul. Albert et la place Marie-Henriette. (",9,2,96
+609,"Maria-Theresiaplaats","Marie-Thérèse, place","autour de l'église S. Joseph. ",10,3,37
+610,"Maria-Theresiastr.","Marie-Thérèse, r.","r. de l'église — r. de Wondelgem. ",10,3,36
+611,,"Marjolaines, r. aux. ","Voir magelein, r.",,,
+612,"Marnixstr.","Marnix, r.","ch. de Courtrai (1e rue à g.) — boul. Léopold. (",9,2,87
+613,"kastanjestr.","Marron, r. du","r. du renard — r. de l’arbre (",6,3,35
+614,"Marseillestr.","Marseille, r. de","r. de Londres — avenue de l’avant-port. (",8,1,10
+615,"hamerstr.","Marteau, r. du","allée-verte — b. de Rooigem. (",6,3,25
+616,"Martelaarsboulevard","Martyrs, boul. des","square de la Biloque — boul. d'Akkergem (",11,2," 66-76"
+617,"maststr.","Mat, r. du","ch. de Meulestede — r. de la bêche. (",8,1,11
+618,"matrozenstr.","Matelots, r. des","aven. de Terneuzen — r. des courtiers. (",8,1,20
+619,"voir Biloke, q. de la","Maternité, q. de la",,,,
+620,"Mathias-Gesweinstr.","Mathieu-Geswein, r.","r. Van Aken — boul. du béguinage. (",2,3,47
+621,"mooriaanstr.","Maure, r. du","r. longue — r. de la station. (Ledeberg). ",,,"102-113"
+622,"mooriaanstr.","Maure, r. du","r. longue — r. de Gon trode. Gendbrugge. ",,,"102-113"
+623,"Meirelbekestr.","Meirelbeke, r. de","r. de la confrérie — vieux marché au bétail. (",1,1," 51-61"
+624,"Meirelbekestr.","Meirelbeke, r. de","r. de Melle — Meirelbeke. Gendbrugge.",,,
+625,"Mellestr.","Melle,r. de","r. zwarte heire — Melle. Gendbrugge.",,,
+626,"Mercatorstr.","Mercator, r.","boul. des chartreux — av. du tolhuis. (",3,3,30
+627,"merelstr.","Merle, r. du","ch. de Zwynaerde — r. de la corneille. (",9,2,98
+628,"Mertensstr.","Mertens r.","r. d’Oostacker — r. de l'école. (Mont-St Amand). ",,,"43-53"
+629,"Metdepenningenstr.","Metdepenningen r.","r. Van Hulthem — r. longue des casernes. (",5,2," 78-88"
+630,"Meulesteedschesteenw.","Meulestede, ch. de","p. de la porté du sas — r. de Meulestede. (",8,1," 10-20"
+631,"Meulestedeplaats","Meulestede, pl. de","r. de Meulestede — r. de la mouette. (",8,1,". 2"
+632,"Meulestedekaai","Meulestede, quai de","aven. de l’avantport — av. du nouv. bassin. (",8,1," 2-10"
+633,"Meulestedestr.","Meulestede, r. de","ch. de Meulestede — pl. de Meulestede (",8,1,2
+634,"molenaarsstr.","Meuniers, r. des","quai des Augustins — quai du ramage. (",3,3," 28-38"
+635,"molenaarstr.","Meunier, r. du","ch. de Bruxelles — rue d’argile (Gendbrugge). (Ledeberg). ",,,93
+636,"zeemstr.","Miel, r. du","r. d’Oostacker — r. de l’abeille (",7,1,53
+637,"krijgslaan","Militaire, av.","r. des moineaux — ch. de Courtrai (",9,2," 107-108"
+638,"mimosastr.","Mimosa, r. du","r. du houblon — r. de la limite. (",10,3," 6-17"
+639,"spiegelstr.","Miroir, r. du","r. du bas-poldre — r. neuve St Jacques. (",1,1,60
+640,"Mirystr.","Miry, r.","r. des rémouleurs — r. terre-neuve (",3,1,30
+641,"musschenstr.","Moineaux, r. des","ch. de Courtrai — r. des hiboux. (",9,2," 107-108"
+642,"muinkkaai","Moines, quai des","pl. de France — r. Bénard. (",5,1," 70-89"
+643,"muinkdreef","Moines, avenue des","quai des moines — boulev. zoologique. (",5,1," 80-89"
+644,,"Moines, r. du pont des","voir pont des Moines, r. du.",,,
+645,"geldmunt","Monnaie, r. de la","pl. Ste Pharaïlde — r. l. des pierres. (",3,3,49
+646,"korte munt","Monnaie, r. courte de la","marché aux légumes — marché aux grains. (",1,2,49
+647,"lange munt","Monnaie, r. longue de la","marché aux légumes — place du grand canon. (",1,1,49
+648,"stoppelbergstr.","Mont au chaume, r.","r. des champs — quai des dominicains. (",1,1,59
+649,"mortierstr.","Mortier, r. du","r. du ponton — place Van Eyck. (",4,1,61
+650,"motorstr.","Moteur, r. du","rue de Lourdes — avenue de l'aéroplane (",8,1,
+651,"meeuwstr.","Mouette, r. de la","pl. de Meulestede — boul. Port-Arthur. (",8,1,". 2-3"
+652,"molenstr.","Moulin, r. du","coupure, rive g. — remp. de la biloque. (",11,2,67
+653,"volmolenstr.","Moulin à foulon, r. du","r. de la tour rougé — quai du pont-neuf. (",1,1,51
+654,"windmolenstr.","Moulin à vent, r. du","r. de la mouette boul. Port-Arthur. (",8,1,3
+655,"molenstr.","Moulin, r. du","r. longue — r. Van Lokeren (Ledeberg). ",,,"92-102"
+656,"molenstr.","Moulin, r. du","r. de l’école — r. des champs Mont-St Amand. ",,,54
+657,"molekenstr.","Moulinet, r. du","r. des champs — la Lys (",1,2,69
+658,"schaapstr.","Mouton, r. du","boul. Lousbergs — r. aux boeufs. (",7,1,62
+659,"oude schapenmarkt","Moutons, vieux marché aux","mar. au lin — aven. St Jean. (",1,1,50
+660,"meibloemstr.","Muguet, r. du","r. de Rooigem — r. du persil. (",6,3," 35 45"
+661,"Muylaertstr.","Muylaert, r.","chaussée de Swynaerde — Swynaerde (",9,2,
+662,"Myosotisstr.","Myosotis, r. du","r. du maïs — av. de Ryhove. (",10,3," 7-17"
+663,"Nassaustr.","Nassau, r.","chauss. de Courtrai (2e r. à g. — boul. Léopold. (",9,2,87
+664,"rapenstr.","Navets, r. des","r. longue des violettes — r.",,,
+665,,"Antheunis. (",,4,1," 71-80"
+666,"nieuwe straat","Neuve, r.","r. du pré — ch. de Bruxelles (Ledeberg). ",,,"92-102"
+667,"New-Yorkstr.","New-York, r. de","ch. de Meulestede — avenue de l’avant-port. (",8,3,10
+668,"Nieuwpoortstr.","Nieuwpoort, r.","place St Jacques — r. de la tour rouge. (",1,1," 50-51"
+669,"bruiloftstr.","Noce, r. de la","ch. de Bruxelles — r. du château. Gendbrugge.",,,
+670,"noordkaai","Nord, quai du","r. du nord — Champs- Elysées. (",10,3," 36-46"
+671,"noordstr.","Nord, r. du","r. de la porte de Bruges — quai du nord. (",10,"2 et 3",46
+672,"noordstr.","Nord, r. du","r. longue. — place du progrès (Ledeberg). ",,,102
+673,"Onze-Lieve-Vrouwstr.","Notre-Dame, r.","r. du verger — fossé des corroyeurs. (",3,3,49
+674,"Nieuw Bassijnlaan","Nouveau Bassin","rue du Paon — quai de Meulestede (","SM 3",1," 3-11"
+675,"nieuw begijnhofstr.","Nouveau béguinage, r. du","ch. de Termonde — r. d'Oostacker. (",7,1,53
+676,"nieuwenboschstr.","Nouveau bois, r. du","place Van Artevelde — r. des deux ponts. (",4,1," 71-72"
+677,"nieuw hospitaalstr.","Nouvel hôpital, r. du","coupure (rive gauche) — r. Kluyskens. (",11,2,77
+678,"notelaarstr.","Noyer, r. du","allée-verte — avenue de la Libération. (",6,3,35
+679,"korte notelaarstr.","Noyer, r. courte du","r. du noyer — r. de l’abricot. (",6,3,35
+680,,"Obscure, r","voir paradis, r. du.",,,
+681,"okerstr.","Ocre, r. de l'","r. des champs — quai des dominicains. (",1,2,59
+682,"anjelierst.","Gillet, r. de l'","r. du maïs — r. du dracœna. (",10,3,18
+683,"ajuinenlei","Oignons, quai aux","r. des dominicains — quai des récollets. (",2,2," 59 68"
+684,"vogelmarkt","Oiseaux, mar. aux","r. de Brabant — place d'armes. (",1,2," 69-70"
+685,"olijfstr.","Olive, r. de l'","r. du marteau — r. du noyer. (",6,3,25
+686,"struifstr.","Omelette, r. de l'","r. des soeurs noires — r. d'assaut. (",2,2,58
+687,"Oostakkerstr.","Oostacker, r. d'","ch. d'Anvers — ch. de Termonde (limite de Gand et Mont-St-Amand). (",7,1," 53-63"
+688,"goudstr.","Or, r. d'","fossé d'Othon — place du pré d'amour. (",1,1,40
+689,"oranjestr.","Orange, r. d'","place de la calandre — r. du gouvernement. (",1,2,60
+690,"gerststr.","Orge, r. de l'","r. des meuniers — pass. de la Liève. (",3,3,38
+691,"olmstr.","Orme, r. de l'","boul. de plaisance — boul. du gazomètre. (",3,3,29
+692,"Oostendestr.","Ostende, r. d'","av. Clémentine — av.",,,
+693,,"Albert. (",,9,2,96
+694,"baudeloostr.","Othon, r. d'","voir baudeloo, r. de Othon, fossé d' (Ottogracht) pet. mar. au beurre — fossé courbe. (",1,1,50
+695,"Ottergemschensteenw.","Ottergem, ch. d'","r. de l'école normale — Zwynaerde. (",9,2," 99-109"
+696,"berensteeg","Ours, r. aux","r. d'or — la Lys. (",1,1,40
+697,"Overzetstr.","Overzet, r. de l'","boulev. d’akkergem à la Lys. (",11,2,55
+698,"Bevredigingstr.","Pacification, r. de la","av. militaire — ch. de Courtrai (",9,2,106
+699,"pacificatiestr.","Pacification, r. de la","pl. du progrès — r. des prés. (Ledeberg.) ",,,102
+700,"verlorenbroodstr.","Pain-perdu, r. du","r. basse des champs — coupure, rive g. (",5,2,78
+701,"vredestr.","Paix, r. de la","r. des sans-noms — dock (",8,1," 51-52"
+702,"vredestr.","Paix, r. de la","r. Vande Velde — r. Van Hoorebeke. (Ledeberg.) ",,,103
+703,"vredestr.","Paix, r. de la","r. de l’église — r. des hospices. (Gendbrugge. ",,,83
+704,,"Palais de justice, pl. du","voir commerce, place du.",,,
+705,"palmboomstraat","Palmier, r. du","r. du tournesol — ch. de Bruges. (",6,3,35
+706,"pauwstr.","Paon, r. du","ch. de Meulestede — boulev. Port-Arthur. (",,,
+708,"vlinderstr.","Papillon, r. du","r. de Gontrode — r. des remparts (Gendbrugge) ",,,"103-113"
+709,"donkersteeg","Paradis, r. du","pl. du lion d'or — marché au grains. (",1,2,59
+710,"paradijszak","Paradis, imp. du","dans la r. du paradis. (",1,2,59
+711,"parkplaats","Parc, place du","boul. du parc — ch. de Courtrai. (",9,2,107
+712,"parklaan","Parc, boul. du","place du parc — boulevard du fort. (",9,2," 97-107"
+713,"park","Parc","entre les boul. Charles de Kerckhove et Léopold et les boul. du fort et de l'horticult. (",9,2," 88-97"
+714,"perkamentstr.","Parchemin, r. du","dans la r. de Bruges. (",2,3,48
+715,"Parijsberg","Paris, montagne de","dans la r. de l'agneau (",5,2,70
+716,,"Passage Vander Donckt. Voir Vander Donckt","pass.",,,
+717,"Patijntjestr.","Patin, r. du","r. de la prairie — rue d'Afsné. (",9,2," 85-96"
+718,"Vaderlandstr.","Patrie, r. de la","r. des moineaux — av. de la liberté. (",9,2,107
+718,"weidestr.","Pâturage, r. du ","ch. d'Anvers — r. de la bienfaisance. (",7,1,43
+719,"land van Waasstr.","Pays de Waes, r. du","ch. de Termonde — ch. d'Anvers. (",7,1,53
+719,,"Péage, boul. du","voir Tolhuisavenue du ",,,
+719,"Tolkaai","Péage, quai du ","pont du Tolhuis — écluse (",8,1,20
+720,"kammerst r.","Peignes, r. des","marché du vendredi — r. royale. (",1,1,50
+721,"schilderstr.","Peintres, rue des","r. de l'art — r. de l'industrie. (Mont-S. Amand). 63 Pélican, r. du (pelikaanstr.) r. l. du verger — r. du tremble. (",4,1," 61-71 Pénitentes, r. longue des (lange penitentenstr.) pet. marché au beurre — r. Baudeloo. ("
+722,"papegaaistr.","Perroquet, r. du","r. des annonciades — Coupure (rive droite). (",2,2," 67-68"
+723,"peterceliestr.","Persil, r. du","r. de la pomme — aven. de la libération. (",6,3," 35 Pétrole, r. du (petroleumstr.) r. de l’avenir — boul. de l'Escaut. ("
+724,"populierstr.","Peuplier, r. du","boul. de plaisance — boul. du gazomètre. (",3,3,28
+725,"apotheekstr.","Pharmacie, r. de la","quai de la biloque r. du nouvel hôpital. (","S 2",2," 77-78"
+726,"phoenixstr.","Phénix, r. du","quai de la Lys et du sud — avenue de la libération. (",6,3,46
+727,"Filips de Goedekaai","Philippe le Bon, q.","boulev.",,,
+728,,"St Liévin — quai de Terplaten. (",,4,1,100
+729,"eksterstr.","Pie, r. de la","r. du boucliei — r. de l’abricot (",6,3,35
+730,"stuksken","Pièce, r. de la","r. aux liens — quai porte aux vaches. (",4,1,". 71"
+731,"lange steenstr.","Pierres, r. longue des","r. de la Liève — r. c. des pierres. (",3,3," 39-49"
+732,"korte steenstr.","Pierres, r. courte des","r. l. des pierres — pl. de l’écluse (",3,1,39
+733,"Duifstraat","Pigeon, r. du","r. du rossignol — r. du coton. (",10,3,25
+734,"loodsenstr.","Pilotes, r. des","ch. de Meulestede. aven. de Terneuzen. (",8,1,20
+735,"Alkenstr.","Pingouin, r. du","dans la rue de la Mouette (",8,1,2
+736,"Pioenstr.","Pivoine, r. de la","r. du Fuchsia — r. de l'hortensia. (",10,3,16
+737,"kl. St Pietersplein","Plaine St Pierre, petite","r. de la colline — r. du sentier. (",5,2,89
+738,"plezantevest","Plaisance, boul. de","boul. du béguinage — place de l’industrie. (","3|10",3," 20-37"
+739,"plataanstr.","Platane, r. du","remp. de plaisance — boul du gazomètre. (",3,3," 28-29"
+740,,"Plateau, r. ","voir Joseph Plateau, rue.",,,
+741,"pluimstr.","Plume, r. de la","r. du pot d'étain — r. courte d'argent. (",2,3," 38-48"
+742,,"Poelman, r. ","voir station, pet. r. de la.",,,
+743,"peerstraat","Poire, r. de la","boul. de Rooigem — r. du filet. (",6,3,45
+744,"peperstr.","Poivre, r. du","r. haute — r. de Bruges. (",2,3," 4 11-57"
+745,"appelstr.","Pomme, r. de la","r. de la chèvre — boul. de Rooigem. (",6,3,45
+746,"Brugstr.","Pont aux pommes, r. du, voir Jean Breydel, rue Pont, r. du","voir Gendbrugge, r. de Pont de Malte, r. du (Maltebruggestr.) r. du pré aux oies — ch. de Courtrai. (",9,2," 105-106"
+747,"muinkbrugstr.","Pont des moines, r. du","pet. plaine St Pierre — r. Benard. (",5,2,89
+748,"zuivelbrugstr.","Pont du laitage, r. du","pont du laitage — vieux bourg. (",3,1,49
+749,"walpoortbrugstr.","Pont Madou, r. du","r. c. du jour — r. neuve St Pierre. (",5,2,70
+750,"nieuwbrugkaai","Pont neuf, quai du","vieux marché au bétail — r. de la tour rouge. (",1,1," 51-61"
+751,"veerstr.","Ponton, r. du","r. Charles-Quint — quai du ponton. (",4,1," 51-61"
+752,"veerkaai","Ponton, quai du","r. du ponton — place JuleDe Vigne. (",4,1," 51-61"
+753,"pontstr.","Ponton, r. du","r. du cornet de poste — quai de l'Escaut (Gendbrugge). ",,,82
+754,"kl. veerstr.","Ponton, petite r. du","avenue de l'Yser — la Lys. (",5,2,87
+755,"dampoortstr.","Porte d'Anvers, r. de la","quai de la tour rouge — ch. d'Anvers. (",7,1," 51-52"
+756,"Brugschepoortstr.","Porte de Bruges, r. de la","r. haute et fossé St Elisabeth — r. du nord. (",2,"2 et 3",47
+757,,"Porte du sas","ancienne r. de la (oude sasschepoortstr. fin r. St Sauveur — dock et nouv. r. de la porte du sas (",8,1," 20-21"
+758,"nieuwe sasschepoortstr.","Porte du sas, nouvelle r. de la","r. St Sauveur — ch. de meulestede (",8,1,20
+759,"sasschepoortstr.","Porte du sas, r. de la","nouv. r. de la porte du sas — ancienne r. de la porte du sas (",8,1," 20-21"
+760,"tinnenpotstr.","Pot d'étain, r. du","avenue de la cour — r. courte d'argent. (",2,2," 38-48"
+761,"galgelaan","Potence, av. de la","av. militaire — r. de la potence (",9,2,16
+762,"galgestr.","Potence, r. de la","ch. de Swynaerde — av. de la potence (",9,2,16
+763,"Poermagazijnstr.","Poudrière, r. de la","q. Philippe le Bon — boulev. St Liévin. (",4,1,100
+764,"kiekenstr.","Poulet, r. du","avenue de libération — r. du rossignol. (",6,3,25
+765,"kiekenmarkt","Poulets, marché aux","marché au beurre — place du lion d'or. (",1,2,59
+766,"stofstr.","Poussiere, r. de la","quai des récollets — r. de la vallée. (",2,2,68
+767,"korte meerschstr.","Prairie, r. courte de la","r. de la prairie — quai du compromis. (",9,2,87
+768,"meerschstr.","Prairie, r. de la","chauss. de Courtrai — r. d'Afsné. (",9,1," 87-9"
+769,"meerschstr.","Prairie, r. de la","chaussée d'Anvers — r. de Gand. (Mont-St Amand). ",,,43
+770,"weidestr.","Prairie, r. de la","r. du maure — r. des remparts. Gendbrugge ",,,"103-112"
+771,"minnemeerschplaats","Pré d'amour, place du","r. d'or — pont du pré d'amour. (",1,1,40
+772,"oude drieschstr.","Pré, vieille r. du","ch. de Bruxelles — r. des jardiniers, Ledeberg) ",,,"92-102"
+773,,"Pré, place du","voir avant ou arrière pré.",,,
+774,"drieschstr.","Pré, r. du","r. de l’instruction — chaussée de Bruxelles (Ledeberg). ",,,"102-103"
+775,"ganzendrieschstr.","Pré aux oies, r. du","ch. de Courtrai — av. St Denis. (",9,2,106
+776,"provenierstersstr.","Prébendières, r. des","pl. du béguinage — r. des béguines. (",2,3,47
+777,"hooie","Prés, place des","dans la r. des 2 ponts. (",4,1,71
+778,"Cloître","Près St Bavon. Voir St Bavon",,,,
+779,"priestersstr.","Prêtres, r. des","r. St Sauveur — place du dock. (",8,1," 30-31"
+780,"priestersstr.","Prêtres, r. des","r. du jardin — r. de la bruyère. Gendbrugge.",,,
+781,"prooststr.","Prévôt, r. du","r. St Macaire — r. des casemattes. (",7,1,62
+782,"prinsenhof","Prince, cour du","aven. de la cour — chem. du rabot. (",2,3," 38-48"
+783,"prinsenplaats","Prince, place du","cour du prince — r. courte d'argent. (",2,3,38
+784,"prinsenstraat","Prince, r. du","cour du prince — r. du rabot. (",2,3," 47-48"
+785,"prins Albertstr.","Prince Albert, r.","r. de l'école — ch. de Termonde. (Mont-St Amand. ",,,"54-64"
+786,"prinses Elisabethstr.","Princesse Elisabeth, r.","r. de Gendbrugge — ch. de Termonde. Mont-St Amand.",,,
+787,"lentestr.","Printemps, r. du","r. du strop — quai du strop. (",9,2," 99-100"
+788,"vooruitgangplaats","Progrès, pl. du","devant l’église. (Ledeberg). ",,,102
+789,"nieuwe wandeling","Promenade, nouvelle","coupure gauche — boul. d’akkergem (",11,2," 46-55"
+790,"Prosper Claeysstraat","Prosper Claeys, r.","boulevard Albert — rue du Patin (",11,2,86
+791,"Prosper Vincentstr.","Prosper Vincent, r.","r. du sud — r. du nord. Ledeberg. ",,,102
+792,"maagdestr.","Pucelle, r. de la","vieux quai des violettes — r. du perroquet. (",2,2,68
+793,,"Pynaert, quai","voir Edouard Pynaert, quai.",,,
+794,"Oueteletstraat","Ouetelet, rue","pl. du tolhuis — r. Van Crombrugghe. (",3,3,30
+795,"rabotstr.","Rabot, r. du","pl. Ste Elisabeth — boul. du béguinage (",2,3," 37-47"
+796,"rabotweg","Rabot, pass. du","cour du prince — boul. du béguinage. (",2,3," 37-38"
+797,"rabotl.","Rabot, aven. du","pl. du rabot — r. de la tourbe (",10,3,37
+798,"rabotpl.","Rabot, pl. du","p. De Smet — r. de Wondelgem (",10,3,73
+799,"verbindingstr.","Raccordement, r. du","boul. de plaisance — boul. du gazomètre. (",10,3,28
+800,"verbindingstr.","Raccordement, r. du","r. du moulin pl. de l’église. (Mont-St Amand). ",,,"54-64"
+801,"verkortingstr.","Raccourcissement, r. du","ch. d'Anvers — r. de Gand Mont-St-Amand. ",,,"34-44"
+802,"vlotstr.","Radeau, r. du","place Marie-Thérèse — r. de l'aune. (",10,3,27
+803,"Radijsstr.","Radis, r. du","r. du myosotis — r. du houblon. (",10,3," 7-17"
+804,"raaffinadenstr.","Raffineurs, impasse des","pl. Ed. Anscele — la Lys. (",1,1,50
+805,"vogelenzangkaai","Ramage, quai du","r. des meuniers — montagne des infidèles. (",3,3,29
+806,"schouwvagersstr.","Ramoneurs, r. des","vieux quai au bois — r. de la caverne. (",2,3," 57-58"
+807,"Raketstraat","Raquette, r. de la","r. de la Prairie — boulevard Albert (",11,2,86
+808,"Ravenschootstr.","Ravenschoot, r. de","boul. Gustave Callier — avenue de l'exposition. (",4,1," 90 Récollets, quai des (recollettenlei) quai aux oignons — quai aux tilleuls. ("
+809,"toevluchtstr.","Refuge, r. du","r. du séminaire — r. du bas-poldre. (",1,2," 60 Régates, aven. des (regattendr.) r. du jambon — dock ("
+810,"walstr.","Remparts, r. des","r. Van Hoorebeke — r. de Gontrode. Gendbrugge. ",,,"103-113"
+811,"vosstr.","Renard, r. du","aven. de la libération — r. de Rooigem. (",6,3," 35 45"
+812,"voskensweg","Renardeaux, chem. des","av. s. Denis — r. du pont de Malte. (",9,2," 105-106"
+813,"berouwstr.","Repentir, r. du","b. des chartreux — quai du ramage et mont des infidèles. (",3,3," 29-30"
+814,"ruststr.","Repos, r. du","ch. d'Ottergem — r. de l'instruction (",9,2," 109 Réseda, r. du (resedastr.) avenue de la Libération — r. du marron. ("
+815,,"Retordeurs","r. des (twijndersstr. r. de l'esturgeon — fossé d'Othon. (",1,1,50
+816,"rijkeklarenstr.","Riches-claires, r. des","dans la r. St Liévin. (",4,1,80
+817,"rijkeklarenstr.","Riches-claires, r. des","r. du bassin — r. Van Oost. Gendbrugge",,,"82-83"
+819,"rietgrachtstr.","Rietgracht, r. du","boul. de l'heirnisse — r. de la concorde. (",7,1,73
+820,"rietgrachtstr.","Rietgracht, r. du","voir Van Hoorebeke, r.",,,
+821,"rogierstr.","Roger, r. du","voir roseraie, r. de la Roitelet, r. du (roodekoningstr.) vieux bourg — r. c. aux veaux. (",3,3,49
+822,"Rooigemlaan","Rooigem, b. de","b. d'Akkergem — allée verte. (",6,3," 25-55"
+823,"Rooigemstr.","Rooigem, r. de","r. du phénix — r. de la chèvre (",6,3," 45-46"
+824,"roozebroekstr.","Roozebroek, r.","arrière-rue — r.",,,
+825,,"Heyveld Mont-St Amand. 44",,,,
+826,"rietstr.","Roseau, r. du","r. de l’église — r. de l'aune (",10,3,27
+827,"rozierstr.","Roseraie, r. de la","r. neuve St Pierre — rue Guillaume Tell. (",5,2," 78-79"
+828,"rozendaalken","Roses, vallée aux","r. des baguettes — r. aux fleurs. (",5,2,69
+829,"nachtegaalstr.","Rossignol, r. du","ch. de Bruges — allée verte. (",6,3,25
+830,"braderijstr.","Rotisseurs, r. des","aven. de la cour — quai de la Liève. (",2,3,48
+831,"Rotterdamstr.","Rotterdam, r. de","ch. de Meulestede — aven. de l’avant-port. (",8,1,10
+832,"koningstr.","Rovale, r.","pl. du sablon — marché au lin (",1,1,50
+833,"koningstr.","Royale, r.","r. de l’ange. — r. haute (Mont-St Amand) ",,,61
+834,"puinstr.","Ruines, r. des","boul. Lousbergs — r. aux boeufs",7,1,62
+835,"veergrepstr.","Ruisscau, pass. du","r. de Courtrai — la Lys. (",5,2,78
+836,"beekstr.","Ruisseau, r. du","r. du maure — r. courte du ruisseau. Gendbrugge. ",,,102
+837,"korte beekstr.","Ruisseau, r. courte du","r. des champs — r. Vanden Hecke (Ledeberg). Gendbrugge. ",,,102
+838,"Ryhovelaan","Ryhove, avenue","boul. de l'industrie — r. de la betterave (",10,3,162
+839,"zandstr.","Sable, r. du","boul. du Strop — chaussée de Zwynaerde. (",9,2," 98-108"
+840,"zandberg","Sablon, place du","r. haut-port — r. royale. (",1,1," 50-60"
+841,"Mont St Amand","Sablon, r. du zavelput) ch. d’anvers — r. Heyveld.",,,,
+842,"zakstr.","Sac, r. du","dans la r. Van Oost (Gendbrugge). ",,,8
+843,"Heilig Hartstr.","Sacré-Cœur, r. du","pl. de l'église — ch. de Termonde (Mont-St Amand). ",,,"63-64"
+844,"Ste Agneetestr.","St Agnes, r.","quai aux tilleuls — r. de la vigne. (",2,2,68
+845,"St Amandstr.","St Amand, r.","r. des femmes St Pierre — r. de la colline. (",5,2," 78 88"
+846,"St Amandplaats","St Amand, place","r. St Amand — plaine St Pierre. (",5,2,88
+847,"Ste Annastr.","Ste Anne, r.","r. des deux ponts — boul.",,,
+848,,"Frère Orban. (",,4,1," 71-8"
+849,"St Antoniuskaai","St Antoine, quai","pont de l’académie — pass. de la Liève. (",3,3,3
+850,"Ste Barbarastr.","Ste Barbe, r.","remp. des chaudronniers — r. savaen. (",5,2,69
+851,"St Baafsplaats","St Bavon, place","pl. Emile Braun — église St Bavon. (",1,2,60
+852,"St Baafsstr.","St Bavon, r.","r. du bas-poldre — place St Bavon. (",1,2,60
+853,"bij St Baafs","St Bavon, cloître","r. du Limbourg — pl. de l'évêché. (",1,2,60
+854,"Ste Catharinastr.","Ste Catherine, r.","r. du bonheur — r. d'or. (",1,1,49
+855,"St Crispijnstr.","St Crepin, r.","r. de l'églantine — r. des gardes-couches. (",2,2,58
+856,"St Denijslaan","St Denis, avenue","ch. de Courtrai — St Denis-Westrem. (",9,2," 95-104"
+857,"Ste Elisabethplaats","Ste Elisabeth, place","r. de Bruges — r. du rabot. (",2,3,47
+858,"Ste Elisabethsteeg","Ste Elisabeth, imp.","dans la r. aux fleurs. (",5,2,69
+859,"begijnengracht","Ste Elisabeth, fossé","r. de Bruges — r. de la porte de Bruges. (",2,3,47
+860,"St Eligiusstr.","St Eloi, r.","ch. de Bruxelles — r. Keyberg. Gendbrugge.",,,
+861,"Heiliggeeststr.","St Esprit, r. du","pl. Emile Braun — r. des vanniers. (",1,2,59
+862,"St Genoisstr.","St Genois, r.","ch. de Bruxelles — r. de Gontrode. Gendbrugge.",,,
+863,"St Jooriskaai","St Georges, quai","r. St Georges — r. de la tour rouge. (",7,1,51
+864,"steendam","St Georges, r.","cloître St Jacques — quai de la tour rouge. (",1,1," 50-51"
+865,"St Gillisstr.","St Gilles, r.","r. des rémouleurs — boul. des Chartreux. (",3,1,40
+866,"St Hubertstr.","St Hubert, r.","r. des femmes St Pierre — r. de la roseraie. (",5,2,78
+867,"St Jacobsnieuwstr.","St Jacques, r. neuve","marché au lin — pont neuf. (",1,1," 50-6"
+868,"bij St Jacobs","St Jacques, cloître, près- ou place","(autour de l’église St Jacques). (",1,1,70
+869,"St Jansdreef","St Jean, avenue","vieux marché aux moutons — r. St Georges. (",1,1,5
+870,"St Jansvest","St Jean, remp.","r. c. du jour — r. de Brabant. (",1,2,70
+871,"St Jozefstr.","St Joseph, r.","r. du prévôt — r. de l'école (",7,1,5
+872,"St Lievenstr.","St Liévin, r.","r. l. des violettes — porte St Liévin. (",4,1," 81 10"
+873,"St Lievenslaan","St Liévin, boul.","pont de Terplaeten — boul. Gustave Callier. (",4,1,10
+874,"St Lievensteeg","St Liévin, pass. de la r.","r. St Liévin — boulev. Frère Orban (",4,1," 90-91"
+875,"St Machariusstr.","St Macaire, r.","q. de l'école — r. des espagnols. (",7,1,". 51-52"
+876,"Ste Margrietestr.","Ste Marguerite, r.","r. de la monnaie — place des fabriques (",3,3,39
+877,"St Martensblindeken","St Martin, imp.","dans la r. d'Akkergem. (1",1,2,65
+878,"St Martenstr.","St Martin, r.","r. d'assaut — r. c. des violettes. (",2,2,68
+879,"St Michielsplaats","St Michel, place","r. de la vallée — r.",,,
+880,,"St Michel. (",,2,2,58
+881,"St Michielsstr.","St Michel, r.","place St Michel — place du marais. (",2,2,58
+882,"Ste Pharaïldeplaats","Ste Pharaïlde, place","quai de la grue — r. haute du soleil. (",3,3,49
+883,"St Pietersplein","St Pierre, plaine","r. neuve St Pierre — r. de la colline. (",5,2,89
+884,"klein St Pietersplein","St Pierre, petite plaine","r. de la colline — r. du sentier. (",5,2,89
+885,"St Pieterstr.","St Pierre, r.","plaine St Pierre, côté gauche de l'église — l'Escaut. (",5,2,89
+886,"St Pietersnieuwstr.","St Pierre, r. neuve","r. du pont Madou — plaine St Pierre. (",5,2," 70-79"
+887,"St Pieters-Aalststr.","St Pierre-Alost, r.","chaussée de Zwynaerde — ch. de Courtrai. (",9,2," 107-108"
+888,"St Pieterskaai","St Pierre, q.","r. de l’écurie — pont de Te platen. (",5,2," 89 99"
+889,,"St Pierre, r. des femmes","voir femmes St Pierre, r. des.",,,
+890,"Heilig Sacrementstr.","St Sacrement, r. du","r. courte du marais — r. des champs. (",1,2,59
+891,"St Salvatorstr.","St Sauveur, r.","r. des rémouleurs — r. de la nouvelle porte du sas. (",8,1," 20-30"
+892,"Ste Theresiastr.","Ste Thérèse, r.","r. de la Fourche — r. du Dycktem. (",8,1,11
+893,"Sanderusstr.","Sanderus, r.","boul. des chartreux — avenue du tolhuis. (",3,3,30
+894,"straat zonder einde","Sans-fin, r.","dans la r. longue de la monnaie (côté des nos pairs). (",1,1,49
+895,"Zonder Naamstr.","Sans-Nom, r. des","av. des régates — rue de la porte d'Anvers. (",8,1," 41-51"
+896,"Gezondheidsstr.","Santé, r. de la","r. Guislain — maisons aux anguilles. (",10,3,25
+897,"sperrestr.","Sapin, r. du","r. de Rooigem — r. du marron. (",6,3," 35-45"
+898,"sasblindestr.","Sas, imp. du","dans la r. du sas. (",8,1,20
+899,"sasschekaai","Sas, quai du","pl. de l’industrie — pont de la porte du sas. (",8,1,20
+900,"sasschekaaistr.","Sas, r. du","r. de la nouv. pte du sas — quai du sas. (",8,1,20
+901,"sasstr.","Sas, r. du","r. du cornet de poste — r. de l'église (Gendbrugge). ",,,92
+902,"saliestr.","Sauge, r. de la","r. du chaume — r. Liévin De Winne. (",2,2," 67 68"
+903,"wilgstr.","Saule, r. du","r. de Wondelgem — r. de l'aune. (",10,3,27
+904,"zalmstr.","Saumon, r. du","r. de l’avenir — b. de l'Escaut. (",7,1," 73-82"
+905,"savaanstr.","Savaen, r.","r. basse des champs — r. du pont Madou. (",5,2," 69-70"
+906,"schoenlappersstr.","Savetiers, r. des","r. l. de la monnaie — la Lys. (",1,1,49
+907,"Schreiboomstr.","Schreiboom, r. de","r. de Courtrai — la Lys. (",5,2," 77-88"
+908,"zagermansstr.","Scieurs, r. des","r. c. du jour — remp.",,,
+909,,"St Jean. (",,1,2,70
+910,"beeldhouwersstr.","Sculpteurs, r. des","r. des architectes — r. de l’industrie. (Mont-St Amand). ",,,"63-64"
+911,"roggestr.","Seigle, r. du","av. de Ryhove — r. du Maïs. (",10,3," 17 27"
+912,"zoutstr.","Sel, r. du","r. basse des champs — la Lys. (",5,2,69
+913,"zaaimansstr.","Semeurs, r. des","r. Ste Marguerite — r. c. des bateaux. (",3,3," 39 Séminaire, r. du (seminariestr.) place St Bavon — r. du refuge. ("
+914,"voetweg","Sentier, r. du","r. du pont des moines — r. de la colline. (",5,2,89
+915,"oude voetweg","Sentiers, vieille r. des","r. des écuries — r. du sentier (",8,2,89
+916,"ongerijstr.","Sentiers r. des","r. de l'église — r. d’argile.",,,
+917,"serpentstr.","Gendbrugge. Serpent, r. du","r. basse — r. des peignes. (",1,1,50
+918,"huurdochtersstr.","Servantes, r. des","quai au blé — place St Michel. (",2,2,58
+919,"Snellaertstr.","Snellaert, r.","boul. du grand marais — r. Van Crombrugghe. (",3,3," 30 Sœurs-noires, r. des (zwartezustersstr.) r. de la vallée — vieux quai au bois. ("
+920,"tongstr.","Sole, r. de la","r. des pêcheurs — r. du turbot. (",7,1,82
+921,"zonnestr.","Soleil, r. du","place d'armes — place du commerce. (",1,2,69
+922,"hoogezonnestr.","Soleil, r. haute du","place Ste Pharaïlde — r. de Bruges. (",3,3,48
+923,"tooverheksstr.","Sorcière, r. de la","r. de l'église — r. longue. (Ledeberg). ",,,102
+924,"bronsteeg","Source, r. de la","place de la calandre — r. du gouvernement. (",1,2,60
+925,"r.","Spae, r. Voir François Spae","ou Bernard Spae (aven.)",,,
+926,"spiegelhofstr.","Spiegelhof, rue du","— r. du jardin d'hiver — nouvelle promenade (",11,2,55
+927,"Sportstraat","Sport, r. du","boulevard Albert — rue du Patin (",11,2,86
+928,"kleine statiestr.","Station, petite r. de la","digue de Brabant — r. de Flandre. (",4,1,71
+929,"statiestr.","Station, r. de la","place Van Artevelde — pl.",,,
+930,,"Wilson. (",,4,1,71
+931,"statiestraat","Station, r. de la","— ch. d’Hundelgem — (n° 290) sans fin. Ledeberg. ",,,"112-113"
+932,"Stephanielaan","Stéphanie, aven.","boul. Albert — aven. d'Afsné. (",9,2,96
+933,"Stroplaan","Strop, boul. du Strop","quai du Strop — place du Parc. (",9,2," 107-110"
+934,"Stropkaai","Strop, quai du","pont de Terplaeten — pont du strop. (",5,2," 99-110"
+935,"Stropstraat","Strop, r. du","entre les nos 37 et 235 de la ch. d'Ottergem. (",9,2," 99-109"
+936,"korte Stropstr.","Strop, r. courte du","r. du Strop — quai du Strop. (",9,2," 109-110"
+937,"zuidkaai","Sud, quai du","r. du phénix — allée-verte. (",6,3," 36 46"
+938,"zuidstr.","Sud, r. du","place du progrès — r. longue.",,,
+939,,"Ledeberg. 102",,,,
+940,"vlierstr.","Sureau, r. du","ch. de Zwynaerde — r. du bondon. (",9,2," 98 108"
+941,"steenhouwersstr.","Syngemkouter, Braeckmansmolenslag — r. de l'eau Mont-St-Amand Tailleurs de pierre, r. des","r. neuve — r. longue. (Ledeberg). ",,,102
+942,"tinkestr.","Tanche, r. de la","r. du brochet — r. de la carpe. (",7,1,82
+943,"huidevetterken","Tanneurs, r. des","r. Miry — r. de la maison Dieu. (",3,1," 30 40"
+944,"huidevetterslei","Tanneurs, quai des","r. des rémouleurs — d. des blanchisseurs. (",3,1,40
+945,"spijkerboorstr.","Tarrière, r. de la","r. des rémouleurs — boul. du grand marais. (",3,3,30
+946,"stierstr.","Taureau, r. du","boul. du château — r. des casemattes. (",7,1,52
+947,"tempelhof","Templiers, r. des","r. Ste Marguerite — r. l. des bateaux. (",3,3,39
+948,"Teniersstr.","Teniers, r.","r. Jordaens — r. De Craeyer (",5,2,88
+949,"Tennisstraat","Tennis, rue du","boulev. Albert — plaine des jeux. (",11,2,86
+950,"Dendermondschenstw.","Termonde, ch. de","ch. d'Anvers et r. du pays de Waes — ch. de Termonde (Mont-St Amand). (",7,1," 53 63"
+951,"Dend.stw.","Termonde, ch. de","ch. de Termonde (Gand). — Testelbergen. (Mont-St Amand). ",,,"63-64"
+952,"Terneuzenlaan","Terneuzen, avenue de","pont de la porte du sas — pont du chemin de fer de ceinture, le long du canal. (",8,1,20
+953,"Terplatenkaai","Terplaeten, quai de","r. Bénard — boul.",,,
+954,,"St Liévin et quai Philippe le Bon. (",,4,1," 89-100"
+955,"nieuwland","Terre-neuve, r.","quai des tanneurs, — r. des prêtres. (",3,1," 31 40"
+956,"Antw. voetweg","Terre, chemin de","ch. d'Anvers (Potuit) — ch. d'Anvers (Mont-St Am.). Mont-St Amand. ",,,44
+957,"Thaliestr.","Thalie, r.","chaus. de Zwynaerde — chaus. d'Ottergem. (",9,2," 98 99"
+958,"schouwburgstr.","Théâtre, r. du","place d'armes — place du commerce. (",1,2,69
+959,"Theresianenstr.","Thérésiennes, r. des","r. de la caverne coupure, rive d. (",2,2,57
+960,"nieuwe Theresianenstr.","Thérésiennes, r. neuve des","r. de la maison de force — r. des Thérésiennes. (",2,2,57
+961,"tijgerstr.","Tigre, r. du","av. de l'exposition — r. Wenemaer. (",5,1,". 89 90"
+962,"lindenlei","Tilleuls, quai aux","quai des récollets — coupure, rive droite. (",2,2," 68-77"
+963,"lindenstr.","Tilleuls, r. des","r. de l’avoine — nouvelle rue de l'église. (",10,3,26
+964,"weversstr.","Tisserands, r. des","aven. de la libération — r. de Rooigem. (",6,3," 45 46"
+965,"Weefselsstraat","Tissus, rue des","rue de l'étoupe — Allée-Verte. (",6,3,
+966,"tolhuislaan","Tolhuis, avenue du","pl. des chartreux — pl. du tolhuis (",3,3," 30-39"
+967,"tolhuispl.","Tolhuis, pl. du","mont des infidèles — rue Vander Goes. (",3,3,30
+968,"kuiperskaai","Tonneliers, quai des","place de France — pl. Hippolyte Lippens. (",4,1,70
+969,"kuipersstr.","Tonneliers, r. des","fossé des corroyeurs — r. l. des pierres. (",3,3,49
+970,"grooten huidevettershoek","Toquet, grand","— r. du pont Madou — r. de la coriandre. (",5,2,70
+971,"kleinen huidevettershoek","Toquet, petit","r. de la coriandre — r. de l'agneau. (",5,2,70
+972,"torrekensstr.","Tourelles, r. des","aven. du rabot — place Marie-Thérèse. (",10,3,37
+973,"zonnebloemstr.","Tournesol, r. du","— r. de l'arbre — r. du Persil. (",6,3,35
+974,"roodentorenkaai","Tour rouge, quai de la","r. St Georges — quai du château. (",7,1,51
+975,"roodentorenstr.","Tour rouge, r. de la","mar. aux veaux — q. s. Georges. (",1,1,51
+976,"binnenweg","Traverse, chem. de","entre les nos 42 et 214 de la ch. d’Hundelgem. (Ledeberg). ",,,"102-102"
+977,"dwarsstr.","Traversière, r.","quai des moines — boul. du jardin zoologique. (",4,1,79
+978,"dwarsstr.","Traversière, r.","r. Van Oost — r. du bassin. (Gendbrugge). ",,,"82 83"
+979,"doorgangstr.","Traversière, r.","r. de la bienfaisance r. de l’église. (Ledeberg). ",,,"102-112"
+980,"klaverstr.","Trèfle, r. du","r. du maïs — place Van Beveren. (",10,3,17
+981,"abeelstr.","Tremble, r. du","digue de Brabant — r. aux liens. (",4,1," 61 71"
+982,"pensmarkt","Tripes, mar. aux","marché aux légumes — marché aux foins. (",1,2,49
+983,"penssteeg","Tripes, imp. aux","dans la r. haute. (",2,2,58
+984,"pensstr.","Tripes, r. aux","quai au blé — rue aux draps. (",2,2,48
+985,"Drongenschensteenw.","Tronchiennes, ch. de","r. de Rooigem — Tronchiennes. (",6,3,45
+986,"zeugesteeg","Truies, r. aux","fossé des corroyeurs — r. de la monnaie. (",3,3,49
+987,"pannestr.","Tuile, r. de la","champs-élysées — r. du gazomètre. (",10,3," 26-36"
+988,"tichelrij","Tuileries, quai des","r. c. des pierres — pl. des chartreux. (",3,1,39
+989,"tulpstr.","Tulipe, r. de la","— aven. de la libération — r. du marron (",6,3,35
+990,"tarbotstr.","Turbot, r. du","r. de la carpe — r. des pêcheurs. (",7,1," 81-82"
+991,"klein Turkije","Turquie, petite","place du lion d'or — marché aux grains. (",1,2,5
+992,,"Université, r. de l'.","voir Foulons, rue des.",,,
+993,"Urselinenstr.","Ursulines, r. des","place du sablon — r. du miroir. (",1,1,60
+994,"koeweg","Vaches, chem. des","r. de la mouette — Oostacker (",8,1,9
+995,"koestr.","Vaches, r. aux","place de la calandre — r. c. du jour. (",1,2," 60-70"
+996,"koepoortkaai","Vaches, quai porte aux","place Jules De Vigne — place Van Artevelde. (",4,1," 61-71"
+997,"korte koestr.","Vaches, r. courte aux","r. du miroir — quai de l'évêché. (",1,1,60
+998,"onderbergen","Vallée, r. de la","place St Michel — r. c. des violettes. (",2,2," 58-68"
+999,"Van Akenstr.","Van Aken, r.","place du béguinage — r.",,,
+1000,,"Verspeyen. (",,2,3,47
+1001,"Van Arteveldepl.","Van Artevelde, pl.","r. de la station — quai porte aux vaches et r. du nouveau bois.",4,1,71
+1002,"Van Beverenpl.","Van Beveren pl.","avenue Ferrer av. Ryhove. (",10,3,17
+1003,"Van Caneghemstr.","Van Caneghem, r.","r. verte — r. des tanneurs. (",3,1,40
+1004,"Van Crombrugghestr","Van Crombrugghe, r.","av. du tolhuis — mont des infidèles. (",3,3," 29-30"
+1005,"Vanden Heckestr.","Van den Hecke, r.","r. longue — r. courte du ruisseau (Gendbrugge). Ledeberg. ",,,"102-103"
+1006,"Vanderdoncktdoorgang","Vander Donckt, pass.","digue de Brabant — r. de la station (",4,1,71
+1007,"Vander Goesstr.","Vander Goes. r.","r. St Sauveur — place du tolhuis. (",3,3,30
+1008,"Vande Veldestr.","Vande Velde, r.","pont des récollets — r. des annonciades (",2,2,68
+1009,"Vande Veldestr.","Vande Velde, r.","r. du jardinier — r. c. des champs (Gendbrugge). Ledeberg ",,,"102-103"
+1010,"Van Duyse's plaats","Van Duyse, place","r. de la chênaie — r. Van Hulthem. (",5,2,88
+1011,"Van Dyckstr.","Van Dyck, r.","r. des sentiers — r. de la cloche. Gentbrugge.",,,
+1012,"Van Eyckstr.","Van Eyck, r.","r. Charles-Quint — place Jules De Vigne. (",4,1,61
+1013,"Van Geertstr.","Van Geert, r.","ch. de Bruxelles — r. De Smet (Ledeberg). ",,,92
+1014,"Van Hoorebekestr.","Van Hoorebeke. r.","chaussée de Bruxelles — r. des remparts (Gendbrugge) Ledeberg. ",,,103
+1015,"Van Houttestr.","Van Houtte, r.","V. chem. de Bruxelles (Ledeberg) — r. de l’église (Gendbrugge) Gendbrugge. ",,,"82-92"
+1016,"Van Hulthemstr.","Van Hulthem, r.","r. des femme. St Pierre — place Van Duyse. (",5,2," 78-88"
+1018,"Van Lokerenstr.","Van Lokeren, r.","ch. de Bruxelles — place du progrès. (Ledeberg). ",,,"92-102"
+1019,"Van Maerlantstr.","Van Maerlant, r.","boul. du grand marais — avenue du tolhuis. (",3,3,30
+1020,"Van Monckhovenstr.","Van Monckhoven, r.","ch. de Courtrai — r. de la forge. (",9,2," 96-97"
+1021,"kievitstr.","Vanneau, r. du","voir Woeringen, r. de Vanniers, r. des (bennesteeg) r. magelein — r. des champs. (",1,2,59
+1022,"Van Ooststr.","Van Oost, r.","r. de l’église — place du bassin. (Gendbrugge). ",,,82
+1023,,"Van Ooteghem, r. ","voir Réforme, r. de la.",,,
+1024,"Van Vaernewyckstr.","Van Vaernewyck, r.","r. FransAckerman — place Van Eyck. (",4,1,61
+1025,"Van Wittenberghestr.","Van Wittenberghe. r.","r. Verspeyen — boul. du béguinage. (",2,3,37
+1026,"kalvermarkt","Veaux, marché aux","r. de la confrérie — r. de la tour rouge. (",1,1,51
+1027,"korte kalversteeg","Veaux, r. courte aux","r. du roitelet — place du jeu de paume. (",3,3,49
+1028,"lange kalversteeg","Veaux, r. longue aux","vieux bourg — r. c. aux veaux. (",3,3,49
+1028,"Veldeken","veldeken","du 4e pont sur le canal périphérique des nouvelles installations maritimmes à la commune d'Oostacker.",,,
+1029,"fluweelstr.","Velours, rue du","chaussée de Bruges — rue de l'étoupe. (",6,3,
+1030,"vrijdagmarkt","Vendredi, marché du","place du grand canon — r. du vieux marché au lin. (",1,1," 49-50"
+1031,"waaistr.","Vents, r. aux","marché du vendredi — place Edouard Anseele. (",1,1,50
+1032,"lange boomgaardstr.","Verger, r. courte du. Voir pélican, r. du Verger, r. longue du","digue de Brabant — r. Charles-Quint. (",4,1," 61-70"
+1033,"boomgaardstraat","Verger, rue du","r. ducale — r. du roitelet. (",3,3,49
+1034,"Verspeyenstr.","Verspeyen, r.","r. du rabot — boul. du béguinage. (",2,3,47
+1035,"groenstr.","Verte, r.","q. des tanneurs — r. Van Caneghem. (",3,1,40
+1036,"zegepraalstr.","Victoire, r. de la","aven. du rabot — r. de Wondelgem (",10,3,37
+1037,"oude scheldestr.","Vieil-Escaut, r. du","quai des tonneliers — r. de Flandre. (",4,1," 70-71"
+1038,"oudburg","Vieux-bourg","quai de la grue — place de l’écluse. (",3,3," 39-49"
+1039,"oude vest","Vieux rempart r. du","r. de baudeloo — r. d'or. (",1,1,40
+1040,"lange wijngaardstr.","Vigne, r. longue de la","quai du bas-Escaut — r. l. du verger. (",4,1," 60-61"
+1041,"wijngaardstr.","Vigne, r. de la","r. du hareng-pec — r. d'Ypres. (",2,2,68
+1042,"oude Violettenlei","Violettes, vieux quai des","vieux quai au bois — r. des annonciades. (",2,2," 58-68"
+1043,"korte violettenstr.","Violettes, r. courte des","quai des récollets — r. des annonciades. (",2,2,68
+1044,"lange violettenstr.","Violettes, r. longue des","place Van Artevelde — pont des cinq vannes. (",4,1," 71-80"
+1045,"Vogelhoek","Vogelhoek, r.","chaussée de Bruxelles — Melle. Gendbrugge.",,,
+1046,"zeilstr.","Voile, r. de la","ch. de Meulestede, entre nos 72 et 74 — r. de la bêche. (",8,1," 10-11"
+1047,,"Voormuide. Voir porte du sas","r. de la nouvelle.",,,
+1048,"Waarschootstr.","Waarschoot, r.","r. d'Ypres — r. du chaume. (",2,2,68
+1049,"waldamkaai","Waldam, quai du","pont de la contribution — r. du nord. (",10,2,46
+1050,,"Waelput, r. ","voir Henri Waelput, rue.",,,
+1051,"Watergraafstr.","Watergrave, r.","r. St Michel — r. d'Angleterre. (",2,2,58
+1052,"Waterloostr.","Waterloo, r. de","aven. militaire — pl de la constitution (",9,2,107
+1053,"Wellinckstr.","Wellinck, r.","vieux q. au bois — r. de la caverne. (",2,2," 57-58"
+1054,"Wenemaerstr.","Wenemaer, r.","q. de Terplaten — r. de l'éléphant. (",5,1," 89-99"
+1055,,"Willems, r. ","voir Jan Frans Willems, r.",,,
+1056,"Wilsondreef","Wilson, place","rue de la Station — place de France. (",4,1,70
+1057,"Woeringenstr.","Woeringen, r. de","r. des moineaux — pl. de la constitution (",9,2,107
+1058,"Wolterslaan","Wolters, avenue","dans la rue de l'Avenir, Mont-St-Amand. ",,,73
+1059,"Wondelgemstr.","Wondelgem, r. de","pl. du rabot — b. du gazomètre. (",10,3," 26-37"
+1060,"IJperstr.","Ypres, r. d'","fin r. c. des violettes — coupure, rive droite. (",2,2,68
+1061,"IJpersteeg","Ypres, pass. d'","r. d'Ypres, — coupure, rive droite. (",2,2,68
+1062,"IJserdreef","Yser, av. de l'","pont de la Lys — chaussée de Courtrai.","5 et 5",2,87
+,"Zebrastr.","Zèbre, r. du ","av. de l'exposition — boul. Gustave Callier (",5,1,". 89-90"
+1064,,"Zoologique, boul. ","voir Jardin Zoologique, boul. du.",,,
+1065,"Zwijnaardschen steenweg","Zwynaerde, ch. de","r. de l’école normale — Zwynaerde. (",9,2," 99-108"
