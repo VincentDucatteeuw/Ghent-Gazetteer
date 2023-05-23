@@ -123,10 +123,6 @@ Alberts H., auto geleider, hervormingstraat 3, ledeberg
 Alberts juff. A., bij zondere, zebrastraat 178
 Alboort wo A., bijzondere, ondernemersstr. 123, s. amandsb.
 Albrecht wed. F., bijzondere, terplatenkaai 7
-42
-
-
-986 —1
 Albrecht O., bediende, terplatenkaai 7
 Albrecht G., schilder, stropstraat 126
 Albrecht J., bijzondere, hundelgemschesteenw. 441, ledeberg
@@ -3000,20 +2996,12 @@ Colleman L., bijzondere, maagdenstraat 7
 Collet L., onderluitenant, stropkaai 15
 Collier J., schipsverzender, gasneterlaan 225
 Collignon en Bergmann (firma), graankoopm., willemtellstr. 27
-
-
-—7———1————————————
-
-
-—
-1040
 Collignon P., zalenkoopman, willemtellstr. 27
 Collignon we E., bijzondere, lonsbergslaan 40
 Collignon Ev. en Em, onderwijzeressen, lousbergslaan 40
 Collignon E., meestergast, toekomststraat 2
 Collin J., drogerijen, brabantdam 30
 Collumbien A., bloemist, patijntjestraat 80
-(Ziet aankondiginq volqende btadztjde)
 Collyn V., kruidenier, korte kazernenstraat 1
 Collyn F, kruidenier, gontrodestraat 47, ledeberg
 Colman gezust., onderw., kerkstraat 81, ledeberg
@@ -22311,9 +22299,6 @@ Vanvlem F., koster, H. Theresia, Meulest. steenw., 333.
 Vanvlierberghe E., bediende, rabotstraat 57
 Vanvolcem wed. V. , vleeschhouwer, vaneyckstraat 32
 Vanvolden F., bijzondere, meerschstraat 57
-
-
-— 1407
 Vanvolden juff. M., hoofdonderwijzeres, meerschstraat 57
 Vanvolden J., ingenieur, leopoldaan 2
 Vanvolsem wed. G. , vleeschhouwer, heuvelstraat 64
@@ -22895,10 +22880,6 @@ Verheyden juff., kleermaakster, marnixstraat 37
 Verheyden J., bediende, rooigemstraat 67
 Veeheyden J., landbouwer, boschstraat 11, gentbrugge
 Verheye A., orgelmaker, van houttestraat 6, gentbrugge
-
-
-—2
-1418—
 Verheyen K., mercerien, phoenixstraat 168
 Verheyen C., kruidenier, populierstraat 54
 Verheyen E., encadreur, Hospitaalstr., 76
@@ -23004,9 +22985,6 @@ Verlot O., hulp-griffier, terplatenkaai 28
 Verlot L., coiffeur, toekomststraat 63
 Vermaele P., bediende, hervormingstr. 20, ledeberg
 Vermaele E., bediende, hervormingstr. 20, ledeberg
-
-
-1420 —1
 Vermaercke H., wijnen-likeuren, Gustaaf Callierlaan 48
 Vermaercke K., brouwer, brussel. steenw. 80, gentbrugge
 Vermaercke K., bloemist, brusselsche steenw. 242, gentb.
@@ -23026,9 +23004,7 @@ meerschstraat 135, s. amandsberg
 Vermandere wed., bijzondere, ossenstraat 75
 Vermandere M., bediende, ossenstraat 79
 Vermassem G., varkensslachter, gouden leeuwplaats 1
-Vermassem T., hotelhouder, Kortrijksche steenw.
-1
-262-266
+Vermassem T., hotelhouder, Kortrijksche steenw., 262-266
 Vermast A., rustend pastoor, kammerstraat 20
 Vermast V., vleeschhouwer, meulesteedsche steenweg 273
 Vermast wed. A. , bijzondere, frère-orbanlaan 74
@@ -23165,13 +23141,6 @@ Vermeulen wed. F., bijzondere, van hulthemstraat 8
 Vermeulen E., bediende, van hulthemstraat 8
 Vermeulen wed., bijzondere, zebrastraat 166
 Vermeulen V., bijzondere, Eedverbondkaai, 29
-
-
-5
-
-
-—
-1424
 Vermeulen J., bediende, wondelgemstraat 105
 Vermeulen J., likorist, hundelg. steenw. 18, ledeberg
 Vermenlen F., aannemer, weidestraat 4, gentbrugge
@@ -23848,7 +23817,7 @@ Wallaert J., onderwijzer, pannestraat 4
 Wallaert A., bediende, mercatorstraat 17
 Wallem H., bediende, boomgaardstraat 11
 Wallem A., bloemist, brusselsche steenw. 240, gentbrugge
-Wallyn A., bijzondere, koornlei 0
+Wallyn A., bijzondere, koornlei 6
 Wallyn H., bijzondere, begijnhoflaan 41
 Wallyn juff E., onderwijzeres, harmoniestr. 29, ledeberg
 Walraedt S., reiziger, scheldestraat 41, s. amandsberg
