@@ -1,0 +1,33 @@
+/* Map canvas: MapLibre needs a definite box. In fill mode the component
+   adds core's .fill-height (grow to the remaining viewport height); in
+   fixed mode it gets an inline height. */
+.map-canvas {
+    width: 100%;
+    border-radius: var(--pico-border-radius, 4px);
+    overflow: hidden;
+}
+
+/* Safeguard for stacked (mobile) layouts, very short windows, and detail
+   pages where related sections compete for the space: below this the page
+   scrolls instead of squashing the map to nothing. */
+.map-canvas.fill-height,
+.map-list-section {
+    min-height: 18rem;
+}
+
+.point-map-pin {
+    width: 24px;
+    height: 28px;
+    text-align: center;
+}
+
+.point-map-pin img {
+    display: block;
+    margin: 0 auto;
+}
+
+.point-map-pin:focus-visible {
+    outline: 2px solid var(--pico-primary);
+    outline-offset: 2px;
+    border-radius: 4px;
+}

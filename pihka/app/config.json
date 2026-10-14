@@ -1,0 +1,791 @@
+{
+  "defaultLanguage": "nl",
+  "languages": [
+    "nl",
+    "en"
+  ],
+  "database": "app/database/wegwijzers-1895-20261014.db",
+  "enginePlugins": [
+    "extensions/http-vfs/http-vfs-component.js"
+  ],
+  "datasource": {
+    "type": "http-vfs",
+    "options": {
+      "immutable": true,
+      "cacheSize": 8192,
+      "maxReadBytes": 1048576
+    }
+  },
+  "enrichment": {
+    "fts": "trigram"
+  },
+  "perspectives": [
+    {
+      "id": "personen",
+      "table": "personen",
+      "label": {
+        "nl": "Personen",
+        "en": "Persons"
+      },
+      "default_sort": "name",
+      "facets": [
+        {
+          "field": "soort",
+          "type": "dropdown",
+          "label": {
+            "nl": "Soort",
+            "en": "Kind"
+          }
+        },
+        {
+          "field": "straat_id",
+          "type": "dropdown",
+          "label": {
+            "nl": "Straat",
+            "en": "Street"
+          }
+        },
+        {
+          "field": "beroepsgroep_id",
+          "type": "dropdown",
+          "label": {
+            "nl": "Beroepsgroep",
+            "en": "Occupational group"
+          }
+        },
+        {
+          "field": "beroep_id",
+          "type": "dropdown",
+          "label": {
+            "nl": "Beroep (HISCO)",
+            "en": "Occupation (HISCO)"
+          }
+        },
+        {
+          "field": "status",
+          "type": "dropdown",
+          "label": {
+            "nl": "Status",
+            "en": "Status"
+          }
+        },
+        {
+          "field": "lijsten",
+          "type": "dropdown",
+          "label": {
+            "nl": "In de lijsten",
+            "en": "In the lists"
+          }
+        },
+        {
+          "field": "zekerheid",
+          "type": "dropdown",
+          "label": {
+            "nl": "Koppeling",
+            "en": "Linkage"
+          }
+        },
+        {
+          "field": "controle",
+          "type": "dropdown",
+          "label": {
+            "nl": "Na te kijken",
+            "en": "To check"
+          }
+        },
+        {
+          "field": "vermeldingen",
+          "type": "range",
+          "label": {
+            "nl": "Aantal vermeldingen",
+            "en": "Number of observations"
+          }
+        },
+        {
+          "field": "jaargang_id",
+          "type": "dropdown",
+          "label": {
+            "nl": "Jaargang",
+            "en": "Volume"
+          }
+        }
+      ]
+    },
+    {
+      "id": "vermeldingen",
+      "table": "vermeldingen",
+      "label": {
+        "nl": "Vermeldingen",
+        "en": "Observations"
+      },
+      "default_sort": "name",
+      "facets": [
+        {
+          "field": "lijst_id",
+          "type": "dropdown",
+          "label": {
+            "nl": "Lijst",
+            "en": "List"
+          }
+        },
+        {
+          "field": "rubriek_id",
+          "type": "dropdown",
+          "label": {
+            "nl": "Rubriek",
+            "en": "Trade heading"
+          }
+        },
+        {
+          "field": "beroep_id",
+          "type": "dropdown",
+          "label": {
+            "nl": "Beroep (HISCO)",
+            "en": "Occupation (HISCO)"
+          }
+        },
+        {
+          "field": "na_te_kijken",
+          "type": "dropdown",
+          "label": {
+            "nl": "OCR na te kijken",
+            "en": "OCR to check"
+          }
+        },
+        {
+          "field": "reden",
+          "type": "dropdown",
+          "label": {
+            "nl": "Reden",
+            "en": "Reason"
+          }
+        },
+        {
+          "field": "jaargang_id",
+          "type": "dropdown",
+          "label": {
+            "nl": "Jaargang",
+            "en": "Volume"
+          }
+        },
+        {
+          "field": "koppelingskans",
+          "type": "range",
+          "label": {
+            "nl": "Koppelingskans",
+            "en": "Match probability"
+          }
+        },
+        {
+          "field": "pagina",
+          "type": "range",
+          "label": {
+            "nl": "Pagina",
+            "en": "Page"
+          }
+        }
+      ]
+    },
+    {
+      "id": "straten",
+      "table": "straten",
+      "label": {
+        "nl": "Straten",
+        "en": "Streets"
+      },
+      "default_sort": "name",
+      "facets": [
+        {
+          "field": "gemeente",
+          "type": "dropdown",
+          "label": {
+            "nl": "Gemeente",
+            "en": "Municipality"
+          }
+        },
+        {
+          "field": "politiewijk",
+          "type": "dropdown",
+          "label": {
+            "nl": "Politiewijk",
+            "en": "Police district"
+          }
+        },
+        {
+          "field": "kanton",
+          "type": "dropdown",
+          "label": {
+            "nl": "Kanton",
+            "en": "Canton"
+          }
+        },
+        {
+          "field": "in_stratenlijst",
+          "type": "dropdown",
+          "label": {
+            "nl": "In de stratenlijst",
+            "en": "In the street list"
+          }
+        },
+        {
+          "field": "personen",
+          "type": "range",
+          "label": {
+            "nl": "Aantal personen",
+            "en": "Number of persons"
+          }
+        }
+      ]
+    },
+    {
+      "id": "paginas",
+      "table": "paginas",
+      "label": {
+        "nl": "Pagina's",
+        "en": "Pages"
+      },
+      "default_sort": "name",
+      "facets": [
+        {
+          "field": "lijst_id",
+          "type": "dropdown",
+          "label": {
+            "nl": "Lijst",
+            "en": "List"
+          }
+        },
+        {
+          "field": "zijde",
+          "type": "dropdown",
+          "label": {
+            "nl": "Zijde",
+            "en": "Side"
+          }
+        },
+        {
+          "field": "jaargang_id",
+          "type": "dropdown",
+          "label": {
+            "nl": "Jaargang",
+            "en": "Volume"
+          }
+        }
+      ]
+    }
+  ],
+  "tables": {
+    "jaargangen": {
+      "label": {
+        "nl": "Jaargangen",
+        "en": "Volumes"
+      },
+      "columns": {
+        "name": {
+          "label": {
+            "nl": "Jaargang",
+            "en": "Volume"
+          }
+        },
+        "jaar": {
+          "label": {
+            "nl": "Jaar",
+            "en": "Year"
+          },
+          "type": "number",
+          "format": {
+            "useGrouping": false
+          }
+        },
+        "manifest": {
+          "type": "iiif",
+          "label": "IIIF",
+          "fts": false
+        }
+      }
+    },
+    "lijsten": {
+      "label": {
+        "nl": "Lijsten",
+        "en": "Lists"
+      },
+      "columns": {
+        "name": {
+          "label": {
+            "nl": "Lijst",
+            "en": "List"
+          }
+        },
+        "code": {
+          "hidden": true,
+          "fts": false
+        }
+      }
+    },
+    "straten": {
+      "label": {
+        "nl": "Straten",
+        "en": "Streets"
+      },
+      "columns": {
+        "name": {
+          "label": {
+            "nl": "Straat",
+            "en": "Street"
+          }
+        },
+        "gemeente": {
+          "label": {
+            "nl": "Gemeente",
+            "en": "Municipality"
+          }
+        },
+        "naam_fr": {
+          "label": {
+            "nl": "Naam (Frans)",
+            "en": "Name (French)"
+          }
+        },
+        "politiewijk": {
+          "label": {
+            "nl": "Politiewijk",
+            "en": "Police district"
+          }
+        },
+        "kanton": {
+          "label": {
+            "nl": "Kanton",
+            "en": "Canton"
+          }
+        },
+        "in_stratenlijst": {
+          "label": {
+            "nl": "In de stratenlijst",
+            "en": "In the street list"
+          }
+        },
+        "personen": {
+          "label": {
+            "nl": "Personen",
+            "en": "Persons"
+          },
+          "type": "number",
+          "fts": false
+        }
+      }
+    },
+    "beroepsgroepen": {
+      "label": {
+        "nl": "Beroepsgroepen",
+        "en": "Occupational groups"
+      },
+      "columns": {
+        "name": {
+          "label": {
+            "nl": "Beroepsgroep",
+            "en": "Occupational group"
+          }
+        },
+        "code": {
+          "label": {
+            "nl": "HISCO-groep",
+            "en": "HISCO group"
+          }
+        }
+      }
+    },
+    "beroepen": {
+      "label": {
+        "nl": "Beroepen (HISCO)",
+        "en": "Occupations (HISCO)"
+      },
+      "columns": {
+        "name": {
+          "label": {
+            "nl": "Beroep",
+            "en": "Occupation"
+          }
+        },
+        "hisco": {
+          "label": {
+            "nl": "HISCO-code",
+            "en": "HISCO code"
+          }
+        },
+        "beroepsgroep_id": {
+          "label": {
+            "nl": "Beroepsgroep (HISCO)",
+            "en": "Occupational group (HISCO)"
+          }
+        },
+        "personen": {
+          "label": {
+            "nl": "Personen",
+            "en": "Persons"
+          },
+          "type": "number",
+          "fts": false
+        }
+      }
+    },
+    "rubrieken": {
+      "label": {
+        "nl": "Rubrieken (lijst per beroep)",
+        "en": "Trade headings"
+      },
+      "columns": {
+        "name": {
+          "label": {
+            "nl": "Rubriek",
+            "en": "Trade heading"
+          }
+        },
+        "naam_fr": {
+          "label": {
+            "nl": "Naam (Frans)",
+            "en": "Name (French)"
+          }
+        },
+        "vermeldingen": {
+          "label": {
+            "nl": "Vermeldingen",
+            "en": "Observations"
+          },
+          "type": "number",
+          "fts": false
+        }
+      }
+    },
+    "paginas": {
+      "label": {
+        "nl": "Pagina's",
+        "en": "Pages"
+      },
+      "columns": {
+        "name": {
+          "label": {
+            "nl": "Pagina",
+            "en": "Page"
+          }
+        },
+        "lijst_id": {
+          "label": {
+            "nl": "Lijst",
+            "en": "List"
+          }
+        },
+        "pagina": {
+          "label": {
+            "nl": "Pagina",
+            "en": "Page"
+          },
+          "type": "number",
+          "format": {
+            "useGrouping": false
+          }
+        },
+        "jaargang_id": {
+          "label": {
+            "nl": "Jaargang",
+            "en": "Volume"
+          }
+        },
+        "zijde": {
+          "label": {
+            "nl": "Zijde",
+            "en": "Side"
+          }
+        },
+        "afbeelding": {
+          "type": "resource-image",
+          "label": {
+            "nl": "Scan",
+            "en": "Scan"
+          },
+          "fts": false
+        },
+        "manifest": {
+          "type": "iiif",
+          "label": "IIIF",
+          "fts": false,
+          "format": {
+            "pageColumn": "canvas"
+          }
+        },
+        "canvas": {
+          "label": {
+            "nl": "Canvas",
+            "en": "Canvas"
+          },
+          "type": "number",
+          "fts": false
+        },
+        "scan": {
+          "fts": false,
+          "label": "Scan"
+        },
+        "canvas_id": {
+          "hidden": true,
+          "fts": false
+        }
+      }
+    },
+    "personen": {
+      "label": {
+        "nl": "Personen",
+        "en": "Persons"
+      },
+      "columns": {
+        "name": {
+          "label": {
+            "nl": "Persoon",
+            "en": "Person"
+          }
+        },
+        "straat_id": {
+          "label": {
+            "nl": "Straat",
+            "en": "Street"
+          }
+        },
+        "huisnummer": {
+          "label": {
+            "nl": "Huisnummer",
+            "en": "House number"
+          }
+        },
+        "beroep_id": {
+          "label": {
+            "nl": "Beroep (HISCO)",
+            "en": "Occupation (HISCO)"
+          }
+        },
+        "beroepsgroep_id": {
+          "label": {
+            "nl": "Beroepsgroep (HISCO)",
+            "en": "Occupational group (HISCO)"
+          }
+        },
+        "jaargang_id": {
+          "label": {
+            "nl": "Jaargang",
+            "en": "Volume"
+          }
+        },
+        "soort": {
+          "label": {
+            "nl": "Soort",
+            "en": "Kind"
+          }
+        },
+        "beroep": {
+          "label": {
+            "nl": "Beroep (gedrukt)",
+            "en": "Occupation (as printed)"
+          }
+        },
+        "status": {
+          "label": {
+            "nl": "Status",
+            "en": "Status"
+          }
+        },
+        "rubrieken": {
+          "label": {
+            "nl": "Rubrieken",
+            "en": "Trade headings"
+          },
+          "type": "list",
+          "separator": "|",
+          "limit": 4
+        },
+        "lijsten": {
+          "label": {
+            "nl": "In de lijsten",
+            "en": "In the lists"
+          }
+        },
+        "vermeldingen": {
+          "label": {
+            "nl": "Vermeldingen",
+            "en": "Observations"
+          },
+          "type": "number",
+          "fts": false
+        },
+        "zekerheid": {
+          "label": {
+            "nl": "Koppeling",
+            "en": "Linkage"
+          }
+        },
+        "controle": {
+          "label": {
+            "nl": "Na te kijken",
+            "en": "To check"
+          }
+        },
+        "familienaam": {
+          "label": {
+            "nl": "Familienaam",
+            "en": "Surname"
+          }
+        },
+        "voornaam": {
+          "label": {
+            "nl": "Voornaam",
+            "en": "Given name"
+          }
+        },
+        "cluster_key": {
+          "hidden": true,
+          "fts": false
+        }
+      }
+    },
+    "vermeldingen": {
+      "label": {
+        "nl": "Vermeldingen",
+        "en": "Observations"
+      },
+      "columns": {
+        "name": {
+          "label": {
+            "nl": "Vermelding",
+            "en": "Observation"
+          }
+        },
+        "jaargang_id": {
+          "label": {
+            "nl": "Jaargang",
+            "en": "Volume"
+          }
+        },
+        "lijst_id": {
+          "label": {
+            "nl": "Lijst",
+            "en": "List"
+          }
+        },
+        "straat_id": {
+          "label": {
+            "nl": "Straat",
+            "en": "Street"
+          }
+        },
+        "beroep_id": {
+          "label": {
+            "nl": "Beroep (HISCO)",
+            "en": "Occupation (HISCO)"
+          }
+        },
+        "huisnummer": {
+          "label": {
+            "nl": "Huisnummer",
+            "en": "House number"
+          }
+        },
+        "pagina": {
+          "label": {
+            "nl": "Pagina",
+            "en": "Page"
+          },
+          "type": "number",
+          "format": {
+            "useGrouping": false
+          }
+        },
+        "persoon_id": {
+          "label": {
+            "nl": "Persoon",
+            "en": "Person"
+          }
+        },
+        "tekst": {
+          "label": {
+            "nl": "Tekst (OCR)",
+            "en": "Text (OCR)"
+          },
+          "type": "text"
+        },
+        "afbeelding": {
+          "type": "resource-image",
+          "label": {
+            "nl": "Scan",
+            "en": "Scan"
+          },
+          "fts": false
+        },
+        "straat": {
+          "label": {
+            "nl": "Straat (gedrukt)",
+            "en": "Street (as printed)"
+          }
+        },
+        "beroep": {
+          "label": {
+            "nl": "Beroep (gedrukt)",
+            "en": "Occupation (as printed)"
+          }
+        },
+        "rubriek_id": {
+          "label": {
+            "nl": "Rubriek",
+            "en": "Trade heading"
+          }
+        },
+        "pagina_id": {
+          "label": {
+            "nl": "Pagina (scan)",
+            "en": "Page (scan)"
+          }
+        },
+        "koppelingskans": {
+          "label": {
+            "nl": "Koppelingskans",
+            "en": "Match probability"
+          },
+          "type": "number",
+          "fts": false,
+          "format": {
+            "maximumFractionDigits": 3
+          }
+        },
+        "na_te_kijken": {
+          "label": {
+            "nl": "OCR na te kijken",
+            "en": "OCR to check"
+          }
+        },
+        "reden": {
+          "label": {
+            "nl": "Reden",
+            "en": "Reason"
+          }
+        },
+        "manifest": {
+          "type": "iiif",
+          "label": "IIIF",
+          "fts": false,
+          "format": {
+            "pageColumn": "canvas"
+          }
+        },
+        "canvas": {
+          "label": {
+            "nl": "Canvas",
+            "en": "Canvas"
+          },
+          "type": "number",
+          "fts": false
+        },
+        "uid": {
+          "hidden": true,
+          "fts": false
+        }
+      }
+    }
+  },
+  "uiPlugins": [
+    "extensions/iiif-viewer/iiif-viewer-component.js"
+  ]
+}

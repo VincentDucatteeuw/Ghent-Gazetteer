@@ -17,6 +17,28 @@ Place information is extracted from the city directory 'Wegwijzer der stad Gent"
 - 1898
 - 1902
 
+# Demo: the Wegwijzer of 1895 in Pihka
+
+**https://vincentducatteeuw.github.io/Ghent-Gazetteer/**
+
+The inhabitants of the _Wegwijzer der stad Gent_ of 1895, browsable in [Pihka](https://github.com/GhentCDH/Pihka):
+the alphabetical list, the list per street and the trade directory, linked into persons, with streets matched to the
+volume's street list (_Namen der straten_), occupations coded in HISCO, and every entry shown on its scan (IIIF, from
+Ghent University Library). The data is made with [Wegwijzers-processing](https://github.com/GhentCDH/Wegwijzers-processing);
+the site's "Over" page explains what is in it and how far the automatic linking can be trusted.
+
+The site is `pihka/`, published by `.github/workflows/pages.yml`. The database is not in git: it is the release asset
+named in `pihka/release.json`, which the workflow downloads and checks. Pihka reads it with HTTP range requests, so a
+visitor only downloads the parts that a page needs.
+
+To update it:
+1. `wegwijzers visualise --publish DIR --no-serve` (Wegwijzers-processing) writes `DIR/site/` and
+   `DIR/release/wegwijzers-<version>.db`.
+2. Replace `pihka/` with `DIR/site/` (keep `pihka/LICENSE-pihka`).
+3. Create the release `wegwijzers-<version>` (the tag in `pihka/release.json`) with that `.db` file as its asset.
+4. Push: the workflow publishes the new version. Never replace the asset of an existing release; a new version gets
+   a new release, so open pages never read a changed file.
+
 # Further Reading
 - Gent Gemapt | Ghent Centre For Digital Humanities". ghentcdh.ugent.be, 2022, https://www.ghentcdh.ugent.be/projects/gent-gemapt.
 - Ducatteeuw, Vincent. "Developing An Urban Gazetteer". Proceedings Of The 5Th ACM SIGSPATIAL International Workshop On Geospatial Humanities, 2021. ACM, https://doi.org/10.1145/3486187.3490204.

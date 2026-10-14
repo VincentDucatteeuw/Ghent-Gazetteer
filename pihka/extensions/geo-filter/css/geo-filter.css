@@ -1,0 +1,8 @@
+/* Mini map for the location (viewport) facet: fixed height, it lives in
+   the filter sidebar. MapLibre needs a definite box. */
+.map-bounds-canvas {
+    width: 100%;
+    height: 200px;
+    border-radius: var(--pico-border-radius, 4px);
+    overflow: hidden;
+}

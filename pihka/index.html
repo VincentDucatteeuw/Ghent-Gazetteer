@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>⛁ Pihka - Sustainable Data Publishing Platform for Digital Humanities Research</title>
+        <script>
+            // Apply the saved theme before first paint to avoid a flash.
+            // Reads the prefs store (with the pre-prefs key as fallback).
+            (function () {
+                try {
+                    var prefs = JSON.parse(localStorage.getItem("pihka-prefs") || "{}");
+                    var t = prefs.theme || localStorage.getItem("pihka-theme");
+                    if (t === "light" || t === "dark") document.documentElement.dataset.theme = t;
+                } catch (e) { /* localStorage unavailable */ }
+            })();
+        </script>
+        <link rel="stylesheet" href="./core/assets/stylesheets/pico.min.css" />
+        <link rel="stylesheet" href="./core/assets/stylesheets/base.css" />
+        <link rel="stylesheet" href="./app/assets/wegwijzers.css" />
+        <script type="importmap">
+            {
+                "imports": {
+                    "@sqlite.org/sqlite-wasm": "./core/vendor/@sqlite.org/sqlite-wasm/dist/index.mjs",
+                    "preact": "./core/vendor/preact/dist/preact.mjs",
+                    "preact/hooks": "./core/vendor/preact/hooks/dist/hooks.mjs"
+                }
+            }
+        </script>
+    </head>
+    <body>
+        <div id="app"></div>
+        <script type="module" src="./main.js"></script>
+    </body>
+</html>

@@ -1,0 +1,7 @@
+{
+    "imports": {
+        "@sqlite.org/sqlite-wasm": "./core/vendor/@sqlite.org/sqlite-wasm/dist/index.mjs",
+        "preact": "./core/vendor/preact/dist/preact.mjs",
+        "preact/hooks": "./core/vendor/preact/hooks/dist/hooks.mjs"
+    }
+}

@@ -1,0 +1,47 @@
+# Publishes pihka/ (the Pihka site of the Wegwijzers data) on GitHub Pages. The database is not in git: it is the
+# release asset named in pihka/release.json, downloaded and checked here, then served next to the site.
+name: Pihka demo on GitHub Pages
+
+on:
+  push:
+    branches: [main]
+    paths: ["pihka/**", ".github/workflows/pages.yml"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download the database of pihka/release.json
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          tag=$(jq -r .tag pihka/release.json)
+          file=$(jq -r .file pihka/release.json)
+          sha=$(jq -r .sha256 pihka/release.json)
+          gh release download "$tag" --pattern "$file" --dir pihka/app/database
+          echo "$sha  pihka/app/database/$file" | sha256sum --check
+          grep -q "\"app/database/$file\"" pihka/app/config.json
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: pihka
+
+      - id: deployment
+        uses: actions/deploy-pages@v4
