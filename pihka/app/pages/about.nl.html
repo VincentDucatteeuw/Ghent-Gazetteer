@@ -1,0 +1,41 @@
+<h1>Gentse wegwijzers</h1>
+<p>De <em>Wegwijzer der stad Gent</em> is een jaarlijks adresboek. Elke jaargang bevat dezelfde inwoners in drie
+lijsten: de <strong>alfabetische lijst</strong> (naam, beroep, adres), de <strong>lijst per straat</strong> (per straat
+de bewoners op huisnummer) en de <strong>lijst per beroep</strong> (onder elke rubriek, zoals
+<em>Kruideniers</em>, de naam en het adres). De scans komen van de Universiteitsbibliotheek Gent; de tekst is
+automatisch gelezen (OCR) en in velden gesplitst.</p>
+
+<h2>Wat is een persoon?</h2>
+<p>Een <strong>vermelding</strong> is één regel in één lijst, met de tekst zoals gelezen en een uitsnede van de scan.
+Een <strong>persoon</strong> is een groep vermeldingen die automatisch als dezelfde persoon, hetzelfde huishouden of
+dezelfde firma zijn gekoppeld: op naam, voorletter, straat, huisnummer en beroep (Splink, koppelingskans
+&ge; 0,9). Wie in de lijst per beroep onder vijf rubrieken staat, heeft dus vijf vermeldingen in die lijst.
+Een koppeling kan fout zijn. Twee rijen uit de alfabetische lijst, een weduwe en een ander, of een firma en een
+persoon worden nooit samengevoegd.</p>
+<ul>
+<li><strong>Koppeling</strong>: <em>hoog</em> (elke vermelding met kans &ge; 0,99 gekoppeld), <em>middel</em>
+(minstens één zwakkere koppeling) of <em>niet gekoppeld</em> (maar één vermelding).</li>
+<li><strong>Na te kijken</strong>: twee rijen in de lijst per straat, verschillende straten of huisnummers binnen
+één persoon, of een vermelding die de parser markeerde. Zo'n persoon kan twee adressen hebben, of twee
+mensen zijn.</li>
+<li><strong>Soort</strong>: <em>organisatie</em> voor firma's, gebroeders, zusters en instellingen (scholen,
+maatschappijen, gestichten); anders <em>persoon</em>.</li>
+</ul>
+
+<h2>Straten en beroepen</h2>
+<p><strong>Straten</strong> zijn gekoppeld aan de stratenlijst van dezelfde jaargang (<em>Namen der straten</em>),
+met de Franse naam, politiewijk en kanton. Spelling- en leesvarianten worden zo één straat; de gedrukte
+spelling blijft zichtbaar bij elke vermelding. Een straat die niet in de stratenlijst gevonden werd, staat er
+met <em>In de stratenlijst: nee</em>.</p>
+<p><strong>Beroepen</strong> zijn gecodeerd in <a href="https://iisg.amsterdam/en/data/data-websites/history-of-work"
+target="_blank" rel="noopener noreferrer">HISCO</a> (automatisch, met OccCANINE) en gegroepeerd in
+beroepsgroepen. Het beroep zoals gedrukt staat ernaast. In de lijst per beroep is het beroep de
+<strong>rubriek</strong> waaronder de naam staat.</p>
+
+<h2>Beperkingen</h2>
+<ul>
+<li>OCR maakt fouten, vooral in namen; vergelijk bij twijfel altijd met de uitsnede of de scan (📖).</li>
+<li>HISCO-codes en straatkoppelingen zijn automatisch; een zeldzame straat kan aan een gelijkaardige straat
+gekoppeld zijn.</li>
+<li>Personen zijn per jaargang gekoppeld, niet over jaargangen heen.</li>
+</ul>
