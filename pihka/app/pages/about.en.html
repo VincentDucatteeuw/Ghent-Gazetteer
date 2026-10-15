@@ -1,29 +1,34 @@
 <h1>Ghent city directories</h1>
-<p>The <em>Wegwijzer der stad Gent</em> is a yearly address book. Each volume lists the same inhabitants three
-times: the <strong>alphabetical list</strong> (name, occupation, address), the <strong>list per street</strong>
-(the residents of each street by house number) and the <strong>trade directory</strong> (name and address under
-each heading, such as <em>Kruideniers</em>, grocers). The scans are from Ghent University Library; the text was
-read automatically (OCR) and split into fields.</p>
+<p>The <em>Wegwijzer der stad Gent</em> is a yearly address book. Each volume lists the same inhabitants in
+several lists: the <strong>alphabetical list</strong> (name, occupation, address), the <strong>trade
+directory</strong> (name and address under each heading, such as <em>Kruideniers</em>, grocers), the <strong>list
+per street</strong> (the residents of each street by house number, from 1895) and the <strong>street list</strong>
+(the street names, with French name, location, police district and canton). This site holds the volumes of 1878,
+1880, 1882, 1895, 1896 (the trade directory only) and 1898. The scans are from Ghent University Library; the text
+was read automatically (OCR) and split into fields.</p>
 
-<h2>What is a person?</h2>
-<p>An <strong>observation</strong> is one line in one list, with the text as read and a crop of the scan. A
-<strong>person</strong> is a group of observations linked automatically as the same person, household or firm: on
-name, initial, street, house number and occupation (Splink, match probability &ge; 0.9). Someone listed under five
-trade headings has five observations in the trade directory. A link can be wrong. Two rows of the alphabetical
-list, a widow and someone else, or a firm and a person are never merged.</p>
+<h2>The lists</h2>
+<p>Each list is a table of every line read, in the order of the book. Choose a <strong>volume</strong> to read
+one book. Each line shows the text as read, its page and, where the library has the scans online (1878, 1895 and
+1896), a crop of the scan.</p>
+
+<h2>Actors: persons and firms through the years</h2>
+<p>An <strong>actor</strong> is a person, household or firm followed through the volumes. Within a volume, the
+lines of the different lists are linked automatically on name, initial, street, house number and occupation
+(Splink, match probability &ge; 0.9). Then each volume is linked to the next, also when someone moved; someone
+missing from a volume is looked for in the volume after it. Another initial (a son), or a firm and a person, are
+never merged. A <strong>widow</strong> who continues her husband's business or household succeeds him
+(<em>Widow succeeds: ja</em>).</p>
 <ul>
-<li><strong>Linkage</strong>: <em>hoog</em> (high: every observation linked at &ge; 0.99), <em>middel</em> (medium:
-at least one weaker link) or <em>niet gekoppeld</em> (not linked: one observation).</li>
-<li><strong>To check</strong>: two rows in the list per street, different streets or house numbers within one
-person, or an observation the parser flagged. Such a person may have two addresses, or be two people.</li>
-<li><strong>Kind</strong>: <em>organisatie</em> for firms, brothers, sisters and institutions (schools, companies,
-asylums); otherwise <em>persoon</em>.</li>
+<li><strong>Match probability across the years</strong>: the weakest link between two volumes of the actor.</li>
+<li><strong>Kind</strong>: <em>organisatie</em> for firms, brothers, sisters and institutions; otherwise
+<em>persoon</em>.</li>
 </ul>
 
 <h2>Streets and occupations</h2>
-<p><strong>Streets</strong> are matched to the street list of the same volume (<em>Namen der straten</em>), with
-the French name, police district and canton. Spelling and OCR variants become one street; the printed spelling
-stays visible on each observation. A street not found in the street list says <em>In de stratenlijst: nee</em>.</p>
+<p>A <strong>street</strong> is one street through the years: the street lists of all volumes are put together,
+with spelling and OCR variants and the list's own cross-references (<em>ziet ...</em>). The names per year are
+shown with the street. A street found in no street list says <em>In a street list: nee</em>.</p>
 <p><strong>Occupations</strong> are coded in <a href="https://iisg.amsterdam/en/data/data-websites/history-of-work"
 target="_blank" rel="noopener noreferrer">HISCO</a> (automatically, with OccCANINE) and grouped into major
 groups. The occupation as printed is shown next to it. In the trade directory the occupation is the
@@ -32,6 +37,7 @@ groups. The occupation as printed is shown next to it. In the trade directory th
 <h2>Limitations</h2>
 <ul>
 <li>OCR makes mistakes, especially in names; when in doubt, compare with the crop or the scan (📖).</li>
-<li>HISCO codes and street matches are automatic; a rare street can be matched to a similar one.</li>
-<li>Persons are linked within a volume, not across volumes.</li>
+<li>Links, HISCO codes and streets are automatic and can be wrong, especially over a long gap (1882&ndash;1895)
+and for renamed streets.</li>
+<li>For 1880, 1882 and 1898 no scans are linked (yet).</li>
 </ul>
