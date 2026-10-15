@@ -1,32 +1,34 @@
 <h1>Gentse wegwijzers</h1>
-<p>De <em>Wegwijzer der stad Gent</em> is een jaarlijks adresboek. Elke jaargang bevat dezelfde inwoners in drie
-lijsten: de <strong>alfabetische lijst</strong> (naam, beroep, adres), de <strong>lijst per straat</strong> (per straat
-de bewoners op huisnummer) en de <strong>lijst per beroep</strong> (onder elke rubriek, zoals
-<em>Kruideniers</em>, de naam en het adres). De scans komen van de Universiteitsbibliotheek Gent; de tekst is
+<p>De <em>Wegwijzer der stad Gent</em> is een jaarlijks adresboek. Elke jaargang bevat dezelfde inwoners in
+verschillende lijsten: de <strong>alfabetische lijst</strong> (naam, beroep, adres), de <strong>lijst per
+beroep</strong> (onder elke rubriek, zoals <em>Kruideniers</em>, de naam en het adres), de <strong>lijst per
+straat</strong> (per straat de bewoners op huisnummer, vanaf 1895) en de <strong>stratenlijst</strong> (de namen
+der straten, met Franse naam, ligging, politiewijk en kanton). Deze site bevat de jaargangen 1878, 1880, 1882,
+1895, 1896 (enkel de lijst per beroep) en 1898. De scans komen van de Universiteitsbibliotheek Gent; de tekst is
 automatisch gelezen (OCR) en in velden gesplitst.</p>
 
-<h2>Wat is een persoon?</h2>
-<p>Een <strong>vermelding</strong> is één regel in één lijst, met de tekst zoals gelezen en een uitsnede van de scan.
-Een <strong>persoon</strong> is een groep vermeldingen die automatisch als dezelfde persoon, hetzelfde huishouden of
-dezelfde firma zijn gekoppeld: op naam, voorletter, straat, huisnummer en beroep (Splink, koppelingskans
-&ge; 0,9). Wie in de lijst per beroep onder vijf rubrieken staat, heeft dus vijf vermeldingen in die lijst.
-Een koppeling kan fout zijn. Twee rijen uit de alfabetische lijst, een weduwe en een ander, of een firma en een
-persoon worden nooit samengevoegd.</p>
+<h2>De lijsten</h2>
+<p>Elke lijst is een tabel met alle gelezen regels, in de volgorde van het boek. Kies een <strong>jaargang</strong>
+om één boek door te lezen. Bij elke regel staan de tekst zoals gelezen, de pagina en, waar de bibliotheek de scans
+online heeft (1878, 1895 en 1896), een uitsnede van de scan.</p>
+
+<h2>Actoren: personen en firma's door de jaren</h2>
+<p>Een <strong>actor</strong> is een persoon, huishouden of firma, gevolgd door de jaargangen. Binnen een jaargang
+worden de regels uit de verschillende lijsten automatisch gekoppeld op naam, voorletter, straat, huisnummer en
+beroep (Splink, koppelingskans &ge; 0,9). Daarna wordt elke jaargang aan de volgende gekoppeld, ook bij een
+verhuizing; wie in een jaargang ontbreekt, wordt nog in de jaargang erna gezocht. Een andere voorletter (een zoon),
+of een firma en een persoon, worden nooit samengevoegd. Een <strong>weduwe</strong> die de zaak of het huishouden
+van haar man voortzet, volgt op hem (<em>Weduwe volgt op: ja</em>).</p>
 <ul>
-<li><strong>Koppeling</strong>: <em>hoog</em> (elke vermelding met kans &ge; 0,99 gekoppeld), <em>middel</em>
-(minstens één zwakkere koppeling) of <em>niet gekoppeld</em> (maar één vermelding).</li>
-<li><strong>Na te kijken</strong>: twee rijen in de lijst per straat, verschillende straten of huisnummers binnen
-één persoon, of een vermelding die de parser markeerde. Zo'n persoon kan twee adressen hebben, of twee
-mensen zijn.</li>
-<li><strong>Soort</strong>: <em>organisatie</em> voor firma's, gebroeders, zusters en instellingen (scholen,
-maatschappijen, gestichten); anders <em>persoon</em>.</li>
+<li><strong>Koppelingskans over de jaren</strong>: de zwakste koppeling tussen twee jaargangen van de actor.</li>
+<li><strong>Soort</strong>: <em>organisatie</em> voor firma's, gebroeders, zusters en instellingen; anders
+<em>persoon</em>.</li>
 </ul>
 
 <h2>Straten en beroepen</h2>
-<p><strong>Straten</strong> zijn gekoppeld aan de stratenlijst van dezelfde jaargang (<em>Namen der straten</em>),
-met de Franse naam, politiewijk en kanton. Spelling- en leesvarianten worden zo één straat; de gedrukte
-spelling blijft zichtbaar bij elke vermelding. Een straat die niet in de stratenlijst gevonden werd, staat er
-met <em>In de stratenlijst: nee</em>.</p>
+<p>Een <strong>straat</strong> is één straat door de jaren: de stratenlijsten van alle jaargangen worden samengelegd,
+met spelling- en leesvarianten en de verwijzingen in de lijst zelf (<em>ziet ...</em>). De namen per jaar staan bij
+de straat. Een straat die in geen enkele stratenlijst gevonden werd, staat er met <em>In een stratenlijst: nee</em>.</p>
 <p><strong>Beroepen</strong> zijn gecodeerd in <a href="https://iisg.amsterdam/en/data/data-websites/history-of-work"
 target="_blank" rel="noopener noreferrer">HISCO</a> (automatisch, met OccCANINE) en gegroepeerd in
 beroepsgroepen. Het beroep zoals gedrukt staat ernaast. In de lijst per beroep is het beroep de
@@ -34,8 +36,8 @@ beroepsgroepen. Het beroep zoals gedrukt staat ernaast. In de lijst per beroep i
 
 <h2>Beperkingen</h2>
 <ul>
-<li>OCR maakt fouten, vooral in namen; vergelijk bij twijfel altijd met de uitsnede of de scan (📖).</li>
-<li>HISCO-codes en straatkoppelingen zijn automatisch; een zeldzame straat kan aan een gelijkaardige straat
-gekoppeld zijn.</li>
-<li>Personen zijn per jaargang gekoppeld, niet over jaargangen heen.</li>
+<li>OCR maakt fouten, vooral in namen; vergelijk bij twijfel met de uitsnede of de scan (📖).</li>
+<li>Koppelingen, HISCO-codes en straten zijn automatisch en kunnen fout zijn, zeker over een lange periode
+(1882&ndash;1895) en bij hernoemde straten.</li>
+<li>Voor 1880, 1882 en 1898 zijn er (nog) geen scans gekoppeld.</li>
 </ul>

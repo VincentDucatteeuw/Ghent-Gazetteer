@@ -17,14 +17,21 @@ Place information is extracted from the city directory 'Wegwijzer der stad Gent"
 - 1898
 - 1902
 
-# Demo: the Wegwijzer of 1895 in Pihka
+# Demo: the Wegwijzers of 1878-1898 in Pihka
 
 **https://vincentducatteeuw.github.io/Ghent-Gazetteer/**
 
-The inhabitants of the _Wegwijzer der stad Gent_ of 1895, browsable in [Pihka](https://github.com/GhentCDH/Pihka):
-the alphabetical list, the list per street and the trade directory, linked into persons, with streets matched to the
-volume's street list (_Namen der straten_), occupations coded in HISCO, and every entry shown on its scan (IIIF, from
-Ghent University Library). The data is made with [Wegwijzers-processing](https://github.com/GhentCDH/Wegwijzers-processing);
+The _Wegwijzer der stad Gent_ of 1878, 1880, 1882, 1895, 1896 (the trade directory only) and 1898, browsable in
+[Pihka](https://github.com/GhentCDH/Pihka):
+- **Straten**: each street followed across the years, from the street lists (_Namen der straten_) of every volume,
+  with its names per year, French name, police district and canton;
+- **Actoren**: each person, household or firm followed across the years, linked within each volume (the
+  alphabetical list, the list per street and the trade directory) and then from volume to volume;
+- the **listings** themselves (alphabetical list, trade directory, list per street, street list): every line read,
+  in book order, one volume at a time.
+
+Occupations are coded in HISCO, and entries of 1878, 1895 and 1896 are shown on their scan (IIIF, from Ghent
+University Library). The data is made with [Wegwijzers-processing](https://github.com/GhentCDH/Wegwijzers-processing);
 the site's "Over" page explains what is in it and how far the automatic linking can be trusted.
 
 The site is `pihka/`, published by `.github/workflows/pages.yml`. The database is not in git: it is the release asset
@@ -36,7 +43,7 @@ To update it:
    `DIR/release/wegwijzers-<version>.db`.
 2. Replace `pihka/` with `DIR/site/` (keep `pihka/LICENSE-pihka`).
 3. Create the release `wegwijzers-<version>` (the tag in `pihka/release.json`) with that `.db` file as its asset.
-4. Push: the workflow publishes the new version. Never replace the asset of an existing release; a new version gets
+4. Push (`main` or `pihka-demo`): the workflow publishes the new version. Never replace the asset of an existing release; a new version gets
    a new release, so open pages never read a changed file.
 
 # Further Reading

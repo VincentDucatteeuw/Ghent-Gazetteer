@@ -4,7 +4,7 @@ name: Pihka demo on GitHub Pages
 
 on:
   push:
-    branches: [main]
+    branches: [main, pihka-demo]
     paths: ["pihka/**", ".github/workflows/pages.yml"]
   workflow_dispatch:
 
