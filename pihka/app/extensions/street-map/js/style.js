@@ -63,14 +63,17 @@ export const LABELS = {
 
 /**
  * Lower bounds of at most `k` classes for the counts (> 0): every count its own class when there are few, else
- * quantiles. [1, 2, 4, 9, 20] -> classes 1, 2-3, 4-8, 9-19, 20+.
+ * classes of equal width on a log scale from 1 to the largest count. The counts are skewed (most streets have one
+ * or two), so quantiles would put nearly all bounds at 1 and 2 and lump 3 to 27 together; on a log scale the busy
+ * streets keep the dark colours. Largest 27 -> classes 1, 2-3, 4-6, 7-13, 14-27.
  */
 export function classBreaks(counts, k = COLORS.length) {
-    const values = [...counts].filter((n) => n > 0).sort((a, b) => a - b);
-    const unique = [...new Set(values)];
+    const values = [...counts].filter((n) => n > 0);
+    const unique = [...new Set(values)].sort((a, b) => a - b);
     if (unique.length <= k) return unique;
+    const max = unique[unique.length - 1];
     const breaks = [];
-    for (let i = 0; i < k; i++) breaks.push(values[Math.floor((i * values.length) / k)]);
+    for (let i = 0; i < k; i++) breaks.push(Math.round(max ** (i / k)));
     return [...new Set(breaks)];
 }
 
@@ -88,11 +91,11 @@ export function stepBy(breaks, outputs) {
     return expr;
 }
 
-/** The legend's labels: '1', '2–3', '20+'. */
+/** The legend's labels: '1', '2–3', '14–27' (the last class up to the largest count). */
 export function classLabels(breaks, max) {
     return breaks.map((b, i) => {
         const upper = i + 1 < breaks.length ? breaks[i + 1] - 1 : max;
-        return upper > b ? (i + 1 < breaks.length ? `${b}–${upper}` : `${b}+`) : `${b}`;
+        return upper > b ? `${b}–${upper}` : `${b}`;
     });
 }
 
