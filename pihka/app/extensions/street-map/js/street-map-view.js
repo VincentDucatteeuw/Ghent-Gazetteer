@@ -100,15 +100,19 @@ export default function StreetMapView({ rows, store, lang, fkResolved }) {
     const [error, setError] = useState(null);
     const [legend, setLegend] = useState(null);
 
-    // the map and the streets of today: once per mount
+    // The map and the streets of today: once per mount, from the first chosen layer on. Only unmounting cancels it:
+    // a facet change while it loads (the picker in between) must not leave a map that never becomes ready.
+    const started = useRef(false);
+    const unmounted = useRef(false);
     useEffect(() => {
-        if (!layer || mapRef.current) return undefined;
-        let cancelled = false;
+        if (!layer || started.current) return;
+        started.current = true;
+        const cancelled = () => unmounted.current;
         (async () => {
             try {
                 const [maplibregl, streets] = await Promise.all([loadMaplibre(), loadStreets(store)]);
                 await ensurePmtilesProtocol();
-                if (cancelled || !container.current) return;
+                if (cancelled() || !container.current) return;
                 const map = new maplibregl.Map({
                     container: container.current, style: baseStyle(), center: GHENT.center, zoom: GHENT.zoom,
                     minZoom: 10, maxZoom: 18, maxBounds: GHENT.bounds, attributionControl: { compact: true },
@@ -116,7 +120,7 @@ export default function StreetMapView({ rows, store, lang, fkResolved }) {
                 map.addControl(new maplibregl.NavigationControl({ showCompass: false }));
                 mapRef.current = { map, streets, maplibregl };
                 map.on("load", () => {
-                    if (cancelled) return;
+                    if (cancelled()) return;
                     map.addSource("streets", { type: "geojson", data: { type: "FeatureCollection", features: [] } });
                     for (const l of overlayLayers([1])) map.addLayer(l);
                     map.addLayer(LABELS);
@@ -138,13 +142,13 @@ export default function StreetMapView({ rows, store, lang, fkResolved }) {
                 });
             } catch (e) {
                 console.error(e);
-                if (!cancelled) setError(e);
+                started.current = false;
+                if (!cancelled()) setError(e);
             }
         })();
-        return () => { cancelled = true; };
     }, [layer == null]);
 
-    useEffect(() => () => { mapRef.current?.map.remove(); mapRef.current = null; }, []);
+    useEffect(() => () => { unmounted.current = true; mapRef.current?.map.remove(); mapRef.current = null; }, []);
 
     // the chosen layer's counts
     useEffect(() => {
