@@ -1,0 +1,15 @@
+.street-map-section { display: flex; flex-direction: column; min-height: 28rem; }
+.street-map-frame { position: relative; flex: 1 1 auto; height: max(28rem, calc(100dvh - 16rem)); }
+.street-map-canvas { position: absolute; inset: 0; min-height: 28rem; }
+.street-map-muted { color: var(--pico-muted-color, #666); font-size: 0.9em; margin-bottom: 0.5rem; }
+.street-map-error { color: var(--pico-del-color, #b00); }
+.street-map-loading { position: absolute; inset: 0; display: flex; align-items: center; justify-content: center;
+    color: var(--pico-muted-color, #666); }
+.street-map-legend { position: absolute; left: 10px; bottom: 28px; background: rgba(255, 255, 255, 0.92);
+    border-radius: 4px; padding: 6px 10px; font-size: 0.8em; line-height: 1.5; box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+    color: #222; }
+.street-map-legend strong { display: block; margin-bottom: 2px; }
+.street-map-swatch { display: inline-block; width: 28px; margin-right: 6px; vertical-align: middle; }
+.street-map-picker ul { list-style: none; padding: 0; }
+.street-map-picker li { margin: 0.2rem 0; list-style: none; }
+.street-map-pick { padding: 0.25rem 0.6rem; font-size: 0.9em; text-align: left; }

@@ -4,7 +4,7 @@
     "nl",
     "en"
   ],
-  "database": "app/database/wegwijzers-1878-1898-20261015b.db",
+  "database": "app/database/wegwijzers-1878-1898-20261015c.db",
   "enginePlugins": [
     "extensions/http-vfs/http-vfs-component.js"
   ],
@@ -21,6 +21,51 @@
   },
   "perspectives": [
     {
+      "id": "kaart",
+      "table": "kaartlagen",
+      "label": {
+        "nl": "Kaart van de beroepen",
+        "en": "Map of occupations"
+      },
+      "default_sort": "name",
+      "default_view": "street_map",
+      "page_size": 50,
+      "facets": [
+        {
+          "field": "jaargang_id",
+          "type": "dropdown",
+          "label": {
+            "nl": "Jaargang",
+            "en": "Volume"
+          }
+        },
+        {
+          "field": "beroepsgroep_id",
+          "type": "dropdown",
+          "label": {
+            "nl": "Beroepsgroep",
+            "en": "Occupational group"
+          }
+        },
+        {
+          "field": "beroep_id",
+          "type": "dropdown",
+          "label": {
+            "nl": "Beroep (HISCO)",
+            "en": "Occupation (HISCO)"
+          }
+        },
+        {
+          "field": "personen",
+          "type": "range",
+          "label": {
+            "nl": "Aantal personen",
+            "en": "Number of persons"
+          }
+        }
+      ]
+    },
+    {
       "id": "straten",
       "table": "straten",
       "label": {
@@ -35,6 +80,14 @@
           "label": {
             "nl": "Gemeente",
             "en": "Municipality"
+          }
+        },
+        {
+          "field": "koppeling",
+          "type": "dropdown",
+          "label": {
+            "nl": "Gekoppeld aan de straat van vandaag",
+            "en": "Matched to today's street"
           }
         },
         {
@@ -538,6 +591,195 @@
         },
         "straat_key": {
           "hidden": true,
+          "fts": false
+        },
+        "moderne_straat_id": {
+          "label": {
+            "nl": "Straat van vandaag",
+            "en": "Street today"
+          }
+        },
+        "koppeling": {
+          "label": {
+            "nl": "Gekoppeld aan de straat van vandaag",
+            "en": "Matched to today's street"
+          }
+        },
+        "koppeling_score": {
+          "label": {
+            "nl": "Gelijkenis van de namen",
+            "en": "Name similarity"
+          },
+          "type": "number",
+          "fts": false,
+          "format": {
+            "maximumFractionDigits": 3
+          }
+        },
+        "kandidaten": {
+          "label": {
+            "nl": "Mogelijke straten van vandaag",
+            "en": "Possible streets today"
+          },
+          "type": "list",
+          "separator": "|",
+          "limit": 5
+        }
+      }
+    },
+    "moderne_straten": {
+      "label": {
+        "nl": "Straten van vandaag",
+        "en": "Streets today"
+      },
+      "columns": {
+        "name": {
+          "label": {
+            "nl": "Straat van vandaag",
+            "en": "Street today"
+          }
+        },
+        "crab_id": {
+          "label": {
+            "nl": "CRAB-id (Adressenregister)",
+            "en": "CRAB id (address register)"
+          },
+          "fts": false
+        },
+        "postcodes": {
+          "label": {
+            "nl": "Postcode",
+            "en": "Postcode"
+          },
+          "fts": false
+        },
+        "straten": {
+          "label": {
+            "nl": "Straten in de wegwijzers",
+            "en": "Streets in the directories"
+          },
+          "type": "list",
+          "separator": "|",
+          "limit": 5
+        },
+        "personen_per_jaar": {
+          "hidden": true,
+          "fts": false
+        },
+        "segmenten": {
+          "label": {
+            "nl": "Segmenten",
+            "en": "Segments"
+          },
+          "type": "number",
+          "fts": false
+        },
+        "geometrie": {
+          "hidden": true,
+          "fts": false
+        },
+        "bron": {
+          "label": {
+            "nl": "Bron",
+            "en": "Source"
+          },
+          "fts": false
+        }
+      }
+    },
+    "personen_per_straat": {
+      "label": {
+        "nl": "Personen per straat van vandaag",
+        "en": "Persons per street today"
+      },
+      "columns": {
+        "name": {
+          "label": {
+            "nl": "Straat, jaar en beroep",
+            "en": "Street, year and occupation"
+          },
+          "fts": false
+        },
+        "jaargang_id": {
+          "label": {
+            "nl": "Jaargang",
+            "en": "Volume"
+          }
+        },
+        "beroep_id": {
+          "label": {
+            "nl": "Beroep (HISCO)",
+            "en": "Occupation (HISCO)"
+          }
+        },
+        "moderne_straat_id": {
+          "label": {
+            "nl": "Straat van vandaag",
+            "en": "Street today"
+          }
+        },
+        "personen": {
+          "label": {
+            "nl": "Personen",
+            "en": "Persons"
+          },
+          "type": "number",
+          "fts": false
+        }
+      }
+    },
+    "kaartlagen": {
+      "label": {
+        "nl": "Kaartlagen",
+        "en": "Map layers"
+      },
+      "columns": {
+        "name": {
+          "label": {
+            "nl": "Jaargang en beroep",
+            "en": "Volume and occupation"
+          }
+        },
+        "jaargang_id": {
+          "label": {
+            "nl": "Jaargang",
+            "en": "Volume"
+          }
+        },
+        "beroep_id": {
+          "label": {
+            "nl": "Beroep (HISCO)",
+            "en": "Occupation (HISCO)"
+          }
+        },
+        "beroepsgroep_id": {
+          "label": {
+            "nl": "Beroepsgroep (HISCO)",
+            "en": "Occupational group (HISCO)"
+          }
+        },
+        "personen": {
+          "label": {
+            "nl": "Personen",
+            "en": "Persons"
+          },
+          "type": "number",
+          "fts": false
+        },
+        "op_de_kaart": {
+          "label": {
+            "nl": "Op de kaart",
+            "en": "On the map"
+          },
+          "type": "number",
+          "fts": false
+        },
+        "straten": {
+          "label": {
+            "nl": "Straten op de kaart",
+            "en": "Streets on the map"
+          },
+          "type": "number",
           "fts": false
         }
       }
@@ -1449,6 +1691,7 @@
     }
   },
   "uiPlugins": [
-    "extensions/iiif-viewer/iiif-viewer-component.js"
+    "extensions/iiif-viewer/iiif-viewer-component.js",
+    "app/extensions/street-map/street-map.js"
   ]
 }
