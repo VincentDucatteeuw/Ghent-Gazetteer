@@ -155,6 +155,7 @@ export default function StreetMapView({ rows, store, lang, fkResolved }) {
                 const counts = await loadCounts(store, layer);
                 if (cancelled || !mapRef.current) return;
                 const { map, streets } = mapRef.current;
+                map.resize();           // the frame may have been hidden while the picker showed
                 const breaks = classBreaks(counts.values());
                 const max = Math.max(0, ...counts.values());
                 map.getSource("streets").setData({ type: "FeatureCollection",
@@ -170,12 +171,15 @@ export default function StreetMapView({ rows, store, lang, fkResolved }) {
         return () => { cancelled = true; };
     }, [ready, layer?.id]);
 
-    if (!layer) return h(LayerPicker, { rows: rows || [], fkResolved, t });
+    // The map's element stays mounted while the picker shows (more or fewer than one layer chosen): the map lives
+    // in it, so a new element after the picker would stay empty.
     return h("section", { class: "street-map-section" },
-        h("p", { class: "street-map-muted" }, layer.name, " — ", t.onMap(layer.op_de_kaart ?? 0, layer.personen ?? 0)),
+        !layer && h(LayerPicker, { rows: rows || [], fkResolved, t }),
+        layer && h("p", { class: "street-map-muted" }, layer.name, " — ",
+                   t.onMap(layer.op_de_kaart ?? 0, layer.personen ?? 0)),
         error && h("p", { class: "street-map-error" }, `${t.error}: ${error.message || error}`),
-        h("div", { class: "street-map-frame" },
+        h("div", { class: "street-map-frame", hidden: !layer },
             h("div", { ref: container, class: "map-canvas fill-height street-map-canvas" }),
-            !ready && !error && h("div", { class: "street-map-loading" }, t.loading),
-            ready && legend && h(Legend, { ...legend, t })));
+            layer && !ready && !error && h("div", { class: "street-map-loading" }, t.loading),
+            layer && ready && legend && h(Legend, { ...legend, t })));
 }

@@ -13,3 +13,4 @@
 .street-map-picker ul { list-style: none; padding: 0; }
 .street-map-picker li { margin: 0.2rem 0; list-style: none; }
 .street-map-pick { padding: 0.25rem 0.6rem; font-size: 0.9em; text-align: left; }
+.street-map-frame[hidden] { display: none; }
