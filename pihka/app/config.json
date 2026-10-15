@@ -4,7 +4,7 @@
     "nl",
     "en"
   ],
-  "database": "app/database/wegwijzers-1878-1898-20261015.db",
+  "database": "app/database/wegwijzers-1878-1898-20261015b.db",
   "enginePlugins": [
     "extensions/http-vfs/http-vfs-component.js"
   ],
@@ -12,7 +12,7 @@
     "type": "http-vfs",
     "options": {
       "immutable": true,
-      "cacheSize": 8192,
+      "cacheSize": 32768,
       "maxReadBytes": 1048576
     }
   },
