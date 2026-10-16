@@ -4,7 +4,7 @@
     "nl",
     "en"
   ],
-  "database": "app/database/wegwijzers-1878-1898-20261015c.db",
+  "database": "app/database/wegwijzers-1878-1898-20261016.db",
   "enginePlugins": [
     "extensions/http-vfs/http-vfs-component.js"
   ],
@@ -24,8 +24,8 @@
       "id": "kaart",
       "table": "kaartlagen",
       "label": {
-        "nl": "Kaart van de beroepen",
-        "en": "Map of occupations"
+        "nl": "Beroepen op de kaart",
+        "en": "Occupations on the map"
       },
       "default_sort": "name",
       "default_view": "street_map",
@@ -66,78 +66,11 @@
       ]
     },
     {
-      "id": "straten",
-      "table": "straten",
-      "label": {
-        "nl": "Straten",
-        "en": "Streets"
-      },
-      "default_sort": "name",
-      "facets": [
-        {
-          "field": "gemeente",
-          "type": "dropdown",
-          "label": {
-            "nl": "Gemeente",
-            "en": "Municipality"
-          }
-        },
-        {
-          "field": "koppeling",
-          "type": "dropdown",
-          "label": {
-            "nl": "Gekoppeld aan de straat van vandaag",
-            "en": "Matched to today's street"
-          }
-        },
-        {
-          "field": "politiewijk",
-          "type": "dropdown",
-          "label": {
-            "nl": "Politiewijk",
-            "en": "Police district"
-          }
-        },
-        {
-          "field": "kanton",
-          "type": "dropdown",
-          "label": {
-            "nl": "Kanton",
-            "en": "Canton"
-          }
-        },
-        {
-          "field": "in_stratenlijst",
-          "type": "dropdown",
-          "label": {
-            "nl": "In de stratenlijst",
-            "en": "In the street list"
-          }
-        },
-        {
-          "field": "actoren",
-          "type": "range",
-          "label": {
-            "nl": "Aantal actoren",
-            "en": "Number of actors"
-          }
-        },
-        {
-          "field": "vermeldingen",
-          "type": "range",
-          "label": {
-            "nl": "Aantal vermeldingen",
-            "en": "Number of entries"
-          }
-        }
-      ]
-    },
-    {
-      "id": "actoren",
+      "id": "personen",
       "table": "actoren",
       "label": {
-        "nl": "Actoren",
-        "en": "Actors"
+        "nl": "Personen en firma's",
+        "en": "People and firms"
       },
       "default_sort": "name",
       "facets": [
@@ -224,41 +157,16 @@
       ]
     },
     {
-      "id": "alfabetisch",
-      "table": "alfabetisch",
+      "id": "straten",
+      "table": "straten",
       "label": {
-        "nl": "Alfabetische lijst",
-        "en": "Alphabetical list"
+        "nl": "Straten door de jaren",
+        "en": "Streets through the years"
       },
-      "default_sort": "id",
-      "default_view": "table",
+      "default_sort": "name",
       "facets": [
         {
-          "field": "jaargang_id",
-          "type": "dropdown",
-          "label": {
-            "nl": "Jaargang",
-            "en": "Volume"
-          }
-        },
-        {
-          "field": "beroep_id",
-          "type": "dropdown",
-          "label": {
-            "nl": "Beroep (HISCO)",
-            "en": "Occupation (HISCO)"
-          }
-        },
-        {
-          "field": "straat_id",
-          "type": "dropdown",
-          "label": {
-            "nl": "Straat",
-            "en": "Street"
-          }
-        },
-        {
-          "field": "wijk",
+          "field": "gemeente",
           "type": "dropdown",
           "label": {
             "nl": "Gemeente",
@@ -266,159 +174,11 @@
           }
         },
         {
-          "field": "na_te_kijken",
+          "field": "koppeling",
           "type": "dropdown",
           "label": {
-            "nl": "OCR na te kijken",
-            "en": "OCR to check"
-          }
-        },
-        {
-          "field": "pagina",
-          "type": "range",
-          "label": {
-            "nl": "Pagina",
-            "en": "Page"
-          }
-        }
-      ]
-    },
-    {
-      "id": "per_beroep",
-      "table": "per_beroep",
-      "label": {
-        "nl": "Lijst per beroep",
-        "en": "Trade directory"
-      },
-      "default_sort": "id",
-      "default_view": "table",
-      "facets": [
-        {
-          "field": "jaargang_id",
-          "type": "dropdown",
-          "label": {
-            "nl": "Jaargang",
-            "en": "Volume"
-          }
-        },
-        {
-          "field": "rubriek_id",
-          "type": "dropdown",
-          "label": {
-            "nl": "Rubriek",
-            "en": "Trade heading"
-          }
-        },
-        {
-          "field": "beroep_id",
-          "type": "dropdown",
-          "label": {
-            "nl": "Beroep (HISCO)",
-            "en": "Occupation (HISCO)"
-          }
-        },
-        {
-          "field": "straat_id",
-          "type": "dropdown",
-          "label": {
-            "nl": "Straat",
-            "en": "Street"
-          }
-        },
-        {
-          "field": "na_te_kijken",
-          "type": "dropdown",
-          "label": {
-            "nl": "OCR na te kijken",
-            "en": "OCR to check"
-          }
-        },
-        {
-          "field": "pagina",
-          "type": "range",
-          "label": {
-            "nl": "Pagina",
-            "en": "Page"
-          }
-        }
-      ]
-    },
-    {
-      "id": "per_straat",
-      "table": "per_straat",
-      "label": {
-        "nl": "Lijst per straat",
-        "en": "List per street"
-      },
-      "default_sort": "id",
-      "default_view": "table",
-      "facets": [
-        {
-          "field": "jaargang_id",
-          "type": "dropdown",
-          "label": {
-            "nl": "Jaargang",
-            "en": "Volume"
-          }
-        },
-        {
-          "field": "straat_id",
-          "type": "dropdown",
-          "label": {
-            "nl": "Straat",
-            "en": "Street"
-          }
-        },
-        {
-          "field": "beroep_id",
-          "type": "dropdown",
-          "label": {
-            "nl": "Beroep (HISCO)",
-            "en": "Occupation (HISCO)"
-          }
-        },
-        {
-          "field": "wijk",
-          "type": "dropdown",
-          "label": {
-            "nl": "Gemeente",
-            "en": "Municipality"
-          }
-        },
-        {
-          "field": "na_te_kijken",
-          "type": "dropdown",
-          "label": {
-            "nl": "OCR na te kijken",
-            "en": "OCR to check"
-          }
-        },
-        {
-          "field": "pagina",
-          "type": "range",
-          "label": {
-            "nl": "Pagina",
-            "en": "Page"
-          }
-        }
-      ]
-    },
-    {
-      "id": "stratenlijst",
-      "table": "stratenlijst",
-      "label": {
-        "nl": "Stratenlijst",
-        "en": "Street list"
-      },
-      "default_sort": "id",
-      "default_view": "table",
-      "facets": [
-        {
-          "field": "jaargang_id",
-          "type": "dropdown",
-          "label": {
-            "nl": "Jaargang",
-            "en": "Volume"
+            "nl": "Gekoppeld aan de straat van vandaag",
+            "en": "Matched to today's street"
           }
         },
         {
@@ -438,19 +198,87 @@
           }
         },
         {
-          "field": "wijk",
+          "field": "in_stratenlijst",
+          "type": "dropdown",
+          "label": {
+            "nl": "In de stratenlijst",
+            "en": "In the street list"
+          }
+        },
+        {
+          "field": "actoren",
+          "type": "range",
+          "label": {
+            "nl": "Aantal personen en firma's",
+            "en": "Number of people and firms"
+          }
+        },
+        {
+          "field": "vermeldingen",
+          "type": "range",
+          "label": {
+            "nl": "Aantal vermeldingen",
+            "en": "Number of entries"
+          }
+        }
+      ]
+    },
+    {
+      "id": "vermeldingen",
+      "table": "vermeldingen",
+      "label": {
+        "nl": "Vermeldingen",
+        "en": "Directory entries"
+      },
+      "default_sort": "id",
+      "default_view": "table",
+      "facets": [
+        {
+          "field": "jaargang_id",
+          "type": "dropdown",
+          "label": {
+            "nl": "Jaargang",
+            "en": "Volume"
+          }
+        },
+        {
+          "field": "lijst_id",
+          "type": "dropdown",
+          "label": {
+            "nl": "Lijst",
+            "en": "List"
+          }
+        },
+        {
+          "field": "beroep_id",
+          "type": "dropdown",
+          "label": {
+            "nl": "Beroep (HISCO)",
+            "en": "Occupation (HISCO)"
+          }
+        },
+        {
+          "field": "rubriek_id",
+          "type": "dropdown",
+          "label": {
+            "nl": "Rubriek (lijst per beroep)",
+            "en": "Trade heading"
+          }
+        },
+        {
+          "field": "straat_id",
+          "type": "dropdown",
+          "label": {
+            "nl": "Straat",
+            "en": "Street"
+          }
+        },
+        {
+          "field": "gemeente",
           "type": "dropdown",
           "label": {
             "nl": "Gemeente",
             "en": "Municipality"
-          }
-        },
-        {
-          "field": "sectie",
-          "type": "dropdown",
-          "label": {
-            "nl": "Sectie",
-            "en": "Section"
           }
         },
         {
@@ -459,6 +287,14 @@
           "label": {
             "nl": "OCR na te kijken",
             "en": "OCR to check"
+          }
+        },
+        {
+          "field": "pagina",
+          "type": "range",
+          "label": {
+            "nl": "Pagina",
+            "en": "Page"
           }
         }
       ]
@@ -499,6 +335,7 @@
         "nl": "Lijsten",
         "en": "Lists"
       },
+      "hidden": true,
       "columns": {
         "name": {
           "label": {
@@ -514,8 +351,8 @@
     },
     "straten": {
       "label": {
-        "nl": "Straten",
-        "en": "Streets"
+        "nl": "Straten door de jaren",
+        "en": "Streets through the years"
       },
       "columns": {
         "name": {
@@ -575,8 +412,8 @@
         },
         "actoren": {
           "label": {
-            "nl": "Actoren",
-            "en": "Actors"
+            "nl": "Personen en firma's",
+            "en": "People and firms"
           },
           "type": "number",
           "fts": false
@@ -692,6 +529,7 @@
         "nl": "Personen per straat van vandaag",
         "en": "Persons per street today"
       },
+      "hidden": true,
       "columns": {
         "name": {
           "label": {
@@ -733,6 +571,7 @@
         "nl": "Kaartlagen",
         "en": "Map layers"
       },
+      "hidden": true,
       "columns": {
         "name": {
           "label": {
@@ -786,8 +625,8 @@
     },
     "beroepsgroepen": {
       "label": {
-        "nl": "Beroepsgroepen",
-        "en": "Occupational groups"
+        "nl": "Beroepsgroepen (HISCO)",
+        "en": "Occupational groups (HISCO)"
       },
       "columns": {
         "name": {
@@ -830,8 +669,8 @@
         },
         "actoren": {
           "label": {
-            "nl": "Actoren",
-            "en": "Actors"
+            "nl": "Personen en firma's",
+            "en": "People and firms"
           },
           "type": "number",
           "fts": false
@@ -848,8 +687,8 @@
     },
     "rubrieken": {
       "label": {
-        "nl": "Rubrieken (lijst per beroep)",
-        "en": "Trade headings"
+        "nl": "Rubrieken van de lijst per beroep",
+        "en": "Trade directory headings"
       },
       "columns": {
         "name": {
@@ -874,10 +713,23 @@
         }
       }
     },
+    "scans": {
+      "label": {
+        "nl": "Scans",
+        "en": "Scans"
+      },
+      "hidden": true,
+      "columns": {
+        "name": {
+          "hidden": true,
+          "fts": false
+        }
+      }
+    },
     "paginas": {
       "label": {
-        "nl": "Pagina's",
-        "en": "Pages"
+        "nl": "Pagina's van de wegwijzers",
+        "en": "Directory pages"
       },
       "columns": {
         "name": {
@@ -915,12 +767,15 @@
           }
         },
         "afbeelding": {
-          "type": "resource-image",
+          "type": "iiif-crop",
           "label": {
             "nl": "Scan",
             "en": "Scan"
           },
-          "fts": false
+          "fts": false,
+          "format": {
+            "scanColumn": "scan_id"
+          }
         },
         "manifest": {
           "type": "iiif",
@@ -945,19 +800,23 @@
         "canvas_id": {
           "hidden": true,
           "fts": false
+        },
+        "scan_id": {
+          "hidden": true,
+          "fts": false
         }
       }
     },
     "actoren": {
       "label": {
-        "nl": "Actoren",
-        "en": "Actors"
+        "nl": "Personen en firma's",
+        "en": "People and firms"
       },
       "columns": {
         "name": {
           "label": {
-            "nl": "Actor",
-            "en": "Actor"
+            "nl": "Persoon of firma",
+            "en": "Person or firm"
           }
         },
         "soort": {
@@ -1103,10 +962,10 @@
         }
       }
     },
-    "alfabetisch": {
+    "vermeldingen": {
       "label": {
-        "nl": "Alfabetische lijst",
-        "en": "Alphabetical list"
+        "nl": "Vermeldingen",
+        "en": "Directory entries"
       },
       "columns": {
         "name": {
@@ -1121,34 +980,16 @@
             "en": "Volume"
           }
         },
+        "lijst_id": {
+          "label": {
+            "nl": "Lijst",
+            "en": "List"
+          }
+        },
         "actor_id": {
           "label": {
-            "nl": "Actor",
-            "en": "Actor"
-          }
-        },
-        "straat_id": {
-          "label": {
-            "nl": "Straat",
-            "en": "Street"
-          }
-        },
-        "straat": {
-          "label": {
-            "nl": "Straat (gedrukt)",
-            "en": "Street (as printed)"
-          }
-        },
-        "huisnummer": {
-          "label": {
-            "nl": "Huisnummer",
-            "en": "House number"
-          }
-        },
-        "wijk": {
-          "label": {
-            "nl": "Gemeente",
-            "en": "Municipality"
+            "nl": "Persoon of firma",
+            "en": "Person or firm"
           }
         },
         "familienaam": {
@@ -1169,6 +1010,30 @@
             "en": "Status"
           }
         },
+        "straat_id": {
+          "label": {
+            "nl": "Straat",
+            "en": "Street"
+          }
+        },
+        "straat": {
+          "label": {
+            "nl": "Straat (gedrukt)",
+            "en": "Street (as printed)"
+          }
+        },
+        "huisnummer": {
+          "label": {
+            "nl": "Huisnummer",
+            "en": "House number"
+          }
+        },
+        "gemeente": {
+          "label": {
+            "nl": "Gemeente",
+            "en": "Municipality"
+          }
+        },
         "beroep": {
           "label": {
             "nl": "Beroep (gedrukt)",
@@ -1179,6 +1044,18 @@
           "label": {
             "nl": "Beroep (HISCO)",
             "en": "Occupation (HISCO)"
+          }
+        },
+        "rubriek_id": {
+          "label": {
+            "nl": "Rubriek",
+            "en": "Trade heading"
+          }
+        },
+        "detail": {
+          "label": {
+            "nl": "Detail",
+            "en": "Detail"
           }
         },
         "advertentie": {
@@ -1196,12 +1073,15 @@
           "type": "text"
         },
         "afbeelding": {
-          "type": "resource-image",
+          "type": "iiif-crop",
           "label": {
             "nl": "Scan",
             "en": "Scan"
           },
-          "fts": false
+          "fts": false,
+          "format": {
+            "scanColumn": "scan_id"
+          }
         },
         "pagina_id": {
           "label": {
@@ -1247,296 +1127,8 @@
           "type": "number",
           "fts": false
         },
-        "uid": {
+        "scan_id": {
           "hidden": true,
-          "fts": false
-        }
-      }
-    },
-    "per_beroep": {
-      "label": {
-        "nl": "Lijst per beroep",
-        "en": "Trade directory"
-      },
-      "columns": {
-        "name": {
-          "label": {
-            "nl": "Vermelding",
-            "en": "Entry"
-          }
-        },
-        "jaargang_id": {
-          "label": {
-            "nl": "Jaargang",
-            "en": "Volume"
-          }
-        },
-        "actor_id": {
-          "label": {
-            "nl": "Actor",
-            "en": "Actor"
-          }
-        },
-        "straat_id": {
-          "label": {
-            "nl": "Straat",
-            "en": "Street"
-          }
-        },
-        "straat": {
-          "label": {
-            "nl": "Straat (gedrukt)",
-            "en": "Street (as printed)"
-          }
-        },
-        "huisnummer": {
-          "label": {
-            "nl": "Huisnummer",
-            "en": "House number"
-          }
-        },
-        "wijk": {
-          "label": {
-            "nl": "Gemeente",
-            "en": "Municipality"
-          }
-        },
-        "rubriek_id": {
-          "label": {
-            "nl": "Rubriek",
-            "en": "Trade heading"
-          }
-        },
-        "beroep_id": {
-          "label": {
-            "nl": "Beroep (HISCO)",
-            "en": "Occupation (HISCO)"
-          }
-        },
-        "familienaam": {
-          "label": {
-            "nl": "Familienaam",
-            "en": "Surname"
-          }
-        },
-        "voornaam": {
-          "label": {
-            "nl": "Voornaam",
-            "en": "Given name"
-          }
-        },
-        "status": {
-          "label": {
-            "nl": "Status",
-            "en": "Status"
-          }
-        },
-        "detail": {
-          "label": {
-            "nl": "Detail",
-            "en": "Detail"
-          }
-        },
-        "tekst": {
-          "label": {
-            "nl": "Tekst (OCR)",
-            "en": "Text (OCR)"
-          },
-          "type": "text"
-        },
-        "afbeelding": {
-          "type": "resource-image",
-          "label": {
-            "nl": "Scan",
-            "en": "Scan"
-          },
-          "fts": false
-        },
-        "pagina_id": {
-          "label": {
-            "nl": "Pagina (scan)",
-            "en": "Page (scan)"
-          }
-        },
-        "pagina": {
-          "label": {
-            "nl": "Pagina",
-            "en": "Page"
-          },
-          "type": "number",
-          "format": {
-            "useGrouping": false
-          }
-        },
-        "na_te_kijken": {
-          "label": {
-            "nl": "OCR na te kijken",
-            "en": "OCR to check"
-          }
-        },
-        "reden": {
-          "label": {
-            "nl": "Reden",
-            "en": "Reason"
-          }
-        },
-        "manifest": {
-          "type": "iiif",
-          "label": "IIIF",
-          "fts": false,
-          "format": {
-            "pageColumn": "canvas"
-          }
-        },
-        "canvas": {
-          "label": {
-            "nl": "Canvas",
-            "en": "Canvas"
-          },
-          "type": "number",
-          "fts": false
-        },
-        "uid": {
-          "hidden": true,
-          "fts": false
-        }
-      }
-    },
-    "per_straat": {
-      "label": {
-        "nl": "Lijst per straat",
-        "en": "List per street"
-      },
-      "columns": {
-        "name": {
-          "label": {
-            "nl": "Vermelding",
-            "en": "Entry"
-          }
-        },
-        "jaargang_id": {
-          "label": {
-            "nl": "Jaargang",
-            "en": "Volume"
-          }
-        },
-        "actor_id": {
-          "label": {
-            "nl": "Actor",
-            "en": "Actor"
-          }
-        },
-        "straat_id": {
-          "label": {
-            "nl": "Straat",
-            "en": "Street"
-          }
-        },
-        "straat": {
-          "label": {
-            "nl": "Straat (gedrukt)",
-            "en": "Street (as printed)"
-          }
-        },
-        "huisnummer": {
-          "label": {
-            "nl": "Huisnummer",
-            "en": "House number"
-          }
-        },
-        "wijk": {
-          "label": {
-            "nl": "Gemeente",
-            "en": "Municipality"
-          }
-        },
-        "familienaam": {
-          "label": {
-            "nl": "Familienaam",
-            "en": "Surname"
-          }
-        },
-        "voornaam": {
-          "label": {
-            "nl": "Voornaam",
-            "en": "Given name"
-          }
-        },
-        "status": {
-          "label": {
-            "nl": "Status",
-            "en": "Status"
-          }
-        },
-        "beroep": {
-          "label": {
-            "nl": "Beroep (gedrukt)",
-            "en": "Occupation (as printed)"
-          }
-        },
-        "beroep_id": {
-          "label": {
-            "nl": "Beroep (HISCO)",
-            "en": "Occupation (HISCO)"
-          }
-        },
-        "tekst": {
-          "label": {
-            "nl": "Tekst (OCR)",
-            "en": "Text (OCR)"
-          },
-          "type": "text"
-        },
-        "afbeelding": {
-          "type": "resource-image",
-          "label": {
-            "nl": "Scan",
-            "en": "Scan"
-          },
-          "fts": false
-        },
-        "pagina_id": {
-          "label": {
-            "nl": "Pagina (scan)",
-            "en": "Page (scan)"
-          }
-        },
-        "pagina": {
-          "label": {
-            "nl": "Pagina",
-            "en": "Page"
-          },
-          "type": "number",
-          "format": {
-            "useGrouping": false
-          }
-        },
-        "na_te_kijken": {
-          "label": {
-            "nl": "OCR na te kijken",
-            "en": "OCR to check"
-          }
-        },
-        "reden": {
-          "label": {
-            "nl": "Reden",
-            "en": "Reason"
-          }
-        },
-        "manifest": {
-          "type": "iiif",
-          "label": "IIIF",
-          "fts": false,
-          "format": {
-            "pageColumn": "canvas"
-          }
-        },
-        "canvas": {
-          "label": {
-            "nl": "Canvas",
-            "en": "Canvas"
-          },
-          "type": "number",
           "fts": false
         },
         "uid": {
@@ -1547,8 +1139,8 @@
     },
     "stratenlijst": {
       "label": {
-        "nl": "Stratenlijst",
-        "en": "Street list"
+        "nl": "Vermeldingen in de stratenlijst",
+        "en": "Street list entries"
       },
       "columns": {
         "name": {
@@ -1573,12 +1165,6 @@
           "label": {
             "nl": "Straat (gedrukt)",
             "en": "Street (as printed)"
-          }
-        },
-        "wijk": {
-          "label": {
-            "nl": "Gemeente",
-            "en": "Municipality"
           }
         },
         "naam_fr": {
@@ -1618,6 +1204,12 @@
             "en": "Canton"
           }
         },
+        "gemeente": {
+          "label": {
+            "nl": "Gemeente",
+            "en": "Municipality"
+          }
+        },
         "sectie": {
           "label": {
             "nl": "Sectie",
@@ -1632,12 +1224,15 @@
           "type": "text"
         },
         "afbeelding": {
-          "type": "resource-image",
+          "type": "iiif-crop",
           "label": {
             "nl": "Scan",
             "en": "Scan"
           },
-          "fts": false
+          "fts": false,
+          "format": {
+            "scanColumn": "scan_id"
+          }
         },
         "pagina_id": {
           "label": {
@@ -1683,6 +1278,10 @@
           "type": "number",
           "fts": false
         },
+        "scan_id": {
+          "hidden": true,
+          "fts": false
+        },
         "uid": {
           "hidden": true,
           "fts": false
@@ -1692,6 +1291,7 @@
   },
   "uiPlugins": [
     "extensions/iiif-viewer/iiif-viewer-component.js",
-    "app/extensions/street-map/street-map.js"
+    "app/extensions/street-map/street-map.js",
+    "app/extensions/iiif-crop/iiif-crop.js"
   ]
 }
