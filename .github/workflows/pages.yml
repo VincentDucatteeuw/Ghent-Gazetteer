@@ -35,7 +35,11 @@ jobs:
           sha=$(jq -r .sha256 pihka/release.json)
           gh release download "$tag" --pattern "$file" --dir pihka/app/database
           echo "$sha  pihka/app/database/$file" | sha256sum --check
-          grep -q "\"app/database/$file\"" pihka/app/config.json
+          # Pages gzips *.db (octet-stream) for browsers, with weak ETags: http-vfs ranges then fail with 412.
+          # Serve it under a name whose type Pages does not compress.
+          served=$(jq -r '.served_as // .file' pihka/release.json)
+          if [ "$served" != "$file" ]; then mv "pihka/app/database/$file" "pihka/app/database/$served"; fi
+          grep -q "\"app/database/$served\"" pihka/app/config.json
 
       - uses: actions/configure-pages@v5
 
