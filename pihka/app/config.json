@@ -5,6 +5,16 @@
     "en"
   ],
   "database": "app/database/wegwijzers-1878-1898-20261015.db",
+  "site": {
+    "title": {
+      "nl": "Wegwijzers van Gent, 1878–1898",
+      "en": "Ghent city directories (Wegwijzers), 1878–1898"
+    },
+    "description": {
+      "nl": "<p>De <em>Wegwijzer der stad Gent</em> is een jaarlijks adresboek. Deze dataset volgt <strong>straten</strong> en <strong>actoren</strong> (personen, huishoudens en firma's) doorheen de edities van 1878, 1880, 1882, 1895, 1896 en 1898, met beroepen gecodeerd in HISCO. Alle lijsten (alfabetische lijst, beroepengids, lijst per straat en stratenlijst) zijn ook regel per regel te raadplegen, deels met de scan erbij.</p><p>De data is automatisch ingelezen (OCR) en gekoppeld met <a href=\"https://github.com/GhentCDH/Wegwijzers-processing\" target=\"_blank\" rel=\"noopener noreferrer\">Wegwijzers-processing</a>, als onderdeel van de <a href=\"https://github.com/VincentDucatteeuw/Ghent-Gazetteer\" target=\"_blank\" rel=\"noopener noreferrer\">Ghent Gazetteer</a>. Lees de pagina <a href=\"#/nl/page/about\">Over</a> om te zien hoe betrouwbaar de koppelingen zijn.</p>",
+      "en": "<p>The <em>Wegwijzer der stad Gent</em> is a yearly address book. This dataset follows <strong>streets</strong> and <strong>actors</strong> (persons, households and firms) through the volumes of 1878, 1880, 1882, 1895, 1896 and 1898, with occupations coded in HISCO. All the lists (alphabetical list, trade directory, list per street and street list) can also be read line by line, partly with the scan alongside.</p><p>The data was read automatically (OCR) and linked with <a href=\"https://github.com/GhentCDH/Wegwijzers-processing\" target=\"_blank\" rel=\"noopener noreferrer\">Wegwijzers-processing</a>, as part of the <a href=\"https://github.com/VincentDucatteeuw/Ghent-Gazetteer\" target=\"_blank\" rel=\"noopener noreferrer\">Ghent Gazetteer</a>. See the <a href=\"#/en/page/about\">About</a> page for how far the automatic linking can be trusted.</p>"
+    }
+  },
   "enginePlugins": [
     "extensions/http-vfs/http-vfs-component.js"
   ],

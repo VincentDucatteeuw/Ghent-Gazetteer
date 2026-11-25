@@ -16,9 +16,6 @@ export function IiifDetailView({ columns, row, lang }) {
         ? columns.find(c => c.displayType === "iiif" && row[c.name] != null && row[c.name] !== "")
         : null;
     const manifestUrl = manifestCol ? String(row[manifestCol.name]) : null;
-    // "format": { "pageColumn": "canvas" } opens the viewer at the 1-based canvas in that column
-    const pageColumn = manifestCol?.format?.pageColumn;
-    const page = pageColumn ? Number(row[pageColumn]) || 0 : 0;
 
     useEffect(() => {
         if (!container.current || !manifestUrl) return;
@@ -32,12 +29,11 @@ export function IiifDetailView({ columns, row, lang }) {
             language: lang || "en",
             translationsDirUrl: TRANSLATIONS_DIR,
             pageLabelFormat: typeof format.pageLabelFormat === "string" ? format.pageLabelFormat : "P",
-            ...(page > 0 ? { pages: [page] } : {}),
         });
         // A missing translation must not take the viewer down.
         tify.ready.catch(err => console.warn("[iiif-viewer] TIFY failed to initialise:", err));
         return () => tify.destroy();
-    }, [manifestUrl, page, lang]);
+    }, [manifestUrl, lang]);
 
     if (!row) return h("p", null, "Row not found.");
     if (!manifestUrl) return h("p", null, "No IIIF manifest for this row.");

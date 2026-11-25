@@ -11,6 +11,7 @@ import { getPref } from "./prefs.js";
  * @property {string} table
  * @property {string} view - legacy single view field
  * @property {Object|string|null} label
+ * @property {Object|string|null} [description]
  * @property {string[]} allowed_views
  * @property {string} default_view
  * @property {string|null} default_sort
@@ -61,7 +62,7 @@ export async function loadPerspectives(meta, cfg, registry) {
     const tables = Object.entries(meta.tables)
         .filter(([name, t]) => t.type !== "virtual" && !t.hidden && !t.internal && !claimed.has(name))
         .map(([name, t]) => normalizePerspective(
-            { id: name, name, table: name, view: "table", label: t.label },
+            { id: name, name, table: name, view: "table", label: t.label, description: t.description || null },
             meta,
             "table", registry,
         ));
@@ -89,22 +90,23 @@ export function preferredView(p) {
 function normalizePerspective(p, meta, kind, registry) {
     const view = registry.get("view", p.view, "list") ? p.view : "table";
 
+    const tableOptions = meta?.tables?.[p.table]?.options;
+    const options = tableOptions || p.options
+        ? { ...(tableOptions || {}), ...(p.options || {}) }
+        : null;
+
     let allowedViews;
     if (Array.isArray(p.allowed_views)) {
         allowedViews = p.allowed_views.filter(v => registry.get("view", v, "list"));
     } else {
         // Auto-expand to every registered list view whose availableFor
-        // predicate accepts this table's columns (e.g. map needs lat/lon).
+        // predicate accepts this table's columns (e.g. map needs lat/lon)
+        // and resolved options (e.g. a view that needs configuration).
         const columns = meta?.tables?.[p.table]?.columns ?? [];
         allowedViews = registry.list("view", "list").map(guardedDefinition)
-            .filter(d => !d.availableFor || d.availableFor(columns))
+            .filter(d => !d.availableFor || d.availableFor(columns, options))
             .map(d => d.id);
     }
-
-    const tableOptions = meta?.tables?.[p.table]?.options;
-    const options = tableOptions || p.options
-        ? { ...(tableOptions || {}), ...(p.options || {}) }
-        : null;
 
     return {
         id:            String(p.id),
@@ -114,6 +116,7 @@ function normalizePerspective(p, meta, kind, registry) {
         view,
         // New: rich config
         label:         p.label || null,
+        description:   p.description || null,
         allowed_views: allowedViews,
         default_view:  registry.get("view", p.default_view, "list") ? p.default_view : allowedViews[0],
         default_sort:  p.default_sort || null,

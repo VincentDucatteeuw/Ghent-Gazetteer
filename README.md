@@ -41,7 +41,9 @@ visitor only downloads the parts that a page needs.
 To update it:
 1. `wegwijzers visualise --publish DIR --no-serve` (Wegwijzers-processing) writes `DIR/site/` and
    `DIR/release/wegwijzers-<version>.db`.
-2. Replace `pihka/` with `DIR/site/` (keep `pihka/LICENSE-pihka`).
+2. Replace `pihka/` with `DIR/site/` (keep `pihka/LICENSE-pihka`). The Pihka code in `pihka/` (`core/`, `extensions/`, `index.html`, `main.js`, `bootstrap.js`) is from the
+   [`feat/redesign` branch of Pihka](https://github.com/GhentCDH/Pihka/tree/feat/redesign) (commit d857fd3), and `pihka/app/config.json` has a `site` block (home page title and description) and
+   `pihka/app/footer.json` a `dataset` block: restore these if the generated site overwrites them.
 3. Create the release `wegwijzers-<version>` (the tag in `pihka/release.json`) with that `.db` file as its asset.
 4. Push (`main` or `pihka-demo`): the workflow publishes the new version. Never replace the asset of an existing release; a new version gets
    a new release, so open pages never read a changed file.

@@ -1,4 +1,32 @@
 {
+    "dataset": [
+        {
+            "label": {
+                "en": "Cite as",
+                "nl": "Citeer als"
+            },
+            "value": {
+                "en": "Ducatteeuw, V. (2026). Ghent Gazetteer: the Wegwijzers der stad Gent, 1878–1898 (version 20261015). Ghent Centre for Digital Humanities. https://github.com/VincentDucatteeuw/Ghent-Gazetteer",
+                "nl": "Ducatteeuw, V. (2026). Ghent Gazetteer: de Wegwijzers der stad Gent, 1878–1898 (versie 20261015). Ghent Centre for Digital Humanities. https://github.com/VincentDucatteeuw/Ghent-Gazetteer"
+            }
+        },
+        {
+            "label": {
+                "en": "Licence",
+                "nl": "Licentie"
+            },
+            "value": "CC BY 4.0",
+            "href": "https://creativecommons.org/licenses/by/4.0/"
+        },
+        {
+            "label": {
+                "en": "Contact",
+                "nl": "Contact"
+            },
+            "value": "ghentcdh@ugent.be",
+            "href": "mailto:ghentcdh@ugent.be"
+        }
+    ],
     "logos": [
         {
             "src": "app/assets/logo/ghentcdh_logo_blue_text_banner.svg",
