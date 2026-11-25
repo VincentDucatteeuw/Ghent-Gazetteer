@@ -43,7 +43,9 @@ To update it:
    `DIR/release/wegwijzers-<version>.db`.
 2. Replace `pihka/` with `DIR/site/` (keep `pihka/LICENSE-pihka`). The Pihka code in `pihka/` (`core/`, `extensions/`, `index.html`, `main.js`, `bootstrap.js`) is from the
    [`feat/redesign` branch of Pihka](https://github.com/GhentCDH/Pihka/tree/feat/redesign) (commit d857fd3), and `pihka/app/config.json` has a `site` block (home page title and description) and
-   `pihka/app/footer.json` a `dataset` block: restore these if the generated site overwrites them.
+   `pihka/app/footer.json` a `dataset` block: restore these if the generated site overwrites them. Also keep `served_as` in `pihka/release.json`:
+   GitHub Pages gzips a `.db` for browsers (weak ETag, compressed ranges: Pihka then fails with HTTP 412 or "identity Content-Encoding"), so the workflow serves the
+   asset as `<file>.zip` (a type Pages leaves alone) and `database` in `config.json` must use that name.
 3. Create the release `wegwijzers-<version>` (the tag in `pihka/release.json`) with that `.db` file as its asset.
 4. Push (`main` or `pihka-demo`): the workflow publishes the new version. Never replace the asset of an existing release; a new version gets
    a new release, so open pages never read a changed file.
