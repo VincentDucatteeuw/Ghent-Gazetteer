@@ -43,5 +43,9 @@ jobs:
         with:
           path: pihka
 
+      # deploy-pages lists the artifact straight after the upload and sometimes finds none ("Found 0 artifact(s)").
+      - name: Wait until the uploaded artifact is listed
+        run: sleep 45
+
       - id: deployment
         uses: actions/deploy-pages@v4
