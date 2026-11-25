@@ -1,0 +1,5 @@
+{
+    "type": "module",
+    "private": true,
+    "description": "Street map plugin for Pihka (copied into the site by wegwijzers visualise)"
+}
